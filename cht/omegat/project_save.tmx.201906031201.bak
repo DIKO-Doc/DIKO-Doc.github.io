@@ -1,0 +1,968 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>'''SQL Server Management Studio''' (SSMS) is a software application first launched with [[Microsoft]] [[Microsoft SQL Server|SQL Server 2005]] that is used for configuring, managing, and administering all components within [[Microsoft SQL Server]].</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190530T052841Z" creationid="Tom" creationdate="20190530T052841Z">
+        <seg>'''SQL Server Management Studio'''（SSMS）是[[微软]]的一個與其[[數據庫]]產品[[Microsoft SQL Server]]配合使用的產品，以便於設定、配置及管理其元件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>10</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190528T075442Z" creationid="Tom" creationdate="20190528T075442Z">
+        <seg>10日</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>30</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190530T030521Z" creationid="Tom" creationdate="20190530T030521Z">
+        <seg>30日</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t1/&gt;  &lt;t2/&gt;DIKO&lt;t3/&gt; offers multi-lingual user interface to serve international users.</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190530T031608Z" creationid="Tom" creationdate="20190530T031507Z">
+        <seg>&lt;t1/&gt;  &lt;t2/&gt;DIKO&lt;t3/&gt;提供多語言的使用者介面，為國際使用者提供服務。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>==External links==
+* [https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms SQL Server Management Studio] on [[MSDN]]</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190530T052946Z" creationid="Tom" creationdate="20190530T052946Z">
+        <seg>==外部連結==
+* [https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms SQL Server Management Studio] on [[MSDN]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>==References==
+{{Reflist}}</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190528T074851Z" creationid="Tom" creationdate="20190528T074851Z">
+        <seg>==參考文獻==
+{{Reflist}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>==References==
+{{reflist}}</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190530T052930Z" creationid="Tom" creationdate="20190530T052930Z">
+        <seg>==參考文獻==
+{{Reflist}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A new research assistant joined the school.</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190529T034343Z" creationid="Tom" creationdate="20190529T034343Z">
+        <seg>一位新的研究助理加入了學校。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A&lt;t0/&gt;fter working for both Professors Bouchet and Kuroda, Tom decided to continue his study.</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190529T093659Z" creationid="Tom" creationdate="20190529T093659Z">
+        <seg>&lt;t0/&gt;在跟布歇特和黑田兩位教授工作過後，Tom決定還要繼續他的學業。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190528T063422Z">
+        <seg>所有</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All concepts, ideas and materials in this document are owned by &lt;t0/&gt;Speech &amp; Act Education Company &lt;t1/&gt;Limited.</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190528T075251Z" creationid="Tom" creationdate="20190528T075251Z">
+        <seg>所有本文中提及的教材均由&lt;t0/&gt;坐言起行教育&lt;t1/&gt;有限公司所擁有。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All document activities are stored in audit trail for future review.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All rights reserved.</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190603T022352Z" creationid="Tom" creationdate="20190603T022352Z">
+        <seg>版權所有。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An '''audit trail''' (also called '''audit log''') is a security-relevant chronological record, set of records, and/or destination and source of records that provide documentary evidence of the sequence of activities that have affected at any time a specific operation, procedure, or event.&lt;ref&gt;{{cite web |url=http://www.cnss.gov/Assets/pdf/cnssi_4009.pdf |title=National Information Assurance (IA) Glossary |publisher=[[Committee on National Security Systems]] |pages=4 |date=7 August 1996 |accessdate=7 March 2012 |format=PDF}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.atis.org/glossary/definition.aspx?id=5572 |title=ATIS Telecom Glossary 2012 - audit trail |publisher=[[Alliance for Telecommunications Industry Solutions]] (ATIS) Committee PRQC |year=2012 |accessdate=7 March 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20130313232104/http://www.atis.org/glossary/definition.aspx?id=5572 |archivedate=13 March 2013 |df= }}&lt;/ref&gt; Audit records typically result from activities such as [[financial transaction]]s,&lt;ref&gt;{{cite web |url=https://www.sec.gov/news/press/2010/2010-86.htm |title=SEC Proposes Consolidated Audit Trail System to Better Track Market Trades |publisher=U.S.</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190528T072931Z" creationid="Tom" creationdate="20190528T072931Z">
+        <seg> '''審計跟踪'''（也稱為'''審計日誌'''）是與安全相關的時間順序記錄、記錄集和/或目的地和記錄來源，它們提供了在任何時候影響特定操作，程序的活動順序的文件證據或事件&lt;ref&gt;{{cite web |url=http://www.cnss.gov/Assets/pdf/cnssi_4009.pdf |title=National Information Assurance (IA) Glossary |trans-title=國家信息保障（IA）詞彙表 |publisher=[[Committee on National Security Systems]] |pages=4 |date=1996-08-07 |access-date=2012-03-07 |format=PDF |language=en }}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.atis.org/glossary/definition.aspx?id=5572 |title=ATIS Telecom Glossary 2012 - audit trail |trans-title=ATIS電信詞彙表2012 - 審計線索 |publisher=[[Alliance for Telecommunications Industry Solutions]] (ATIS) Committee PRQC |year=2012 |access-date=2012-03-07 |deadurl=yes |archiveurl=https://web.archive.org/web/20130313232104/http://www.atis.org/glossary/definition.aspx?id=5572 |archivedate=2013-03-13 |language=en }}&lt;/ref&gt;。審計記錄通常來自一些活動，例如：[[金融交易]]&lt;ref&gt;{{cite web |url=https://www.sec.gov/news/press/2010/2010-86.htm |title=SEC Proposes Consolidated Audit Trail System to Better Track Market Trades |publisher=U.S.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Any reference to partial or all materials in this document without written authorization is strictly prohibited.</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190528T080442Z" creationid="Tom" creationdate="20190528T080442Z">
+        <seg>未經書面授權，嚴禁以任何方式提及本文檔中的部分或全部材料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Backup</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190528T063548Z">
+        <seg>備份</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Backup &amp; Restor&lt;t0/&gt;e</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190530T031649Z" creationid="Tom" creationdate="20190530T031649Z">
+        <seg>備份與復原&lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Backup &amp; Restore</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190528T075545Z">
+        <seg>備份與復原</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Backup &amp; Restore Procedures</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190528T075043Z">
+        <seg>備份及復原程式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Before we can start, we need to follow the steps in the “Installation Guide” to have all the software necessary installed and configure properly.</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190530T052510Z" creationid="Tom" creationdate="20190530T052510Z">
+        <seg>在我們開始之前，首先要跟隨「安裝手冊」的步驟，把所需要的軟體安裝及設定好。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>C&lt;t0/&gt;hapter &lt;t1/&gt;2&lt;t2/&gt; Backup &amp; Restore</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190530T030600Z" creationid="Tom" creationdate="20190530T030600Z">
+        <seg>第&lt;t1/&gt;2&lt;t2/&gt;&lt;t0/&gt;章 備份與復原</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Certainly, you may use the SQL Server Management Studio to conduct the backup.</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190530T045159Z" creationid="Tom" creationdate="20190530T045159Z">
+        <seg>當然，您也可以使用SQL Server Management Studio進行備份。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change History</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190528T075412Z">
+        <seg>檔案修訂追蹤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click &lt;t0/&gt;OK&lt;t1/&gt; to accept the default parameters&lt;t2/&gt;; &lt;t3/&gt;You may set the default location for backup to a Network Attached Storage (NAS) for nearline storage&lt;t4/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190530T050915Z" creationid="Tom" creationdate="20190530T050915Z">
+        <seg>按一下&lt;t0/&gt;OK&lt;t1/&gt;接納預設的備份參數&lt;t2/&gt;；&lt;t3/&gt;要不，您可以將備份的預設位置設置為網路附加儲存（NAS），以進行近線儲存&lt;t4/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click &lt;t0/&gt;OK&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190530T052218Z" creationid="Tom" creationdate="20190530T052218Z">
+        <seg>按一下&lt;t0/&gt;OK&lt;t1/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copyright 2018 All rights reserved.</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190528T075301Z">
+        <seg>©2018版權所有坐言起行教育有限公司。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DIKO Overview</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190528T080509Z" creationid="Tom" creationdate="20190528T080509Z">
+        <seg>DIKO概述</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DIKO&lt;t0/&gt; Backup &amp; Restore Procedures</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190530T052104Z" creationid="Tom" creationdate="20190530T052104Z">
+        <seg>Diko&lt;t0/&gt; 備份及復原程式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DIKO&lt;t0/&gt; Overview</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190528T075532Z">
+        <seg>DIKO&lt;t0/&gt;概述</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DIKO&lt;t0/&gt; consists of two storage media namely Database and File System.</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190530T034440Z" creationid="Tom" creationdate="20190530T034440Z">
+        <seg>DIKO由兩個儲存媒體組成，即資料庫和檔案系統。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DIKO&lt;t0/&gt; is a web-based, UNICODE-supported Document Management System.</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190530T031322Z">
+        <seg>DIKO&lt;t0/&gt;是一個網路應用架構、並且支援UNICODE的檔管理系統。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Database Backup</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190530T031239Z">
+        <seg>資料庫備份</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Database connection error.</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190603T035009Z" creationid="Tom" creationdate="20190603T035009Z">
+        <seg>資料庫連接錯誤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Database stores all document records, audit trails, user groups, etc.  File System stores all encrypted files, PDF renditions, full text index, etc.  Both storage media should be backed at the same time to ensure data synchronization.</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190530T045026Z" creationid="Tom" creationdate="20190530T045026Z">
+        <seg>資料庫存儲所有檔案記錄、稽核軌跡、使用者群組等。檔案系統存儲所有加密檔、PDF格式、全文索引等。應同時備份兩個存儲媒體，以確保資料同步。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Date</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190528T063207Z">
+        <seg>日期</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Depart</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190529T093526Z" creationid="Tom" creationdate="20190529T093526Z">
+        <seg>離職</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Department of Bivalves: headed by Professor Kuroda.</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190529T034837Z" creationid="Tom" creationdate="20190529T034329Z">
+        <seg>雙殼綱部：由黑田教授帶領。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Department of Gastropods: headed by Professor &lt;t0/&gt;Bouchet&lt;t1/&gt;, and</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190529T034821Z" creationid="Tom" creationdate="20190529T034305Z">
+        <seg>腹足綱部：由&lt;t1/&gt;布歇特&lt;t0/&gt;教授帶領，以及</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Department of Gastropods: headed by Professor Bouchet, and</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190529T042228Z" creationid="Tom" creationdate="20190529T042228Z">
+        <seg>腹足綱部：由布歇特教授帶領，以及</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Diko&lt;t0/&gt; &lt;t1/&gt;Backup &amp; Restore Procedures</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190528T080148Z" creationid="Tom" creationdate="20190528T080148Z">
+        <seg>Diko&lt;t0/&gt; &lt;t1/&gt;備份及復原程式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Diko&lt;t0/&gt; Tutorial</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190529T034128Z" creationid="Tom" creationdate="20190529T034128Z">
+        <seg>Diko&lt;t0/&gt; 教程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disclaimer</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190528T075104Z">
+        <seg>版權聲明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fail to search in ODBC.</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190603T035331Z" creationid="Tom" creationdate="20190603T035331Z">
+        <seg>ODBC搜索失敗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to Load properties file.</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190603T035043Z" creationid="Tom" creationdate="20190603T035043Z">
+        <seg>屬性文件載入失敗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to browse the folder.</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190603T035326Z" creationid="Tom" creationdate="20190603T035326Z">
+        <seg>Failed to browse the folder.odbc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to save news.</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190603T035102Z" creationid="Tom" creationdate="20190603T035102Z">
+        <seg>此最新消息儲存失敗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to search user.</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190603T035018Z" creationid="Tom" creationdate="20190603T035018Z">
+        <seg>搜尋不到用戶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File System Backup</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190528T063700Z">
+        <seg>檔案系統備份</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For inquiries, please send your email &lt;t0/&gt;to info@speechnact.asia&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190528T075357Z">
+        <seg>如有疑問，請發送電子郵件&lt;t0/&gt;至info@speechnact.asia&lt;t1/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Government Printing Office]] |accessdate=2 March 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20100608090316/http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;sid=3094bb76639c37239557767756fd7878&amp;rgn=div5&amp;view=text&amp;node=21%3A1.0.1.1.7&amp;idno=21 |archivedate=8 June 2010 |df= }}&lt;/ref&gt; or [[communication]]s by individual people, systems, accounts, or other entities.</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190528T074543Z" creationid="Tom" creationdate="20190528T074543Z">
+        <seg>Government Printing Office]] |access-date=2012-03-02 |deadurl=yes |archiveurl=https://web.archive.org/web/20100608090316/http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;sid=3094bb76639c37239557767756fd7878&amp;rgn=div5&amp;view=text&amp;node=21%3A1.0.1.1.7&amp;idno=21 |archivedate=2010-06-08 |language=en }}&lt;/ref&gt;，或個人、系統、帳號以及其他實體的[[通信]]等活動。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>H&lt;t0/&gt;ere are the steps we need to do:</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190529T042336Z" creationid="Tom" creationdate="20190529T042336Z">
+        <seg>所以我們需要做以下各項：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He is Tom, and will report to Profes&lt;t0/&gt;sor &lt;t1/&gt;Bouchet&lt;t2/&gt; first.</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190529T034747Z" creationid="Tom" creationdate="20190529T034433Z">
+        <seg>他叫Tom，會&lt;t2/&gt;先向&lt;t1/&gt;布歇特&lt;t0/&gt;教授匯報。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He is Tom, and will report to Professor Bouchet first.</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190529T042245Z" creationid="Tom" creationdate="20190529T042245Z">
+        <seg>他叫Tom，會先向布歇特教授匯報。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He left all his work with the two profess&lt;t1/&gt;ors inside&lt;t2/&gt; the DIKO server.</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190529T093854Z" creationid="Tom" creationdate="20190529T093854Z">
+        <seg>他將自己與兩位教授&lt;t1/&gt;工作時使用過的檔案都留在DIKO系統上&lt;t2/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I&lt;t0/&gt;ntroduction</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190529T041501Z" creationid="Tom" creationdate="20190529T041501Z">
+        <seg>簡介</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Imagine that you are the IT Support of the DIKO School of Mollusks.</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190529T092242Z" creationid="Tom" creationdate="20190529T092242Z">
+        <seg>假設您現在成為了DIKO軟體動物學院的IT支援人員。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Incorrect user ID or password.</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190603T035036Z" creationid="Tom" creationdate="20190603T035036Z">
+        <seg>用戶名稱或密碼錯誤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Introduction</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190529T041514Z" creationid="Tom" creationdate="20190529T041514Z">
+        <seg>簡介</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid Document Name</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190603T040101Z" creationid="Tom" creationdate="20190603T040101Z">
+        <seg>不正確的檔案名稱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In &lt;t0/&gt;Object Explorer&lt;t1/&gt;, connect to an instance of the SQL Server Database Engine and then expand that instance.&lt;t2/&gt; &lt;t3/&gt;Expand &lt;t4/&gt;Databases&lt;t5/&gt;, right-click &lt;t6/&gt;at &lt;t7/&gt;DIKO&lt;t8/&gt;, point to &lt;t9/&gt;Tasks&lt;t10/&gt;, and then click &lt;t11/&gt;Back Up...&lt;t12/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190530T050524Z" creationid="Tom" creationdate="20190530T050524Z">
+        <seg>在&lt;t0/&gt;Object Explorer&lt;t1/&gt;中，連接到SQL Server資料庫引擎的物件，然後展開該物件。&lt;t2/&gt;&lt;t3/&gt;展開&lt;t4/&gt;Databases&lt;t5/&gt;，於&lt;t7/&gt;DIKO&lt;t8/&gt;按右鍵&lt;t6/&gt;，然後指向&lt;t9/&gt;Tasks&lt;t10/&gt;，按一下&lt;t11/&gt;Back Up....&lt;t12/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It can display and accept multi-lingual inputs.</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190530T031618Z" creationid="Tom" creationdate="20190530T031618Z">
+        <seg>DIKO還可以顯示和接受多語言輸入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It's the successor to the '''Enterprise Manager''' in SQL 2000 or before.</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190530T052916Z" creationid="Tom" creationdate="20190530T052916Z">
+        <seg>原為SQL Server 2000的管理工具，名為「SQL Server Enterprise Manager」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>L&lt;t0/&gt;ater, when Tom move from &lt;t1/&gt;the Department of &lt;t2/&gt;Gastropods to &lt;t3/&gt;the Department of &lt;t4/&gt;Bivalves, we need to transfer the ownership of his&lt;t5/&gt; &lt;t6/&gt;old&lt;t7/&gt; files back to his reporting line.</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190529T042141Z" creationid="Tom" creationdate="20190529T041729Z">
+        <seg>&lt;t0/&gt;之後，當Tom由&lt;t2/&gt;腹足綱&lt;t1/&gt;學系調任到&lt;t4/&gt;雙殼綱&lt;t3/&gt;學系時，我們要將他&lt;t5/&gt;在&lt;t6/&gt;舊有部門工作時的&lt;t7/&gt;檔案交回到他原來的上司管有。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Later, he will be transferred to another department and will report to Professor Kuroda.</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190529T042317Z" creationid="Tom" creationdate="20190529T042317Z">
+        <seg>之後，他會被調任至另一個學系，向黑田教授匯報。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mandatory Attribute is not set</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190603T035351Z" creationid="Tom" creationdate="20190603T035351Z">
+        <seg>強制屬性沒有設置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>May 2019</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190530T030517Z" creationid="Tom" creationdate="20190530T030517Z">
+        <seg>2019年5月</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>N&lt;t0/&gt;ew Comers</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190529T042146Z" creationid="Tom" creationdate="20190529T041655Z">
+        <seg>&lt;t0/&gt;新來者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Never spend extra time to  nd your documents!</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190603T022508Z" creationid="Tom" creationdate="20190603T022508Z">
+        <seg>永遠不要在你的文件上花費多餘的時間！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Comers</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190529T041532Z" creationid="Tom" creationdate="20190529T041532Z">
+        <seg>新來者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New document released</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190528T075505Z">
+        <seg>發佈新檔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Now, you have to set the system up that people can share literature online.</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190529T093500Z" creationid="Tom" creationdate="20190529T093500Z">
+        <seg>現時，您要將系統設定為可讓學院兩個學系的人員在網上分享文獻。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oct 2018</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190528T063418Z">
+        <seg>2018年10月</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Page &lt;t0/&gt;2&lt;t1/&gt; of &lt;t2/&gt;2</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190530T052047Z" creationid="Tom" creationdate="20190530T052047Z">
+        <seg>第 &lt;t0/&gt;2&lt;t1/&gt; / &lt;t2/&gt;2 頁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remarks</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190528T075436Z">
+        <seg>備註</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Restore</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190528T080546Z">
+        <seg>復原</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Restore Database</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190530T031302Z">
+        <seg>資料庫復原</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Restore File System</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190528T080634Z">
+        <seg>檔案系統復原</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>S&lt;t0/&gt;ummary</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190529T042200Z" creationid="Tom" creationdate="20190529T041559Z">
+        <seg>&lt;t0/&gt;總結</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sections</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190528T075428Z">
+        <seg>章節</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select one of the following options:</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190530T052008Z" creationid="Tom" creationdate="20190530T052008Z">
+        <seg>選擇以下選項之一：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Staff Folder is not found on system.</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190603T040128Z" creationid="Tom" creationdate="20190603T040128Z">
+        <seg>系統中沒有找到Staff Folder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Summary</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190529T041547Z" creationid="Tom" creationdate="20190529T041547Z">
+        <seg>總結</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>T&lt;t0/&gt;able of Content</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190529T041520Z" creationid="Tom" creationdate="20190529T041520Z">
+        <seg>目錄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>T&lt;t0/&gt;om is the new research assistant of the department.</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190529T042152Z" creationid="Tom" creationdate="20190529T041651Z">
+        <seg>&lt;t0/&gt;Tom是部門新來的研究助理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>T&lt;t0/&gt;ransfer</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190529T042157Z" creationid="Tom" creationdate="20190529T041606Z">
+        <seg>&lt;t0/&gt;調任</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table of Content</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190528T063441Z">
+        <seg>目錄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table of Contents</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190528T100104Z" creationid="Tom" creationdate="20190528T100104Z">
+        <seg>目錄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The document has been updated by other user.</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190603T035028Z" creationid="Tom" creationdate="20190603T035028Z">
+        <seg>此資料夾已被其他用戶更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following procedures show how to restore the database backup using MS SQL Server Management Studio.</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190530T051904Z" creationid="Tom" creationdate="20190530T051904Z">
+        <seg>以下過程說明如何使用MS SQL Server Management Studio復原資料庫備份。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following procedures show you how &lt;t5/&gt;use the SQL Server Management Studio &lt;t6/&gt;to &lt;t7/&gt;backup&lt;t8/&gt; the &lt;t9/&gt;DIKO&lt;t10/&gt; database &lt;t11/&gt;installed to &lt;t12/&gt;its default location</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190530T045409Z" creationid="Tom" creationdate="20190530T045409Z">
+        <seg>以下過程說明如何&lt;t5/&gt;透過SQL Server Management Studio&lt;t6/&gt;將&lt;t7/&gt;&lt;t11/&gt;安裝&lt;t12/&gt;於預設位置的&lt;t9/&gt;DIKO&lt;t10/&gt;資料庫備份&lt;t8/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The school has only two departments:</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190529T093503Z" creationid="Tom" creationdate="20190529T034214Z">
+        <seg>；學校只有兩個部門：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The structure of the school is as follows:</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190529T093241Z" creationid="Tom" creationdate="20190529T093241Z">
+        <seg>學院各部門間的架構如下圖：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The user object is null.</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190603T035049Z" creationid="Tom" creationdate="20190603T035049Z">
+        <seg>用戶為null</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then you will see the dialog box below&lt;t0/&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190530T050605Z" creationid="Tom" creationdate="20190530T050605Z">
+        <seg>然後你會看到以下的對話框&lt;t0/&gt;：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Therefore,  we developed DIKO Email Capture.</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190603T022235Z" creationid="Tom" creationdate="20190603T022235Z">
+        <seg>因此，我們開發了developed DIKO Email Capture。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is not usually necessary unless the database is large and you wish to monitor the status of the restore operation.</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190530T052307Z" creationid="Tom" creationdate="20190530T052241Z">
+        <seg>除非資料庫很大並且您希望監視還原操作的狀態，否則通常不需要這樣做。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To restore &lt;t0/&gt;DIKO&lt;t1/&gt; is simple, put the database and file system backup from the NAS to the default location (i.e. C drive) and &lt;t2/&gt;DIKO&lt;t3/&gt; will be in production again.</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190530T051843Z" creationid="Tom" creationdate="20190530T051843Z">
+        <seg>要復原&lt;t0/&gt;DIKO&lt;t1/&gt;很簡單，將資料庫和檔案系統備份從NAS放到默認位置（即C磁碟機），&lt;t2/&gt;DIKO&lt;t3/&gt;將再次投入生產。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To restore the file system, simply copy the whole &lt;t0/&gt;DIKO&lt;t1/&gt; folder with its content and put it on C drive (or &lt;t2/&gt;DIKO&lt;t3/&gt; installed hard drive).</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190530T052150Z" creationid="Tom" creationdate="20190530T052150Z">
+        <seg>要復原檔案系統，只需複製整個&lt;t0/&gt;DIKO&lt;t1/&gt;文件夾及其內容，並將其放在C磁碟機（或&lt;t2/&gt;DIKO&lt;t3/&gt;安裝的硬碟）上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Transfer</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190529T042358Z" creationid="Tom" creationdate="20190529T041543Z">
+        <seg>調任</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unauthorized.</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190603T035000Z" creationid="Tom" creationdate="20190603T035000Z">
+        <seg>未經授權</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Updated with details steps of backup and restore, with screen captures</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190530T030733Z" creationid="Tom" creationdate="20190530T030733Z">
+        <seg>加入了備份與復原過程中的抓圖，再修訂了部分用字和標點符號。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Version</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190528T063203Z">
+        <seg>版本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We are trying to provide you a step-by-step tutorial lesson about setting up the DIKO system.</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190529T092033Z" creationid="Tom" creationdate="20190529T092033Z">
+        <seg>我們希望透過這個教程，使您能夠更瞭解如何為DIKO系統設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We need to create a new account for him.</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190529T041635Z" creationid="Tom" creationdate="20190529T041635Z">
+        <seg>我們要給他建立一個新的帳號。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With a web browser, the user can manage and protect the documents within the organization.</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190528T080829Z" creationid="Tom" creationdate="20190528T080829Z">
+        <seg>使用Web瀏覽器，使用者可以管理和保護組織內的檔案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may use some database backup software to &lt;t0/&gt;backup&lt;t1/&gt; the &lt;t2/&gt;DIKO&lt;t3/&gt; database&lt;t4/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190530T045141Z" creationid="Tom" creationdate="20190530T045141Z">
+        <seg>您可以使用一些資料庫備份軟體來&lt;t0/&gt;備份&lt;t1/&gt;&lt;t2/&gt;DIKO&lt;t3/&gt;資料庫&lt;t4/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may use the task scheduler to automate the database backup task.</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190530T050634Z" creationid="Tom" creationdate="20190530T050634Z">
+        <seg>您可以使用任務計畫程式自動執行資料庫備份任務。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You will see the progress meter at the lower left corner running until backup &lt;t5/&gt;ended as below&lt;t6/&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190530T050804Z" creationid="Tom" creationdate="20190530T050804Z">
+        <seg>這時，對話匣的左下角會出現備份進程的圖案。當備份完成，系統會出現如下圖般&lt;t6/&gt;提示備份&lt;t5/&gt;已完成的訊息：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your school purchased DIKO, as it is so wonder to document everything you have to.</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190529T092507Z" creationid="Tom" creationdate="20190529T092507Z">
+        <seg>您的學院購買了DIKO系統的使用權，而您正躍躍欲使，希望將所有文件都交由DIKO系統處理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[[Category:Auditing terms|Trail]]</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190528T074918Z" creationid="Tom" creationdate="20190528T074918Z">
+        <seg>==外部連結==
+[[Category:審計術語]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[[Category:Microsoft database software]]
+[[Category:Database administration tools]]</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190530T053025Z" creationid="Tom" creationdate="20190530T053025Z">
+        <seg>[[Category:微软数据库软件]]
+[[Category:数据库管理工具]]
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[[Securities and Exchange Commission]] |date=26 May 2010 |accessdate=7 March 2012}}&lt;/ref&gt; [[scientific research]] and health care data transactions,&lt;ref&gt;{{cite web|url=http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;sid=5ff3a0efed913ef8fae9e225869688a2&amp;rgn=div5&amp;view=text&amp;node=21:1.0.1.1.7&amp;idno=21 |title=Electronic Code of Federal Regulations - Title 21: Food and Drugs - Part 11: Electronic Records; Electronic Signatures |publisher=[[U.S.</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190528T074327Z" creationid="Tom" creationdate="20190528T073945Z">
+        <seg>[[美国证券交易委员会|Securities and Exchange Commission]] |date=2010-05-26 |access-date=2012-03-07 |language=en }}&lt;/ref&gt;、[[科学方法|科學研究]]和醫療保健數據交易&lt;ref&gt;{{cite web|url=http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;sid=5ff3a0efed913ef8fae9e225869688a2&amp;rgn=div5&amp;view=text&amp;node=21:1.0.1.1.7&amp;idno=21 |title=Electronic Code of Federal Regulations - Title 21: Food and Drugs - Part 11: Electronic Records; Electronic Signatures |publisher=[[美国政府出版局|U.S.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>change.</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190603T022147Z" creationid="Tom" creationdate="20190603T022147Z">
+        <seg>改變。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>collaboration.</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190603T022306Z" creationid="Tom" creationdate="20190603T022306Z">
+        <seg>協作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>management.</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190603T022314Z" creationid="Tom" creationdate="20190603T022314Z">
+        <seg>管理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>metadata search.</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190603T022327Z" creationid="Tom" creationdate="20190603T022327Z">
+        <seg>元數據搜尋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{{Infobox software
+| name                   = SQL Server Management Studio
+| logo                   = 
+| screenshot             = SQLServerManagementStudio.JPG
+| caption                = Earlier version of Microsoft SQL Server Management Studio showing a query, the results of the query, and the Object Explorer pane while connected to a SQL Server database engine instance.</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190530T052734Z" creationid="Tom" creationdate="20190530T052734Z">
+        <seg>{{Infobox software
+| name                   = SQL Server Management Studio
+| logo                   = 
+| screenshot             = SQLServerManagementStudio.JPG
+| caption                = 一個早期版本的Microsoft SQL Server Management Studio的截圖，顯示一條query, the results of the query, and the Object Explorer pane while connected to a SQL Server database engine instance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{{Refimprove|date=March 2012}}</seg>
+      </tuv>
+      <tuv lang="ZH-HANT" changeid="Tom" changedate="20190528T071401Z" creationid="Tom" creationdate="20190528T071401Z">
+        <seg>{{Refimprove|time=2012-03}}</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

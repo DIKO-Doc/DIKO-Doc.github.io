@@ -1,0 +1,25 @@
+{{Refimprove|date=March 2012}}
+
+An '''audit trail''' (also called '''audit log''') is a security-relevant chronological record, set of records, and/or destination and source of records that provide documentary evidence of the sequence of activities that have affected at any time a specific operation, procedure, or event.<ref>{{cite web |url=http://www.cnss.gov/Assets/pdf/cnssi_4009.pdf |title=National Information Assurance (IA) Glossary |publisher=[[Committee on National Security Systems]] |pages=4 |date=7 August 1996 |accessdate=7 March 2012 |format=PDF}}</ref><ref>{{cite web|url=http://www.atis.org/glossary/definition.aspx?id=5572 |title=ATIS Telecom Glossary 2012 - audit trail |publisher=[[Alliance for Telecommunications Industry Solutions]] (ATIS) Committee PRQC |year=2012 |accessdate=7 March 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20130313232104/http://www.atis.org/glossary/definition.aspx?id=5572 |archivedate=13 March 2013 |df= }}</ref> Audit records typically result from activities such as [[financial transaction]]s,<ref>{{cite web |url=https://www.sec.gov/news/press/2010/2010-86.htm |title=SEC Proposes Consolidated Audit Trail System to Better Track Market Trades |publisher=U.S. [[Securities and Exchange Commission]] |date=26 May 2010 |accessdate=7 March 2012}}</ref> [[scientific research]] and health care data transactions,<ref>{{cite web|url=http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&sid=5ff3a0efed913ef8fae9e225869688a2&rgn=div5&view=text&node=21:1.0.1.1.7&idno=21 |title=Electronic Code of Federal Regulations - Title 21: Food and Drugs - Part 11: Electronic Records; Electronic Signatures |publisher=[[U.S. Government Printing Office]] |accessdate=2 March 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20100608090316/http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&sid=3094bb76639c37239557767756fd7878&rgn=div5&view=text&node=21%3A1.0.1.1.7&idno=21 |archivedate=8 June 2010 |df= }}</ref> or [[communication]]s by individual people, systems, accounts, or other entities.
+
+The process that creates an audit trail is typically required to always run in a [[privileged mode]], so it can access and supervise all actions from all users; a normal user should not be allowed to stop/change it. Furthermore, for the same reason, trail file or [[Table (database)|database table]] with a trail should not be accessible to normal users. Another way of handling this issue is through the use of a role-based security model in the software.<ref>{{cite book |title=Insider computer fraud: an in-depth framework for detecting and defending against insider IT attacks |author=Brancik, Kenneth C. |chapter=Chapter 2: Related Research in Insider Computer Fraud and Information Security Controls |year=2007 |pages=18–19 |publisher=CRC Press |url=https://books.google.com/books?id=lsDngU-RUywC |isbn=1-4200-4659-4}}</ref> The software can operate with the closed-looped controls, or as a '[[closed system]]', as required by many companies when using audit trail functionality.
+
+==Industry uses==
+In [[telecommunication]], the term means a record of both completed and attempted accesses and service, or [[data]] forming a logical path linking a [[sequence]] of events, used to trace the transactions that have affected the contents of a record.
+
+In [[information security|information]] or [[communications security]], [[information audit]] means a chronological record of [[system]] activities to enable the reconstruction and examination of the sequence of events and/or changes in an event.
+
+In [[nursing research]], it refers to the act of maintaining a running log or [[diary|journal]] of decisions relating to a research project, thus making clear the steps taken and changes made to the original [[Guideline (medical)|protocol]].
+
+In [[accounting]], it refers to [[documentation]] of detailed transactions supporting summary [[ledger]] entries. This documentation may be on paper or on electronic records.
+
+In [[online proofing]], it pertains to the [[version history]] of a piece of artwork, design, photograph, video, or web design proof in a project.
+
+In [[clinical research]], server based systems call [[clinical trial management system]]s (CTMS) require audit trails. Anything regulatory or [[QA/QC]] related also requires audit trails.
+
+In [[voting]], a [[voter-verified paper audit trail]] is a method of providing feedback to voters using a [[ballot]]less voting system.
+
+==References==
+{{Reflist}}
+
+[[Category:Auditing terms|Trail]]

@@ -1,0 +1,6 @@
+Professor	教授
+Kuroda	黑田
+Bouchet	布歇特
+the Department of Gastropods	腹足綱學系
+the Department of Bivalves	雙殼綱學系
+table of contents	目錄
