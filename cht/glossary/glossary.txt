@@ -4,3 +4,10 @@ Bouchet	布歇特
 the Department of Gastropods	腹足綱學系
 the Department of Bivalves	雙殼綱學系
 table of contents	目錄
+Corporate Library	共用資料夾
+Personal Library	我的資料夾
+Folder	資料夾
+Document	文件
+URL	URL
+Shortcut	掟徑
+Library	資料夾

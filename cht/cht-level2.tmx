@@ -14,6 +14,134 @@
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>1.1.11<ph x="0">&lt;t0/&gt;</ph>  <ph x="1">&lt;t1/&gt;</ph>Add New Group</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190605T012956Z" creationid="Tom" creationdate="20190605T012956Z">
+        <seg>1.1.11<ph x="0">&lt;t0/&gt;</ph>  <ph x="1">&lt;t1/&gt;</ph>新增用戶群組</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>1.1.12<ph x="0">&lt;t0/&gt;</ph>  <ph x="1">&lt;t1/&gt;</ph>Modify Group</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190605T013006Z" creationid="Tom" creationdate="20190605T013006Z">
+        <seg>1.1.12<ph x="0">&lt;t0/&gt;</ph>  <ph x="1">&lt;t1/&gt;</ph>修改用戶群組</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>1.1.13<ph x="0">&lt;t0/&gt;</ph>  <ph x="1">&lt;t1/&gt;</ph>Delete Group</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190605T013018Z" creationid="Tom" creationdate="20190605T013018Z">
+        <seg>1.1.13<ph x="0">&lt;t0/&gt;</ph>  <ph x="1">&lt;t1/&gt;</ph>刪除用戶群組</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>1.1.14.1<ph x="0">&lt;t0/&gt;</ph>  <ph x="1">&lt;t1/&gt;</ph>Drag and drop user</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190605T013312Z" creationid="Tom" creationdate="20190605T013312Z">
+        <seg>1.1.14.1<ph x="0">&lt;t0/&gt;</ph>  <ph x="1">&lt;t1/&gt;</ph>拖放用戶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>1.1.14.2<ph x="0">&lt;t0/&gt;</ph>  <ph x="1">&lt;t1/&gt;</ph>Add User from another groups</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190605T013330Z" creationid="Tom" creationdate="20190605T013330Z">
+        <seg>1.1.14.2<ph x="0">&lt;t0/&gt;</ph>  <ph x="1">&lt;t1/&gt;</ph>從別的群組新增用戶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>1.1.15<ph x="0">&lt;t0/&gt;</ph>  <ph x="1">&lt;t1/&gt;</ph>Transfer Ownership</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190605T013348Z" creationid="Tom" creationdate="20190605T013348Z">
+        <seg>1.1.15<ph x="0">&lt;t0/&gt;</ph>  <ph x="1">&lt;t1/&gt;</ph>轉移擁有者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>1.1.1<ph x="0">&lt;t0/&gt;</ph>  <ph x="1">&lt;t1/&gt;</ph>System Email Setting</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190605T012630Z" creationid="Tom" creationdate="20190605T012630Z">
+        <seg>1.1.1<ph x="0">&lt;t0/&gt;</ph>  <ph x="1">&lt;t1/&gt;</ph>系統外送郵件設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>1.1.3<ph x="0">&lt;t0/&gt;</ph>  <ph x="1">&lt;t1/&gt;</ph>General Setting</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190605T012534Z" creationid="Tom" creationdate="20190605T012534Z">
+        <seg>1.1.3<ph x="0">&lt;t0/&gt;</ph>  <ph x="1">&lt;t1/&gt;</ph>一般設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>1.1.4<ph x="0">&lt;t0/&gt;</ph>  <ph x="1">&lt;t1/&gt;</ph>Watermark Setting</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190605T012742Z" creationid="Tom" creationdate="20190605T012742Z">
+        <seg>1.1.4<ph x="0">&lt;t0/&gt;</ph>  <ph x="1">&lt;t1/&gt;</ph>浮水印設置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>1.1.5<ph x="0">&lt;t0/&gt;</ph>  <ph x="1">&lt;t1/&gt;</ph>Capture Email Setting</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190605T012814Z" creationid="Tom" creationdate="20190605T012814Z">
+        <seg>1.1.5<ph x="0">&lt;t0/&gt;</ph>  <ph x="1">&lt;t1/&gt;</ph>檢視電子郵件設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>1.1.6<ph x="0">&lt;t0/&gt;</ph>  <ph x="1">&lt;t1/&gt;</ph>User Group Management</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190605T012839Z" creationid="Tom" creationdate="20190605T012839Z">
+        <seg>1.1.6<ph x="0">&lt;t0/&gt;</ph>  <ph x="1">&lt;t1/&gt;</ph>用戶群組管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>1.1.7<ph x="0">&lt;t0/&gt;</ph>  <ph x="1">&lt;t1/&gt;</ph>Add New User</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190605T012852Z" creationid="Tom" creationdate="20190605T012852Z">
+        <seg>1.1.7<ph x="0">&lt;t0/&gt;</ph>  <ph x="1">&lt;t1/&gt;</ph>新增用戶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>1.1.8<ph x="0">&lt;t0/&gt;</ph>  <ph x="1">&lt;t1/&gt;</ph>Modify User</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190605T012913Z" creationid="Tom" creationdate="20190605T012913Z">
+        <seg>1.1.8<ph x="0">&lt;t0/&gt;</ph>  <ph x="1">&lt;t1/&gt;</ph>修改用戶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>1.1.9<ph x="0">&lt;t0/&gt;</ph>  <ph x="1">&lt;t1/&gt;</ph>Delete User</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190605T012923Z" creationid="Tom" creationdate="20190605T012923Z">
+        <seg>1.1.9<ph x="0">&lt;t0/&gt;</ph>  <ph x="1">&lt;t1/&gt;</ph>刪除用戶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>1.1<ph x="0">&lt;t0/&gt;</ph>  <ph x="1">&lt;t1/&gt;</ph>S<ph x="2">&lt;t2/&gt;</ph>YSTEM <ph x="3">&lt;t3/&gt;</ph>C<ph x="4">&lt;t4/&gt;</ph>ONFIGURATIONS</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190605T012711Z" creationid="Tom" creationdate="20190605T012711Z">
+        <seg>1.1<ph x="0">&lt;t0/&gt;</ph>  <ph x="1">&lt;t1/&gt;</ph>系<ph x="2">&lt;t2/&gt;</ph>統<ph x="3">&lt;t3/&gt;</ph>管<ph x="4">&lt;t4/&gt;</ph>理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>1.1<ph x="0">&lt;t0/&gt;</ph> Add New User</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T082316Z" creationid="Tom" creationdate="20190611T081708Z">
+        <seg>1.1<ph x="0">&lt;t0/&gt;</ph> 新增使用者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>1.<ph x="0">&lt;t0/&gt;</ph>Requirements</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190604T063104Z" creationid="Tom" creationdate="20190604T063104Z">
@@ -22,18 +150,50 @@
     </tu>
     <tu>
       <tuv xml:lang="EN">
-        <seg>10</seg>
-      </tuv>
-      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190528T075442Z" creationid="Tom" creationdate="20190528T075442Z">
-        <seg>10日</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="EN">
         <seg>1<ph x="0">&lt;t0/&gt;</ph>  <ph x="1">&lt;t1/&gt;</ph>SYSTEM FUNCTIONS</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190604T020533Z" creationid="Tom" creationdate="20190604T020533Z">
         <seg>1<ph x="0">&lt;t0/&gt;</ph>  <ph x="1">&lt;t1/&gt;</ph>系統功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>1<ph x="0">&lt;t0/&gt;</ph>.2<ph x="1">&lt;t1/&gt;</ph> Update User</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T090457Z" creationid="Tom" creationdate="20190611T090359Z">
+        <seg>1<ph x="0">&lt;t0/&gt;</ph>.2<ph x="1">&lt;t1/&gt;</ph> 更新使用者資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>1<ph x="0">&lt;t0/&gt;</ph>.3<ph x="1">&lt;t1/&gt;</ph> <ph x="2">&lt;t2/&gt;</ph>Delete User</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T090448Z" creationid="Tom" creationdate="20190611T090448Z">
+        <seg>1<ph x="0">&lt;t0/&gt;</ph>.3<ph x="1">&lt;t1/&gt;</ph> <ph x="2">&lt;t2/&gt;</ph>刪除使用者帳號</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>1<ph x="0">&lt;t0/&gt;</ph>.4<ph x="1">&lt;t1/&gt;</ph> Reset Password</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T090543Z" creationid="Tom" creationdate="20190611T090543Z">
+        <seg>1<ph x="0">&lt;t0/&gt;</ph>.4<ph x="1">&lt;t1/&gt;</ph> 重置密碼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>1<ph x="0">&lt;t0/&gt;</ph>.5<ph x="1">&lt;t1/&gt;</ph> <ph x="2">&lt;t2/&gt;</ph>V<ph x="3">&lt;t3/&gt;</ph>iew Group<ph x="4">&lt;t4/&gt;</ph> (except MFP)</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T090952Z" creationid="Tom" creationdate="20190611T090952Z">
+        <seg>1<ph x="0">&lt;t0/&gt;</ph>.5<ph x="1">&lt;t1/&gt;</ph> <ph x="2">&lt;t2/&gt;</ph>檢<ph x="3">&lt;t3/&gt;</ph>視部門<ph x="4">&lt;t4/&gt;</ph> (except MFP)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>1<ph x="0">&lt;t0/&gt;</ph>6<ph x="1">&lt;t1/&gt;</ph> Browse and login DIKO</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190605T092537Z" creationid="Tom" creationdate="20190605T092537Z">
+        <seg>1<ph x="0">&lt;t0/&gt;</ph>6<ph x="1">&lt;t1/&gt;</ph> 瀏覽並登入DIKO</seg>
       </tuv>
     </tu>
     <tu>
@@ -62,10 +222,34 @@
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>3<ph x="0">&lt;t0/&gt;</ph>.<ph x="1">&lt;t1/&gt;</ph>5<ph x="2">&lt;t2/&gt;</ph>(<ph x="3">&lt;t3/&gt;</ph>If the below image shows up, select Download and install<ph x="4">&lt;t4/&gt;</ph>)</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190610T013646Z" creationid="Tom" creationdate="20190610T013618Z">
+        <seg>3<ph x="0">&lt;t0/&gt;</ph>.<ph x="1">&lt;t1/&gt;</ph>5<ph x="2">&lt;t2/&gt;</ph>（<ph x="3">&lt;t3/&gt;</ph>如果有以下的圖片出現，點選「Download  and install」<ph x="4">&lt;t4/&gt;</ph>）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>4<ph x="0">&lt;t0/&gt;</ph>.<ph x="1">&lt;t1/&gt;</ph> <ph x="2">&lt;t2/&gt;</ph>DIKO <ph x="3">&lt;t3/&gt;</ph>DropZone<ph x="4">&lt;t4/&gt;</ph> System Settings</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190610T014938Z" creationid="Tom" creationdate="20190610T014938Z">
+        <seg>4<ph x="0">&lt;t0/&gt;</ph>.<ph x="1">&lt;t1/&gt;</ph> <ph x="2">&lt;t2/&gt;</ph>DIKO <ph x="3">&lt;t3/&gt;</ph>DropZone<ph x="4">&lt;t4/&gt;</ph>的系統設置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>5.<ph x="0">&lt;t0/&gt;</ph>Using <ph x="1">&lt;t1/&gt;</ph>DIKO <ph x="2">&lt;t2/&gt;</ph>Drop zone</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190604T063258Z" creationid="Tom" creationdate="20190604T063258Z">
         <seg>5.<ph x="0">&lt;t0/&gt;</ph>使用<ph x="1">&lt;t1/&gt;</ph>DIKO <ph x="2">&lt;t2/&gt;</ph>Drop zone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>5.<ph x="0">&lt;t0/&gt;</ph>Using<ph x="1">&lt;t1/&gt;</ph> <ph x="2">&lt;t2/&gt;</ph>DIKO<ph x="3">&lt;t3/&gt;</ph> Drop zone</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190610T082402Z" creationid="Tom" creationdate="20190610T082402Z">
+        <seg>5.<ph x="0">&lt;t0/&gt;</ph>使用<ph x="1">&lt;t1/&gt;</ph> <ph x="2">&lt;t2/&gt;</ph>DIKO<ph x="3">&lt;t3/&gt;</ph> Drop zone</seg>
       </tuv>
     </tu>
     <tu>
@@ -110,6 +294,22 @@
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg><ph x="1">&lt;t1/&gt;</ph>Click Tom’s folder, select “”.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190605T091921Z" creationid="Tom" creationdate="20190605T091921Z">
+        <seg><ph x="1">&lt;t1/&gt;</ph>點選Tom的資料夾，然後選擇“”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg><ph x="1">&lt;t1/&gt;</ph>DIKO<ph x="2">&lt;t2/&gt;</ph> provides a multilingual and intuitive user interface including English, Simplified and Traditional Chinese, to speed up the operation efficiency.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190606T030819Z" creationid="Tom" creationdate="20190606T030819Z">
+        <seg><ph x="1">&lt;t1/&gt;</ph>DIKO<ph x="2">&lt;t2/&gt;</ph>提供多種語言和直觀的使用者界面，包括英文、簡體和繁體中文，以加快運作效率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg><ph x="1">&lt;t1/&gt;</ph>Install<ph x="2">&lt;t2/&gt;</ph> Microsoft WSE 2.0 SP3</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190604T063341Z" creationid="Tom" creationdate="20190604T063341Z">
@@ -130,6 +330,30 @@
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190603T073816Z" creationid="Tom" creationdate="20190603T073816Z">
         <seg><ph x="2">&lt;t2/&gt;</ph> DIKO<ph x="3">&lt;t3/&gt;</ph>允許使用者將多個檔案在進行列印時合併為單一個PDF檔案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg><ph x="2">&lt;t2/&gt;</ph>Enter DIKO URL, <ph x="3">&lt;t3/&gt;</ph>Page will then redirect to DIKO login page<ph x="4">&lt;t4/&gt;</ph>.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190606T031836Z" creationid="Tom" creationdate="20190606T031836Z">
+        <seg><ph x="2">&lt;t2/&gt;</ph>在地址列輸入DIKO的URL，<ph x="3">&lt;t3/&gt;</ph>將導向到DIKO的登入頁面<ph x="4">&lt;t4/&gt;</ph>。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg><ph x="5">&lt;t5/&gt;</ph>The Login screen of DIKO will show up as follow:</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190606T031844Z" creationid="Tom" creationdate="20190606T031844Z">
+        <seg><ph x="5">&lt;t5/&gt;</ph>DIKO的登入畫面顯示如下：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg><ph x="7">&lt;t7/&gt;</ph>After selecting [<ph x="8">&lt;t8/&gt;</ph>User Management<ph x="9">&lt;t9/&gt;</ph>] on the left menu<ph x="10">&lt;t10/&gt;</ph> then s<ph x="11">&lt;t11/&gt;</ph>elect the [User Account] tab on the right side<ph x="12">&lt;t12/&gt;</ph>, <ph x="13">&lt;t13/&gt;</ph>After press the button<ph x="14">&lt;t14/&gt;</ph> <ph x="15">&lt;t15/&gt;</ph>, the<ph x="16">&lt;t16/&gt;</ph> following message<ph x="17">&lt;t17/&gt;</ph> <ph x="18">&lt;t18/&gt;</ph>will appear<ph x="19">&lt;t19/&gt;</ph>:</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T082815Z" creationid="Tom" creationdate="20190611T082815Z">
+        <seg>在左方選單<ph x="10">&lt;t10/&gt;</ph><ph x="7">&lt;t7/&gt;</ph>選擇[<ph x="8">&lt;t8/&gt;</ph>管理用戶<ph x="9">&lt;t9/&gt;</ph>]之後，在<ph x="11">&lt;t11/&gt;</ph>右方<ph x="12">&lt;t12/&gt;</ph>選擇[用戶帳號]頁籤。按下按鈕後<ph x="14">&lt;t14/&gt;</ph><ph x="15">&lt;t15/&gt;</ph>，<ph x="16">&lt;t16/&gt;</ph>下方視窗<ph x="17">&lt;t17/&gt;</ph><ph x="18">&lt;t18/&gt;</ph>彈出<ph x="19">&lt;t19/&gt;</ph>：</seg>
       </tuv>
     </tu>
     <tu>
@@ -172,10 +396,50 @@
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>A confirmation message will prompt the user to confirm the deletion of the user as below<ph x="1">&lt;t1/&gt;</ph>.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T090830Z" creationid="Tom" creationdate="20190611T090830Z">
+        <seg>畫面跳出如下的確認刪除提示訊息<ph x="1">&lt;t1/&gt;</ph>。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A container to hold other objects in <ph x="0">&lt;t0/&gt;</ph>DIKO<ph x="1">&lt;t1/&gt;</ph>.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190606T034552Z" creationid="Tom" creationdate="20190606T034552Z">
+        <seg>在<ph x="0">&lt;t0/&gt;</ph>DIKO<ph x="1">&lt;t1/&gt;</ph>中容納其他物件的容器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A link to a web site.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190606T034658Z" creationid="Tom" creationdate="20190606T034658Z">
+        <seg>指向網站的連結。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>A new research assistant joined the school.</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190529T034343Z" creationid="Tom" creationdate="20190529T034343Z">
         <seg>一位新的研究助理加入了學校。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A reference to a Folder, Document or URL in <ph x="0">&lt;t0/&gt;</ph>DIKO<ph x="1">&lt;t1/&gt;</ph>.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190606T034847Z" creationid="Tom" creationdate="20190606T034751Z">
+        <seg><ph x="0">&lt;t0/&gt;</ph>DIKO<ph x="1">&lt;t1/&gt;</ph>中對資料夾、文件或URL的參考。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A reference to a stored electronic file in <ph x="0">&lt;t0/&gt;</ph>DIKO<ph x="1">&lt;t1/&gt;</ph>.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190606T034816Z" creationid="Tom" creationdate="20190606T034638Z">
+        <seg>在<ph x="0">&lt;t0/&gt;</ph>DIKO<ph x="1">&lt;t1/&gt;</ph>中存儲電子文件的參考。</seg>
       </tuv>
     </tu>
     <tu>
@@ -196,10 +460,107 @@
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>AD server IP address</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T091655Z" creationid="Tom" creationdate="20190611T091655Z">
+        <seg>AD 伺服器的IP 位址</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>AJAX error!</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190604T060947Z" creationid="Tom" creationdate="20190604T060947Z">
         <seg>AJAX錯誤！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Add Web application on IIS</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190605T094559Z" creationid="Tom" creationdate="20190605T094559Z">
+        <seg>在IIS中新增Web application</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Add and install DIKO <ph x="0">&lt;t0/&gt;</ph>Sync Folder Mass Monitor <ph x="1">&lt;t1/&gt;</ph>to Windows services</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190610T083258Z" creationid="Tom" creationdate="20190610T083258Z">
+        <seg>新增與安裝 DIKO <ph x="0">&lt;t0/&gt;</ph>Sync Folder Mass Monitor <ph x="1">&lt;t1/&gt;</ph>到 Windows services</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Add and install DIKO Email Capturing <ph x="0">&lt;t0/&gt;</ph>Pro <ph x="1">&lt;t1/&gt;</ph>to Windows services</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190610T083225Z" creationid="Tom" creationdate="20190610T083151Z">
+        <seg>新增與安裝 DIKO Email Capturing <ph x="0">&lt;t0/&gt;</ph>Pro <ph x="1">&lt;t1/&gt;</ph>到 Windows services</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Add and install DIKO Email Capturing to Windows services</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190610T083158Z" creationid="Tom" creationdate="20190610T083129Z">
+        <seg>新增與安裝 DIKO Email Capturing 到 Windows services</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Add and install DIKO Indexing manager to Windows services</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190610T082951Z" creationid="Tom" creationdate="20190610T082951Z">
+        <seg>新增與安裝 DIKO Indexing manager 到 Windows services</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Add and install DIKO Rendition manager to Windows services</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190610T083107Z" creationid="Tom" creationdate="20190610T083107Z">
+        <seg>新增與安裝 DIKO Rendition manager 到 Windows services</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Admin Guide Section 1.1.15) <ph x="1">&lt;t1/&gt;</ph>is useful whenever there are changes in personnel.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190605T092014Z" creationid="Tom" creationdate="20190605T092014Z">
+        <seg>《管理者導覽》1.1.15節）<ph x="1">&lt;t1/&gt;</ph>在人事變動時非常有用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>After completing system settings, click “Connect”</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190610T082444Z" creationid="Tom" creationdate="20190610T082444Z">
+        <seg>系統設置之後, 點擊「連接」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>After entering the correct <ph x="0">&lt;t0/&gt;</ph>Login ID<ph x="1">&lt;t1/&gt;</ph> and <ph x="2">&lt;t2/&gt;</ph>Password, DIKO<ph x="3">&lt;t3/&gt;</ph> will grant the user to access the system and bring up the Main screen as follows:</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190606T033815Z" creationid="Tom" creationdate="20190606T032853Z">
+        <seg>輸入正確的<ph x="0">&lt;t0/&gt;</ph>用戶名稱<ph x="1">&lt;t1/&gt;</ph>和<ph x="2">&lt;t2/&gt;</ph>密碼<ph x="3">&lt;t3/&gt;</ph>後，DIKO將授予用戶訪問系統，並切換至主畫面如下：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>After save the configuration and exit the configuration page, user may click <ph x="0">&lt;t0/&gt;</ph> to synchronize without waiting the setting time</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T092723Z" creationid="Tom" creationdate="20190611T092723Z">
+        <seg>在儲存並離開設定頁面後, 使用者可以按一下 <ph x="0">&lt;t0/&gt;</ph> 去進行同步而無需等待設置時間
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>After successful connection, DIKO folders will show up on the right hand side.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190610T082524Z" creationid="Tom" creationdate="20190610T082524Z">
+        <seg>成功連接後，DIKO的資料夾將在右側顯示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -238,8 +599,8 @@
       <tuv xml:lang="EN">
         <seg>An '''audit trail''' (also called '''audit log''') is a security-relevant chronological record, set of records, and/or destination and source of records that provide documentary evidence of the sequence of activities that have affected at any time a specific operation, procedure, or event.&lt;ref&gt;{{cite web |url=http://www.cnss.gov/Assets/pdf/cnssi_4009.pdf |title=National Information Assurance (IA) Glossary |publisher=[[Committee on National Security Systems]] |pages=4 |date=7 August 1996 |accessdate=7 March 2012 |format=PDF}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.atis.org/glossary/definition.aspx?id=5572 |title=ATIS Telecom Glossary 2012 - audit trail |publisher=[[Alliance for Telecommunications Industry Solutions]] (ATIS) Committee PRQC |year=2012 |accessdate=7 March 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20130313232104/http://www.atis.org/glossary/definition.aspx?id=5572 |archivedate=13 March 2013 |df= }}&lt;/ref&gt; Audit records typically result from activities such as [[financial transaction]]s,&lt;ref&gt;{{cite web |url=https://www.sec.gov/news/press/2010/2010-86.htm |title=SEC Proposes Consolidated Audit Trail System to Better Track Market Trades |publisher=U.S.</seg>
       </tuv>
-      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190528T072931Z" creationid="Tom" creationdate="20190528T072931Z">
-        <seg> '''審計跟踪'''（也稱為'''審計日誌'''）是與安全相關的時間順序記錄、記錄集和/或目的地和記錄來源，它們提供了在任何時候影響特定操作，程序的活動順序的文件證據或事件&lt;ref&gt;{{cite web |url=http://www.cnss.gov/Assets/pdf/cnssi_4009.pdf |title=National Information Assurance (IA) Glossary |trans-title=國家信息保障（IA）詞彙表 |publisher=[[Committee on National Security Systems]] |pages=4 |date=1996-08-07 |access-date=2012-03-07 |format=PDF |language=en }}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.atis.org/glossary/definition.aspx?id=5572 |title=ATIS Telecom Glossary 2012 - audit trail |trans-title=ATIS電信詞彙表2012 - 審計線索 |publisher=[[Alliance for Telecommunications Industry Solutions]] (ATIS) Committee PRQC |year=2012 |access-date=2012-03-07 |deadurl=yes |archiveurl=https://web.archive.org/web/20130313232104/http://www.atis.org/glossary/definition.aspx?id=5572 |archivedate=2013-03-13 |language=en }}&lt;/ref&gt;。審計記錄通常來自一些活動，例如：[[金融交易]]&lt;ref&gt;{{cite web |url=https://www.sec.gov/news/press/2010/2010-86.htm |title=SEC Proposes Consolidated Audit Trail System to Better Track Market Trades |publisher=U.S.</seg>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190604T084610Z" creationid="Tom" creationdate="20190528T072931Z">
+        <seg> '''稽核軌跡'''（也稱為'''檔案日誌'''）是與安全相關的時間順序記錄、記錄集和/或目的地和記錄來源，它們提供了在任何時候影響特定操作，程序的活動順序的文件證據或事件&lt;ref&gt;{{cite web |url=http://www.cnss.gov/Assets/pdf/cnssi_4009.pdf |title=National Information Assurance (IA) Glossary |trans-title=國家信息保障（IA）詞彙表 |publisher=[[Committee on National Security Systems]] |pages=4 |date=1996-08-07 |access-date=2012-03-07 |format=PDF |language=en }}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.atis.org/glossary/definition.aspx?id=5572 |title=ATIS Telecom Glossary 2012 - audit trail |trans-title=ATIS電信詞彙表2012 - 審計線索 |publisher=[[Alliance for Telecommunications Industry Solutions]] (ATIS) Committee PRQC |year=2012 |access-date=2012-03-07 |deadurl=yes |archiveurl=https://web.archive.org/web/20130313232104/http://www.atis.org/glossary/definition.aspx?id=5572 |archivedate=2013-03-13 |language=en }}&lt;/ref&gt;。稽核軌跡通常來自一些活動，例如：[[金融交易]]&lt;ref&gt;{{cite web |url=https://www.sec.gov/news/press/2010/2010-86.htm |title=SEC Proposes Consolidated Audit Trail System to Better Track Market Trades |publisher=U.S.</seg>
       </tuv>
     </tu>
     <tu>
@@ -308,10 +669,26 @@
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>Before setting up and start using DocTracker,<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>it is required to create users for different roles,<ph x="2">&lt;t2/&gt;</ph>,<ph x="3">&lt;t3/&gt;</ph> The Admin role can create an account for the (Supervisor, Technician) role<ph x="4">&lt;t4/&gt;</ph>,<ph x="5">&lt;t5/&gt;</ph> The Supervisor role can create an account for the (Auditor, Reviewer) role<ph x="6">&lt;t6/&gt;</ph>.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T082439Z" creationid="Tom" creationdate="20190611T082439Z">
+        <seg>在設置和開始使用DocTracker之前, <ph x="0">&lt;t0/&gt;</ph><ph x="1">&lt;t1/&gt;</ph>需要為不同的角色創建使用者帳號<ph x="2">&lt;t2/&gt;</ph>：<ph x="3">&lt;t3/&gt;</ph>Admin角色可創建(Supervisor, Technician)角色的帳號<ph x="4">&lt;t4/&gt;</ph>；<ph x="5">&lt;t5/&gt;</ph>Supervisor角色可創建(Auditor,Reviewer)角色的帳號.<ph x="6">&lt;t6/&gt;</ph>。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>Before we can start, we need to follow the steps in the “Installation Guide” to have all the software necessary installed and configure properly.</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190530T052510Z" creationid="Tom" creationdate="20190530T052510Z">
         <seg>在我們開始之前，首先要跟隨「安裝手冊」的步驟，把所需要的軟體安裝及設定好。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Browse and login DIKO</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190610T083316Z" creationid="Tom" creationdate="20190610T083316Z">
+        <seg>瀏覽並登入DIKO</seg>
       </tuv>
     </tu>
     <tu>
@@ -420,6 +797,38 @@
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>Click <ph x="0">&lt;t0/&gt;</ph> to delete the user or click <ph x="1">&lt;t1/&gt;</ph> to cancel the deletion.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T090702Z" creationid="Tom" creationdate="20190611T090702Z">
+        <seg>按一下 <ph x="0">&lt;t0/&gt;</ph> 後刪除使用者，又或按一下 <ph x="1">&lt;t1/&gt;</ph> 取消刪除動作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Click <ph x="0">&lt;t0/&gt;</ph>“<ph x="1">&lt;t1/&gt;</ph>Disconnect<ph x="2">&lt;t2/&gt;</ph>”<ph x="3">&lt;t3/&gt;</ph> to end session.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190610T082742Z" creationid="Tom" creationdate="20190610T082742Z">
+        <seg>點擊 <ph x="0">&lt;t0/&gt;</ph>「<ph x="1">&lt;t1/&gt;</ph>Disconnect<ph x="2">&lt;t2/&gt;</ph>」<ph x="3">&lt;t3/&gt;</ph> 結束工作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Click the <ph x="0">&lt;t0/&gt;</ph> button to save the changes.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T092145Z" creationid="Tom" creationdate="20190611T092145Z">
+        <seg>按一下 <ph x="0">&lt;t0/&gt;</ph> 鈕儲存變更。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Click the <ph x="1">&lt;t1/&gt;</ph> button to exit the screen without saving.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T092241Z" creationid="Tom" creationdate="20190611T092241Z">
+        <seg>按一下 <ph x="1">&lt;t1/&gt;</ph> 鈕離開畫面而不去儲存變更。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>Click<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>“<ph x="2">&lt;t2/&gt;</ph>Install<ph x="3">&lt;t3/&gt;</ph>”</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190604T064715Z" creationid="Tom" creationdate="20190604T064715Z">
@@ -428,10 +837,26 @@
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>Click<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>“Finish”</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190610T013849Z" creationid="Tom" creationdate="20190610T013849Z">
+        <seg>點擊<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>「Finish」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>Click<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>“Next”</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190604T064645Z" creationid="Tom" creationdate="20190604T064645Z">
         <seg>點擊<ph x="0">&lt;t0/&gt;</ph><ph x="1">&lt;t1/&gt;</ph>「Next」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Click<ph x="0">&lt;t0/&gt;</ph>“<ph x="1">&lt;t1/&gt;</ph>Download<ph x="2">&lt;t2/&gt;</ph> and install this feature<ph x="3">&lt;t3/&gt;</ph>”</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190610T013915Z" creationid="Tom" creationdate="20190610T013634Z">
+        <seg>點擊<ph x="0">&lt;t0/&gt;</ph>「<ph x="1">&lt;t1/&gt;</ph>Download<ph x="2">&lt;t2/&gt;</ph> and install this feature<ph x="3">&lt;t3/&gt;</ph>」</seg>
       </tuv>
     </tu>
     <tu>
@@ -476,6 +901,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>Confirm Password</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T083558Z" creationid="Tom" creationdate="20190611T083558Z">
+        <seg>確定密碼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>Contact</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190604T020353Z" creationid="Tom" creationdate="20190604T020353Z">
@@ -500,10 +933,34 @@
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>Copyright 2017-2019 All rights reserved</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190606T030418Z" creationid="Tom" creationdate="20190606T030418Z">
+        <seg>©2017-2019 版權所有坐言起行教育有限公司。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Copyright 2017<ph x="0">&lt;t0/&gt;</ph>-2019<ph x="1">&lt;t1/&gt;</ph> All rights reserved</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190605T094008Z" creationid="Tom" creationdate="20190605T094008Z">
+        <seg>©2017<ph x="0">&lt;t0/&gt;</ph>-2019<ph x="1">&lt;t1/&gt;</ph> 版權所有坐言起行教育有限公司。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>Copyright 2018<ph x="0">&lt;t0/&gt;</ph>-2019<ph x="1">&lt;t1/&gt;</ph> All rights reserved.</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190604T061915Z" creationid="Tom" creationdate="20190604T061915Z">
         <seg>©2018<ph x="0">&lt;t0/&gt;</ph>-2019<ph x="1">&lt;t1/&gt;</ph> 版權所有坐言起行教育有限公司。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>DIKO <ph x="0">&lt;t0/&gt;</ph>DropZone<ph x="1">&lt;t1/&gt;</ph> <ph x="2">&lt;t2/&gt;</ph>Installation and User Guide</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190605T095140Z" creationid="Tom" creationdate="20190605T095140Z">
+        <seg>DIKO <ph x="0">&lt;t0/&gt;</ph>DropZone<ph x="1">&lt;t1/&gt;</ph> <ph x="2">&lt;t2/&gt;</ph>安裝及使用手冊</seg>
       </tuv>
     </tu>
     <tu>
@@ -516,10 +973,42 @@
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>DIKO Installation &amp; Configuration</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190605T094237Z" creationid="Tom" creationdate="20190605T094237Z">
+        <seg>DIKO 安裝 &amp; 設置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>DIKO Installation Guide v1.0</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190605T094205Z" creationid="Tom" creationdate="20190605T094205Z">
+        <seg>DIKO Diko 安裝導覽 v1.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>DIKO Overview</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190528T080509Z" creationid="Tom" creationdate="20190528T080509Z">
         <seg>DIKO概述</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>DIKO Server Core</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190605T094418Z" creationid="Tom" creationdate="20190605T094418Z">
+        <seg>DIKO伺服器核心</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>DIKO does not only serve as a platform for users to share their “knowledge”, it also enhances the document collaboration among the users in the corporation.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190606T030729Z" creationid="Tom" creationdate="20190606T030729Z">
+        <seg> DIKO不僅可以作為用戶分享他們“知識”的平台，而且還增強了企業內各個使用者之間的文件協作。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -540,10 +1029,26 @@
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>DIKO<ph x="0">&lt;t0/&gt;</ph> User Guide</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190606T030401Z" creationid="Tom" creationdate="20190606T030401Z">
+        <seg>DIKO<ph x="0">&lt;t0/&gt;</ph> 使用者導覽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>DIKO<ph x="0">&lt;t0/&gt;</ph> consists of two storage media namely Database and File System.</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190530T034440Z" creationid="Tom" creationdate="20190530T034440Z">
         <seg>DIKO由兩個儲存媒體組成，即資料庫和檔案系統。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>DIKO<ph x="0">&lt;t0/&gt;</ph> is a web-based Knowledge Management System which maintains the documents integrity and restricts the document access.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190606T032905Z" creationid="Tom" creationdate="20190606T030611Z">
+        <seg>DIKO<ph x="0">&lt;t0/&gt;</ph>是一個基於網絡的知識管理系統，負責維護文件的完整性、並限制文件訪問。</seg>
       </tuv>
     </tu>
     <tu>
@@ -612,10 +1117,26 @@
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>Description</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190606T034430Z" creationid="Tom" creationdate="20190606T034430Z">
+        <seg>描述</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>Diko<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>Backup &amp; Restore Procedures</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190603T072311Z" creationid="Tom" creationdate="20190528T080148Z">
         <seg>Diko<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>備份與復原程式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Diko<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>Installation Guide</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190605T094145Z" creationid="Tom" creationdate="20190605T094145Z">
+        <seg>Diko<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>Diko 安裝導覽</seg>
       </tuv>
     </tu>
     <tu>
@@ -632,6 +1153,14 @@
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190528T075104Z">
         <seg>版權聲明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Document</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190606T034600Z" creationid="Tom" creationdate="20190606T034600Z">
+        <seg>文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -668,10 +1197,26 @@
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>Drag and drop to upload or download files to and from DIKO server.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190610T082600Z" creationid="Tom" creationdate="20190610T082600Z">
+        <seg>可以直接把要下載或上傳的資料拖放到相對位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>Each category consists a group of fields which hold the metadata for searching.</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190603T073627Z" creationid="Tom" creationdate="20190603T073627Z">
         <seg>每個類別都包含一組欄位，用來支援元資料的搜尋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Email</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T082954Z" creationid="Tom" creationdate="20190611T082954Z">
+        <seg>電子郵件</seg>
       </tuv>
     </tu>
     <tu>
@@ -692,6 +1237,30 @@
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>Finally, <ph x="2">&lt;t2/&gt;</ph>click<ph x="3">&lt;t3/&gt;</ph>Click<ph x="4">&lt;t4/&gt;</ph> [Login] or Press Enter Key</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190605T092307Z" creationid="Tom" creationdate="20190605T092307Z">
+        <seg>最後，<ph x="2">&lt;t2/&gt;</ph>點擊<ph x="3">&lt;t3/&gt;</ph>點擊<ph x="4">&lt;t4/&gt;</ph> [Login]或按下Enter鍵。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>First Name</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T082904Z" creationid="Tom" creationdate="20190611T082904Z">
+        <seg>用戶名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Folder</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190606T034518Z" creationid="Tom" creationdate="20190606T034518Z">
+        <seg>資料夾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>For inquiries, please send your email <ph x="0">&lt;t0/&gt;</ph>to info@speechnact.asia<ph x="1">&lt;t1/&gt;</ph>.</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190528T075357Z">
@@ -700,18 +1269,42 @@
     </tu>
     <tu>
       <tuv xml:lang="EN">
-        <seg>For more information on designating a specific point in time, see <ph x="9">&lt;t9/&gt;</ph>Backup Timeline<ph x="10">&lt;t10/&gt;</ph>.</seg>
-      </tuv>
-      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190604T062832Z" creationid="Tom" creationdate="20190604T062832Z">
-        <seg>有關指定特定時間點的詳細資訊，請參閱<ph x="9">&lt;t9/&gt;</ph>備份時間表<ph x="10">&lt;t10/&gt;</ph>。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="EN">
         <seg>G<ph x="0">&lt;t0/&gt;</ph>o back to the main screen.</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Administrator" changedate="20190603T084936Z" creationid="Administrator" creationdate="20190603T084936Z">
         <seg><ph x="0">&lt;t0/&gt;</ph>返回主畫面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Generate software license for DIKO</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190605T094510Z" creationid="Tom" creationdate="20190605T094510Z">
+        <seg>為DIKO產生軟體的認證</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Getting Started</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190606T031000Z" creationid="Tom" creationdate="20190606T031000Z">
+        <seg>入門</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Give “blueprint.txt” to the vendor</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190610T014457Z" creationid="Tom" creationdate="20190610T014457Z">
+        <seg>把「blueprint.txt」檔案傳送回給vendor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Go to “System” then select “Settings”</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190610T015204Z" creationid="Tom" creationdate="20190610T015031Z">
+        <seg>進入「DIKO Drop Zone」界面，點擊「系統」，然後再點擊「設定」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -772,6 +1365,22 @@
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>In <ph x="0">&lt;t0/&gt;</ph>DIKO<ph x="1">&lt;t1/&gt;</ph>, there are two working spaces for the users namely, <ph x="2">&lt;t2/&gt;</ph>Corporate Library<ph x="3">&lt;t3/&gt;</ph> and <ph x="4">&lt;t4/&gt;</ph>Personal Library<ph x="5">&lt;t5/&gt;</ph>.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190606T033922Z" creationid="Tom" creationdate="20190606T033922Z">
+        <seg>在<ph x="0">&lt;t0/&gt;</ph>DIKO<ph x="1">&lt;t1/&gt;</ph>，用戶有兩個工作空間，即：<ph x="2">&lt;t2/&gt;</ph>Corporate Library<ph x="3">&lt;t3/&gt;</ph>和<ph x="4">&lt;t4/&gt;</ph>Personal Library<ph x="5">&lt;t5/&gt;</ph>。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>In [[voting]], a [[voter-verified paper audit trail]] is a method of providing feedback to voters using a [[ballot]]less voting system.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190604T084832Z" creationid="Tom" creationdate="20190604T084832Z">
+        <seg>在[[投票]]中，[[選民證實的紙質審計線索]]是一種使用[[選票]]少投票系統向選民提供反饋的方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>In case of disaster happens, the backup can be restored and the operation loss can be minimized.</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190603T074650Z" creationid="Tom" creationdate="20190603T074650Z">
@@ -800,6 +1409,38 @@
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190604T062819Z" creationid="Tom" creationdate="20190603T100028Z">
         <seg>在<ph x="0">&lt;t0/&gt;</ph>Restore to<ph x="1">&lt;t1/&gt;</ph>框中，保留預設設置為<ph x="2">&lt;t2/&gt;</ph>To<ph x="3">&lt;t3/&gt;</ph> the last backup taken<ph x="4">&lt;t4/&gt;</ph>或按一下<ph x="5">&lt;t5/&gt;</ph>Timeline<ph x="6">&lt;t6/&gt;</ph>以訪問<ph x="7">&lt;t7/&gt;</ph>Backup Timeline<ph x="8">&lt;t8/&gt;</ph>對話方塊，以手動選擇停止恢復操作的時間點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Install IIS Server within .net Framework 3.5.1 &amp; 4.5</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190605T094344Z" creationid="Tom" creationdate="20190605T094344Z">
+        <seg>在.net Framework 3.5.1 &amp;amp; 4.5.1安裝IIS Server</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Install the Microsoft WSE 2.0</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190605T094402Z" creationid="Tom" creationdate="20190605T094402Z">
+        <seg>安裝Microsoft WSE 2.0 SP3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Install “Microsoft SQL 2012 Express”</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190605T094442Z" creationid="Tom" creationdate="20190605T094442Z">
+        <seg>安裝“Microsoft SQL 2012 Express”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Installing Open Office</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190605T094427Z" creationid="Tom" creationdate="20190605T094427Z">
+        <seg>安裝Open Office</seg>
       </tuv>
     </tu>
     <tu>
@@ -836,6 +1477,15 @@
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>It can be “English”, “Simplified Chinese” or “Traditional Chinese”.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T084005Z" creationid="Tom" creationdate="20190611T084005Z">
+        <seg>可設定為「English」（英文）、「Simplified Chinese」（簡體中文）、「Traditional Chinese」（繁體中文）。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>It can display and accept multi-lingual inputs.</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190530T031618Z" creationid="Tom" creationdate="20190530T031618Z">
@@ -868,6 +1518,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>Last Name</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T082939Z" creationid="Tom" creationdate="20190611T082939Z">
+        <seg>用戶姓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>Later, he will be transferred to another department and will report to Professor Kuroda.</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190529T042317Z" creationid="Tom" creationdate="20190529T042317Z">
@@ -884,10 +1542,10 @@
     </tu>
     <tu>
       <tuv xml:lang="EN">
-        <seg>May 2019</seg>
+        <seg>Locale</seg>
       </tuv>
-      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190530T030517Z" creationid="Tom" creationdate="20190530T030517Z">
-        <seg>2019年5月</seg>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T083758Z" creationid="Tom" creationdate="20190611T083758Z">
+        <seg>語言</seg>
       </tuv>
     </tu>
     <tu>
@@ -948,6 +1606,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>O<ph x="0">&lt;t0/&gt;</ph>nce login with <ph x="1">&lt;t1/&gt;</ph>Admin<ph x="2">&lt;t2/&gt;</ph> role,<ph x="3">&lt;t3/&gt;</ph> <ph x="4">&lt;t4/&gt;</ph>DocTracker main page will show User Account Summary as b<ph x="5">&lt;t5/&gt;</ph>elo<ph x="6">&lt;t6/&gt;</ph>w:</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T082108Z" creationid="Tom" creationdate="20190611T082108Z">
+        <seg>當<ph x="0">&lt;t0/&gt;</ph>具有<ph x="1">&lt;t1/&gt;</ph>管理員<ph x="2">&lt;t2/&gt;</ph>權限<ph x="3">&lt;t3/&gt;</ph>的帳號登錄通過後，<ph x="4">&lt;t4/&gt;</ph>DocTracker主頁將顯示如<ph x="5">&lt;t5/&gt;</ph><ph x="6">&lt;t6/&gt;</ph>下的用戶帳戶摘要</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>OS</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190604T063314Z" creationid="Tom" creationdate="20190604T063314Z">
@@ -956,10 +1622,26 @@
     </tu>
     <tu>
       <tuv xml:lang="EN">
-        <seg>Oct 2018</seg>
+        <seg>OU<ph x="0">&lt;t0/&gt;</ph> User Account</seg>
       </tuv>
-      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190528T063418Z">
-        <seg>2018年10月</seg>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T091048Z" creationid="Tom" creationdate="20190611T091048Z">
+        <seg>OU<ph x="0">&lt;t0/&gt;</ph> 使用者帳號</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Object Type</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190606T034426Z" creationid="Tom" creationdate="20190606T034426Z">
+        <seg>物件類型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Obtaining the OU from the AD server</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T091821Z" creationid="Tom" creationdate="20190611T091821Z">
+        <seg>從AD伺服器獲取OU</seg>
       </tuv>
     </tu>
     <tu>
@@ -968,6 +1650,22 @@
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Administrator" changedate="20190603T092404Z" creationid="Administrator" creationdate="20190603T092404Z">
         <seg>在<ph x="0">&lt;t0/&gt;</ph>General<ph x="1">&lt;t1/&gt;</ph>頁面上，使用<ph x="2">&lt;t2/&gt;</ph>Source<ph x="3">&lt;t3/&gt;</ph>部分指定要復原的備份組的來源和位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Open Web browser (e.g.: Chrome), input address “http://127.0.0.1/<ph x="0">&lt;t0/&gt;</ph>diko<ph x="1">&lt;t1/&gt;</ph>/index.aspx”, input admin as the Login ID &amp; 12345 as the password.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190605T092517Z" creationid="Tom" creationdate="20190605T092517Z">
+        <seg>打開網頁瀏覽器（例如：Google Chrome），輸入網址“http://127.0.0.1/<ph x="0">&lt;t0/&gt;</ph>diko<ph x="1">&lt;t1/&gt;</ph>/index.aspx”， 以預設ID帳號admin來登入，預設密碼為 12345。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>P<ph x="0">&lt;t0/&gt;</ph>ersonal<ph x="1">&lt;t1/&gt;</ph> <ph x="2">&lt;t2/&gt;</ph>Profile</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T091025Z" creationid="Tom" creationdate="20190611T091025Z">
+        <seg>使<ph x="0">&lt;t0/&gt;</ph>用者<ph x="1">&lt;t1/&gt;</ph> <ph x="2">&lt;t2/&gt;</ph>個人資料</seg>
       </tuv>
     </tu>
     <tu>
@@ -984,6 +1682,14 @@
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Administrator" changedate="20190603T084906Z" creationid="Administrator" creationdate="20190603T084906Z">
         <seg>第<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>2<ph x="2">&lt;t2/&gt;</ph> <ph x="3">&lt;t3/&gt;</ph>/<ph x="4">&lt;t4/&gt;</ph> <ph x="5">&lt;t5/&gt;</ph>2 頁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Password</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T083352Z" creationid="Tom" creationdate="20190611T083352Z">
+        <seg>密碼</seg>
       </tuv>
     </tu>
     <tu>
@@ -1028,6 +1734,54 @@
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>Press this button to create the user with the input information.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T090343Z" creationid="Tom" creationdate="20190611T090343Z">
+        <seg>按下此按鈕可透過已輸入的使用者資訊來創建使用者帳號。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Press this button to leave this page without adding the user.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T090307Z" creationid="Tom" creationdate="20190611T090307Z">
+        <seg>按此按鈕離開此頁面而不添加使用者帳號。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Re-type the password for the user.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T083635Z" creationid="Tom" creationdate="20190611T083635Z">
+        <seg>重新輸入使用者的登入密碼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Record will be saved when the synchronize process is occurred.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T092531Z" creationid="Tom" creationdate="20190611T092531Z">
+        <seg>同步紀錄會在同步過程發生時保存。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Records Per Page</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T083830Z" creationid="Tom" creationdate="20190611T083830Z">
+        <seg>每頁紀錄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Remark</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T092400Z" creationid="Tom" creationdate="20190611T092400Z">
+        <seg>提示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>Remarks</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190528T075436Z">
@@ -1040,6 +1794,14 @@
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190604T061335Z" creationid="Tom" creationdate="20190604T061335Z">
         <seg>移除%s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Requirement</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190605T094259Z" creationid="Tom" creationdate="20190605T094259Z">
+        <seg>需求</seg>
       </tuv>
     </tu>
     <tu>
@@ -1076,10 +1838,26 @@
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>Right click<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>“<ph x="2">&lt;t2/&gt;</ph>DIKO <ph x="3">&lt;t3/&gt;</ph>DropZone<ph x="4">&lt;t4/&gt;</ph>”</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190605T095736Z" creationid="Tom" creationdate="20190605T095640Z">
+        <seg>右鍵點擊<ph x="0">&lt;t0/&gt;</ph><ph x="1">&lt;t1/&gt;</ph>「<ph x="2">&lt;t2/&gt;</ph>DIKO <ph x="3">&lt;t3/&gt;</ph>DropZone<ph x="4">&lt;t4/&gt;</ph>」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>Right-click <ph x="0">&lt;t0/&gt;</ph>Databases<ph x="1">&lt;t1/&gt;</ph> and select <ph x="2">&lt;t2/&gt;</ph>Restore Database...</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Administrator" changedate="20190603T092140Z" creationid="Administrator" creationdate="20190603T091907Z">
         <seg>於<ph x="0">&lt;t0/&gt;</ph>Databases<ph x="1">&lt;t1/&gt;</ph>按右鍵，然後點選<ph x="2">&lt;t2/&gt;</ph>Restore Database...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Role</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T083122Z" creationid="Tom" creationdate="20190611T083122Z">
+        <seg>角色</seg>
       </tuv>
     </tu>
     <tu>
@@ -1140,10 +1918,66 @@
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>Select<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>“<ph x="2">&lt;t2/&gt;</ph>Properties<ph x="3">&lt;t3/&gt;</ph>”<ph x="4">&lt;t4/&gt;</ph> <ph x="5">&lt;t5/&gt;</ph>under<ph x="6">&lt;t6/&gt;</ph>“<ph x="7">&lt;t7/&gt;</ph>Compatibility<ph x="8">&lt;t8/&gt;</ph>”<ph x="9">&lt;t9/&gt;</ph> <ph x="10">&lt;t10/&gt;</ph>click<ph x="11">&lt;t11/&gt;</ph> <ph x="12">&lt;t12/&gt;</ph>“<ph x="13">&lt;t13/&gt;</ph>Change settings for all users<ph x="14">&lt;t14/&gt;</ph>”<ph x="15">&lt;t15/&gt;</ph> <ph x="16">&lt;t16/&gt;</ph>check<ph x="17">&lt;t17/&gt;</ph> <ph x="18">&lt;t18/&gt;</ph>“<ph x="19">&lt;t19/&gt;</ph>Run this program as an administrator<ph x="20">&lt;t20/&gt;</ph>”</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190610T014256Z" creationid="Tom" creationdate="20190605T095935Z">
+        <seg>選擇<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>「<ph x="2">&lt;t2/&gt;</ph>Properties<ph x="3">&lt;t3/&gt;</ph>」<ph x="4">&lt;t4/&gt;</ph>，<ph x="5">&lt;t5/&gt;</ph>在<ph x="6">&lt;t6/&gt;</ph>「<ph x="7">&lt;t7/&gt;</ph>Compatibility<ph x="8">&lt;t8/&gt;</ph>」<ph x="9">&lt;t9/&gt;</ph> <ph x="10">&lt;t10/&gt;</ph>點擊<ph x="11">&lt;t11/&gt;</ph> <ph x="12">&lt;t12/&gt;</ph>「<ph x="13">&lt;t13/&gt;</ph>Change settings for all users<ph x="14">&lt;t14/&gt;</ph>」<ph x="15">&lt;t15/&gt;</ph> <ph x="16">&lt;t16/&gt;</ph>，然後再點選<ph x="17">&lt;t17/&gt;</ph> <ph x="18">&lt;t18/&gt;</ph>「<ph x="19">&lt;t19/&gt;</ph>Run this program as an administrator<ph x="20">&lt;t20/&gt;</ph>」‧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Select<ph x="0">&lt;t0/&gt;</ph>”<ph x="1">&lt;t1/&gt;</ph>Blueprint<ph x="2">&lt;t2/&gt;</ph>”<ph x="3">&lt;t3/&gt;</ph> <ph x="4">&lt;t4/&gt;</ph>path then<ph x="5">&lt;t5/&gt;</ph> <ph x="6">&lt;t6/&gt;</ph>click<ph x="7">&lt;t7/&gt;</ph>“<ph x="8">&lt;t8/&gt;</ph>Generate H/W Blueprint<ph x="9">&lt;t9/&gt;</ph>”</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190605T100045Z" creationid="Tom" creationdate="20190605T100045Z">
+        <seg>選擇<ph x="0">&lt;t0/&gt;</ph>「<ph x="1">&lt;t1/&gt;</ph>Blueprint<ph x="2">&lt;t2/&gt;</ph>」<ph x="3">&lt;t3/&gt;</ph> <ph x="4">&lt;t4/&gt;</ph>路徑 然後<ph x="5">&lt;t5/&gt;</ph> <ph x="6">&lt;t6/&gt;</ph>點擊<ph x="7">&lt;t7/&gt;</ph>「<ph x="8">&lt;t8/&gt;</ph>Generate H/W Blueprint<ph x="9">&lt;t9/&gt;</ph>」‧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>Select <ph x="0">&lt;t0/&gt;</ph>Prompt before restoring each backup<ph x="1">&lt;t1/&gt;</ph> if you wish to be prompted between each restore operation.</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Administrator" changedate="20190603T092806Z" creationid="Tom" creationdate="20190603T090610Z">
         <seg>如果希望在每個復原操作之間出現提示，請選擇<ph x="0">&lt;t0/&gt;</ph>Prompt before restoring each backup<ph x="1">&lt;t1/&gt;</ph>。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Server Path</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T091642Z" creationid="Tom" creationdate="20190611T091642Z">
+        <seg>伺服器路徑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Setting <ph x="0">&lt;t0/&gt;</ph>web<ph x="1">&lt;t1/&gt;</ph>.config</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190605T094524Z" creationid="Tom" creationdate="20190605T094524Z">
+        <seg>設定<ph x="0">&lt;t0/&gt;</ph>web<ph x="1">&lt;t1/&gt;</ph>.config</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Setup and initialize <ph x="0">&lt;t0/&gt;</ph>Solr<ph x="1">&lt;t1/&gt;</ph> system</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190605T094636Z" creationid="Tom" creationdate="20190605T094636Z">
+        <seg>設定並初始化<ph x="0">&lt;t0/&gt;</ph>Solr<ph x="1">&lt;t1/&gt;</ph>系統</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Shortcut</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190606T034712Z" creationid="Tom" creationdate="20190606T034712Z">
+        <seg>捷徑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Status</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T083733Z" creationid="Tom" creationdate="20190611T083733Z">
+        <seg>狀態</seg>
       </tuv>
     </tu>
     <tu>
@@ -1156,10 +1990,42 @@
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>Successfully entered DIKO <ph x="0">&lt;t0/&gt;</ph>DropZone<ph x="1">&lt;t1/&gt;</ph>, Click “Yes”</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190610T014900Z" creationid="Tom" creationdate="20190610T014900Z">
+        <seg>成功載入「DIKO <ph x="0">&lt;t0/&gt;</ph>DropZone<ph x="1">&lt;t1/&gt;</ph>」界面，點擊「No」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>Summary</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190529T041547Z" creationid="Tom" creationdate="20190529T041547Z">
         <seg>總結</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Sync Period</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T092012Z" creationid="Tom" creationdate="20190611T092012Z">
+        <seg>同步週期</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Sync Record</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T092302Z" creationid="Tom" creationdate="20190611T092302Z">
+        <seg>同步紀錄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Sync Time</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T091840Z" creationid="Tom" creationdate="20190611T091840Z">
+        <seg>同步時間</seg>
       </tuv>
     </tu>
     <tu>
@@ -1196,6 +2062,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>Table 1 Objects Description</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190606T034901Z" creationid="Tom" creationdate="20190606T034901Z">
+        <seg>表1 物件說明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>Table of Content</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190528T063441Z">
@@ -1212,10 +2086,42 @@
     </tu>
     <tu>
       <tuv xml:lang="EN">
-        <seg>The back<ph x="5">&lt;t5/&gt;</ph>up files are recommended to store on the NAS<ph x="6">&lt;t6/&gt;</ph> for protection.</seg>
+        <seg>The Supervisor user has permission to create Reviewer and Auditor.</seg>
       </tuv>
-      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190604T062624Z" creationid="Tom" creationdate="20190604T062624Z">
-        <seg>建議將備份<ph x="5">&lt;t5/&gt;</ph>檔案存儲在NAS<ph x="6">&lt;t6/&gt;</ph>上以方便保護。</seg>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T083349Z" creationid="Tom" creationdate="20190611T083349Z">
+        <seg>Supervisor角色的帳號有權限去建立 Reviewer 和 Auditor。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The Technician user has permission to setup the system.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T083147Z" creationid="Tom" creationdate="20190611T083147Z">
+        <seg>Technician角色的帳號有權限去設定系統。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The backup files are recommended to store on the NAS<ph x="5">&lt;t5/&gt;</ph> for protection.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Administrator" changedate="20190603T091432Z" creationid="Administrator" creationdate="20190603T091432Z">
+        <seg>建議將備份檔案存儲在NAS上以方便保護。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The email address of the user.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T083011Z" creationid="Tom" creationdate="20190611T083011Z">
+        <seg>用戶的電子郵件地址</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The first name of the user.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T082924Z" creationid="Tom" creationdate="20190611T082924Z">
+        <seg>用戶的名字。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1236,10 +2142,58 @@
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>The following table shows the usage of these Objects.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190606T034940Z" creationid="Tom" creationdate="20190606T034940Z">
+        <seg>下表顯示了這些物件的用法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The language for the User Interface.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T090013Z" creationid="Tom" creationdate="20190611T090013Z">
+        <seg>使用者介面呈現的語言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The last name of the user.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T082947Z" creationid="Tom" creationdate="20190611T082947Z">
+        <seg>用戶的姓氏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>The list contains only databases that have been backed up according to the <ph x="0">&lt;t0/&gt;</ph>msdb<ph x="1">&lt;t1/&gt;</ph> backup history.</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Administrator" changedate="20190603T093110Z" creationid="Administrator" creationdate="20190603T093110Z">
         <seg>該清單僅包含根據<ph x="0">&lt;t0/&gt;</ph>msdb<ph x="1">&lt;t1/&gt;</ph>備份歷史記錄作過備份的資料庫。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The meaning of column ‘REMARK’:</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T092355Z" creationid="Tom" creationdate="20190611T092355Z">
+        <seg>「提示」欄位的定義：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The number of records shown on each page.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T090248Z" creationid="Tom" creationdate="20190611T090248Z">
+        <seg>每頁顯示的記錄數。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The password for the user.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T083643Z" creationid="Tom" creationdate="20190611T083546Z">
+        <seg>使用者的登入密碼</seg>
       </tuv>
     </tu>
     <tu>
@@ -1252,6 +2206,22 @@
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>The selected OU from the AD server</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T091805Z" creationid="Tom" creationdate="20190611T091805Z">
+        <seg>從AD伺服器中選擇的OU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The status of the user.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T083744Z" creationid="Tom" creationdate="20190611T083744Z">
+        <seg>使用者的狀態。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>The structure of the school is as follows:</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190529T093241Z" creationid="Tom" creationdate="20190529T093241Z">
@@ -1260,10 +2230,82 @@
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>The time of the day to sync with the AD server</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T091952Z" creationid="Tom" creationdate="20190611T091952Z">
+        <seg>在一天內會與AD伺服器同步的時間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The title of the user.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T083100Z" creationid="Tom" creationdate="20190611T083046Z">
+        <seg>用戶的職稱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The unique Login ID for the user.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T082931Z" creationid="Tom" creationdate="20190611T082851Z">
+        <seg>使用者唯一的登錄ID。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The user password of the AD server.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T091741Z" creationid="Tom" creationdate="20190611T091741Z">
+        <seg>AD 伺服器的密碼。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The username of the AD server.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T091730Z" creationid="Tom" creationdate="20190611T091730Z">
+        <seg>AD 伺服器的使用者名稱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The value ranges from 10 to 60.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T090252Z" creationid="Tom" creationdate="20190611T090252Z">
+        <seg>數值的範圍從10到60。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The “knowledge” is collected from our users’ documents, meeting agendas, emails and other possible sources of knowledge.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190606T030639Z" creationid="Tom" creationdate="20190606T030639Z">
+        <seg>“知識”來自我們的使用者的文件、會議議程、電子郵件和其他可能的知識來源。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>Then you will see the dialog box below<ph x="0">&lt;t0/&gt;</ph>:</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190530T050605Z" creationid="Tom" creationdate="20190530T050605Z">
         <seg>然後你會看到以下的對話框<ph x="0">&lt;t0/&gt;</ph>：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>There are 3 type of sync period, daily, weekly, and monthly.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T092035Z" creationid="Tom" creationdate="20190611T092035Z">
+        <seg>有三種同步週期：每日、每週或每月。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>There are four different kinds of Object in DIKO namely, <ph x="0">&lt;t0/&gt;</ph>Folder<ph x="1">&lt;t1/&gt;</ph>, <ph x="2">&lt;t2/&gt;</ph>Document<ph x="3">&lt;t3/&gt;</ph>, <ph x="4">&lt;t4/&gt;</ph>URL<ph x="5">&lt;t5/&gt;</ph> and <ph x="6">&lt;t6/&gt;</ph>Shortcut<ph x="7">&lt;t7/&gt;</ph>.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190606T035056Z" creationid="Tom" creationdate="20190606T035056Z">
+        <seg>DIKO中有四種不同的物件，即<ph x="0">&lt;t0/&gt;</ph>資料夾<ph x="1">&lt;t1/&gt;</ph>、<ph x="2">&lt;t2/&gt;</ph>文件<ph x="3">&lt;t3/&gt;</ph>、<ph x="4">&lt;t4/&gt;</ph>URL<ph x="5">&lt;t5/&gt;</ph>和<ph x="6">&lt;t6/&gt;</ph>捷徑<ph x="7">&lt;t7/&gt;</ph>。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1284,10 +2326,26 @@
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>This can be blanked<ph x="0">&lt;t0/&gt;</ph>.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T083114Z" creationid="Tom" creationdate="20190611T083114Z">
+        <seg>可留空<ph x="0">&lt;t0/&gt;</ph>。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>This check box sets the database to single user mode before performing the restore operations, and sets the database to multi-user mode when complete.</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190604T020151Z" creationid="Tom" creationdate="20190604T020151Z">
         <seg>此核取方塊在執行還原操作之前將資料庫設置為單使用者模式，並在完成時資料庫設置為多使用者模式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>This document provides an operation guideline on <ph x="3">&lt;t3/&gt;</ph>DIKO.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190606T030840Z" creationid="Tom" creationdate="20190606T030840Z">
+        <seg>本文件將提供<ph x="3">&lt;t3/&gt;</ph>DIKO的操作導覽。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1316,10 +2374,26 @@
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>Title</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T083023Z" creationid="Tom" creationdate="20190611T083023Z">
+        <seg>職稱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>To change the name of the database, enter the new name in the <ph x="4">&lt;t4/&gt;</ph>Database<ph x="5">&lt;t5/&gt;</ph> box.</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Administrator" changedate="20190603T093234Z" creationid="Administrator" creationdate="20190603T093234Z">
         <seg>要更改資料庫名稱，請在<ph x="4">&lt;t4/&gt;</ph>Database<ph x="5">&lt;t5/&gt;</ph>框中輸入新名稱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>To delete a user, select the user and click the <ph x="0">&lt;t0/&gt;</ph> button.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T090816Z" creationid="Tom" creationdate="20190611T090816Z">
+        <seg>如果要進行使用者帳號刪除, 勾選要刪除的使用者帳號後按下<ph x="0">&lt;t0/&gt;</ph> 鈕。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1348,10 +2422,42 @@
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>To switch between <ph x="14">&lt;t14/&gt;</ph>Library<ph x="15">&lt;t15/&gt;</ph>, click the                       button and choose the wanted <ph x="16">&lt;t16/&gt;</ph>Library<ph x="17">&lt;t17/&gt;</ph>.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190606T035238Z" creationid="Tom" creationdate="20190606T035238Z">
+        <seg><ph x="14">&lt;t14/&gt;</ph>資料夾<ph x="15">&lt;t15/&gt;</ph>之間的切換，請點擊                       按鈕選擇想要的<ph x="16">&lt;t16/&gt;</ph>資料夾<ph x="17">&lt;t17/&gt;</ph>。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>To use <ph x="0">&lt;t0/&gt;</ph>DIKO<ph x="1">&lt;t1/&gt;</ph>, the user simply opens a web browser like Internet Explorer, Google Chrome or Apple Safari.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190606T031726Z" creationid="Tom" creationdate="20190606T031726Z">
+        <seg>要使用<ph x="0">&lt;t0/&gt;</ph>DIKO<ph x="1">&lt;t1/&gt;</ph>，用戶只需打開諸如Internet Explorer、Google Chrome或Apple Safari等Web瀏覽器即可。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Total Account in OU</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T092417Z" creationid="Tom" creationdate="20190611T092417Z">
+        <seg>在OU中所有的帳號</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>Transfer</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190529T042358Z" creationid="Tom" creationdate="20190529T041543Z">
         <seg>調任</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>U<ph x="0">&lt;t0/&gt;</ph>ser Management</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T081757Z" creationid="Tom" creationdate="20190611T081757Z">
+        <seg>用<ph x="0">&lt;t0/&gt;</ph>戶管理</seg>
       </tuv>
     </tu>
     <tu>
@@ -1368,6 +2474,22 @@
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190604T064337Z" creationid="Tom" creationdate="20190604T064337Z">
         <seg>安裝完成後點擊<ph x="0">&lt;t0/&gt;</ph><ph x="1">&lt;t1/&gt;</ph>「<ph x="2">&lt;t2/&gt;</ph>Finish<ph x="3">&lt;t3/&gt;</ph>」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>User ID</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T082835Z" creationid="Tom" creationdate="20190611T082835Z">
+        <seg>用戶帳號</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>User Name</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T091704Z" creationid="Tom" creationdate="20190611T091704Z">
+        <seg>使用者名稱</seg>
       </tuv>
     </tu>
     <tu>
@@ -1471,9 +2593,9 @@
       <tuv xml:lang="EN">
         <seg>[[Category:Auditing terms|Trail]]</seg>
       </tuv>
-      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190528T074918Z" creationid="Tom" creationdate="20190528T074918Z">
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190604T084737Z" creationid="Tom" creationdate="20190528T074918Z">
         <seg>==外部連結==
-[[Category:審計術語]]</seg>
+[[Category:稽核術語]]</seg>
       </tuv>
     </tu>
     <tu>
@@ -1491,8 +2613,8 @@
       <tuv xml:lang="EN">
         <seg>[[Securities and Exchange Commission]] |date=26 May 2010 |accessdate=7 March 2012}}&lt;/ref&gt; [[scientific research]] and health care data transactions,&lt;ref&gt;{{cite web|url=http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;sid=5ff3a0efed913ef8fae9e225869688a2&amp;rgn=div5&amp;view=text&amp;node=21:1.0.1.1.7&amp;idno=21 |title=Electronic Code of Federal Regulations - Title 21: Food and Drugs - Part 11: Electronic Records; Electronic Signatures |publisher=[[U.S.</seg>
       </tuv>
-      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190528T074327Z" creationid="Tom" creationdate="20190528T073945Z">
-        <seg>[[美国证券交易委员会|Securities and Exchange Commission]] |date=2010-05-26 |access-date=2012-03-07 |language=en }}&lt;/ref&gt;、[[科学方法|科學研究]]和醫療保健數據交易&lt;ref&gt;{{cite web|url=http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;sid=5ff3a0efed913ef8fae9e225869688a2&amp;rgn=div5&amp;view=text&amp;node=21:1.0.1.1.7&amp;idno=21 |title=Electronic Code of Federal Regulations - Title 21: Food and Drugs - Part 11: Electronic Records; Electronic Signatures |publisher=[[美国政府出版局|U.S.</seg>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190604T084701Z" creationid="Tom" creationdate="20190528T073945Z">
+        <seg>[[美國證券交易委員會|Securities and Exchange Commission]] |date=2010-05-26 |access-date=2012-03-07 |language=en }}&lt;/ref&gt;、[[科學方法|科學研究]]和醫療保健數據交易&lt;ref&gt;{{cite web|url=http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;sid=5ff3a0efed913ef8fae9e225869688a2&amp;rgn=div5&amp;view=text&amp;node=21:1.0.1.1.7&amp;idno=21 |title=Electronic Code of Federal Regulations - Title 21: Food and Drugs - Part 11: Electronic Records; Electronic Signatures |publisher=[[美國政府出版局|U.S.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1517,6 +2639,30 @@
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190528T071401Z" creationid="Tom" creationdate="20190528T071401Z">
         <seg>{{Refimprove|time=2012-03}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>“<ph x="1">&lt;t1/&gt;</ph>Suspend<ph x="2">&lt;t2/&gt;</ph>” <ph x="3">&lt;t3/&gt;</ph>disables<ph x="4">&lt;t4/&gt;</ph> the user to access the system.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T090212Z" creationid="Tom" creationdate="20190611T090212Z">
+        <seg>「<ph x="1">&lt;t1/&gt;</ph>Suspend<ph x="2">&lt;t2/&gt;</ph>」<ph x="3">&lt;t3/&gt;</ph>禁止<ph x="4">&lt;t4/&gt;</ph> 使用者訪問系統。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>“Active” enables the user to logon to <ph x="0">&lt;t0/&gt;</ph>the system.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190611T090130Z" creationid="Tom" creationdate="20190611T090130Z">
+        <seg>「Active」讓使用者能夠登錄到<ph x="0">&lt;t0/&gt;</ph>系統。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>“Take Ownership” command <ph x="0">&lt;t0/&gt;</ph>(cf.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190605T092005Z" creationid="Tom" creationdate="20190605T092005Z">
+        <seg>「轉移擁有者」命令<ph x="0">&lt;t0/&gt;</ph>（見</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
