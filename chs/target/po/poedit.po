@@ -1,0 +1,1897 @@
+msgid ""
+msgstr "Project-Id-Version: poedit\n"
+"Report-Msgid-Bugs-To: help@poedit.net\n"
+"POT-Creation-Date: 2019-05-14 19:28+0200\n"
+"PO-Revision-Date: 2019-06-15 21:30+0800\n"
+"Last-Translator: Tom K. C. Chiu <babycaseny@gmail.com>\n"
+"Language-Team: Babycasèny Gavernmènt <babycaseny@gmail.com>\n"
+"Language: bb\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n==1?0:1;\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Crowdin-Project: poedit\n"
+"X-Crowdin-Language: bb\n"
+"X-Crowdin-File: /locales/poedit.pot\n"
+
+msgid " (beta version expires %s)"
+msgstr ""
+
+msgid " (modified)"
+msgstr ""
+
+msgid " (unsaved)"
+msgstr ""
+
+msgid "%d entry"
+msgid_plural "%d entries"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%d error"
+msgid_plural "%d errors"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%d issue with the translation found."
+msgid_plural "%d issues with the translation found."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%d out of %d online suggestion left."
+msgid_plural "%d out of %d online suggestions left."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%i line of file “%s” was not loaded correctly."
+msgid_plural "%i lines of file “%s” were not loaded correctly."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%s Format"
+msgstr ""
+
+msgid "%s format"
+msgstr ""
+
+msgid "&About"
+msgstr ""
+
+msgid "&About Poedit"
+msgstr ""
+
+msgid "&Bookmarks"
+msgstr ""
+
+msgid "&Close"
+msgstr ""
+
+msgid "&Copy"
+msgstr ""
+
+msgid "&Delete"
+msgstr ""
+
+msgid "&Done and Next"
+msgstr ""
+
+msgid "&Done and next"
+msgstr ""
+
+msgid "&Edit"
+msgstr ""
+
+msgid "&File"
+msgstr ""
+
+msgid "&GNU gettext Manual"
+msgstr ""
+
+msgid "&GNU gettext manual"
+msgstr ""
+
+msgid "&Go"
+msgstr ""
+
+msgid "&Group By Context"
+msgstr ""
+
+msgid "&Group by context"
+msgstr ""
+
+msgid "&Help"
+msgstr ""
+
+msgid "&Next >"
+msgstr ""
+
+msgid "&Next Translation"
+msgstr ""
+
+msgid "&Next translation"
+msgstr ""
+
+msgid "&Online Help"
+msgstr ""
+
+msgid "&Online help"
+msgstr ""
+
+msgid "&Open..."
+msgstr ""
+
+msgid "&Paste"
+msgstr ""
+
+msgid "&Preferences"
+msgstr ""
+
+msgid "&Previous Translation"
+msgstr ""
+
+msgid "&Previous translation"
+msgstr ""
+
+msgid "&Purge Deleted Translations"
+msgstr ""
+
+msgid "&Purge deleted translations"
+msgstr ""
+
+msgid "&Redo"
+msgstr ""
+
+msgid "&Replace"
+msgstr ""
+
+msgid "&Save"
+msgstr ""
+
+msgid "&Show References"
+msgstr ""
+
+msgid "&Show references"
+msgstr ""
+
+msgid "&Statistics"
+msgstr ""
+
+msgid "&Undo"
+msgstr ""
+
+msgid "&Untranslated Entries First"
+msgstr ""
+
+msgid "&Untranslated entries first"
+msgstr ""
+
+msgid "&Validate Translations"
+msgstr ""
+
+msgid "&Validate translations"
+msgstr ""
+
+msgid "&View"
+msgstr ""
+
+msgid "(0 new, 0 obsolete)"
+msgstr ""
+
+msgid "(Learn more about GNU gettext)"
+msgstr ""
+
+msgid "(New: %i, obsolete: %i)"
+msgstr ""
+
+msgid "(Use default language)"
+msgstr ""
+
+msgid "(requires Windows 8 or newer)"
+msgstr ""
+
+msgid "< &Previous"
+msgstr ""
+
+msgid ""
+"<big>Drag and Drop <b>Theme or Plugin Folder</b> Here</big>\n"
+"\n"
+"or use the “Choose Folder” button"
+msgstr ""
+
+msgid ""
+"<big>Drag and Drop Folders Here</big>\n"
+"\n"
+"or use the + button"
+msgstr ""
+
+msgid ""
+"<big>Drag and drop <b>theme or plugin folder</b> here</big>\n"
+"\n"
+"or use the “Choose folder” button"
+msgstr ""
+
+msgid ""
+"<big>Drag and drop folders here</big>\n"
+"\n"
+"or use the + button"
+msgstr ""
+
+msgid "<unnamed>"
+msgstr ""
+
+msgid "About %s"
+msgstr ""
+
+msgid "Accounts"
+msgstr ""
+
+msgid "Acknowledgements"
+msgstr ""
+
+msgid "Activate"
+msgstr ""
+
+msgid "Activating your license…"
+msgstr ""
+
+msgid "Add Comment"
+msgstr ""
+
+msgid "Add comment"
+msgstr ""
+
+msgid "Add directory to the list"
+msgstr ""
+
+msgid "Additional keywords"
+msgstr ""
+
+msgid "Advanced"
+msgstr ""
+
+msgid "All Translation Files"
+msgstr ""
+
+msgid "Alt+"
+msgstr ""
+
+msgid "Always change focus to text input field"
+msgstr ""
+
+msgid "An item in input files list:"
+msgstr ""
+
+msgid "An item in keywords list:"
+msgstr ""
+
+msgid "Analyzing WordPress code…"
+msgstr ""
+
+msgid "Appearance"
+msgstr ""
+
+msgid "Apply to all files I edit"
+msgstr ""
+
+msgid "Are you sure you want to delete the “%s” extractor?"
+msgstr ""
+
+msgid "Are you sure you want to reset the translation memory?"
+msgstr ""
+
+msgid "Ask me for each file individually"
+msgstr ""
+
+msgid "Automatically check for updates"
+msgstr ""
+
+msgid "Automatically compile MO file when saving"
+msgstr ""
+
+msgid "Base path:"
+msgstr ""
+
+msgid "Based on the open source version →"
+msgstr ""
+
+msgid "Beta expired"
+msgstr ""
+
+msgid ""
+"Beta versions contain the latest new features and improvements, but may be a bit "
+"less stable."
+msgstr ""
+
+msgid "Bring All to Front"
+msgstr ""
+
+msgid "Broken catalog file: plural form msgstr used without msgid_plural"
+msgstr ""
+
+msgid "Broken catalog file: singular form msgstr used together with msgid_plural"
+msgstr ""
+
+msgid "Browse"
+msgstr ""
+
+msgid "Buy Online…"
+msgstr ""
+
+msgid "Buy online…"
+msgstr ""
+
+msgid "C&atalog"
+msgstr ""
+
+msgid "C&lear"
+msgstr ""
+
+msgid ""
+"Can Poedit contribute your translations of this file to the online translation "
+"memory?"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Cannot create temporary directory."
+msgstr ""
+
+msgid "Cannot execute program: %s"
+msgstr ""
+
+msgid "Capitalize"
+msgstr ""
+
+msgid "Catalog"
+msgstr ""
+
+msgid "Catalog modified. Do you want to save changes?"
+msgstr ""
+
+msgid "Catalog properties"
+msgstr ""
+
+msgid "Catalogs &Manager"
+msgstr ""
+
+msgid "Catalogs &manager"
+msgstr ""
+
+msgid "Catalogs Manager"
+msgstr ""
+
+msgid "Change UI language"
+msgstr ""
+
+msgid "Characters"
+msgstr ""
+
+msgid "Characters are counted including spaces."
+msgstr ""
+
+msgid "Charset:"
+msgstr ""
+
+msgid "Check Document Now"
+msgstr ""
+
+msgid "Check Grammar With Spelling"
+msgstr ""
+
+msgid "Check Spelling While Typing"
+msgstr ""
+
+msgid "Check for Updates…"
+msgstr ""
+
+msgid "Check for errors in the translation"
+msgstr ""
+
+msgid "Check spelling"
+msgstr ""
+
+msgid "Choose this if you want to translate the theme or plugin into your language."
+msgstr ""
+
+msgid "Clear Translation"
+msgstr ""
+
+msgid "Clear the comment"
+msgstr ""
+
+msgid "Clear translation"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Collaborate on a translation with others"
+msgstr ""
+
+msgid "Collecting source files…"
+msgstr ""
+
+msgid "Command to extract translations:"
+msgstr ""
+
+msgid "Comment:"
+msgstr ""
+
+msgid "Compile to…"
+msgstr ""
+
+msgid "Compiled Translation Files"
+msgstr ""
+
+msgid "Configure source code extraction in Properties."
+msgstr ""
+
+msgid "Confirmation"
+msgstr ""
+
+msgid "Confused: multiple main plugin files."
+msgstr ""
+
+msgid "Connect to the Internet to get additional suggestions."
+msgstr ""
+
+msgid "Continue"
+msgstr ""
+
+msgid "Contribute"
+msgstr ""
+
+msgid "Contribute my translations to the online TM"
+msgstr ""
+
+msgid "Contributing"
+msgstr ""
+
+msgid ""
+"Contributing translations improves the quality of online suggestions for everybody "
+"— the more people do it, the better the suggestions can be. Your translations are "
+"submitted anonymously and are available to other translators using Poedit or other "
+"CAT tools."
+msgstr ""
+
+msgid "Copy"
+msgstr ""
+
+msgid "Copy From Singular"
+msgstr ""
+
+msgid "Copy from Source Text"
+msgstr ""
+
+msgid "Copy from singular"
+msgstr ""
+
+msgid "Copy from source text"
+msgstr ""
+
+msgid "Copy to Clipboard"
+msgstr ""
+
+msgid "Copy to clipboard"
+msgstr ""
+
+msgid "Correct Spelling Automatically"
+msgstr ""
+
+msgid "Couldn’t load file %s, it is probably corrupted."
+msgstr ""
+
+msgid "Couldn’t save file %s."
+msgstr ""
+
+msgid "Create New Translation"
+msgstr ""
+
+msgid "Create a POT"
+msgstr ""
+
+msgid "Create a new translation"
+msgstr ""
+
+msgid ""
+"Create a new translation. Poedit will set everything up; you can focus on "
+"translating."
+msgstr ""
+
+msgid "Create new translation"
+msgstr ""
+
+msgid "Create new translations project"
+msgstr ""
+
+msgid "Crowdin error"
+msgstr ""
+
+msgid ""
+"Crowdin is an online localization management platform and collaborative "
+"translation tool. Poedit can seamlessly sync PO files managed at Crowdin."
+msgstr ""
+
+msgid "Ctrl+"
+msgstr ""
+
+msgid "Cu&t"
+msgstr ""
+
+msgid "Customize Toolbar…"
+msgstr ""
+
+msgid "Cut"
+msgstr ""
+
+msgid "Database size on disk:"
+msgstr ""
+
+msgid "Deactivate"
+msgstr ""
+
+msgid "Deactivating your license…"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Delete extractor"
+msgstr ""
+
+msgid "Delete the project"
+msgstr ""
+
+msgid "Directories:"
+msgstr ""
+
+msgid ""
+"Do you really want to do mass update of\n"
+"all catalogs in this project?"
+msgstr ""
+
+msgid "Do you want to delete the project?"
+msgstr ""
+
+msgid "Do you want to remove all translations that are no longer used?"
+msgstr ""
+
+msgid "Do&n’t save"
+msgstr ""
+
+msgid "Don’t Ask Again"
+msgstr ""
+
+msgid "Don’t Save"
+msgstr ""
+
+msgid "Don’t Show Again"
+msgstr ""
+
+msgid "Don’t ask again"
+msgstr ""
+
+msgid "Don’t show again"
+msgstr ""
+
+msgid "Down"
+msgstr ""
+
+msgid "Download"
+msgstr ""
+
+msgid "Download a file from Crowdin project, translate and sync your changes back."
+msgstr ""
+
+msgid "Downloading latest translations…"
+msgstr ""
+
+msgid "Downloading translations is disabled in this project."
+msgstr ""
+
+msgid "E&xit"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Edit &Comment"
+msgstr ""
+
+msgid "Edit &comment"
+msgstr ""
+
+msgid "Edit Comment"
+msgstr ""
+
+msgid "Edit a translation"
+msgstr ""
+
+msgid "Edit comment"
+msgstr ""
+
+msgid "Edit project"
+msgstr ""
+
+msgid "Edit the project"
+msgstr ""
+
+msgid "Editing"
+msgstr ""
+
+msgid "Email Support"
+msgstr ""
+
+msgid "Email address"
+msgstr ""
+
+msgid "Email support"
+msgstr ""
+
+msgid "Email:"
+msgstr ""
+
+msgid "Enter"
+msgstr ""
+
+msgid "Enter Full Screen"
+msgstr ""
+
+msgid "Entries in the catalog are probably incorrect."
+msgstr ""
+
+msgid ""
+"Entries in this catalog have different plural forms count from what catalog’s "
+"Plural-Forms header says"
+msgstr ""
+
+msgid "Entries with Errors First"
+msgstr ""
+
+msgid "Entries with errors first"
+msgstr ""
+
+msgid ""
+"Entries with errors were marked in red in the list. Details of the error will be "
+"shown when you select such an entry."
+msgstr ""
+
+msgid "Error loading message catalog file “%s”."
+msgstr ""
+
+msgid "Error opening file"
+msgstr ""
+
+msgid "Error opening file %s!"
+msgstr ""
+
+msgid "Error saving catalog"
+msgstr ""
+
+msgid "Everything"
+msgstr ""
+
+msgid "Exceeded online TM daily limit."
+msgstr ""
+
+msgid "Excluded paths"
+msgstr ""
+
+msgid "Export as…"
+msgstr ""
+
+msgid "Extract from sources"
+msgstr ""
+
+msgid "Extract text from source files in the following directories:"
+msgstr ""
+
+msgid "Extracting translatable strings…"
+msgstr ""
+
+msgid "Extractor setup"
+msgstr ""
+
+msgid "Extractors"
+msgstr ""
+
+msgid "Failed command: %s"
+msgstr ""
+
+msgid "Failed to communicate with Poedit process."
+msgstr ""
+
+msgid "Failed to extract WordPress information."
+msgstr ""
+
+msgid "Failed to extract WordPress metadata from file %s."
+msgstr ""
+
+msgid "Failed to load extracted catalog."
+msgstr ""
+
+msgid "Failed to merge gettext catalogs."
+msgstr ""
+
+msgid "Failed to update translation memory: %s"
+msgstr ""
+
+msgid "File “%s” doesn’t exist."
+msgstr ""
+
+msgid ""
+"File “%s” is read-only and cannot be saved.\n"
+"Please save it under different name."
+msgstr ""
+
+msgid "File:"
+msgstr ""
+
+msgid "Find"
+msgstr ""
+
+msgid "Find Next"
+msgstr ""
+
+msgid "Find Previous"
+msgstr ""
+
+msgid "Find in comments"
+msgstr ""
+
+msgid "Find in source texts"
+msgstr ""
+
+msgid "Find in translations"
+msgstr ""
+
+msgid "Find next"
+msgstr ""
+
+msgid "Find previous"
+msgstr ""
+
+msgid "Fix Language"
+msgstr ""
+
+msgid "Fix language"
+msgstr ""
+
+msgid "Fix the Header"
+msgstr ""
+
+msgid "Fix the header"
+msgstr ""
+
+msgid "Folder “%s”"
+msgstr ""
+
+msgid "Form %i"
+msgstr ""
+
+msgid "Found %d Twig template file supported by Poedit Pro."
+msgid_plural "Found %d Twig template files supported by Poedit Pro."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Found neither WordPress theme nor plugin in the folder."
+msgstr ""
+
+msgid "Free version (please upgrade!)"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Go to Bookmark %i"
+msgstr ""
+
+msgid "Go to bookmark %i"
+msgstr ""
+
+msgid "HTML Files"
+msgstr ""
+
+msgid "Hide Sidebar"
+msgstr ""
+
+msgid "Hide Status Bar"
+msgstr ""
+
+msgid "Hide this notification message"
+msgstr ""
+
+msgid "ID"
+msgstr ""
+
+msgid ""
+"If you continue with purging, all translations marked as deleted will be "
+"permanently removed. You will have to translate them again if they are added back "
+"in the future."
+msgstr ""
+
+msgid "Ignore case"
+msgstr ""
+
+msgid "Include beta versions"
+msgstr ""
+
+msgid "Information about the translator"
+msgstr ""
+
+msgid "Install"
+msgstr ""
+
+msgid "Invalid file"
+msgstr ""
+
+msgid "Invalid license key"
+msgstr ""
+
+msgid "Invocation:"
+msgstr ""
+
+msgid "Items"
+msgstr ""
+
+msgid "Keep"
+msgstr ""
+
+msgid "Keep Private"
+msgstr ""
+
+msgid "Keep my translations private"
+msgstr ""
+
+msgid "Keep private"
+msgstr ""
+
+msgid "Language Code or Name (e.g. en_GB)"
+msgstr ""
+
+msgid "Language of the translation is the same as source language."
+msgstr ""
+
+msgid "Language of the translation isn’t set."
+msgstr ""
+
+msgid "Language of the translation:"
+msgstr ""
+
+msgid "Language selection"
+msgstr ""
+
+msgid "Language:"
+msgstr ""
+
+msgid "Last modified"
+msgstr ""
+
+msgid "Learn More"
+msgstr ""
+
+msgid "Learn More About Crowdin"
+msgstr ""
+
+msgid "Learn about gettext keywords"
+msgstr ""
+
+msgid "Learn about plural forms"
+msgstr ""
+
+msgid "Learn more"
+msgstr ""
+
+msgid "Learn more about Crowdin"
+msgstr ""
+
+msgid "License Agreement"
+msgstr ""
+
+msgid "License key only valid for Poedit version 1.x"
+msgstr ""
+
+msgid "Licensed to %s"
+msgstr ""
+
+msgid "Licensed to: %s"
+msgstr ""
+
+msgid "License…"
+msgstr ""
+
+msgid "Line %d of file “%s” is corrupted (not valid %s data)."
+msgstr ""
+
+msgid "Line endings:"
+msgstr ""
+
+msgid "List of extensions separated by semicolons (e.g. *.cpp;*.h):"
+msgstr ""
+
+msgid "MO files can’t be directly edited in Poedit."
+msgstr ""
+
+msgid "Make Lower Case"
+msgstr ""
+
+msgid "Make Upper Case"
+msgstr ""
+
+msgid "Malformed header: “%s”"
+msgstr ""
+
+msgid "Maximum allowed activations exceeded"
+msgstr ""
+
+msgid "Merging differences…"
+msgstr ""
+
+msgid "Minimize"
+msgstr ""
+
+msgid "Name of the project the translation is for"
+msgstr ""
+
+msgid "Name:"
+msgstr ""
+
+msgid "Ne&xt Unfinished"
+msgstr ""
+
+msgid "Ne&xt unfinished"
+msgstr ""
+
+msgid "Needs Work"
+msgstr ""
+
+msgid "Needs work"
+msgstr ""
+
+msgid ""
+"Never let the list of strings take focus. If enabled, you must use Ctrl-arrows for "
+"keyboard navigation but you can also type text immediately, without having to "
+"press Tab to change focus."
+msgstr ""
+
+msgid "New"
+msgstr ""
+
+msgid "New strings"
+msgstr ""
+
+msgid "Next Plural Form"
+msgstr ""
+
+msgid "Next plural form"
+msgstr ""
+
+msgid "No Matches Found"
+msgstr ""
+
+msgid "No matches found"
+msgstr ""
+
+msgid "No problems with the translation found."
+msgstr ""
+
+msgid "No references for the selected item."
+msgstr ""
+
+msgid "No translation projects listed in your Crowdin account."
+msgstr ""
+
+msgid "No, thanks"
+msgstr ""
+
+msgid "Not authorized, please sign in again."
+msgstr ""
+
+msgid "Not interested"
+msgstr ""
+
+msgid "Not translated"
+msgstr ""
+
+msgid "Notes for translators:"
+msgstr ""
+
+msgid "OK"
+msgstr ""
+
+msgid "Obsolete strings"
+msgstr ""
+
+msgid "One"
+msgstr ""
+
+msgid "Only fill in exact matches"
+msgstr ""
+
+msgid "Open"
+msgstr ""
+
+msgid "Open Crowdin translation"
+msgstr ""
+
+msgid "Open Recent"
+msgstr ""
+
+msgid "Open an existing PO file and edit the translation."
+msgstr ""
+
+msgid "Open catalog"
+msgstr ""
+
+msgid "Open catalog template"
+msgstr ""
+
+msgid "Open in Editor"
+msgstr ""
+
+msgid "Open in editor"
+msgstr ""
+
+msgid "Options"
+msgstr ""
+
+msgid "Other"
+msgstr ""
+
+msgid "P&revious Unfinished"
+msgstr ""
+
+msgid "P&revious unfinished"
+msgstr ""
+
+msgid "PO Translation"
+msgstr ""
+
+msgid "PO Translation Files"
+msgstr ""
+
+msgid "POT Translation Templates"
+msgstr ""
+
+msgid ""
+"POT files are only templates and don’t contain any translations themselves.\n"
+"To make a translation, create a new PO file based on the template."
+msgstr ""
+
+msgid "Paste"
+msgstr ""
+
+msgid "Paste and Match Style"
+msgstr ""
+
+msgid "Paths"
+msgstr ""
+
+msgid ""
+"Please download a newer version from the Poedit website at https://poedit.net/"
+"download"
+msgstr ""
+
+msgid "Please email this log to help@poedit.net. Thank you!"
+msgstr ""
+
+msgid "Please enter your License Key here:"
+msgstr ""
+
+msgid ""
+"Please open and edit the corresponding PO file instead. When you save it, the MO "
+"file will be updated as well."
+msgstr ""
+
+msgid "Please save the file first. This section cannot be edited until then."
+msgstr ""
+
+msgid "Plural"
+msgstr ""
+
+msgid "Plural forms expression used by the catalog is unusual for %s."
+msgstr ""
+
+msgid "Plural:"
+msgstr ""
+
+msgid "Poedit"
+msgstr ""
+
+msgid "Poedit - Catalogs manager"
+msgstr ""
+
+msgid "Poedit Activation"
+msgstr ""
+
+msgid ""
+"Poedit Pro can extract strings from template files, but this functionality isn’t "
+"available in the free version. Would you like to upgrade to the Pro version?"
+msgstr ""
+
+msgid "Poedit automatically fixed invalid content in the file “%s”."
+msgstr ""
+
+msgid ""
+"Poedit couldn’t understand the content of the folder you selected. This may be a "
+"problem with the plugin/theme or it may be Poedit being silly. The error is:\n"
+"\n"
+" • %s\n"
+"\n"
+"Please email help@poedit.net and we’ll sort it out."
+msgstr ""
+
+msgid "Poedit is an easy to use translations editor."
+msgstr ""
+
+msgid ""
+"Poedit uses a large online translation memory that includes both contributed human "
+"translations and state-of-the-art machine translations."
+msgstr ""
+
+msgid "Pre-translated"
+msgstr ""
+
+msgid "Pre-translating…"
+msgstr ""
+
+msgid "Preserve formatting of existing files"
+msgstr ""
+
+msgid "Previous Plural Form"
+msgstr ""
+
+msgid "Previous plural form"
+msgstr ""
+
+msgid "Previous source text:"
+msgstr ""
+
+msgid "Privacy settings"
+msgstr ""
+
+msgid "Private"
+msgstr ""
+
+msgid "Project name and version:"
+msgstr ""
+
+msgid "Project name:"
+msgstr ""
+
+msgid "Project:"
+msgstr ""
+
+msgid "Purchased on the Mac App Store"
+msgstr ""
+
+msgid "Purge"
+msgstr ""
+
+msgid "Purge deleted translations"
+msgstr ""
+
+msgid "Quit"
+msgstr ""
+
+msgid "Rate on the App Store"
+msgstr ""
+
+msgid "Redo"
+msgstr ""
+
+msgid "References:"
+msgstr ""
+
+msgid "Remaining: %d"
+msgstr ""
+
+msgid "Remove this limitation"
+msgstr ""
+
+msgid "Replace"
+msgstr ""
+
+msgid "Replace &All"
+msgstr ""
+
+msgid "Replace &all"
+msgstr ""
+
+msgid "Replacement string"
+msgstr ""
+
+msgid "Required header Plural-Forms is missing."
+msgstr ""
+
+msgid "Reset"
+msgstr ""
+
+msgid "Reset translation memory"
+msgstr ""
+
+msgid ""
+"Resetting the translation memory will irrevocably delete all stored translations "
+"from it. You can’t undo this operation."
+msgstr ""
+
+msgid "Retrieve Lost License Key"
+msgstr ""
+
+msgid "Review"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Save as…"
+msgstr ""
+
+msgid "Save catalog"
+msgstr ""
+
+msgid "Save changes"
+msgstr ""
+
+msgid "Select &All"
+msgstr ""
+
+msgid "Select All"
+msgstr ""
+
+msgid "Select directory"
+msgstr ""
+
+msgid "Select the folder with the WordPress theme or plugin"
+msgstr ""
+
+msgid "Select translation files to import"
+msgstr ""
+
+msgid "Select your preferred language"
+msgstr ""
+
+msgid "Set Bookmark %i"
+msgstr ""
+
+msgid "Set Language"
+msgstr ""
+
+msgid "Set bookmark %i"
+msgstr ""
+
+msgid "Set language"
+msgstr ""
+
+msgid "Shift+"
+msgstr ""
+
+msgid "Show Sidebar"
+msgstr ""
+
+msgid "Show Spelling and Grammar"
+msgstr ""
+
+msgid "Show Status Bar"
+msgstr ""
+
+msgid "Show Substitutions"
+msgstr ""
+
+msgid "Show Toolbar"
+msgstr ""
+
+msgid "Show or hide the sidebar"
+msgstr ""
+
+msgid "Show sidebar"
+msgstr ""
+
+msgid "Show status bar"
+msgstr ""
+
+msgid "Show summary after catalog update"
+msgstr ""
+
+msgid "Show translation statistics"
+msgstr ""
+
+msgid "Sidebar"
+msgstr ""
+
+msgid "Sign In"
+msgstr ""
+
+msgid "Sign Out"
+msgstr ""
+
+msgid "Sign in"
+msgstr ""
+
+msgid "Sign in to Crowdin"
+msgstr ""
+
+msgid "Sign out"
+msgstr ""
+
+msgid "Signed in as:"
+msgstr ""
+
+msgid "Singular"
+msgstr ""
+
+msgid "Singular:"
+msgstr ""
+
+msgid "Skip Templates"
+msgstr ""
+
+msgid "Skip templates"
+msgstr ""
+
+msgid "Smart Copy/Paste"
+msgstr ""
+
+msgid "Smart Dashes"
+msgstr ""
+
+msgid "Smart Links"
+msgstr ""
+
+msgid "Smart Quotes"
+msgstr ""
+
+msgid "Sort by &File Order"
+msgstr ""
+
+msgid "Sort by &Source"
+msgstr ""
+
+msgid "Sort by &Translation"
+msgstr ""
+
+msgid "Sort by &file order"
+msgstr ""
+
+msgid "Sort by &source"
+msgstr ""
+
+msgid "Sort by &translation"
+msgstr ""
+
+msgid "Source Text"
+msgstr ""
+
+msgid "Source code charset:"
+msgstr ""
+
+msgid ""
+"Source code extractors are used to find translatable strings in the source code "
+"files and extract them so that they can be translated."
+msgstr ""
+
+msgid "Source code not available."
+msgstr ""
+
+msgid "Source file"
+msgstr ""
+
+msgid "Source file occurrence:"
+msgstr ""
+
+msgid "Source text"
+msgstr ""
+
+msgid "Source text — %s"
+msgstr ""
+
+msgid "Source text:"
+msgstr ""
+
+msgid "Sources keywords"
+msgstr ""
+
+msgid "Sources paths"
+msgstr ""
+
+msgid "Speech"
+msgstr ""
+
+msgid "Spellchecking is disabled, because the dictionary for %s isn’t installed."
+msgstr ""
+
+msgid "Spelling and Grammar"
+msgstr ""
+
+msgid "Start Speaking"
+msgstr ""
+
+msgid "Statistics"
+msgstr ""
+
+msgid "Stop Speaking"
+msgstr ""
+
+msgid "Stored translations:"
+msgstr ""
+
+msgid "String to find"
+msgstr ""
+
+msgid "Strings in source language"
+msgstr ""
+
+msgid "Subscribe"
+msgstr ""
+
+msgid "Substitutions"
+msgstr ""
+
+msgid "Suggestions"
+msgstr ""
+
+msgid ""
+"Suggestions are not available if the translation language is not set correctly. "
+"Other features, such as plural forms, may be affected as well."
+msgstr ""
+
+msgid "Sync"
+msgstr ""
+
+msgid "Sync with Crowdin"
+msgstr ""
+
+msgid "Synchronize the translation with Crowdin"
+msgstr ""
+
+msgid "Syncing"
+msgstr ""
+
+msgid "Syncing error"
+msgstr ""
+
+msgid "Syncing with %s failed."
+msgstr ""
+
+msgid "Syncing with %s…"
+msgstr ""
+
+msgid "Syncing with Crowdin failed."
+msgstr ""
+
+msgid "Syntax error in Plural-Forms header (\"%s\")."
+msgstr ""
+
+msgid "TM"
+msgstr ""
+
+msgid ""
+"Take an existing PO file or POT template and create a new translation from it."
+msgstr ""
+
+msgid "Take translatable strings from an existing POT template."
+msgstr ""
+
+msgid "Terms of Service"
+msgstr ""
+
+msgid "Text Replacement"
+msgstr ""
+
+msgid ""
+"The TM doesn’t contain any strings similar to the content of this file. It is only "
+"effective for semi-automatic translations after Poedit learns enough from files "
+"that you translated manually."
+msgstr ""
+
+msgid ""
+"The catalog couldn’t be saved in “%s” charset as specified in catalog settings.\n"
+"\n"
+"It was saved in UTF-8 instead and the setting was modified accordingly."
+msgstr ""
+
+msgid "The file cannot be compiled into the MO format and used."
+msgstr ""
+
+msgid "The file cannot be opened."
+msgstr ""
+
+msgid ""
+"The file contained duplicate items, which is not allowed in PO files and would "
+"prevent the file from being used. Poedit fixed the issue, but you should review "
+"translations of any items marked as needing work and correct them if necessary."
+msgstr ""
+
+msgid "The file may be either corrupted or in a format not recognized by Poedit."
+msgstr ""
+
+msgid ""
+"The file was compiled into the MO format, but it will probably not work correctly."
+msgstr ""
+
+msgid ""
+"The file was saved safely and compiled into the MO format, but it will probably "
+"not work correctly."
+msgstr ""
+
+msgid ""
+"The file was saved safely, but it cannot be compiled into the MO format and used."
+msgstr ""
+
+msgid "The file was saved safely."
+msgstr ""
+
+msgid ""
+"The license key is valid for one user and can be used on up to 3 computers. "
+"Activation requires internet connection."
+msgstr ""
+
+msgid "The simplest way to fill this catalog is to update it from a POT:"
+msgstr ""
+
+msgid "The translation is ready for use, but %d entry is not translated yet."
+msgid_plural ""
+"The translation is ready for use, but %d entries are not translated yet."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "The translation is ready for use."
+msgstr ""
+
+msgid "There are no translations. That’s unusual."
+msgstr ""
+
+msgid "There was a problem formatting the file nicely (but it was saved all right)."
+msgstr ""
+
+msgid ""
+"There were errors when loading the catalog. Some data may be missing or corrupted "
+"as the result."
+msgstr ""
+
+msgid ""
+"These settings affect internal formatting of PO files. Adjust them if you have "
+"specific requirements e.g. because of version control."
+msgstr ""
+
+msgid ""
+"These strings are no longer in the sources.\n"
+"Poedit will remove them from the catalog now."
+msgstr ""
+
+msgid ""
+"These strings were found in the sources but were not in the catalog.\n"
+"Poedit will add them to the catalog now."
+msgstr ""
+
+msgid "This beta version of Poedit expired."
+msgstr ""
+
+msgid ""
+"This catalog has entries with plural forms, but doesn’t have Plural-Forms header "
+"configured."
+msgstr ""
+
+msgid "This file can only be edited in Crowdin’s web interface."
+msgstr ""
+
+msgid ""
+"This is the command used to launch the extractor.\n"
+"%o expands to the name of output file, %K to list\n"
+"of keywords, %F to list of input files,\n"
+"%C to charset flag (see below)."
+msgstr ""
+
+msgid ""
+"This option is for theme and plugin developers. Poedit will create an empty "
+"template (POT) that translations can be based on."
+msgstr ""
+
+msgid "This project has no files that can be translated in Poedit."
+msgstr ""
+
+msgid "This string was found in Poedit’s translation memory."
+msgstr ""
+
+msgid "This suggestion was contributed by another translator to the online TM."
+msgstr ""
+
+msgid "This suggestion was machine-translated online."
+msgstr ""
+
+msgid ""
+"This will be attached to the command line once\n"
+"for each input file. %f expands to the filename."
+msgstr ""
+
+msgid ""
+"This will be attached to the command line once\n"
+"for each keyword. %k expands to the keyword."
+msgstr ""
+
+msgid "Total"
+msgstr ""
+
+msgid "Transformations"
+msgstr ""
+
+msgid "Translate WordPress theme or plugin"
+msgstr ""
+
+msgid "Translated"
+msgstr ""
+
+msgid "Translated: %d of %d (%d %%)"
+msgstr ""
+
+msgid "Translation"
+msgstr ""
+
+msgid "Translation Language"
+msgstr ""
+
+msgid "Translation Memory"
+msgstr ""
+
+msgid "Translation properties"
+msgstr ""
+
+msgid "Translation suggestions:"
+msgstr ""
+
+msgid "Translation — %s"
+msgstr ""
+
+msgid "Translation:"
+msgstr ""
+
+msgid ""
+"Translations couldn’t be updated from the source code, because no code was found "
+"in the location specified in the catalog’s Properties."
+msgstr ""
+
+msgid ""
+"Translations from this file are not shared with the online translation memory."
+msgstr ""
+
+msgid "Translations with errors"
+msgstr ""
+
+msgid ""
+"Try to fetch translations from the online TM as well. Notice that the translations "
+"will not be perfect and will still need to be corrected by a human translator."
+msgstr ""
+
+msgid "Two"
+msgstr ""
+
+msgid "UTF-8 (recommended)"
+msgstr ""
+
+msgid "Undo"
+msgstr ""
+
+msgid "Unhandled exception occurred: %s"
+msgstr ""
+
+msgid "Unix (recommended)"
+msgstr ""
+
+msgid "Unknown activation error (%s)"
+msgstr ""
+
+msgid "Unlock online suggestions"
+msgstr ""
+
+msgid "Untrans"
+msgstr ""
+
+msgid "Up"
+msgstr ""
+
+msgid "Update all"
+msgstr ""
+
+msgid "Update all catalogs in the project"
+msgstr ""
+
+msgid "Update catalog - synchronize it with sources"
+msgstr ""
+
+msgid "Update from POT"
+msgstr ""
+
+msgid "Update summary"
+msgstr ""
+
+msgid "Updates"
+msgstr ""
+
+msgid "Updating catalog"
+msgstr ""
+
+msgid "Updating failed"
+msgstr ""
+
+msgid "Updating the catalog failed. Click on 'Details >>' for details."
+msgstr ""
+
+msgid "Updating user information…"
+msgstr ""
+
+msgid "Upgrade to Poedit Pro to Unlock WordPress Extras"
+msgstr ""
+
+msgid ""
+"Upgrade to Poedit Pro to get additional features and support Poedit's development."
+msgstr ""
+
+msgid "Upgrade to Pro"
+msgstr ""
+
+msgid "Upgrade your Pro license to 2.0"
+msgstr ""
+
+msgid "Uploading translations…"
+msgstr ""
+
+msgid "Use %s→%s for full WordPress functionality."
+msgstr ""
+
+msgid "Use custom expression"
+msgstr ""
+
+msgid "Use custom list font:"
+msgstr ""
+
+msgid "Use custom text fields font:"
+msgstr ""
+
+msgid "Use default rules for this language"
+msgstr ""
+
+msgid "Use online suggestions"
+msgstr ""
+
+msgid "Use suggestions from online collaborative TM"
+msgstr ""
+
+msgid ""
+"Use these keywords (function names) to recognize translatable strings\n"
+"in source files:"
+msgstr ""
+
+msgid "Use translation memory"
+msgstr ""
+
+msgid "Validate"
+msgstr ""
+
+msgid "Validation results"
+msgstr ""
+
+msgid "Version %s"
+msgstr ""
+
+msgid "View Log"
+msgstr ""
+
+msgid "View log"
+msgstr ""
+
+msgid "Waiting for authentication…"
+msgstr ""
+
+msgid "Welcome to Poedit"
+msgstr ""
+
+msgid "What is Crowdin?"
+msgstr ""
+
+msgid "While editing the file “%s”:"
+msgstr ""
+
+msgid "Whole words only"
+msgstr ""
+
+msgid "Window"
+msgstr ""
+
+msgid "Windows"
+msgstr ""
+
+msgid "WordPress"
+msgstr ""
+
+msgid "WordPress Errors Log"
+msgstr ""
+
+msgid "WordPress error"
+msgstr ""
+
+msgid "Words"
+msgstr ""
+
+msgid "Wrap around"
+msgstr ""
+
+msgid "Wrap at:"
+msgstr ""
+
+msgid "XLIFF Translation Files"
+msgstr ""
+
+msgid "You can also extract translatable strings directly from the source code:"
+msgstr ""
+
+msgid "You can’t drop more than one file on Poedit window."
+msgstr ""
+
+msgid "You must restart Poedit for this change to take effect."
+msgstr ""
+
+msgid "Your Name"
+msgstr ""
+
+msgid "Your changes will be lost if you don’t save them."
+msgstr ""
+
+msgid "Your copy is upgraded to Poedit Pro."
+msgstr ""
+
+msgid ""
+"Your name and email address are only used to set the Last-Translator header of GNU "
+"gettext files."
+msgstr ""
+
+msgid ""
+"Your translations are contributed to the online translation memory as you make "
+"them. Thanks for making the suggestions better!"
+msgstr ""
+
+msgid ""
+"You’re awesome! Thank you so much\n"
+"for purchasing Poedit Pro."
+msgstr ""
+
+msgid "You’re signed up. Please check your email for a confirmation message."
+msgstr ""
+
+msgid "Zero"
+msgstr ""
+
+msgid "Zoom"
+msgstr ""
+
+msgid "alt"
+msgstr ""
+
+msgid "ctrl"
+msgstr ""
+
+msgid "don’t delete temporary files (for debugging)"
+msgstr ""
+
+msgid "e.g. nplurals=2; plural=(n > 1);"
+msgstr ""
+
+msgid "go to item at given line number"
+msgstr ""
+
+msgid "handle a poedit:// URI"
+msgstr ""
+
+msgid "shift"
+msgstr ""
+
+msgid "unknown language"
+msgstr ""
+
+msgid "your_email@example.com"
+msgstr ""
+
+msgid "“%s” is not a valid POT file."
+msgstr ""

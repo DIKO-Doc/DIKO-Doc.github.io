@@ -9,5 +9,5 @@ Personal Library	我的資料夾
 Folder	資料夾
 Document	文件
 URL	URL
-Shortcut	掟徑
+Shortcut	捷徑
 Library	資料夾

@@ -1,0 +1,1996 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN">
+        <seg>'''SQL Server Management Studio''' (SSMS) is a software application first launched with [[Microsoft]] [[Microsoft SQL Server|SQL Server 2005]] that is used for configuring, managing, and administering all components within [[Microsoft SQL Server]].</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190530T052841Z" creationid="Tom" creationdate="20190530T052841Z">
+        <seg>'''SQL Server Management Studio'''（SSMS）是[[微软]]的一個與其[[數據庫]]產品[[Microsoft SQL Server]]配合使用的產品，以便於設定、配置及管理其元件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>1.&lt;t0/&gt;Requirements</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T063104Z" creationid="Tom" creationdate="20190604T063104Z">
+        <seg>1.&lt;t0/&gt;需求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>10</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190528T075442Z" creationid="Tom" creationdate="20190528T075442Z">
+        <seg>10日</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>1&lt;t0/&gt;  &lt;t1/&gt;SYSTEM FUNCTIONS</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T020533Z" creationid="Tom" creationdate="20190604T020533Z">
+        <seg>1&lt;t0/&gt;  &lt;t1/&gt;系統功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>2&lt;t0/&gt;  &lt;t1/&gt;APPENDIX</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T025531Z" creationid="Tom" creationdate="20190604T025531Z">
+        <seg>2&lt;t0/&gt;  &lt;t1/&gt;附錄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>30</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190530T030521Z" creationid="Tom" creationdate="20190530T030521Z">
+        <seg>30日</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3&lt;t0/&gt;.&lt;t1/&gt; &lt;t2/&gt;Installing &lt;t3/&gt;DropZone&lt;t4/&gt; in Windows</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T081618Z" creationid="Tom" creationdate="20190604T064511Z">
+        <seg>3&lt;t0/&gt;.&lt;t1/&gt; &lt;t2/&gt;在Windows安装&lt;t3/&gt;Dropzone&lt;t4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3&lt;t0/&gt;.&lt;t1/&gt;5&lt;t2/&gt;(&lt;t3/&gt;If the below image shows up, select Download and install&lt;t4/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T083104Z" creationid="Tom" creationdate="20190604T083104Z">
+        <seg>3&lt;t0/&gt;.&lt;t1/&gt;5&lt;t2/&gt;(&lt;t3/&gt;如果有以下的图片出现，点击此处&lt;t4/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4&lt;t0/&gt;.&lt;t1/&gt; &lt;t2/&gt;DIKO &lt;t3/&gt;DropZone&lt;t4/&gt; System Settings</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T083334Z" creationid="Tom" creationdate="20190604T083334Z">
+        <seg>4&lt;t0/&gt;.&lt;t1/&gt; &lt;t2/&gt;DIKO &lt;t3/&gt;DropZone&lt;t4/&gt; 系统设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5.&lt;t0/&gt;Using &lt;t1/&gt;DIKO &lt;t2/&gt;Drop zone</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T063258Z" creationid="Tom" creationdate="20190604T063258Z">
+        <seg>5.&lt;t0/&gt;使用&lt;t1/&gt;DIKO &lt;t2/&gt;Drop zone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;t0/&gt;DIKO &lt;t1/&gt;DropZone&lt;t2/&gt; System Settings</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T080722Z" creationid="Tom" creationdate="20190604T063244Z">
+        <seg>&lt;t0/&gt;DIKO &lt;t1/&gt;DropZone&lt;t2/&gt;的系统设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;t0/&gt;DIKO&lt;t1/&gt; supports both metadata and content search.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T075833Z" creationid="Tom" creationdate="20190603T073650Z">
+        <seg>&lt;t0/&gt; DIKO&lt;t1/&gt;支持元数据和内容搜索。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;t0/&gt;Install &lt;t1/&gt;Dropzone&lt;t2/&gt; in&lt;t3/&gt; Windows</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T080715Z" creationid="Tom" creationdate="20190604T063226Z">
+        <seg>在&lt;t3/&gt;Windows&lt;t0/&gt;安装&lt;t1/&gt;Dropzone&lt;t2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;t0/&gt;Install&lt;t1/&gt; Microsoft WSE 2.0 SP3</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T080709Z" creationid="Tom" creationdate="20190604T063120Z">
+        <seg>&lt;t0/&gt;安装&lt;t1/&gt; Microsoft WSE 2.0 SP3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;t1/&gt;  &lt;t2/&gt;DIKO&lt;t3/&gt; offers multi-lingual user interface to serve international users.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T075648Z" creationid="Tom" creationdate="20190530T031507Z">
+        <seg>&lt;t1/&gt;  &lt;t2/&gt;DIKO&lt;t3/&gt;提供多语言的用户接口，为国际用户提供服务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;t1/&gt;Install&lt;t2/&gt; Microsoft WSE 2.0 SP3</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T080752Z" creationid="Tom" creationdate="20190604T063341Z">
+        <seg>&lt;t1/&gt;安装&lt;t2/&gt; Microsoft WSE 2.0 SP3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;t12/&gt;Role-based permissions ensure only authorized groups and users can access the documents.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T082202Z" creationid="Tom" creationdate="20190603T073039Z">
+        <seg>&lt;t12/&gt;基于角色的权限确保只有授权的群组和使用者才能访问这些文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;t2/&gt;DIKO&lt;t3/&gt; allows the users to merge multiple documents to a PDF for printing.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T082231Z" creationid="Tom" creationdate="20190603T073816Z">
+        <seg>&lt;t2/&gt; DIKO&lt;t3/&gt;允许使用者将多个文件在进行打印时合并为单一个PDF档案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;t9/&gt;In addition, &lt;t10/&gt;DIKO&lt;t11/&gt; keeps the versions of each document to protect its integrity.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T082158Z" creationid="Tom" creationdate="20190603T073011Z">
+        <seg>&lt;t9/&gt;此外，&lt;t10/&gt;DIKO&lt;t11/&gt;保留每个文件的版本以确保其完整性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>==External links==
+* [https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms SQL Server Management Studio] on [[MSDN]]</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190530T052946Z" creationid="Tom" creationdate="20190530T052946Z">
+        <seg>==外部連結==
+* [https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms SQL Server Management Studio] on [[MSDN]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>==References==
+{{Reflist}}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T085440Z" creationid="Tom" creationdate="20190528T074851Z">
+        <seg>==参考文献==
+{{Reflist}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>==References==
+{{reflist}}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190530T052930Z" creationid="Tom" creationdate="20190530T052930Z">
+        <seg>==參考文獻==
+{{Reflist}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A new research assistant joined the school.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190529T034343Z" creationid="Tom" creationdate="20190529T034343Z">
+        <seg>一位新的研究助理加入了學校。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A&lt;t0/&gt;fter working awhile with Professor Bouchet, Tom was transferred from the department of Gastropods to the department of Bivalves.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20190603T085110Z" creationid="Administrator" creationdate="20190603T085110Z">
+        <seg>&lt;t0/&gt;在跟布歇特教授工作過一段時間後，Tom從腹足綱學系被調任到雙殼綱學系去。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A&lt;t0/&gt;fter working for both Professors Bouchet and Kuroda, Tom decided to continue his study.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190529T093659Z" creationid="Tom" creationdate="20190529T093659Z">
+        <seg>&lt;t0/&gt;在跟布歇特和黑田兩位教授工作過後，Tom決定還要繼續他的學業。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>AJAX error!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T085602Z" creationid="Tom" creationdate="20190604T060947Z">
+        <seg>AJAX错误！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190528T063422Z">
+        <seg>所有</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All concepts, ideas and materials in this document are owned by &lt;t0/&gt;Speech &amp; Act Education Company &lt;t1/&gt;Limited.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190528T075251Z" creationid="Tom" creationdate="20190528T075251Z">
+        <seg>所有本文中提及的教材均由&lt;t0/&gt;坐言起行教育&lt;t1/&gt;有限公司所擁有。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All concepts, ideas and materials in this document are owned by &lt;t2/&gt;Speech &amp; Act Education Company &lt;t3/&gt;Limited.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T073521Z" creationid="Tom" creationdate="20190604T062012Z">
+        <seg>所有本文中提及的概念、意念及教材均由&lt;t2/&gt;坐言起行教育&lt;t3/&gt;有限公司所拥有。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All document activities are stored in audit trail for future review.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T082144Z">
+        <seg>所有文件活动都存储在档案日志中以供来审核。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All rights reserved.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190603T022352Z" creationid="Tom" creationdate="20190603T022352Z">
+        <seg>版權所有。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An '''audit trail''' (also called '''audit log''') is a security-relevant chronological record, set of records, and/or destination and source of records that provide documentary evidence of the sequence of activities that have affected at any time a specific operation, procedure, or event.&lt;ref&gt;{{cite web |url=http://www.cnss.gov/Assets/pdf/cnssi_4009.pdf |title=National Information Assurance (IA) Glossary |publisher=[[Committee on National Security Systems]] |pages=4 |date=7 August 1996 |accessdate=7 March 2012 |format=PDF}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.atis.org/glossary/definition.aspx?id=5572 |title=ATIS Telecom Glossary 2012 - audit trail |publisher=[[Alliance for Telecommunications Industry Solutions]] (ATIS) Committee PRQC |year=2012 |accessdate=7 March 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20130313232104/http://www.atis.org/glossary/definition.aspx?id=5572 |archivedate=13 March 2013 |df= }}&lt;/ref&gt; Audit records typically result from activities such as [[financial transaction]]s,&lt;ref&gt;{{cite web |url=https://www.sec.gov/news/press/2010/2010-86.htm |title=SEC Proposes Consolidated Audit Trail System to Better Track Market Trades |publisher=U.S.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190528T072931Z" creationid="Tom" creationdate="20190528T072931Z">
+        <seg> '''審計跟踪'''（也稱為'''審計日誌'''）是與安全相關的時間順序記錄、記錄集和/或目的地和記錄來源，它們提供了在任何時候影響特定操作，程序的活動順序的文件證據或事件&lt;ref&gt;{{cite web |url=http://www.cnss.gov/Assets/pdf/cnssi_4009.pdf |title=National Information Assurance (IA) Glossary |trans-title=國家信息保障（IA）詞彙表 |publisher=[[Committee on National Security Systems]] |pages=4 |date=1996-08-07 |access-date=2012-03-07 |format=PDF |language=en }}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.atis.org/glossary/definition.aspx?id=5572 |title=ATIS Telecom Glossary 2012 - audit trail |trans-title=ATIS電信詞彙表2012 - 審計線索 |publisher=[[Alliance for Telecommunications Industry Solutions]] (ATIS) Committee PRQC |year=2012 |access-date=2012-03-07 |deadurl=yes |archiveurl=https://web.archive.org/web/20130313232104/http://www.atis.org/glossary/definition.aspx?id=5572 |archivedate=2013-03-13 |language=en }}&lt;/ref&gt;。審計記錄通常來自一些活動，例如：[[金融交易]]&lt;ref&gt;{{cite web |url=https://www.sec.gov/news/press/2010/2010-86.htm |title=SEC Proposes Consolidated Audit Trail System to Better Track Market Trades |publisher=U.S.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Anonymous</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T061434Z" creationid="Tom" creationdate="20190604T061434Z">
+        <seg>匿名者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Any reference to partial or all materials in this document without written authorization is strictly prohibited.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T073725Z" creationid="Tom" creationdate="20190528T080442Z">
+        <seg>未经书面授权，严禁以任何方式提及本文中的部分或全部材料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Any update on the documents can notify the relevant users via email alert.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T082149Z" creationid="Tom" creationdate="20190603T072901Z">
+        <seg>对于文件的任何更新都可以通过电邮提示来通知相关使用者。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Are you sure?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T085608Z" creationid="Tom" creationdate="20190604T060954Z">
+        <seg>您确定吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Audit Trail</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T095608Z" creationid="Tom" creationdate="20190604T095608Z">
+        <seg>审计日志</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Backup</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T073939Z">
+        <seg>备份</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Backup &amp; Restor&lt;t0/&gt;e</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T075857Z" creationid="Tom" creationdate="20190530T031649Z">
+        <seg>备份与复原&lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Backup &amp; Restore</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T073933Z">
+        <seg>备份与复原</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Backup &amp; Restore Procedures</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190528T075043Z">
+        <seg>備份及復原程式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Backups that depend on the restoration of an earlier backup are automatically deselected when the earlier backup is deselected.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T080522Z" creationid="Tom" creationdate="20190604T015157Z">
+        <seg>当取消选择早期备份时，将自动取消选择依赖于恢复早期备份的备份。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Before we can start, we need to follow the steps in the “Installation Guide” to have all the software necessary installed and configure properly.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T075122Z" creationid="Tom" creationdate="20190530T052510Z">
+        <seg>在我们开始之前，首先要跟随“安装手册”的步骤，把所需要的软件安装及设定好。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By default, a recovery plan is suggested.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T080512Z" creationid="Tom" creationdate="20190604T014701Z">
+        <seg>预设情况下，建议使用恢复计划。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>C&lt;t0/&gt;hapter &lt;t1/&gt;2&lt;t2/&gt; Backup &amp; Restore</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T073820Z" creationid="Tom" creationdate="20190530T030600Z">
+        <seg>第&lt;t1/&gt;2&lt;t2/&gt;&lt;t0/&gt;章 备份与复原</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>C&lt;t0/&gt;reate the folder “Gastropods” and “Bivalves” under “Mollusks”.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20190603T084527Z" creationid="Administrator" creationdate="20190603T084527Z">
+        <seg>&lt;t0/&gt;再在“Mollusks”這個資料夾之下建立“Gastropods”和“Bivalves”兩個新的資料夾。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>C&lt;t0/&gt;reate the folder “Mollusks” under the folder “Corporate”.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20190603T084437Z" creationid="Administrator" creationdate="20190603T084422Z">
+        <seg>&lt;t0/&gt;在“Corporate”這個資料夾之下建立新的資料夾“Mollusks”；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Certainly, you may use the SQL Server Management Studio to conduct the backup.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T075940Z" creationid="Tom" creationdate="20190530T045159Z">
+        <seg>当然，您也可以使用SQL Server Management Studio进行备份。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Change %s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T061329Z" creationid="Tom" creationdate="20190604T061329Z">
+        <seg>修訂%s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Change History</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T073557Z">
+        <seg>文件修订追踪</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check the &lt;t0/&gt;Close existing connections option&lt;t1/&gt; to ensure that all active connections between Management Studio and the database are closed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T080536Z" creationid="Tom" creationdate="20190604T020120Z">
+        <seg>选择&lt;t0/&gt;Close existing connections option&lt;t1/&gt;选项以确保所有在Management Studio与数据库之间的活动连接均已关闭。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose %s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T085707Z" creationid="Tom" creationdate="20190604T061401Z">
+        <seg>选择%s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose an image to represent this site.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T090716Z" creationid="Tom" creationdate="20190604T090716Z">
+        <seg>选择一个图像来代表此站点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose&lt;t0/&gt; &lt;t1/&gt;“&lt;t2/&gt;I accept the terms in the license agreement&lt;t3/&gt;”&lt;t4/&gt; &lt;t5/&gt;then select&lt;t6/&gt; &lt;t7/&gt;“&lt;t8/&gt;Next&lt;t9/&gt;”</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T072441Z" creationid="Tom" creationdate="20190604T064013Z">
+        <seg>选择&lt;t0/&gt;&lt;t1/&gt; “&lt;t2/&gt;I accept the terms in the license agreement&lt;t3/&gt;”&lt;t4/&gt;&lt;t5/&gt; 然后点选&lt;t6/&gt;&lt;t7/&gt; “&lt;t8/&gt;Next&lt;t9/&gt;”
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose&lt;t0/&gt; &lt;t1/&gt;“Runtime”&lt;t2/&gt; &lt;t3/&gt;then click&lt;t4/&gt; &lt;t5/&gt;“Next”</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T072511Z" creationid="Tom" creationdate="20190604T064104Z">
+        <seg>选择&lt;t0/&gt;&lt;t1/&gt; “Runtime” &lt;t2/&gt;&lt;t3/&gt;然后点击&lt;t4/&gt;&lt;t5/&gt; “Next”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T020425Z" creationid="Tom" creationdate="20190604T020425Z">
+        <seg>按一下</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;t0/&gt; &lt;t1/&gt;“&lt;t2/&gt;Install&lt;t3/&gt;”</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T081538Z" creationid="Tom" creationdate="20190604T064237Z">
+        <seg>点击&lt;t0/&gt; &lt;t1/&gt;“&lt;t2/&gt;Install&lt;t3/&gt;”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click&lt;t0/&gt; &lt;t1/&gt;“&lt;t2/&gt;Install&lt;t3/&gt;”</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T081753Z" creationid="Tom" creationdate="20190604T064715Z">
+        <seg>点击&lt;t0/&gt; &lt;t1/&gt;“&lt;t2/&gt;Install&lt;t3/&gt;”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click&lt;t0/&gt; &lt;t1/&gt;“Finish”</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T081814Z" creationid="Tom" creationdate="20190604T081814Z">
+        <seg>点击&lt;t0/&gt; &lt;t1/&gt;“Finish”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click&lt;t0/&gt; &lt;t1/&gt;“Next”</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T081742Z" creationid="Tom" creationdate="20190604T064645Z">
+        <seg>点击&lt;t0/&gt; &lt;t1/&gt;“Next”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click&lt;t0/&gt;“&lt;t1/&gt;Download&lt;t2/&gt; and install this feature&lt;t3/&gt;”</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T083124Z" creationid="Tom" creationdate="20190604T083124Z">
+        <seg>点击&lt;t0/&gt;“&lt;t1/&gt;Download&lt;t2/&gt; and install this feature&lt;t3/&gt;” </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;t0/&gt;OK&lt;t1/&gt; to accept the default parameters&lt;t2/&gt;; &lt;t3/&gt;You may set the default location for backup to a Network Attached Storage (NAS) for nearline storage&lt;t4/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T080003Z" creationid="Tom" creationdate="20190530T050915Z">
+        <seg>单击&lt;t0/&gt;OK&lt;t1/&gt;接纳预设的备份参数&lt;t2/&gt;；&lt;t3/&gt;要不，您可以将备份的默认位置设置为网络附加储存（NAS），以进行近线储存&lt;t4/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;t0/&gt;OK&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T080626Z" creationid="Tom" creationdate="20190530T052218Z">
+        <seg>单击&lt;t0/&gt;OK&lt;t1/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Comment</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T085623Z" creationid="Tom" creationdate="20190604T061258Z">
+        <seg>评语</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>CommentPress Core</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>KommentPress de` Kor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Comments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T085626Z" creationid="Tom" creationdate="20190604T061301Z">
+        <seg>评语</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contact</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T020353Z" creationid="Tom" creationdate="20190604T020353Z">
+        <seg>聯絡方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Content</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T080701Z" creationid="Tom" creationdate="20190604T063030Z">
+        <seg>目录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright 2017 All rights reserved</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T020509Z" creationid="Tom" creationdate="20190604T020509Z">
+        <seg>©2017-2019 版權所有坐言起行教育有限公司。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright 2017-2019 All rights reserved</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T095322Z" creationid="Tom" creationdate="20190604T095300Z">
+        <seg>©2017-2019 版权所有坐言起行教育有限公司。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright 2018 All rights reserved.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190528T075301Z">
+        <seg>©2018版權所有坐言起行教育有限公司。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright 2018&lt;t0/&gt;-2019&lt;t1/&gt; All rights reserved.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T073404Z" creationid="Tom" creationdate="20190604T061915Z">
+        <seg>©2018&lt;t0/&gt;-2019&lt;t1/&gt; 版权所有 坐言起行教育有限公司。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DIKO &lt;t0/&gt;DropZone&lt;t1/&gt; &lt;t2/&gt;Installation and User Guide</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T072002Z" creationid="Tom" creationdate="20190604T072002Z">
+        <seg>DIKO &lt;t0/&gt;DropZone&lt;t1/&gt; &lt;t2/&gt;安装及使用手册</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DIKO &lt;t0/&gt;T&lt;t1/&gt;utorial&lt;t2/&gt; v1.0</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20190603T084752Z" creationid="Administrator" creationdate="20190603T084752Z">
+        <seg>DIKO &lt;t0/&gt;&lt;t1/&gt;概述&lt;t2/&gt; v1.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DIKO Overview</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190528T080509Z" creationid="Tom" creationdate="20190528T080509Z">
+        <seg>DIKO概述</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DIKO does not only serve as a platform for users to share their “knowledge”, it also enhances the document collaboration among the users in the corporation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T095217Z" creationid="Tom" creationdate="20190604T095217Z">
+        <seg>DIKO不仅可以作为用户分享他们“知识”的平台，而且还增强了公司内各用户之间的文件协作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DIKO&lt;t0/&gt; Backup &amp; Restore Procedures</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T080642Z" creationid="Tom" creationdate="20190530T052104Z">
+        <seg>Diko&lt;t0/&gt; 备份及复原程序</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DIKO&lt;t0/&gt; Overview</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190528T075532Z">
+        <seg>DIKO&lt;t0/&gt;概述</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DIKO&lt;t0/&gt; consists of two storage media namely Database and File System.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T082534Z" creationid="Tom" creationdate="20190530T034440Z">
+        <seg>DIKO&lt;t0/&gt;由两个储存介质组成，即数据库和文件系统。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DIKO&lt;t0/&gt; is a web-based Knowledge Management System which maintains the documents integrity and restricts the document access.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T095048Z" creationid="Tom" creationdate="20190604T095048Z">
+        <seg>DIKO&lt;t0/&gt;是一个基于网络的知识管理系统，负责维护文件完整性并限制文件访问。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DIKO&lt;t0/&gt; is a web-based, UNICODE-supported Document Management System.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T075625Z">
+        <seg>DIKO&lt;t0/&gt;是一个网络应用架构并使用UNICODE支持的文件管理系统。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DIKO&lt;t0/&gt; is by default to be installed on C drive.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T080220Z" creationid="Administrator" creationdate="20190603T091225Z">
+        <seg>缺省情况下，DIKO&lt;t0/&gt;安装在C磁盘驱动器上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Database Backup</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T073957Z">
+        <seg>数据库备份</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Database connection error.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190603T035009Z" creationid="Tom" creationdate="20190603T035009Z">
+        <seg>資料庫連接錯誤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Database stores all document records, audit trails, user groups, etc.  File System stores all encrypted files, PDF renditions, full text index, etc.  Both storage media should be backed at the same time to ensure data synchronization.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T082516Z" creationid="Tom" creationdate="20190530T045026Z">
+        <seg>文件系统存储所有加密文件，PDF格式，全文索引等。应同时备份两个存储介质以确保数据同步。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Date</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190528T063207Z">
+        <seg>日期</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Default %s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T085648Z" creationid="Tom" creationdate="20190604T085648Z">
+        <seg>缺省%s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Depart</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T075021Z" creationid="Tom" creationdate="20190529T093526Z">
+        <seg>离职</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Department of Bivalves: headed by Professor Kuroda.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T075236Z" creationid="Tom" creationdate="20190529T034329Z">
+        <seg>双壳纲部：由黑田教授带领。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Department of Gastropods: headed by Professor &lt;t0/&gt;Bouchet&lt;t1/&gt;, and</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190529T034821Z" creationid="Tom" creationdate="20190529T034305Z">
+        <seg>腹足綱部：由&lt;t1/&gt;布歇特&lt;t0/&gt;教授帶領，以及</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Department of Gastropods: headed by Professor Bouchet, and</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T075229Z" creationid="Tom" creationdate="20190529T042228Z">
+        <seg>；腹足纲部：由布歇特教授带领，以及</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Diko&lt;t0/&gt; &lt;t1/&gt;Backup &amp; Restore Procedures</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T073328Z" creationid="Tom" creationdate="20190528T080148Z">
+        <seg>Diko&lt;t0/&gt; &lt;t1/&gt;备份与复原程序</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Diko&lt;t0/&gt; Tutorial</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190529T034128Z" creationid="Tom" creationdate="20190529T034128Z">
+        <seg>Diko&lt;t0/&gt; 教程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Disclaimer</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T073340Z">
+        <seg>版权声明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Documents can be classified in different categories.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T082219Z" creationid="Tom" creationdate="20190603T073443Z">
+        <seg>文件可以分为不同的类别，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Documents stored in &lt;t13/&gt;DIKO&lt;t14/&gt; are encrypted so documents can only be viewed within &lt;t15/&gt;DIKO&lt;t16/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T082206Z" creationid="Tom" creationdate="20190603T073121Z">
+        <seg>存储在&lt;t13/&gt;DIKO&lt;t14/&gt;中的文件均已加密，因此只能在&lt;t15/&gt;DIKO&lt;t16/&gt;中查看。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Double click&lt;t0/&gt; &lt;t1/&gt;“&lt;t2/&gt;DIKO &lt;t3/&gt;DropZone&lt;t4/&gt; Setup”&lt;t5/&gt; &lt;t6/&gt;begin installation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T081718Z" creationid="Tom" creationdate="20190604T064615Z">
+        <seg>双击&lt;t0/&gt;&lt;t1/&gt;“&lt;t2/&gt;DIKO &lt;t3/&gt;DropZone&lt;t4/&gt; Setup”&lt;t5/&gt; &lt;t6/&gt;开始安装</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Double click&lt;t0/&gt; &lt;t1/&gt;“&lt;t2/&gt;Microsoft WSE 2.0 SP3&lt;t3/&gt;”&lt;t4/&gt; &lt;t5/&gt;to initiate installation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T072314Z" creationid="Tom" creationdate="20190604T063547Z">
+        <seg>双击&lt;t0/&gt;&lt;t1/&gt;“&lt;t2/&gt;Microsoft WSE 2.0 SP3&lt;t3/&gt;”&lt;t4/&gt;&lt;t5/&gt; 开始安装</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download Document</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T095631Z" creationid="Tom" creationdate="20190604T095631Z">
+        <seg>下载文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Each category consists a group of fields which hold the metadata for searching.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T075829Z" creationid="Tom" creationdate="20190603T073627Z">
+        <seg>每个类别都包含一组字段，用来支持元数据的搜寻。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fail to delete Default Folder DocType.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190603T064625Z" creationid="Tom" creationdate="20190603T064625Z">
+        <seg>無法刪除默認文件夾的文件種類</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fail to get running number.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190603T064544Z" creationid="Tom" creationdate="20190603T064544Z">
+        <seg>拿取running number失敗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fail to move document.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190603T064523Z" creationid="Tom" creationdate="20190603T064523Z">
+        <seg>移動文件失敗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fail to search in ODBC.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190603T035331Z" creationid="Tom" creationdate="20190603T035331Z">
+        <seg>ODBC搜索失敗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to Load properties file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190603T035043Z" creationid="Tom" creationdate="20190603T035043Z">
+        <seg>屬性文件載入失敗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to browse the folder.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190603T035326Z" creationid="Tom" creationdate="20190603T035326Z">
+        <seg>Failed to browse the folder.odbc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to change permission.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190603T070114Z" creationid="Tom" creationdate="20190603T070114Z">
+        <seg>更改權限失敗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to change user member type from the group.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190603T070055Z" creationid="Tom" creationdate="20190603T070055Z">
+        <seg>更改用戶類型失敗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to move group.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190603T070149Z" creationid="Tom" creationdate="20190603T070149Z">
+        <seg>移動用戶群組失敗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to reset user password.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190603T070139Z" creationid="Tom" creationdate="20190603T070139Z">
+        <seg>重設用戶密碼失敗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to save news.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190603T035102Z" creationid="Tom" creationdate="20190603T035102Z">
+        <seg>此最新消息儲存失敗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to search user.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190603T035018Z" creationid="Tom" creationdate="20190603T035018Z">
+        <seg>搜尋不到用戶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T061243Z" creationid="Tom" creationdate="20190604T061243Z">
+        <seg>檔案</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File System Backup</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T074004Z">
+        <seg>文件系统备份</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File size limit exceeded.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190603T064919Z" creationid="Tom" creationdate="20190603T064919Z">
+        <seg>文件大小超過限制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For inquiries, please send your email &lt;t0/&gt;to info@speechnact.asia&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T073547Z">
+        <seg>如有疑问，请发送电子邮件至&lt;t0/&gt;info@speechnact.asia&lt;t1/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For more information on designating a specific point in time, see &lt;t9/&gt;Backup Timeline&lt;t10/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T080458Z" creationid="Tom" creationdate="20190604T062832Z">
+        <seg>有关指定特定时间点的详细信息，请参阅&lt;t9/&gt;备份时间表&lt;t10/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>G&lt;t0/&gt;o back to the main screen.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20190603T084936Z" creationid="Administrator" creationdate="20190603T084936Z">
+        <seg>&lt;t0/&gt;返回主畫面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Getting Started</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T095353Z" creationid="Tom" creationdate="20190604T095353Z">
+        <seg>入门</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Government Printing Office]] |accessdate=2 March 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20100608090316/http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;sid=3094bb76639c37239557767756fd7878&amp;rgn=div5&amp;view=text&amp;node=21%3A1.0.1.1.7&amp;idno=21 |archivedate=8 June 2010 |df= }}&lt;/ref&gt; or [[communication]]s by individual people, systems, accounts, or other entities.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190528T074543Z" creationid="Tom" creationdate="20190528T074543Z">
+        <seg>Government Printing Office]] |access-date=2012-03-02 |deadurl=yes |archiveurl=https://web.archive.org/web/20100608090316/http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;sid=3094bb76639c37239557767756fd7878&amp;rgn=div5&amp;view=text&amp;node=21%3A1.0.1.1.7&amp;idno=21 |archivedate=2010-06-08 |language=en }}&lt;/ref&gt;，或個人、系統、帳號以及其他實體的[[通信]]等活動。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>H&lt;t0/&gt;ere are the steps we need to do:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190529T042336Z" creationid="Tom" creationdate="20190529T042336Z">
+        <seg>所以我們需要做以下各項：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>He is Tom, and will report to Profes&lt;t0/&gt;sor &lt;t1/&gt;Bouchet&lt;t2/&gt; first.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190529T034747Z" creationid="Tom" creationdate="20190529T034433Z">
+        <seg>他叫Tom，會&lt;t2/&gt;先向&lt;t1/&gt;布歇特&lt;t0/&gt;教授匯報。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>He is Tom, and will report to Professor Bouchet first.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190529T042245Z" creationid="Tom" creationdate="20190529T042245Z">
+        <seg>他叫Tom，會先向布歇特教授匯報。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>He left all his work with the two profess&lt;t1/&gt;ors inside the DIKO server.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20190603T084720Z" creationid="Administrator" creationdate="20190603T084720Z">
+        <seg>他將自己與兩位教授&lt;t1/&gt;工作時使用過的檔案都留在DIKO系統上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>He left all his work with the two profess&lt;t1/&gt;ors inside&lt;t2/&gt; the DIKO server.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190529T093854Z" creationid="Tom" creationdate="20190529T093854Z">
+        <seg>他將自己與兩位教授&lt;t1/&gt;工作時使用過的檔案都留在DIKO系統上&lt;t2/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I&lt;t0/&gt;ntroduction</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T075035Z" creationid="Tom" creationdate="20190529T041501Z">
+        <seg>&lt;t0/&gt;简介</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Imagine that you are the IT Support of the DIKO School of Mollusks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T075144Z" creationid="Tom" creationdate="20190529T092242Z">
+        <seg>假设您现在成为了DIKO软体动物学院的IT支持人员。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In &lt;t0/&gt;DIKO&lt;t1/&gt;, m&lt;t2/&gt;ore than 40 &lt;t3/&gt;document &lt;t4/&gt;types&lt;t5/&gt; &lt;t6/&gt;can be previewed in PDF format and each preview has a watermark with username, IP address and date shown&lt;t7/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T082135Z" creationid="Tom" creationdate="20190603T072720Z">
+        <seg>在&lt;t0/&gt;DIKO&lt;t1/&gt;中，&lt;t6/&gt;可使用PDF格式预览&lt;t2/&gt;40多种&lt;t3/&gt;文件&lt;t4/&gt;类型&lt;t5/&gt;，每张预览内容都有用户名称、IP地址和日期的水印&lt;t7/&gt;，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In [[voting]], a [[voter-verified paper audit trail]] is a method of providing feedback to voters using a [[ballot]]less voting system.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T085413Z" creationid="Tom" creationdate="20190604T085337Z">
+        <seg>在[[投票]]中，[[选民证实的纸质审计线索]]是一种使用无[[选票]]投票系统向选民提供反馈的方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In case of disaster happens, the backup can be restored and the operation loss can be minimized.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T075907Z" creationid="Tom" creationdate="20190603T074650Z">
+        <seg>即使有意外发生，复原备份了的数据可使操作上的损失减低。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the &lt;t0/&gt;Backup sets to restore&lt;t1/&gt; grid, select the backups to restore.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T080503Z" creationid="Tom" creationdate="20190604T014605Z">
+        <seg>在&lt;t0/&gt;Backup sets to restore&lt;t1/&gt;网格中，选择要复原的备份。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the &lt;t0/&gt;Destination&lt;t1/&gt; section, the &lt;t2/&gt;Database&lt;t3/&gt; box is automatically populated with the name of the database to be restored.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T080411Z" creationid="Administrator" creationdate="20190603T093221Z">
+        <seg>在&lt;t0/&gt;Destination&lt;t1/&gt;部分中，&lt;t2/&gt;Database&lt;t3/&gt;框将自动填充要复原的数据库名称。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the &lt;t0/&gt;Restore to&lt;t1/&gt; box, leave the default as &lt;t2/&gt;To&lt;t3/&gt; the last backup taken&lt;t4/&gt; or click on &lt;t5/&gt;Timeline&lt;t6/&gt; to access the &lt;t7/&gt;Backup Timeline&lt;t8/&gt; dialog box to manually select a point in time to stop the recovery action.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T080451Z" creationid="Tom" creationdate="20190603T100028Z">
+        <seg>在&lt;t0/&gt;Restore to&lt;t1/&gt;框中，保留预设设置为&lt;t2/&gt;To&lt;t3/&gt; the last backup taken&lt;t4/&gt;或单击&lt;t5/&gt;Timeline&lt;t6/&gt;以访问&lt;t7/&gt;Backup Timeline&lt;t8/&gt;对话框，以手动选择停止恢复操作的时间点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Incorrect user ID or password.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190603T035036Z" creationid="Tom" creationdate="20190603T035036Z">
+        <seg>用戶名稱或密碼錯誤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Instructions</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T072242Z" creationid="Tom" creationdate="20190604T063408Z">
+        <seg>说明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Introduction</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T094942Z" creationid="Tom" creationdate="20190529T041514Z">
+        <seg>介绍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Invalid Document Name</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190603T040101Z" creationid="Tom" creationdate="20190603T040101Z">
+        <seg>不正確的檔案名稱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In &lt;t0/&gt;Object Explorer&lt;t1/&gt;, connect to an instance of the SQL Server Database Engine and then expand that instance.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T080312Z" creationid="Administrator" creationdate="20190603T091815Z">
+        <seg>在&lt;t0/&gt;Object Explorer&lt;t1/&gt;中，连接到SQL Server数据库引擎的对象，然后展开该对象。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In &lt;t0/&gt;Object Explorer&lt;t1/&gt;, connect to an instance of the SQL Server Database Engine and then expand that instance.&lt;t2/&gt; &lt;t3/&gt;Expand &lt;t4/&gt;Databases&lt;t5/&gt;, right-click &lt;t6/&gt;at &lt;t7/&gt;DIKO&lt;t8/&gt;, point to &lt;t9/&gt;Tasks&lt;t10/&gt;, and then click &lt;t11/&gt;Back Up...&lt;t12/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T075951Z" creationid="Tom" creationdate="20190530T050524Z">
+        <seg>在&lt;t0/&gt;Object Explorer&lt;t1/&gt;中，连接到SQL Server数据库引擎的对象，然后展开该对象。&lt;t2/&gt;&lt;t3/&gt;展开&lt;t4/&gt;Databases&lt;t5/&gt;，于&lt;t7/&gt;DIKO&lt;t8/&gt;右键单击&lt;t6/&gt;，然后指向&lt;t9/&gt;Tasks&lt;t10/&gt;，单击&lt;t11/&gt;Back Up....&lt;t12/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It can display and accept multi-lingual inputs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T075654Z" creationid="Tom" creationdate="20190530T031618Z">
+        <seg>DIKO还可以显示和接受多语言输入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is very important to backup &lt;t0/&gt;DIKO&lt;t1/&gt; on a daily basis to ensure its integrity.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T075902Z" creationid="Tom" creationdate="20190603T074502Z">
+        <seg>&lt;t0/&gt;DIKO&lt;t1/&gt;每天均须备份，以确保其完整性，这一点非常重要。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It's the successor to the '''Enterprise Manager''' in SQL 2000 or before.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190530T052916Z" creationid="Tom" creationdate="20190530T052916Z">
+        <seg>原為SQL Server 2000的管理工具，名為「SQL Server Enterprise Manager」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>L&lt;t0/&gt;ater, when Tom move from &lt;t1/&gt;the Department of &lt;t2/&gt;Gastropods to &lt;t3/&gt;the Department of &lt;t4/&gt;Bivalves, we need to transfer the ownership of his&lt;t5/&gt; &lt;t6/&gt;old&lt;t7/&gt; files back to his reporting line.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190529T042141Z" creationid="Tom" creationdate="20190529T041729Z">
+        <seg>&lt;t0/&gt;之後，當Tom由&lt;t2/&gt;腹足綱&lt;t1/&gt;學系調任到&lt;t4/&gt;雙殼綱&lt;t3/&gt;學系時，我們要將他&lt;t5/&gt;在&lt;t6/&gt;舊有部門工作時的&lt;t7/&gt;檔案交回到他原來的上司管有。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>L&lt;t0/&gt;ater, when Tom move from &lt;t1/&gt;the Department of &lt;t2/&gt;Gastropods to &lt;t3/&gt;the Department of &lt;t4/&gt;Bivalves, we need to transfer the ownership of his&lt;t5/&gt; old&lt;t6/&gt; files back to his reporting line.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20190603T084645Z" creationid="Administrator" creationdate="20190603T084645Z">
+        <seg>&lt;t0/&gt;之後，當Tom由&lt;t2/&gt;腹足綱&lt;t1/&gt;學系調任到&lt;t4/&gt;雙殼綱&lt;t3/&gt;學系時，我們要將他&lt;t5/&gt;在&lt;t6/&gt;舊有部門工作時的檔案交回到他原來的上司管有。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Later, he will be transferred to another department and will report to Professor Kuroda.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190529T042317Z" creationid="Tom" creationdate="20190529T042317Z">
+        <seg>之後，他會被調任至另一個學系，向黑田教授匯報。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Loading...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T085507Z" creationid="Tom" creationdate="20190604T060836Z">
+        <seg>载入中...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mandatory Attribute is not set</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190603T035351Z" creationid="Tom" creationdate="20190603T035351Z">
+        <seg>強制屬性沒有設置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>May 2019</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190530T030517Z" creationid="Tom" creationdate="20190530T030517Z">
+        <seg>2019年5月</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Module</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T072217Z" creationid="Tom" creationdate="20190604T063323Z">
+        <seg>组件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T061308Z" creationid="Tom" creationdate="20190604T061308Z">
+        <seg>移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>N&lt;t0/&gt;ew Comers</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190529T042146Z" creationid="Tom" creationdate="20190529T041655Z">
+        <seg>&lt;t0/&gt;新來者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Never spend extra time to  nd your documents!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190603T022508Z" creationid="Tom" creationdate="20190603T022508Z">
+        <seg>永遠不要在你的文件上花費多餘的時間！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>New Comers</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T074950Z" creationid="Tom" creationdate="20190529T041532Z">
+        <seg>新来者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>New document released</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T073801Z">
+        <seg>发布新文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No %s selected</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T085702Z" creationid="Tom" creationdate="20190604T061353Z">
+        <seg>没有已选择的%s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Now, you have to set the system up that people can share literature online.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T075215Z" creationid="Tom" creationdate="20190529T093500Z">
+        <seg>现时，您要将系统设定为可让学院两个学系的人员在网上分享文献。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OS</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T072159Z" creationid="Tom" creationdate="20190604T063314Z">
+        <seg>操作系统</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Oct 2018</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190528T063418Z">
+        <seg>2018年10月</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the &lt;t0/&gt;General&lt;t1/&gt; page, use the &lt;t2/&gt;Source&lt;t3/&gt; section to specify the source and location of the backup sets to restore.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T080344Z" creationid="Administrator" creationdate="20190603T092404Z">
+        <seg>在&lt;t0/&gt;General&lt;t1/&gt;页面上，使用&lt;t2/&gt;Source&lt;t3/&gt;部分指定要复原的备份集的来源和位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Page &lt;t0/&gt;2&lt;t1/&gt; of &lt;t2/&gt;2</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T080647Z" creationid="Tom" creationdate="20190530T052047Z">
+        <seg>第 &lt;t0/&gt;2&lt;t1/&gt; / &lt;t2/&gt;2 页</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Page&lt;t0/&gt; &lt;t1/&gt;2&lt;t2/&gt; &lt;t3/&gt;o&lt;t4/&gt;f &lt;t5/&gt;2</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20190603T084906Z" creationid="Administrator" creationdate="20190603T084906Z">
+        <seg>第&lt;t0/&gt; &lt;t1/&gt;2&lt;t2/&gt; &lt;t3/&gt;/&lt;t4/&gt; &lt;t5/&gt;2 頁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Password expired, please input new password.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190603T064902Z" creationid="Tom" creationdate="20190603T064902Z">
+        <seg>帳號密碼已過期，請輸入新密碼。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please enter a valid email address.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T085533Z" creationid="Tom" creationdate="20190604T060911Z">
+        <seg>请输入有效的电邮地址。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please enter your comment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T085548Z" creationid="Tom" creationdate="20190604T060920Z">
+        <seg>请输入您的评语。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please enter your email address.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T085523Z" creationid="Tom" creationdate="20190604T060902Z">
+        <seg>请输入您的电邮地址。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please enter your name.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T085516Z" creationid="Tom" creationdate="20190604T060846Z">
+        <seg>请输入您的名字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please read Section 3.2 of Users’ Guide for details.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20190603T085141Z" creationid="Administrator" creationdate="20190603T085141Z">
+        <seg>詳情請參閱使用者手冊的第3.2節。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remarks</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T073614Z">
+        <seg>备注</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove %s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T061335Z" creationid="Tom" creationdate="20190604T061335Z">
+        <seg>移除%s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Restore</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T074011Z">
+        <seg>复原</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Restore Database</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T074202Z">
+        <seg>数据库复原</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Restore File System</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T074214Z">
+        <seg>文件系统复原</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Restore operations may fail if there are active connections to the database.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T080941Z" creationid="Tom" creationdate="20190604T020014Z">
+        <seg>若与数据库的活动连接仍然存在，复原操作可能会失败。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right click&lt;t0/&gt; &lt;t1/&gt;“&lt;t2/&gt;DIKO &lt;t3/&gt;DropZone&lt;t4/&gt;”</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T083213Z" creationid="Tom" creationdate="20190604T083213Z">
+        <seg>右键点击&lt;t0/&gt; &lt;t1/&gt;“&lt;t2/&gt;DIKO &lt;t3/&gt;DropZone&lt;t4/&gt;”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-click &lt;t0/&gt;Databases&lt;t1/&gt; and select &lt;t2/&gt;Restore Database...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T080333Z" creationid="Administrator" creationdate="20190603T091907Z">
+        <seg>于&lt;t0/&gt;Databases&lt;t1/&gt;右键单击，然后点选&lt;t2/&gt;Restore Database...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>S&lt;t0/&gt;ummary</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190529T042200Z" creationid="Tom" creationdate="20190529T041559Z">
+        <seg>&lt;t0/&gt;總結</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SSL is also supported so the data transmission between &lt;t17/&gt;DIKO&lt;t18/&gt; and web browser is safe.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T075815Z" creationid="Tom" creationdate="20190603T073204Z">
+        <seg>支持SSL传输，因此&lt;t17/&gt;DIKO&lt;t18/&gt;和Web浏览器之间的数据传输是安全的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sections</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T073608Z">
+        <seg>章节</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select %s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T061317Z" creationid="Tom" creationdate="20190604T061317Z">
+        <seg>選擇%s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select one of the following options:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T080351Z" creationid="Tom" creationdate="20190530T052008Z">
+        <seg>选择以下选项之一：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the database to restore from the drop-down list.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T080357Z" creationid="Administrator" creationdate="20190603T092957Z">
+        <seg>从下拉列表中选择要复原的数据库。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select&lt;t0/&gt; &lt;t1/&gt;“&lt;t2/&gt;Next&lt;t3/&gt;”</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T072346Z" creationid="Tom" creationdate="20190604T063748Z">
+        <seg>点选&lt;t0/&gt;&lt;t1/&gt; “&lt;t2/&gt;Next&lt;t3/&gt;”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select &lt;t0/&gt;Prompt before restoring each backup&lt;t1/&gt; if you wish to be prompted between each restore operation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T080608Z" creationid="Tom" creationdate="20190603T090610Z">
+        <seg>如果希望在每个复原操作之间出现提示，请选择&lt;t0/&gt;Prompt before restoring each backup&lt;t1/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Staff Folder is not found on system.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190603T040128Z" creationid="Tom" creationdate="20190603T040128Z">
+        <seg>系統中沒有找到Staff Folder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Steps</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T072239Z" creationid="Tom" creationdate="20190604T063357Z">
+        <seg>步骤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Summary</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T075028Z" creationid="Tom" creationdate="20190529T041547Z">
+        <seg>总结</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>System Functions</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T020603Z" creationid="Tom" creationdate="20190604T020603Z">
+        <seg>系統功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>System Group can not be relocated.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190603T070208Z" creationid="Tom" creationdate="20190603T070208Z">
+        <seg>不能移動系統預設群組</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>System cannot delete Department which contains user members</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190603T070256Z" creationid="Tom" creationdate="20190603T070256Z">
+        <seg>系統無法刪除仍有用戶的部門</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>System error.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190603T064822Z" creationid="Tom" creationdate="20190603T064737Z">
+        <seg>系統錯誤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>T&lt;t0/&gt;able of Content</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T074924Z" creationid="Tom" creationdate="20190529T041520Z">
+        <seg>目录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>T&lt;t0/&gt;om is the new research assistant of the department.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190529T042152Z" creationid="Tom" creationdate="20190529T041651Z">
+        <seg>&lt;t0/&gt;Tom是部門新來的研究助理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>T&lt;t0/&gt;ransfer</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190529T042157Z" creationid="Tom" creationdate="20190529T041606Z">
+        <seg>&lt;t0/&gt;調任</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table of Content</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T073902Z">
+        <seg>目录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table of Contents</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T095309Z" creationid="Tom" creationdate="20190528T100104Z">
+        <seg>目录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The back&lt;t5/&gt;up files are recommended to store on the NAS&lt;t6/&gt; for protection.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T082834Z" creationid="Tom" creationdate="20190604T062624Z">
+        <seg>建议将备份&lt;t5/&gt;文件存储在NAS&lt;t6/&gt;上以进行保护。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The backup files are recommended to store on the NAS&lt;t5/&gt; for protection.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20190603T091432Z" creationid="Administrator" creationdate="20190603T091432Z">
+        <seg>建議將備份檔案存儲在NAS上以方便保護。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The disk is full.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190603T064830Z" creationid="Tom" creationdate="20190603T064748Z">
+        <seg>磁碟已滿。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The document has been updated by other user.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190603T035028Z" creationid="Tom" creationdate="20190603T035028Z">
+        <seg>此資料夾已被其他用戶更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following procedures show how to restore the database backup using MS SQL Server Management Studio.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T080308Z" creationid="Tom" creationdate="20190530T051904Z">
+        <seg>以下过程说明如何使用MS SQL Server Management Studio复原数据库备份。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following procedures show you how &lt;t5/&gt;to &lt;t6/&gt;use the SQL Server Management Studio &lt;t7/&gt;to &lt;t8/&gt;backup&lt;t9/&gt; the &lt;t10/&gt;DIKO&lt;t11/&gt; database &lt;t12/&gt;installed to &lt;t13/&gt;its default location</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T075946Z" creationid="Administrator" creationdate="20190603T091014Z">
+        <seg>以下过程说明如何&lt;t5/&gt;去&lt;t6/&gt;透过SQL Server Management Studio&lt;t7/&gt;将&lt;t12/&gt;安装于&lt;t13/&gt;于默认位置的&lt;t10/&gt;DIKO&lt;t11/&gt;数据库&lt;t8/&gt;备份&lt;t9/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following procedures show you how &lt;t5/&gt;use the SQL Server Management Studio &lt;t6/&gt;to &lt;t7/&gt;backup&lt;t8/&gt; the &lt;t9/&gt;DIKO&lt;t10/&gt; database &lt;t11/&gt;installed to &lt;t12/&gt;its default location</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190530T045409Z" creationid="Tom" creationdate="20190530T045409Z">
+        <seg>以下過程說明如何&lt;t5/&gt;透過SQL Server Management Studio&lt;t6/&gt;將&lt;t7/&gt;&lt;t11/&gt;安裝&lt;t12/&gt;於預設位置的&lt;t9/&gt;DIKO&lt;t10/&gt;資料庫備份&lt;t8/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The list contains only databases that have been backed up according to the &lt;t0/&gt;msdb&lt;t1/&gt; backup history.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T081921Z" creationid="Administrator" creationdate="20190603T093110Z">
+        <seg>该列表仅包含根据&lt;t0/&gt;msdb&lt;t1/&gt;备份历史记录作过备份的数据库。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The school has only two departments:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T075221Z" creationid="Tom" creationdate="20190529T034214Z">
+        <seg>学校只有两个部门：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The structure of the school is as follows:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T075207Z" creationid="Tom" creationdate="20190529T093241Z">
+        <seg>学院各部门间的架构如下图：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The user object is null.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190603T035049Z" creationid="Tom" creationdate="20190603T035049Z">
+        <seg>用戶為null</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The “knowledge” is collected from our users’ documents, meeting agendas, emails and other possible sources of knowledge.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T095110Z" creationid="Tom" creationdate="20190604T095110Z">
+        <seg>“知识”来自我们用户的文件、会议议程、电子邮件和其他可能的知识来源。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then you will see the dialog box below&lt;t0/&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T075957Z" creationid="Tom" creationdate="20190530T050605Z">
+        <seg>然后你会看到以下的对话框&lt;t0/&gt;：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There is a folder called &lt;t1/&gt;DIKO&lt;t2/&gt; which stores the application, file objects and full text index.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T082714Z" creationid="Administrator" creationdate="20190603T091308Z">
+        <seg>有一个名为&lt;t1/&gt;DIKO&lt;t2/&gt;的活页夹，用于储存应用程序、文件对象和全文索引，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Therefore,  we developed DIKO Email Capture.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190603T022235Z" creationid="Tom" creationdate="20190603T022235Z">
+        <seg>因此，我們開發了developed DIKO Email Capture。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Therefore, the &lt;t3/&gt;DIKO&lt;t4/&gt; folder on C drive should be backup either by using the Copy command or other backup software.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T082803Z" creationid="Administrator" creationdate="20190603T091324Z">
+        <seg>因此，C磁盘驱动器上的&lt;t3/&gt;DIKO&lt;t4/&gt;活页夹应该透过系统的“复制”命令或其他备份软件进行备份。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This check box sets the database to single user mode before performing the restore operations, and sets the database to multi-user mode when complete.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T080541Z" creationid="Tom" creationdate="20190604T020151Z">
+        <seg>此复选框在执行还原操作之前将数据库设置为单用户模式，并在完成时数据库设置为多用户模式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This grid displays the backups available for the specified location.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T080507Z" creationid="Tom" creationdate="20190604T014617Z">
+        <seg>此网格显示指定位置的可用备份。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is &lt;t8/&gt;to avoid any potential screen capture of the document content.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T082140Z" creationid="Tom" creationdate="20190603T072740Z">
+        <seg>以&lt;t8/&gt;避免有任何的文件内容透过画面捕捉而被窃取的潜在风险。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is not usually necessary unless the database is large and you wish to monitor the status of the restore operation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T080619Z" creationid="Tom" creationdate="20190530T052241Z">
+        <seg>除非数据库很大并且您希望监视还原操作的状态，否则通常不需要这样做。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To change the name of the database, enter the new name in the &lt;t4/&gt;Database&lt;t5/&gt; box.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T080445Z" creationid="Administrator" creationdate="20190603T093234Z">
+        <seg>要更改数据库名称，请在&lt;t4/&gt;Database&lt;t5/&gt;框中输入新名称。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To override the suggested recovery plan, you can change the selections in the grid.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T080517Z" creationid="Tom" creationdate="20190604T015037Z">
+        <seg>要覆盖建议的恢复计划，您可以更改网格中的选择。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To restore &lt;t0/&gt;DIKO&lt;t1/&gt; is simple, put the database and file system backup from the NAS to the default location (i.e. C drive) and &lt;t2/&gt;DIKO&lt;t3/&gt; will be in production again.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T080302Z" creationid="Tom" creationdate="20190530T051843Z">
+        <seg>要复原&lt;t0/&gt;DIKO&lt;t1/&gt;很简单，将数据库和文件系统备份从NAS放到默认位置（即C磁盘驱动器），&lt;t2/&gt;DIKO&lt;t3/&gt;将再次投入生产。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To restore the file system, simply copy the whole &lt;t0/&gt;DIKO&lt;t1/&gt; folder with its content and put it &lt;t2/&gt;back &lt;t3/&gt;on C drive (or &lt;t4/&gt;DIKO&lt;t5/&gt; installed hard drive).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T080635Z" creationid="Tom" creationdate="20190604T063012Z">
+        <seg>要复原文件系统，只需复制整个&lt;t0/&gt;DIKO&lt;t1/&gt;活页夹及其内容，并将之放&lt;t2/&gt;回到&lt;t3/&gt;C磁盘驱动器（或&lt;t4/&gt;DIKO&lt;t5/&gt;安装的硬盘）上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To restore the file system, simply copy the whole &lt;t0/&gt;DIKO&lt;t1/&gt; folder with its content and put it on C drive (or &lt;t2/&gt;DIKO&lt;t3/&gt; installed hard drive).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190530T052150Z" creationid="Tom" creationdate="20190530T052150Z">
+        <seg>要復原檔案系統，只需複製整個&lt;t0/&gt;DIKO&lt;t1/&gt;文件夾及其內容，並將其放在C磁碟機（或&lt;t2/&gt;DIKO&lt;t3/&gt;安裝的硬碟）上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Transfer</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T075011Z" creationid="Tom" creationdate="20190529T041543Z">
+        <seg>调职</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unauthorized.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190603T035000Z" creationid="Tom" creationdate="20190603T035000Z">
+        <seg>未經授權</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Updated with details steps of backup and restore, with screen captures</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T073841Z" creationid="Tom" creationdate="20190530T030733Z">
+        <seg>加入了备份与复原过程中的抓图，再修订了部分用字和标点符号。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Upon completion click&lt;t0/&gt; &lt;t1/&gt;“&lt;t2/&gt;Finish&lt;t3/&gt;”</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T081609Z" creationid="Tom" creationdate="20190604T064337Z">
+        <seg>安装完成后点击&lt;t0/&gt; &lt;t1/&gt;“&lt;t2/&gt;Finish&lt;t3/&gt;”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Users can share the documents via its share-link&lt;t4/&gt; to ensure litigate sharing.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T082237Z" creationid="Tom" creationdate="20190603T073853Z">
+        <seg>使用者可以通过其共享连结&lt;t4/&gt;来分享文件，以确保诉讼共享。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Version</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190528T063203Z">
+        <seg>版本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We are trying to provide you a step-by-step tutorial lesson about setting up the DIKO system.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T075052Z" creationid="Tom" creationdate="20190529T092033Z">
+        <seg>我们希望透过这个教程，使您能够更了解如何为DIKO系统设定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We need to create a new account for him.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190529T041635Z" creationid="Tom" creationdate="20190529T041635Z">
+        <seg>我們要給他建立一個新的帳號。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We need to create a new account for him&lt;t1/&gt;, and assign new roles to him as assistant of Professor Bouchet&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20190603T085240Z" creationid="Administrator" creationdate="20190603T085240Z">
+        <seg>我們要給他建立一個新的帳號&lt;t1/&gt;，而且給他作為布歇特教授的助手的身份&lt;t2/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With &lt;t0/&gt;DIKO&lt;t1/&gt;, all documents are well protected and managed so the corporation is on the safe side in the dynamic business world.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T082244Z" creationid="Tom" creationdate="20190603T074335Z">
+        <seg>使用&lt;t0/&gt;DIKO&lt;t1/&gt;，所有文件都得到很好的保护和管理，因此企业能在这动蘯的商业世界中处于安全的一面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With a web browser, the user can manage and protect the documents within the organization.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T074906Z" creationid="Tom" creationdate="20190528T080829Z">
+        <seg>使用Web浏览器，用户可以管理和保护组织内的文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may use a Windows schedule task to conduct the file system backup every night.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T080238Z" creationid="Administrator" creationdate="20190603T091408Z">
+        <seg>您可以使用Windows的计划任务功能于每晚进行文件系统备份。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may use some database backup software to &lt;t0/&gt;backup&lt;t1/&gt; the &lt;t2/&gt;DIKO&lt;t3/&gt; database&lt;t4/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T075936Z" creationid="Tom" creationdate="20190530T045141Z">
+        <seg>您可以使用一些数据库备份软件来&lt;t0/&gt;备份&lt;t1/&gt;&lt;t2/&gt;DIKO&lt;t3/&gt;数据库&lt;t4/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may use the task scheduler to automate the database backup task.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T080154Z" creationid="Tom" creationdate="20190530T050634Z">
+        <seg>您可以使用任务计划程序自动执行数据库备份任务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You will see the progress meter at the lower left corner running until backup &lt;t5/&gt;ended as below&lt;t6/&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T080139Z" creationid="Tom" creationdate="20190530T050804Z">
+        <seg>这时，对话框的左下角会出现备份进程的图案。当备份完成，系统会出现如下图般&lt;t6/&gt;提示备份&lt;t5/&gt;已完成的讯息：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your comment has been added.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T085556Z" creationid="Tom" creationdate="20190604T060930Z">
+        <seg>已新增您的评语。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your school purchased DIKO, as it is so wonder to document everything you have to.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T075158Z" creationid="Tom" creationdate="20190529T092507Z">
+        <seg>您的学院购买了DIKO系统的使用权，而您正跃跃欲使，希望将所有文件都交由DIKO系统处理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[[Category:Auditing terms|Trail]]</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T085450Z" creationid="Tom" creationdate="20190528T074918Z">
+        <seg>==外部连结==
+[[Category:审计术语]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[[Category:Microsoft database software]]
+[[Category:Database administration tools]]</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190530T053025Z" creationid="Tom" creationdate="20190530T053025Z">
+        <seg>[[Category:微软数据库软件]]
+[[Category:数据库管理工具]]
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[[Securities and Exchange Commission]] |date=26 May 2010 |accessdate=7 March 2012}}&lt;/ref&gt; [[scientific research]] and health care data transactions,&lt;ref&gt;{{cite web|url=http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;sid=5ff3a0efed913ef8fae9e225869688a2&amp;rgn=div5&amp;view=text&amp;node=21:1.0.1.1.7&amp;idno=21 |title=Electronic Code of Federal Regulations - Title 21: Food and Drugs - Part 11: Electronic Records; Electronic Signatures |publisher=[[U.S.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190528T074327Z" creationid="Tom" creationdate="20190528T073945Z">
+        <seg>[[美国证券交易委员会|Securities and Exchange Commission]] |date=2010-05-26 |access-date=2012-03-07 |language=en }}&lt;/ref&gt;、[[科学方法|科學研究]]和醫療保健數據交易&lt;ref&gt;{{cite web|url=http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;sid=5ff3a0efed913ef8fae9e225869688a2&amp;rgn=div5&amp;view=text&amp;node=21:1.0.1.1.7&amp;idno=21 |title=Electronic Code of Federal Regulations - Title 21: Food and Drugs - Part 11: Electronic Records; Electronic Signatures |publisher=[[美国政府出版局|U.S.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>change.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190603T022147Z" creationid="Tom" creationdate="20190603T022147Z">
+        <seg>改變。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>collaboration.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190603T022306Z" creationid="Tom" creationdate="20190603T022306Z">
+        <seg>協作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>management.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190603T022314Z" creationid="Tom" creationdate="20190603T022314Z">
+        <seg>管理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>metadata search.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190603T022327Z" creationid="Tom" creationdate="20190603T022327Z">
+        <seg>元數據搜尋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{{Infobox software
+| name                   = SQL Server Management Studio
+| logo                   = 
+| screenshot             = SQLServerManagementStudio.JPG
+| caption                = Earlier version of Microsoft SQL Server Management Studio showing a query, the results of the query, and the Object Explorer pane while connected to a SQL Server database engine instance.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190530T052734Z" creationid="Tom" creationdate="20190530T052734Z">
+        <seg>{{Infobox software
+| name                   = SQL Server Management Studio
+| logo                   = 
+| screenshot             = SQLServerManagementStudio.JPG
+| caption                = 一個早期版本的Microsoft SQL Server Management Studio的截圖，顯示一條query, the results of the query, and the Object Explorer pane while connected to a SQL Server database engine instance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{{Refimprove|date=March 2012}}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190528T071401Z" creationid="Tom" creationdate="20190528T071401Z">
+        <seg>{{Refimprove|time=2012-03}}</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
