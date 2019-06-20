@@ -6857,7 +6857,7 @@ msgstr ""
 #
 #: wp-admin/options-writing.php:85
 msgid "Port"
-msgstr ""
+msgstr "Port"
 
 #
 #: wp-admin/options-writing.php:90

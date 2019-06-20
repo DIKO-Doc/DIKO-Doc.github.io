@@ -6,6 +6,22 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>%1$s at %2$s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190615T133714Z" creationid="Tom" creationdate="20190615T133714Z">
+        <seg>%1$s at %2$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>%1$s by %2$s on %3$s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190615T133705Z" creationid="Tom" creationdate="20190615T133705Z">
+        <seg>%1$s by %2$s on %3$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;amp;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190615T133627Z" creationid="Tom" creationdate="20190615T133627Z">
@@ -302,8 +318,8 @@
       <tuv lang="EN">
         <seg>Anonymous</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T061434Z" creationid="Tom" creationdate="20190604T061434Z">
-        <seg>匿名者</seg>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190615T133658Z" creationid="Tom" creationdate="20190604T061434Z">
+        <seg>匿名</seg>
       </tuv>
     </tu>
     <tu>
@@ -565,6 +581,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Comment awaiting moderation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190615T133711Z" creationid="Tom" creationdate="20190615T133711Z">
+        <seg>等待审核的评论</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>CommentPress Core</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -577,6 +601,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T085626Z" creationid="Tom" creationdate="20190604T061301Z">
         <seg>评语</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Comments by Commenter</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190615T133708Z" creationid="Tom" creationdate="20190615T133708Z">
+        <seg>评论者评论</seg>
       </tuv>
     </tu>
     <tu>
@@ -1445,6 +1477,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Posts by %s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190615T133651Z" creationid="Tom" creationdate="20190615T133651Z">
+        <seg>Posts by %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project-Id-Version: CommentPress Core 3.9.11
 Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/commentpress-core
 POT-Creation-Date: 2018-04-30 12:46:00+00:00
@@ -1567,6 +1607,14 @@ Language: bb</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See comment in context</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190615T133653Z" creationid="Tom" creationdate="20190615T133653Z">
+        <seg>See comment in context</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select %s</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190615T133440Z" creationid="Tom" creationdate="20190604T061317Z">
@@ -1619,6 +1667,14 @@ Language: bb</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190615T133512Z" creationid="Tom" creationdate="20190615T133512Z">
         <seg>网站标志</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190615T133648Z" creationid="Tom" creationdate="20190615T133648Z">
+        <seg>源：</seg>
       </tuv>
     </tu>
     <tu>

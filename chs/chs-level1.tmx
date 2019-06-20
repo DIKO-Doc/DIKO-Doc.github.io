@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>1.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190618T073732Z" creationid="Tom" creationdate="20190618T073732Z">
+        <seg>1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>1.1 Add New User</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190611T081622Z" creationid="Tom" creationdate="20190611T081622Z">
@@ -368,6 +376,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T075122Z" creationid="Tom" creationdate="20190530T052510Z">
         <seg>在我们开始之前，首先要跟随“安装手册”的步骤，把所需要的软件安装及设定好。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>BosnianCyrillic = 130,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190618T073742Z" creationid="Tom" creationdate="20190618T073742Z">
+        <seg>西里尔字母波斯尼亚语 = 130,</seg>
       </tuv>
     </tu>
     <tu>
@@ -797,6 +813,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>DocTrackerv3plus</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190618T073715Z" creationid="Tom" creationdate="20190618T073715Z">
+        <seg>DocTrackerv3plus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Documents can be classified in different categories.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T082219Z" creationid="Tom" creationdate="20190603T073443Z">
@@ -1053,6 +1077,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Kazakh = 134,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190618T073813Z" creationid="Tom" creationdate="20190618T073813Z">
+        <seg>哈萨克斯坦语 = 134,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Later, when Tom move from the Department of Gastropods to the Department of Bivalves, we need to transfer the ownership of his old files back to his reporting line.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20190603T084645Z" creationid="Administrator" creationdate="20190603T084645Z">
@@ -1097,6 +1129,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T072217Z" creationid="Tom" creationdate="20190604T063323Z">
         <seg>组件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moldovan = 131,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190618T073750Z" creationid="Tom" creationdate="20190618T073750Z">
+        <seg>摩尔多瓦语 = 131,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MongolianCyrillic = 135,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190618T073819Z" creationid="Tom" creationdate="20190618T073819Z">
+        <seg>西里尔字母蒙古语 = 135,</seg>
       </tuv>
     </tu>
     <tu>
@@ -1431,6 +1479,14 @@ Language: bb</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Start setting up the OCR Station. Double-click the shortcut of DocTracker OCR Client Config on the desktop to open the DocTracker OCR Station Control Panel program.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190618T073834Z" creationid="Tom" creationdate="20190618T073834Z">
+        <seg>Start setting up the OCR Station. Double-click the shortcut of DocTracker OCR Client Config on the desktop to open the DocTracker OCR Station Control Panel program.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Steps</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T072239Z" creationid="Tom" creationdate="20190604T063357Z">
@@ -1443,6 +1499,14 @@ Language: bb</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T075028Z" creationid="Tom" creationdate="20190529T041547Z">
         <seg>总结</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SwissGerman = 132,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190618T073755Z" creationid="Tom" creationdate="20190618T073755Z">
+        <seg>瑞士德语 = 132,</seg>
       </tuv>
     </tu>
     <tu>
@@ -1499,6 +1563,14 @@ Language: bb</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T095309Z" creationid="Tom" creationdate="20190528T100104Z">
         <seg>目录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tetum = 133,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190618T073805Z" creationid="Tom" creationdate="20190618T073805Z">
+        <seg>德顿语 = 133,</seg>
       </tuv>
     </tu>
     <tu>
@@ -1691,6 +1763,14 @@ Language: bb</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T082237Z" creationid="Tom" creationdate="20190603T073853Z">
         <seg>使用者可以通过其共享连结来分享文件，以确保诉讼共享。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>UzbekLatin = 136,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190618T073826Z" creationid="Tom" creationdate="20190618T073826Z">
+        <seg>拉丁字母乌孜别克语 = 136,</seg>
       </tuv>
     </tu>
     <tu>
