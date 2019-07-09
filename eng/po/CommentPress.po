@@ -9,9 +9,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "PO-Revision-Date: 2019-06-15 21:30+0800\n"
-"Last-Translator: Tom K. C. Chiu <babycaseny@gmail.com>\n"
-"Language-Team: Babycaseny Gavernment <babycaseny@gmail.com>\n"
-"Language: bb\n"
 
 #: commentpress-ajax/cp-ajax-comments.php:168
 msgid "Loading..."

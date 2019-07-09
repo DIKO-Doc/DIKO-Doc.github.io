@@ -534,6 +534,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- IIS Server 7.0 / 8.0</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T060647Z" creationid="Tom" creationdate="20190709T060647Z">
+        <seg>- IIS Server 7.0 / 8.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- MS Windows Server 2012(R2)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Tom" changedate="20190617T072952Z" creationid="Tom" creationdate="20190617T072952Z">
@@ -1064,6 +1072,22 @@ X-Generator: Poedit 2.2.3</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>1.&lt;t0/&gt;3 &lt;t1/&gt;Install&lt;t2/&gt; Microsoft&lt;t3/&gt; WSE 3.0</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T063333Z" creationid="Tom" creationdate="20190709T063333Z">
+        <seg>1&lt;t0/&gt;.3 &lt;t1/&gt;安裝&lt;t2/&gt; Microsoft&lt;t3/&gt; WSE 3.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>1.&lt;t0/&gt;4 &lt;t1/&gt;Install &lt;t2/&gt;DocTracker&lt;t3/&gt;V&lt;t4/&gt;3&lt;t5/&gt;Plus&lt;t6/&gt; and related tools</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T062920Z" creationid="Tom" creationdate="20190709T062920Z">
+        <seg>1.3&lt;t0/&gt; &lt;t1/&gt;安裝 &lt;t2/&gt;DocTracker&lt;t3/&gt;V&lt;t4/&gt;3&lt;t5/&gt;Plus&lt;t6/&gt; 及相關工具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>1.&lt;t0/&gt;5&lt;t1/&gt; Setting &lt;t2/&gt;License Key</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T024108Z" creationid="Tom" creationdate="20190709T024108Z">
@@ -1264,6 +1288,22 @@ X-Generator: Poedit 2.2.3</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>2.&lt;t0/&gt;4&lt;t1/&gt;Register DocTracker OCR Station service</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T060535Z" creationid="Tom" creationdate="20190709T060535Z">
+        <seg>2.&lt;t0/&gt;4&lt;t1/&gt;Register DocTracker OCR Station service</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>2.OCR STATION &lt;t0/&gt;installation and setup</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T051143Z" creationid="Tom" creationdate="20190709T051143Z">
+        <seg>2.OCR STATION &lt;t0/&gt;安裝及設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>20</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Tom" changedate="20190625T050840Z" creationid="Tom" creationdate="20190625T050840Z">
@@ -1284,6 +1324,14 @@ X-Generator: Poedit 2.2.3</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Tom" changedate="20190618T091839Z" creationid="Tom" creationdate="20190618T091839Z">
         <seg>22</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>23</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T073550Z" creationid="Tom" creationdate="20190709T073550Z">
+        <seg>23</seg>
       </tuv>
     </tu>
     <tu>
@@ -1728,14 +1776,6 @@ X-Generator: Poedit 2.2.3</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>53</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Tom" changedate="20190617T081519Z" creationid="Tom" creationdate="20190617T081519Z">
-        <seg>53</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>6</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Tom" changedate="20190617T021545Z" creationid="Tom" creationdate="20190617T021545Z">
@@ -1764,6 +1804,14 @@ X-Generator: Poedit 2.2.3</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Tom" changedate="20190620T022833Z" creationid="Tom" creationdate="20190620T022833Z">
         <seg>8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>8.8</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T080030Z" creationid="Tom" creationdate="20190709T080030Z">
+        <seg>8.8</seg>
       </tuv>
     </tu>
     <tu>
@@ -2350,8 +2398,8 @@ or yus đe + bùtton</seg>
       <tuv lang="EN">
         <seg>Advance Search</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Tom" changedate="20190627T032346Z" creationid="Tom" creationdate="20190627T032346Z">
-        <seg>高級搜尋</seg>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T075924Z" creationid="Tom" creationdate="20190627T032346Z">
+        <seg>進階搜尋</seg>
       </tuv>
     </tu>
     <tu>
@@ -2360,6 +2408,14 @@ or yus đe + bùtton</seg>
       </tuv>
       <tuv lang="ZH-TW">
         <seg>Gokab</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Afaan&lt;t0/&gt; = 118,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T082746Z" creationid="Tom" creationdate="20190709T082746Z">
+        <seg>阿方奧羅莫語&lt;t0/&gt; = 118,</seg>
       </tuv>
     </tu>
     <tu>
@@ -2709,6 +2765,14 @@ or yus đe + bùtton</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>AzeriLatin&lt;t0/&gt; = 120,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T082752Z" creationid="Tom" creationdate="20190709T082752Z">
+        <seg>拉丁字母亞塞拜然語&lt;t0/&gt; = 120,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Backup</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Tom" changedate="20190528T063548Z">
@@ -2825,6 +2889,38 @@ or yus đe + bùtton</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Tom" changedate="20190614T120354Z" creationid="Tom" creationdate="20190614T120354Z">
         <seg>Beta vörçions kontein the leitest niu features en impruvments, but possibolli bufun wa not steibol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bikol&lt;t0/&gt; = 97,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T082718Z" creationid="Tom" creationdate="20190709T082718Z">
+        <seg>比科爾語&lt;t0/&gt; = 97,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bislama&lt;t0/&gt; = 93,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T082700Z" creationid="Tom" creationdate="20190709T082700Z">
+        <seg>比斯拉馬語&lt;t0/&gt; = 93,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>BosnianCyrillic&lt;t0/&gt; = 130,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T083005Z" creationid="Tom" creationdate="20190709T083005Z">
+        <seg>西里爾字母波斯尼亞語&lt;t0/&gt; = 130,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>BosnianLatin&lt;t0/&gt; = 129,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T083001Z" creationid="Tom" creationdate="20190709T083001Z">
+        <seg>拉丁字母波斯尼亞語&lt;t0/&gt; = 129,</seg>
       </tuv>
     </tu>
     <tu>
@@ -2957,6 +3053,14 @@ or yus đe + bùtton</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>C:\DocTracker\&lt;t0/&gt;GenHWBlueprint&lt;t1/&gt;folder&lt;t2/&gt; and double click to run &lt;t3/&gt;GenHWBluePrint.exe</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T063731Z" creationid="Tom" creationdate="20190709T063731Z">
+        <seg>C:\DocTracker\&lt;t0/&gt;GenHWBlueprint&lt;t1/&gt;資料夾&lt;t2/&gt;，然後按兩下去執行&lt;t3/&gt;GenHWBluePrint.exe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>C:\DocTracker\GenHWBlueprintfolder and double click to run GenHWBluePrint.exe</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Tom" changedate="20190618T131226Z" creationid="Tom" creationdate="20190618T082959Z">
@@ -2983,8 +3087,8 @@ or yus đe + bùtton</seg>
       <tuv lang="EN">
         <seg>C&lt;t0/&gt;reate the folder “Gastropods” and “Bivalves” under “Mollusks”.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Administrator" changedate="20190603T084527Z" creationid="Administrator" creationdate="20190603T084527Z">
-        <seg>&lt;t0/&gt;再在“Mollusks”這個資料夾之下建立“Gastropods”和“Bivalves”兩個新的資料夾。</seg>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T033643Z" creationid="Administrator" creationdate="20190603T084527Z">
+        <seg>再在“Mollusks”這個資料夾之下建&lt;t0/&gt;立“Gastropods”和“Bivalves”兩個新的資料夾。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3373,10 +3477,18 @@ or yus đe + bùtton</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Click "Install" start installation program</seg>
+        <seg>Click "Finish"</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Tom" changedate="20190618T131158Z" creationid="Tom" creationdate="20190618T082913Z">
-        <seg>按一下「Install」啟動安裝程式</seg>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T081002Z" creationid="Tom" creationdate="20190709T081002Z">
+        <seg>按一下「Finish」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click "I&lt;t0/&gt;nstall&lt;t1/&gt;"</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T080946Z" creationid="Tom" creationdate="20190709T080946Z">
+        <seg>按一下「I&lt;t0/&gt;nstall&lt;t1/&gt;」</seg>
       </tuv>
     </tu>
     <tu>
@@ -3405,10 +3517,50 @@ or yus đe + bùtton</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;t0/&gt;"&lt;t1/&gt;Install&lt;t2/&gt;"&lt;t3/&gt; &lt;t4/&gt;start&lt;t5/&gt; &lt;t6/&gt;installation&lt;t7/&gt; program.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T062958Z" creationid="Tom" creationdate="20190709T062958Z">
+        <seg>按一下&lt;t0/&gt;"&lt;t1/&gt;Install&lt;t2/&gt;"&lt;t3/&gt; &lt;t4/&gt;啟動&lt;t5/&gt;&lt;t6/&gt;安裝程式&lt;t7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;t0/&gt;"&lt;t1/&gt;Install&lt;t2/&gt;"&lt;t3/&gt; &lt;t4/&gt;to start &lt;t5/&gt;installation&lt;t6/&gt; program</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T063449Z" creationid="Tom" creationdate="20190709T063449Z">
+        <seg>按一下&lt;t0/&gt;"&lt;t1/&gt;Install&lt;t2/&gt;"&lt;t3/&gt; &lt;t4/&gt;去啟動&lt;t5/&gt;安裝&lt;t6/&gt;程式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;t0/&gt;"Next"</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T080942Z" creationid="Tom" creationdate="20190709T080942Z">
+        <seg>按一下&lt;t0/&gt;「Next」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;t0/&gt;Reset Password&lt;t1/&gt; function, an interface will be promoted.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Tom" changedate="20190620T070637Z" creationid="Tom" creationdate="20190620T070637Z">
         <seg>按一下&lt;t0/&gt;重置密碼&lt;t1/&gt;的功能，會帶出一個介面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;t0/&gt;[&lt;t1/&gt;Close&lt;t2/&gt;]&lt;t3/&gt;after&lt;t4/&gt; installation is complete</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T063351Z" creationid="Tom" creationdate="20190709T063351Z">
+        <seg>按一下 &lt;t0/&gt;[&lt;t1/&gt;Close&lt;t2/&gt;]&lt;t3/&gt;當&lt;t4/&gt;安裝過程完結</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;t0/&gt;[&lt;t1/&gt;Finish&lt;t2/&gt;]&lt;t3/&gt;after&lt;t4/&gt; installation is complete</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T062917Z" creationid="Tom" creationdate="20190709T062917Z">
+        <seg>按一下 &lt;t0/&gt;[&lt;t1/&gt;Finish&lt;t2/&gt;]&lt;t3/&gt;當&lt;t4/&gt;安裝過程完結</seg>
       </tuv>
     </tu>
     <tu>
@@ -3429,6 +3581,14 @@ or yus đe + bùtton</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click Advanced... then Find Now</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T080028Z" creationid="Tom" creationdate="20190709T080028Z">
+        <seg>按一下「進階...」然後「現在尋找」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click [Add Features] on the pop up window</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T023402Z" creationid="Tom" creationdate="20190617T021737Z">
@@ -3439,8 +3599,8 @@ or yus đe + bùtton</seg>
       <tuv lang="EN">
         <seg>Click [Finish]</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Tom" changedate="20190617T091951Z" creationid="Tom" creationdate="20190617T091951Z">
-        <seg>按一下[Finish]</seg>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T081502Z" creationid="Tom" creationdate="20190617T091951Z">
+        <seg>點「Finish」結束</seg>
       </tuv>
     </tu>
     <tu>
@@ -3565,18 +3725,26 @@ or yus đe + bùtton</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Click"Finish"</seg>
+        <seg>Click"Install" start installation program</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Tom" changedate="20190618T131609Z" creationid="Tom" creationdate="20190618T131609Z">
-        <seg>按一下「Finish」</seg>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T073352Z" creationid="Tom" creationdate="20190709T073352Z">
+        <seg>按一下「Install」啟動安裝程式</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Click"I&lt;t0/&gt;nstall&lt;t1/&gt;"</seg>
+        <seg>Click"Next"</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Tom" changedate="20190618T131437Z" creationid="Tom" creationdate="20190618T131437Z">
-        <seg>按一下「I&lt;t0/&gt;nstall&lt;t1/&gt;」</seg>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T073341Z" creationid="Tom" creationdate="20190709T073341Z">
+        <seg>按一下「Next」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click&lt;t0/&gt; &lt;t1/&gt;[Next]</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T063021Z" creationid="Tom" creationdate="20190709T063021Z">
+        <seg>按一下&lt;t0/&gt;&lt;t1/&gt;「Next」</seg>
       </tuv>
     </tu>
     <tu>
@@ -3613,14 +3781,6 @@ or yus đe + bùtton</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Click&lt;t0/&gt;"Next"</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Tom" changedate="20190613T031330Z" creationid="Tom" creationdate="20190613T031330Z">
-        <seg>按一下&lt;t0/&gt;「Next」</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Click&lt;t0/&gt;"Next&lt;t1/&gt;"</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T023725Z" creationid="Tom" creationdate="20190709T023725Z">
@@ -3639,8 +3799,8 @@ or yus đe + bùtton</seg>
       <tuv lang="EN">
         <seg>Click&lt;t0/&gt;[Install]</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T023217Z" creationid="Tom" creationdate="20190617T092010Z">
-        <seg>按一下&lt;t0/&gt;[Install]</seg>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T081604Z" creationid="Tom" creationdate="20190617T092010Z">
+        <seg>點&lt;t0/&gt;「Install」執行安裝</seg>
       </tuv>
     </tu>
     <tu>
@@ -3965,6 +4125,14 @@ or yus đe + bùtton</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Corporate</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T075857Z" creationid="Tom" creationdate="20190709T075857Z">
+        <seg>共用資料夾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Correct Spelling Automatically</seg>
       </tuv>
       <tuv lang="ZH-TW">
@@ -4145,6 +4313,14 @@ or yus đe + bùtton</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Tom" changedate="20190708T043109Z" creationid="Tom" creationdate="20190708T043109Z">
         <seg>D&lt;t0/&gt;ocTracker&lt;t1/&gt; 伺服器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DIKO</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T075807Z" creationid="Tom" creationdate="20190709T075807Z">
+        <seg>DIKO</seg>
       </tuv>
     </tu>
     <tu>
@@ -4609,8 +4785,8 @@ ol katalogs in nigè prōjekt?</seg>
       <tuv lang="EN">
         <seg>DocTracker 3 &lt;t0/&gt;Server installation and setup</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Tom" changedate="20190617T072901Z" creationid="Tom" creationdate="20190617T072901Z">
-        <seg>DocTracker 3 &lt;t0/&gt;伺服器安裝和設定</seg>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T040616Z" creationid="Tom" creationdate="20190617T072901Z">
+        <seg>DocTracker 3 &lt;t0/&gt;伺服器安裝及設定</seg>
       </tuv>
     </tu>
     <tu>
@@ -4655,6 +4831,14 @@ ol katalogs in nigè prōjekt?</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>DocTracker&lt;t0/&gt; &lt;t1/&gt;Server Console</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T080602Z" creationid="Tom" creationdate="20190709T075705Z">
+        <seg>DocTracker&lt;t0/&gt;&lt;t1/&gt;服務器控制台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>DocTracker&lt;t0/&gt; &lt;t1/&gt;v3&lt;t2/&gt; &lt;t3/&gt;plus</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Tom" changedate="20190626T024122Z" creationid="Tom" creationdate="20190626T024122Z">
@@ -4683,6 +4867,14 @@ ol katalogs in nigè prōjekt?</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Tom" changedate="20190618T065332Z" creationid="Tom" creationdate="20190618T065332Z">
         <seg>DocTracker&lt;t0/&gt;v&lt;t1/&gt;3&lt;t2/&gt;plus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DocTrackerv3plus</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190624T074445Z" creationid="Tom" creationdate="20190624T074445Z">
+        <seg>DocTrackerv3plus</seg>
       </tuv>
     </tu>
     <tu>
@@ -4759,10 +4951,18 @@ ol katalogs in nigè prōjekt?</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Double click and runLaunch DocTracker Installation Helper.exeshortcut on desktop</seg>
+        <seg>Double click &lt;t0/&gt;"Microsoft WSE 3.0.msi&lt;t1/&gt;"&lt;t2/&gt; to &lt;t3/&gt;start &lt;t4/&gt;Microsoft&lt;t5/&gt; WSE 3.0&lt;t6/&gt; &lt;t7/&gt;installer</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Tom" changedate="20190618T131322Z" creationid="Tom" creationdate="20190618T083028Z">
-        <seg>按兩下and runLaunch DocTracker Installation Helper.exeshortcut on desktop</seg>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T063308Z" creationid="Tom" creationdate="20190709T063308Z">
+        <seg>按兩下 &lt;t0/&gt;"Microsoft WSE 3.0.msi&lt;t1/&gt;"&lt;t2/&gt; 去&lt;t3/&gt;啟動&lt;t4/&gt;Microsoft&lt;t5/&gt; WSE 3.0&lt;t6/&gt; &lt;t7/&gt;安裝程式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Double click and run&lt;t0/&gt; &lt;t1/&gt;Launch DocTracker Installation Helper.exe&lt;t2/&gt; &lt;t3/&gt;shortcut on desktop</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T073508Z" creationid="Tom" creationdate="20190709T073457Z">
+        <seg>按兩下去執行&lt;t0/&gt; &lt;t1/&gt;Launch DocTracker Installation Helper.exe&lt;t2/&gt; &lt;t3/&gt;這個在桌面上的捷徑</seg>
       </tuv>
     </tu>
     <tu>
@@ -4777,8 +4977,8 @@ ol katalogs in nigè prōjekt?</seg>
       <tuv lang="EN">
         <seg>Double click to run Launch DocTracker Server Console.exe&lt;t0/&gt; shortcut on desktop</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Tom" changedate="20190618T130920Z" creationid="Tom" creationdate="20190618T130920Z">
-        <seg>Double click to run Launch DocTracker Server Console.exe&lt;t0/&gt; shortcut on desktop</seg>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T073548Z" creationid="Tom" creationdate="20190618T130920Z">
+        <seg>按兩下去執行Launch DocTracker Server Console.exe&lt;t0/&gt;這個在桌面上的捷徑</seg>
       </tuv>
     </tu>
     <tu>
@@ -4857,8 +5057,8 @@ ol katalogs in nigè prōjekt?</seg>
       <tuv lang="EN">
         <seg>During the tick&lt;t0/&gt;，&lt;t1/&gt;some options will pop up window, click[Add Features]</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Tom" changedate="20190617T080244Z" creationid="Tom" creationdate="20190617T080244Z">
-        <seg>During the tick&lt;t0/&gt;，&lt;t1/&gt;some options will pop up window, click[Add Features]</seg>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T041010Z" creationid="Tom" creationdate="20190617T080244Z">
+        <seg>在勾選過程中&lt;t0/&gt;，&lt;t1/&gt;部分選項會出現彈出視窗，點選[Add Features] 即可。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5593,6 +5793,14 @@ ol katalogs in nigè prōjekt?</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Fijan&lt;t0/&gt; = 63,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T082612Z" creationid="Tom" creationdate="20190709T082612Z">
+        <seg>斐濟語&lt;t0/&gt; = 63,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Tom" changedate="20190604T061243Z" creationid="Tom" creationdate="20190604T061243Z">
@@ -5645,6 +5853,14 @@ ol katalogs in nigè prōjekt?</seg>
       </tuv>
       <tuv lang="ZH-TW">
         <seg>Fayl:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fill in relevant data and &lt;t0/&gt;click&lt;t1/&gt;[&lt;t2/&gt;Generate C2V File]&lt;t3/&gt;button</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T064414Z" creationid="Tom" creationdate="20190709T063638Z">
+        <seg>填寫相關數據和&lt;t0/&gt;按一下&lt;t1/&gt;[&lt;t2/&gt;Generate C2V File]&lt;t3/&gt;按鈕</seg>
       </tuv>
     </tu>
     <tu>
@@ -5817,6 +6033,14 @@ ol katalogs in nigè prōjekt?</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Forum</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T075915Z" creationid="Tom" creationdate="20190709T075915Z">
+        <seg>討論區</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Found %d Twig template file supported by Poedit Pro.</seg>
       </tuv>
       <tuv lang="ZH-TW">
@@ -5861,6 +6085,14 @@ ol katalogs in nigè prōjekt?</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Tom" changedate="20190618T082352Z" creationid="Tom" creationdate="20190617T035357Z">
         <seg>菲士蘭語 = 41,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Friulian&lt;t0/&gt; = 54,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T082557Z" creationid="Tom" creationdate="20190709T082557Z">
+        <seg>佛里烏利語 = 54,</seg>
       </tuv>
     </tu>
     <tu>
@@ -5933,14 +6165,6 @@ ol katalogs in nigè prōjekt?</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Tom" changedate="20190625T035436Z" creationid="Tom" creationdate="20190625T035005Z">
         <seg>產生安裝金鑰</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Generate installation key</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Tom" changedate="20190617T081517Z" creationid="Tom" creationdate="20190617T081517Z">
-        <seg>產生安裝軟體的認證</seg>
       </tuv>
     </tu>
     <tu>
@@ -6044,8 +6268,8 @@ ol katalogs in nigè prōjekt?</seg>
       <tuv lang="EN">
         <seg>H&lt;t0/&gt;ere are the steps we need to do:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Tom" changedate="20190529T042336Z" creationid="Tom" creationdate="20190529T042336Z">
-        <seg>所以我們需要做以下各項：</seg>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T033556Z" creationid="Tom" creationdate="20190529T042336Z">
+        <seg>所&lt;t0/&gt;以我們需要做以下各項：</seg>
       </tuv>
     </tu>
     <tu>
@@ -6054,6 +6278,14 @@ ol katalogs in nigè prōjekt?</seg>
       </tuv>
       <tuv lang="ZH-TW">
         <seg>HTML Fayls</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HaitianCreole&lt;t0/&gt; = 56,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T082602Z" creationid="Tom" creationdate="20190709T082602Z">
+        <seg>海地克里奧爾語 = 56,</seg>
       </tuv>
     </tu>
     <tu>
@@ -6170,6 +6402,14 @@ ol katalogs in nigè prōjekt?</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ID: admin Password: 12345</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T051128Z" creationid="Tom" creationdate="20190709T051128Z">
+        <seg>ID: admin Password: 12345</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>IP Address</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Tom" changedate="20190618T031105Z" creationid="Tom" creationdate="20190618T031105Z">
@@ -6182,6 +6422,14 @@ ol katalogs in nigè prōjekt?</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Tom" changedate="20190618T082251Z" creationid="Tom" creationdate="20190617T034309Z">
         <seg>冰島語 = 13,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ido&lt;t0/&gt; = 66,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T082619Z" creationid="Tom" creationdate="20190709T082619Z">
+        <seg>伊多語&lt;t0/&gt; = 66,</seg>
       </tuv>
     </tu>
     <tu>
@@ -6306,14 +6554,6 @@ ol katalogs in nigè prōjekt?</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>In &lt;t0/&gt;'&lt;t1/&gt;'Server Roles"&lt;t2/&gt;，&lt;t3/&gt;tick &lt;t4/&gt;W&lt;t5/&gt;eb&lt;t6/&gt; Server&lt;t7/&gt;(IIS)</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Tom" changedate="20190613T080016Z" creationid="Tom" creationdate="20190613T075745Z">
-        <seg>在 &lt;t0/&gt;「&lt;t1/&gt;伺服器角色&lt;t2/&gt;」，&lt;t3/&gt;點選「&lt;t4/&gt;W&lt;t5/&gt;eb&lt;t6/&gt; Server&lt;t7/&gt;(IIS)」（Windows Server 2008 / 2012）或「網頁伺服器 (IIS)」（Windows Server 2016 / 2019）</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>In &lt;t0/&gt;DIKO&lt;t1/&gt;, m&lt;t2/&gt;ore than 40 &lt;t3/&gt;document &lt;t4/&gt;types&lt;t5/&gt; &lt;t6/&gt;can be previewed in PDF format and each preview has a watermark with username, IP address and date shown&lt;t7/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Tom" changedate="20190603T072720Z" creationid="Tom" creationdate="20190603T072720Z">
@@ -6334,14 +6574,6 @@ ol katalogs in nigè prōjekt?</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T023600Z" creationid="Tom" creationdate="20190708T095223Z">
         <seg>在 &lt;t0/&gt;安&lt;t1/&gt;裝類型&lt;t2/&gt; &lt;t3/&gt;選擇&lt;t4/&gt; &lt;t5/&gt;「&lt;t6/&gt;角式型或功能型安裝&lt;t7/&gt;」&lt;t8/&gt;，&lt;t9/&gt;按一下&lt;t10/&gt;[&lt;t11/&gt;下一步(N) &gt;&lt;t12/&gt;]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>In &lt;t0/&gt;Server Manager&lt;t1/&gt;, &lt;t2/&gt;tap&lt;t3/&gt;[&lt;t4/&gt;Add roles and features&lt;t5/&gt;]</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Tom" changedate="20190613T065656Z" creationid="Tom" creationdate="20190613T030447Z">
-        <seg>在系統的 &lt;t0/&gt;伺服器管理員&lt;t1/&gt;裡，&lt;t2/&gt;點選「管理」裡的&lt;t3/&gt;[&lt;t4/&gt;新增角色及功能&lt;t5/&gt;]</seg>
       </tuv>
     </tu>
     <tu>
@@ -6372,8 +6604,8 @@ ol katalogs in nigè prōjekt?</seg>
       <tuv lang="EN">
         <seg>In Server Manager&lt;t0/&gt;, tap[&lt;t1/&gt;Add roles and features]</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Tom" changedate="20190617T021220Z" creationid="Tom" creationdate="20190617T021220Z">
-        <seg>在系統的 伺服器管理員&lt;t0/&gt;裡，點選「管理」裡的[&lt;t1/&gt;新增角色及功能]</seg>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T082149Z" creationid="Tom" creationdate="20190617T021220Z">
+        <seg>在系統的伺服器管理員&lt;t0/&gt;裡，點選「管理」裡的[&lt;t1/&gt;新增角色及功能]</seg>
       </tuv>
     </tu>
     <tu>
@@ -6426,26 +6658,34 @@ ol katalogs in nigè prōjekt?</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>In the &lt;t0/&gt;Restore to&lt;t1/&gt; box, leave the default as &lt;t2/&gt;To&lt;t3/&gt; the last backup taken&lt;t4/&gt; or click on &lt;t5/&gt;Timeline&lt;t6/&gt; to access the &lt;t7/&gt;Backup Timeline&lt;t8/&gt; dialog box to manually select a point in time to stop the recovery action.</seg>
+        <seg>In&lt;t0/&gt; &lt;t1/&gt;"&lt;t2/&gt;Application&lt;t3/&gt; &lt;t4/&gt;Server&lt;t5/&gt;"&lt;t6/&gt; &lt;t7/&gt;click&lt;t8/&gt;[&lt;t9/&gt;Next&lt;t10/&gt;]</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Tom" changedate="20190604T062819Z" creationid="Tom" creationdate="20190603T100028Z">
-        <seg>在&lt;t0/&gt;Restore to&lt;t1/&gt;框中，保留預設設置為&lt;t2/&gt;To&lt;t3/&gt; the last backup taken&lt;t4/&gt;或按一下&lt;t5/&gt;Timeline&lt;t6/&gt;以訪問&lt;t7/&gt;Backup Timeline&lt;t8/&gt;對話方塊，以手動選擇停止恢復操作的時間點。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>In"Server Roles"&lt;t0/&gt;中，&lt;t1/&gt;tick &lt;t2/&gt;Application Server&lt;t3/&gt;，&lt;t4/&gt;and click&lt;t5/&gt;[&lt;t6/&gt;Next]</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Tom" changedate="20190617T080200Z" creationid="Tom" creationdate="20190617T073458Z">
-        <seg>「伺服器角色」&lt;t0/&gt;中，&lt;t1/&gt;選取&lt;t2/&gt;Application Server&lt;t3/&gt;，&lt;t4/&gt;然後按一下&lt;t5/&gt;[&lt;t6/&gt;&lt;下一步 (N) &gt;]</seg>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T062837Z" creationid="Tom" creationdate="20190709T062837Z">
+        <seg>In&lt;t0/&gt; &lt;t1/&gt;"&lt;t2/&gt;Application&lt;t3/&gt; &lt;t4/&gt;Server&lt;t5/&gt;"&lt;t6/&gt; &lt;t7/&gt;click&lt;t8/&gt;[&lt;t9/&gt;Next&lt;t10/&gt;]</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>In&lt;t0/&gt; &lt;t1/&gt;"Server Roles"&lt;t2/&gt;中，&lt;t3/&gt;tick &lt;t4/&gt;Application Server&lt;t5/&gt;，&lt;t6/&gt;and click&lt;t7/&gt;[&lt;t8/&gt;Next&lt;t9/&gt;]</seg>
+        <seg>In&lt;t0/&gt; &lt;t1/&gt;"&lt;t2/&gt;Role&lt;t3/&gt; &lt;t4/&gt;Servers&lt;t5/&gt;"&lt;t6/&gt; &lt;t7/&gt;click&lt;t8/&gt;[&lt;t9/&gt;Next&lt;t10/&gt;]</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Tom" changedate="20190613T081819Z" creationid="Tom" creationdate="20190613T081819Z">
-        <seg>在&lt;t0/&gt; &lt;t1/&gt;"Server Roles"&lt;t2/&gt;中，&lt;t3/&gt;tick &lt;t4/&gt;Application Server&lt;t5/&gt;，&lt;t6/&gt;and click&lt;t7/&gt;[&lt;t8/&gt;Next&lt;t9/&gt;]</seg>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T063523Z" creationid="Tom" creationdate="20190709T063523Z">
+        <seg>在&lt;t0/&gt; &lt;t1/&gt;"&lt;t2/&gt;Role&lt;t3/&gt; &lt;t4/&gt;Servers&lt;t5/&gt;"&lt;t6/&gt; &lt;t7/&gt;按一下&lt;t8/&gt;[&lt;t9/&gt;Next&lt;t10/&gt;]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In&lt;t0/&gt; &lt;t1/&gt;"Server Roles"&lt;t2/&gt;中，&lt;t3/&gt;tick &lt;t4/&gt;Application Server&lt;t5/&gt;，&lt;t6/&gt;and click&lt;t7/&gt;[&lt;t8/&gt;Next]</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T073330Z" creationid="Tom" creationdate="20190709T073330Z">
+        <seg>在&lt;t0/&gt; &lt;t1/&gt;"Server Roles"&lt;t2/&gt;中，&lt;t3/&gt;勾選&lt;t4/&gt;Application Server&lt;t5/&gt;，&lt;t6/&gt;再按一下&lt;t7/&gt;[&lt;t8/&gt;Next]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In&lt;t0/&gt; &lt;t1/&gt;"W&lt;t2/&gt;eb&lt;t3/&gt; &lt;t4/&gt;Server &lt;t5/&gt;Role&lt;t6/&gt;(&lt;t7/&gt;IIS)&lt;t8/&gt; "&lt;t9/&gt;click&lt;t10/&gt;[&lt;t11/&gt;Next&lt;t12/&gt;]</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T061029Z" creationid="Tom" creationdate="20190709T061029Z">
+        <seg>In&lt;t0/&gt; &lt;t1/&gt;"W&lt;t2/&gt;eb&lt;t3/&gt; &lt;t4/&gt;Server &lt;t5/&gt;Role&lt;t6/&gt;(&lt;t7/&gt;IIS)&lt;t8/&gt; "&lt;t9/&gt;click&lt;t10/&gt;[&lt;t11/&gt;Next&lt;t12/&gt;]</seg>
       </tuv>
     </tu>
     <tu>
@@ -6524,8 +6764,8 @@ ol katalogs in nigè prōjekt?</seg>
       <tuv lang="EN">
         <seg>Install DocTracker OCR Station and models</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Tom" changedate="20190618T131634Z" creationid="Tom" creationdate="20190618T131634Z">
-        <seg>安裝「DocTracker OCR Station and models」</seg>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T081116Z" creationid="Tom" creationdate="20190618T131634Z">
+        <seg>安裝「DocTracker OCR Station和組件」</seg>
       </tuv>
     </tu>
     <tu>
@@ -6843,6 +7083,14 @@ ol katalogs in nigè prōjekt?</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Kicongo&lt;t0/&gt; = 68,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T082624Z" creationid="Tom" creationdate="20190709T082624Z">
+        <seg>剛果語&lt;t0/&gt; = 68,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Kinyarwanda = 69,</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Tom" changedate="20190618T082510Z" creationid="Tom" creationdate="20190618T082510Z">
@@ -6959,6 +7207,14 @@ ol katalogs in nigè prōjekt?</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Tom" changedate="20190618T082620Z" creationid="Tom" creationdate="20190618T082617Z">
         <seg>拉脫維亞語 = 104,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Launching the Program will cause this window to pop up.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T063645Z" creationid="Tom" creationdate="20190709T030347Z">
+        <seg>啟動程式會彈出此窗口。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7085,8 +7341,8 @@ ol katalogs in nigè prōjekt?</seg>
       <tuv lang="EN">
         <seg>Like figure,move dt_license.v2cto</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Tom" changedate="20190618T083000Z" creationid="Tom" creationdate="20190618T083000Z">
-        <seg>Like figure,move dt_license.v2cto</seg>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T041139Z" creationid="Tom" creationdate="20190618T083000Z">
+        <seg>如圖將dt_license.v2c檔案存放於</seg>
       </tuv>
     </tu>
     <tu>
@@ -7139,10 +7395,18 @@ ol katalogs in nigè prōjekt?</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Location</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T075819Z" creationid="Tom" creationdate="20190709T075819Z">
+        <seg>位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Luba = 121,</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Tom" changedate="20190618T082730Z" creationid="Tom" creationdate="20190618T082722Z">
-        <seg>Luba語 = 121,</seg>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T082948Z" creationid="Tom" creationdate="20190618T082722Z">
+        <seg>盧巴語 = 121,</seg>
       </tuv>
     </tu>
     <tu>
@@ -7275,6 +7539,14 @@ ol katalogs in nigè prōjekt?</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Menu</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T075848Z" creationid="Tom" creationdate="20190709T075848Z">
+        <seg>功能表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Menu Link Title</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Tom" changedate="20190617T052615Z" creationid="Tom" creationdate="20190617T052615Z">
@@ -7331,10 +7603,18 @@ ol katalogs in nigè prōjekt?</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mod&lt;t0/&gt;u&lt;t1/&gt;l&lt;t2/&gt;e&lt;t3/&gt;s</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T060713Z" creationid="Tom" creationdate="20190709T060629Z">
+        <seg>組件&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Models</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Tom" changedate="20190613T065235Z" creationid="Tom" creationdate="20190613T063410Z">
-        <seg>模組</seg>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T051222Z" creationid="Tom" creationdate="20190613T063410Z">
+        <seg>組件</seg>
       </tuv>
     </tu>
     <tu>
@@ -7355,10 +7635,26 @@ ol katalogs in nigè prōjekt?</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Modules</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T073240Z" creationid="Tom" creationdate="20190709T073240Z">
+        <seg>組件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Moldovan = 131,</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Tom" changedate="20190618T073329Z" creationid="Tom" creationdate="20190618T073329Z">
         <seg>摩爾多瓦語 = 131,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MongolianCyrillic&lt;t0/&gt; = 135,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T083016Z" creationid="Tom" creationdate="20190709T083016Z">
+        <seg>西里爾字母蒙古語&lt;t0/&gt; = 135,</seg>
       </tuv>
     </tu>
     <tu>
@@ -7463,6 +7759,14 @@ ol katalogs in nigè prōjekt?</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Tom" changedate="20190620T072512Z" creationid="Tom" creationdate="20190613T021536Z">
         <seg>新&lt;t0/&gt;密碼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>News &amp; Announcement</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T075925Z" creationid="Tom" creationdate="20190709T075925Z">
+        <seg>News &amp; Announcement</seg>
       </tuv>
     </tu>
     <tu>
@@ -7765,8 +8069,8 @@ ol katalogs in nigè prōjekt?</seg>
       <tuv lang="EN">
         <seg>OS</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Tom" changedate="20190604T063314Z" creationid="Tom" creationdate="20190604T063314Z">
-        <seg>操作系統</seg>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T051154Z" creationid="Tom" creationdate="20190604T063314Z">
+        <seg>作業系統</seg>
       </tuv>
     </tu>
     <tu>
@@ -7899,6 +8203,14 @@ ol katalogs in nigè prōjekt?</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open &lt;t0/&gt;DocTracker&lt;t1/&gt; OCR Station Control &lt;t2/&gt;Panel&lt;t3/&gt;.T&lt;t4/&gt;he&lt;t5/&gt; bottom right can set &lt;t6/&gt;language.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T083154Z" creationid="Tom" creationdate="20190709T083154Z">
+        <seg>打開&lt;t0/&gt;DocTracker OCR站控制面板&lt;t1/&gt;。&lt;t2/&gt;在&lt;t3/&gt;右下角可以設置&lt;t4/&gt;語言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open Crowdin translation</seg>
       </tuv>
       <tuv lang="ZH-TW">
@@ -7959,6 +8271,14 @@ ol katalogs in nigè prōjekt?</seg>
       </tuv>
       <tuv lang="ZH-TW">
         <seg>Opèn in editā</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open windows folder of “C:\Program Files (x86)\DocTracker\iDRS_15\iDRS_15_4_5_Win64\redist\Microsoft\vs2017\64bits” and run the “vc_redist.x64”  (C:\Program Files (x86)\DocTracker\iDRS_15\iDRS_15_4_5_Win64\redist\Microsoft\vs2017\32bits\vc_redist.x86) for 32bit server</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T060415Z" creationid="Tom" creationdate="20190709T060415Z">
+        <seg>打開windows資料夾「C:\Program Files (x86)\DocTracker\iDRS_15\iDRS_15_4_5_Win64\redist\Microsoft\vs2017\64bits」，然後執行「vc_redist.x64」（在32bit伺服器的話請執行「C:\Program Files (x86)\DocTracker\iDRS_15\iDRS_15_4_5_Win64\redist\Microsoft\vs2017\32bits\vc_redist.x86」）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8099,6 +8419,14 @@ ol katalogs in nigè prōjekt?</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Papamiento&lt;t0/&gt; = 122,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T082954Z" creationid="Tom" creationdate="20190709T082954Z">
+        <seg>帕皮阿門托語&lt;t0/&gt; = 122,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>PaperCut Watch folder has no &lt;t0/&gt;PNG&lt;t1/&gt; or not enough &lt;t2/&gt;PNG&lt;t3/&gt; files.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Tom" changedate="20190708T092553Z" creationid="Tom" creationdate="20190708T092553Z">
@@ -8163,10 +8491,26 @@ ol katalogs in nigè prōjekt?</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Personal</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T075903Z" creationid="Tom" creationdate="20190709T075903Z">
+        <seg>我的資料夾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Personal Profile</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Tom" changedate="20190620T084429Z" creationid="Tom" creationdate="20190620T084429Z">
         <seg>用戶個人資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PidginNigeria&lt;t0/&gt; = 89,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T082648Z" creationid="Tom" creationdate="20190709T082648Z">
+        <seg>奈及利亞皮欽語&lt;t0/&gt; = 89,</seg>
       </tuv>
     </tu>
     <tu>
@@ -8460,60 +8804,6 @@ Content-Type: text/plain; charset=UTF-8
 Content-Transfer-Encoding: 8bit
 Plural-Forms: nplurals=1; plural=0;
 X-Generator: Poedit 2.2.3</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Project-Id-Version: CommentPress Core 3.9.11
-Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/commentpress-core
-POT-Creation-Date: 2018-04-30 12:46:00+00:00
-MIME-Version: 1.0
-Content-Type: text/plain; charset=UTF-8
-Content-Transfer-Encoding: 8bit
-PO-Revision-Date: 2019-06-15 21:30+0800
-Last-Translator: Tom K. C. Chiu &lt;babycaseny@gmail.com&gt;
-Language-Team: Babycaseny Gavernment &lt;babycaseny@gmail.com&gt;
-Language: bb</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Tom" changedate="20190708T070454Z" creationid="Tom" creationdate="20190708T040631Z">
-        <seg>Project-Id-Version: CommentPress Core 3.9.11
-Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/commentpress-core
-POT-Creation-Date: 2018-04-30 12:46:00+00:00
-MIME-Version: 1.0
-Content-Type: text/plain; charset=UTF-8
-Content-Transfer-Encoding: 8bit
-PO-Revision-Date: 2019-06-15 21:30+0800
-Last-Translator: Tom K. C. Chiu &lt;babycaseny@gmail.com&gt;
-Language-Team: Babycaseny Gavernment &lt;babycaseny@gmail.com&gt;
-Language: zh_TW</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Project-Id-Version: Exhibit Builder
-Report-Msgid-Bugs-To: http://github.com/omeka/plugin-ExhibitBuilder/issues
-POT-Creation-Date: 2013-01-23 21:49-0500
-PO-Revision-Date: 2019-06-15 21:26+0800
-Last-Translator: Tom K. C. Chiu &lt;babycaseny@gmail.com&gt;
-Language-Team: Babycaseny Gavernment &lt;babycaseny@gmail.com&gt;
-Language: bb
-MIME-Version: 1.0
-Content-Type: text/plain; charset=UTF-8
-Content-Transfer-Encoding: 8bit
-Plural-Forms: nplurals=2; plural=n==1?0:1;</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Tom" changedate="20190708T070428Z" creationid="Tom" creationdate="20190617T052320Z">
-        <seg>Project-Id-Version: Exhibit Builder
-Report-Msgid-Bugs-To: http://github.com/omeka/plugin-ExhibitBuilder/issues
-POT-Creation-Date: 2013-01-23 21:49-0500
-PO-Revision-Date: 2019-06-15 21:26+0800
-Last-Translator: Tom K. C. Chiu &lt;babycaseny@gmail.com&gt;
-Language-Team: Babycaseny Gavernment &lt;babycaseny@gmail.com&gt;
-Language: zh_TW
-MIME-Version: 1.0
-Content-Type: text/plain; charset=UTF-8
-Content-Transfer-Encoding: 8bit
-Plural-Forms: nplurals=2; plural=n==1?0:1;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8929,6 +9219,14 @@ X-Crowdin-File: /locales/poedit.pot</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>RhaetoRoman&lt;t0/&gt; = 57,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T082603Z" creationid="Tom" creationdate="20190709T082603Z">
+        <seg>雷托-羅曼語 = 57,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Tom" changedate="20190708T070341Z" creationid="Tom" creationdate="20190708T070341Z">
@@ -8981,6 +9279,14 @@ X-Crowdin-File: /locales/poedit.pot</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Tom" changedate="20190613T063320Z" creationid="Tom" creationdate="20190613T063320Z">
         <seg>在命令列執行以下一句命令</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rundi&lt;t0/&gt; = 76,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T082635Z" creationid="Tom" creationdate="20190709T082635Z">
+        <seg>克倫地語&lt;t0/&gt; = 76,</seg>
       </tuv>
     </tu>
     <tu>
@@ -9257,6 +9563,14 @@ X-Crowdin-File: /locales/poedit.pot</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the path to save the &lt;t0/&gt;C2V file&lt;t1/&gt; (&lt;t2/&gt;I&lt;t3/&gt;n the &lt;t4/&gt;figure&lt;t5/&gt;,use&lt;t6/&gt; &lt;t7/&gt;desktop&lt;t8/&gt; as example&lt;t9/&gt;) and &lt;t10/&gt;click&lt;t11/&gt; [Save]</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T064423Z" creationid="Tom" creationdate="20190709T064423Z">
+        <seg>Select the path to save the &lt;t0/&gt;C2V file&lt;t1/&gt; (&lt;t2/&gt;I&lt;t3/&gt;n the &lt;t4/&gt;figure&lt;t5/&gt;,use&lt;t6/&gt; &lt;t7/&gt;desktop&lt;t8/&gt; as example&lt;t9/&gt;) and &lt;t10/&gt;click&lt;t11/&gt; [Save]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the server where you want to generate the certificate</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Tom" changedate="20190708T072042Z" creationid="Tom" creationdate="20190708T072026Z">
@@ -9277,6 +9591,14 @@ X-Crowdin-File: /locales/poedit.pot</seg>
       </tuv>
       <tuv lang="ZH-TW">
         <seg>Silekt neidè prifören leŋgueij</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select&lt;t0/&gt; &lt;t1/&gt;"I&lt;t2/&gt; accept the terms in the license agreement&lt;t3/&gt;"&lt;t4/&gt; &lt;t5/&gt;and&lt;t6/&gt; &lt;t7/&gt;click&lt;t8/&gt; &lt;t9/&gt;[Next]</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T063148Z" creationid="Tom" creationdate="20190709T063148Z">
+        <seg>選擇&lt;t0/&gt;&lt;t1/&gt;「I&lt;t2/&gt; accept the terms in the license agreement&lt;t3/&gt;」&lt;t4/&gt;&lt;t5/&gt;及&lt;t6/&gt;&lt;t7/&gt;按一下&lt;t8/&gt;&lt;t9/&gt;[Next]</seg>
       </tuv>
     </tu>
     <tu>
@@ -9365,6 +9687,14 @@ X-Crowdin-File: /locales/poedit.pot</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Tom" changedate="20190618T082301Z" creationid="Tom" creationdate="20190617T034841Z">
         <seg>塞爾維亞語 = 21,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SerbianLatin&lt;t0/&gt; = 102,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T082726Z" creationid="Tom" creationdate="20190709T082726Z">
+        <seg>拉丁字母塞爾維亞語&lt;t0/&gt; = 102,</seg>
       </tuv>
     </tu>
     <tu>
@@ -9929,6 +10259,14 @@ X-Crowdin-File: /locales/poedit.pot</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Start setting up the &lt;t0/&gt;OCR Station.&lt;t1/&gt; Double-click the shortcut of &lt;t2/&gt;DocTracker&lt;t3/&gt; OCR Client Config &lt;t4/&gt;on the desktop to open the &lt;t5/&gt;DocTracker&lt;t6/&gt; OCR Station Control Panel&lt;t7/&gt; program.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T083152Z" creationid="Tom" creationdate="20190709T083152Z">
+        <seg>開始設置&lt;t0/&gt;OCR Station.&lt;t1/&gt;按兩下在桌面上&lt;t2/&gt;DocTracker&lt;t3/&gt; OCR客戶端配置的捷徑&lt;t4/&gt;打開&lt;t5/&gt;DocTracker&lt;t6/&gt; OCR站控制面板&lt;t7/&gt;程式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Start the exhibit on the summary page.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Tom" changedate="20190617T052410Z" creationid="Tom" creationdate="20190617T052410Z">
@@ -10097,6 +10435,14 @@ X-Crowdin-File: /locales/poedit.pot</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SwissGerman&lt;t0/&gt; = 132,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T083010Z" creationid="Tom" creationdate="20190709T083010Z">
+        <seg>瑞士德語&lt;t0/&gt; = 132,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sync</seg>
       </tuv>
       <tuv lang="ZH-TW">
@@ -10243,8 +10589,8 @@ X-Crowdin-File: /locales/poedit.pot</seg>
       <tuv lang="EN">
         <seg>System Installation Guide</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Tom" changedate="20190613T025408Z" creationid="Tom" creationdate="20190613T025408Z">
-        <seg>系統安裝導覽</seg>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T032045Z" creationid="Tom" creationdate="20190613T025408Z">
+        <seg>系統安裝指南</seg>
       </tuv>
     </tu>
     <tu>
@@ -10277,14 +10623,6 @@ X-Crowdin-File: /locales/poedit.pot</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Tom" changedate="20190617T020515Z" creationid="Tom" creationdate="20190617T020515Z">
         <seg>系統需求</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>T&lt;t0/&gt;able of Content</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Tom" changedate="20190529T041520Z" creationid="Tom" creationdate="20190529T041520Z">
-        <seg>目錄</seg>
       </tuv>
     </tu>
     <tu>
@@ -10341,14 +10679,6 @@ X-Crowdin-File: /locales/poedit.pot</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Tom" changedate="20190606T034901Z" creationid="Tom" creationdate="20190606T034901Z">
         <seg>表1 物件說明</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Table of Content</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Tom" changedate="20190528T063441Z">
-        <seg>目錄</seg>
       </tuv>
     </tu>
     <tu>
@@ -10717,14 +11047,6 @@ X-Crowdin-File: /locales/poedit.pot</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Tom" changedate="20190530T051904Z" creationid="Tom" creationdate="20190530T051904Z">
         <seg>以下過程說明如何使用MS SQL Server Management Studio復原資料庫備份。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>The following procedures show you how &lt;t5/&gt;to &lt;t6/&gt;use the SQL Server Management Studio &lt;t7/&gt;to &lt;t8/&gt;backup&lt;t9/&gt; the &lt;t10/&gt;DIKO&lt;t11/&gt; database &lt;t12/&gt;installed to &lt;t13/&gt;its default location</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Administrator" changedate="20190603T091014Z" creationid="Administrator" creationdate="20190603T091014Z">
-        <seg>以下過程說明如何&lt;t5/&gt;去&lt;t6/&gt;透過SQL Server Management Studio&lt;t7/&gt;將&lt;t12/&gt;安裝於&lt;t13/&gt;於預設位置的&lt;t10/&gt;DIKO&lt;t11/&gt;資料庫&lt;t8/&gt;備份&lt;t9/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11217,14 +11539,6 @@ X-Crowdin-File: /locales/poedit.pot</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Tick “ I have read and accept the license terms”&lt;t0/&gt;and click [&lt;t1/&gt;Install]</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Tom" changedate="20190617T091911Z" creationid="Tom" creationdate="20190617T091911Z">
-        <seg>Tick “ I have read and accept the license terms”&lt;t0/&gt;and click [&lt;t1/&gt;Install]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Title</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Tom" changedate="20190611T083023Z" creationid="Tom" creationdate="20190611T083023Z">
@@ -11407,6 +11721,14 @@ X-Crowdin-File: /locales/poedit.pot</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Tom" changedate="20190613T093258Z" creationid="Tom" creationdate="20190613T093224Z">
         <seg>要查看審計追蹤，請單擊導航列中「報告」下的「審計追踪」，之後將會顯示以下畫面：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TokPisin&lt;t0/&gt; = 92,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T082654Z" creationid="Tom" creationdate="20190709T082654Z">
+        <seg>巴布亞皮欽語&lt;t0/&gt; = 92,</seg>
       </tuv>
     </tu>
     <tu>
@@ -11941,8 +12263,8 @@ COMMAND := { secret | polkit | all }</seg>
       <tuv lang="EN">
         <seg>User Access / Permission for installation</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Tom" changedate="20190613T025727Z" creationid="Tom" creationdate="20190613T025727Z">
-        <seg>使用者訪問/安裝權限</seg>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T040631Z" creationid="Tom" creationdate="20190613T025727Z">
+        <seg>安裝所需的用戶權限</seg>
       </tuv>
     </tu>
     <tu>
@@ -11979,10 +12301,26 @@ COMMAND := { secret | polkit | all }</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>User right required to run the application service</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T053330Z" creationid="Tom" creationdate="20190709T053330Z">
+        <seg>運行應用服務所需的用戶權限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Users can share the documents via its share-link&lt;t4/&gt; to ensure litigate sharing.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Tom" changedate="20190603T073853Z" creationid="Tom" creationdate="20190603T073853Z">
         <seg>使用者可以通過其共用連結&lt;t4/&gt;來分享檔案，以確保訴訟共用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>UzbekLatin&lt;t0/&gt; = 136,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T083020Z" creationid="Tom" creationdate="20190709T083020Z">
+        <seg>拉丁字母烏孜別克語&lt;t0/&gt; = 136,</seg>
       </tuv>
     </tu>
     <tu>
@@ -11999,6 +12337,14 @@ COMMAND := { secret | polkit | all }</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Tom" changedate="20190627T013629Z" creationid="Tom" creationdate="20190627T013557Z">
         <seg>V3.0&lt;t0/&gt; &lt;t1/&gt;用戶&lt;t2/&gt;導覽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>V&lt;t0/&gt;3&lt;t1/&gt;.0</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T032047Z" creationid="Tom" creationdate="20190709T032047Z">
+        <seg>V&lt;t0/&gt;3&lt;t1/&gt;.0</seg>
       </tuv>
     </tu>
     <tu>
@@ -12151,6 +12497,14 @@ COMMAND := { secret | polkit | all }</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20190603T085240Z" creationid="Administrator" creationdate="20190603T085240Z">
         <seg>我們要給他建立一個新的帳號&lt;t1/&gt;，而且給他作為布歇特教授的助手的身份&lt;t2/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Welcome back to DIKO</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190709T075838Z" creationid="Tom" creationdate="20190709T075838Z">
+        <seg>歡迎回來DIKO服務</seg>
       </tuv>
     </tu>
     <tu>
@@ -12328,14 +12682,6 @@ COMMAND := { secret | polkit | all }</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Administrator" changedate="20190603T091408Z" creationid="Administrator" creationdate="20190603T091408Z">
         <seg>您可以使用Windows的計畫任務功能於每晚進行檔案系統備份。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>You may use some database backup software to &lt;t0/&gt;backup&lt;t1/&gt; the &lt;t2/&gt;DIKO&lt;t3/&gt; database&lt;t4/&gt;.</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Tom" changedate="20190530T045141Z" creationid="Tom" creationdate="20190530T045141Z">
-        <seg>您可以使用一些資料庫備份軟體來&lt;t0/&gt;備份&lt;t1/&gt;&lt;t2/&gt;DIKO&lt;t3/&gt;資料庫&lt;t4/&gt;。</seg>
       </tuv>
     </tu>
     <tu>

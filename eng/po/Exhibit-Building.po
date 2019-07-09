@@ -3,16 +3,12 @@
 # This file is distributed under the same license as the Omeka package.
 # Tom K. C. Chiu <babycaseny at gmail.com>, 2010-2019.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Exhibit Builder\n"
 "Report-Msgid-Bugs-To: http://github.com/omeka/plugin-ExhibitBuilder/issues\n"
 "POT-Creation-Date: 2013-01-23 21:49-0500\n"
 "PO-Revision-Date: 2019-06-15 21:26+0800\n"
-"Last-Translator: Tom K. C. Chiu <babycaseny@gmail.com>\n"
-"Language-Team: Babycaseny Gavernment <babycaseny@gmail.com>\n"
-"Language: bb\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"

@@ -6,7 +6,7 @@ DIKO/DIKO Tutorial.docx
 DIKO/DIKO User Guide v1.0.docx
 DIKO/Email Capture Pro User Guide.docx
 DIKO/Email Capture User Guide.docx
-DocTracker/DocTracker 3Plus User Guide v1.0 Orijinol.docx
+DocTracker/DocTracker 3Plus User Guide v1.0 - Mag.docx
 DocTracker/DocTracker 3Plus User Guide.docx
 DocTracker/DocTracker Frequently Encountered Problems Solution.docx
 DocTracker/DocTracker v3 Install SSL.docx
@@ -15,8 +15,9 @@ message.en-US.properties
 po/CommentPress.po
 po/Exhibit-Building.po
 po/git.po
-po/network-mamanger.po
+po/NetworkManager.po
 po/poedit.po
 po/WordPress.po
+udms.en-US.properties
 Wikipedia/Audit_trail.UTF8
 Wikipedia/SQL_Server_Management_Studio.UTF8
