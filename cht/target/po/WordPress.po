@@ -1330,7 +1330,7 @@ msgstr ""
 #
 #: wp-admin/comment.php:46
 msgid "Edit Comment"
-msgstr "Edit Komment"
+msgstr "修改評語"
 
 #
 #: wp-admin/comment.php:48
@@ -1582,17 +1582,17 @@ msgstr ""
 #
 #: wp-admin/custom-background.php:257
 msgid "Left"
-msgstr "Left"
+msgstr "左"
 
 #
 #: wp-admin/custom-background.php:261
 msgid "Center"
-msgstr ""
+msgstr "中"
 
 #
 #: wp-admin/custom-background.php:265
 msgid "Right"
-msgstr ""
+msgstr "右"
 
 #
 #: wp-admin/custom-background.php:271
@@ -1840,7 +1840,7 @@ msgstr ""
 #: wp-admin/edit-form-comment.php:62 wp-admin/edit.php:329
 #: wp-admin/edit.php:430
 msgid "Edit"
-msgstr "Edit"
+msgstr "編輯"
 
 #
 #: wp-admin/edit-attachment-rows.php:102 wp-admin/edit-comments.php:332
@@ -1924,7 +1924,7 @@ msgstr ""
 #: wp-admin/edit-attachment-rows.php:203
 msgctxt "comment count"
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #
 #: wp-admin/edit-attachment-rows.php:203
@@ -2063,7 +2063,7 @@ msgstr ""
 #
 #: wp-admin/edit-comments.php:191 wp-admin/edit-comments.php:197
 msgid "Edit comment"
-msgstr "Edit komment"
+msgstr "修改評語"
 
 #
 #: wp-admin/edit-comments.php:194
@@ -2173,7 +2173,7 @@ msgstr ""
 #: wp-admin/edit-tags.php:286 wp-admin/edit-tags.php:323 wp-admin/edit.php:336
 #: wp-admin/edit.php:437
 msgid "Apply"
-msgstr ""
+msgstr "應用"
 
 #
 #: wp-admin/edit-comments.php:348
@@ -2188,7 +2188,7 @@ msgstr ""
 #
 #: wp-admin/edit-comments.php:362 wp-admin/edit.php:379
 msgid "Filter"
-msgstr "過濾"
+msgstr "篩選:"
 
 #
 #: wp-admin/edit-comments.php:371 wp-admin/edit-comments.php:445
@@ -2695,7 +2695,7 @@ msgstr ""
 #
 #: wp-admin/edit-link-form.php:27
 msgid "Save"
-msgstr "Seiv"
+msgstr "儲存"
 
 #
 #: wp-admin/edit-link-form.php:28
@@ -3363,7 +3363,7 @@ msgstr ""
 #: wp-admin/index.php:24 wp-admin/menu.php:41 wp-admin/menu.php:43
 #: wp-admin/menu.php:47
 msgid "Dashboard"
-msgstr ""
+msgstr "儀表板"
 
 #
 #: wp-admin/index.php:29
@@ -3956,7 +3956,7 @@ msgstr ""
 #
 #: wp-admin/menu.php:205
 msgid "Add New User"
-msgstr ""
+msgstr "新增用戶"
 
 #
 #: wp-admin/menu.php:208 wp-admin/menu.php:209
@@ -4907,7 +4907,7 @@ msgstr ""
 #
 #: wp-admin/ms-sites.php:263
 msgid "User"
-msgstr ""
+msgstr "用戶"
 
 #
 #: wp-admin/ms-sites.php:263
@@ -6857,7 +6857,7 @@ msgstr ""
 #
 #: wp-admin/options-writing.php:85
 msgid "Port"
-msgstr "Port"
+msgstr "埠"
 
 #
 #: wp-admin/options-writing.php:90
@@ -8836,7 +8836,7 @@ msgstr ""
 #
 #: wp-admin/user-edit.php:387
 msgid "Update User"
-msgstr ""
+msgstr "更新用戶"
 
 #
 #: wp-admin/user-new.php:16
@@ -14545,7 +14545,7 @@ msgstr ""
 #
 #: wp-admin/includes/template.php:3348
 msgid "New User"
-msgstr ""
+msgstr "新用戶"
 
 #
 #: wp-admin/includes/template.php:3351
@@ -17849,7 +17849,7 @@ msgstr ""
 #: wp-includes/post-template.php:1214
 msgctxt "revisions column name"
 msgid "New"
-msgstr "Niu"
+msgstr "新"
 
 #
 #: wp-includes/post-template.php:1215

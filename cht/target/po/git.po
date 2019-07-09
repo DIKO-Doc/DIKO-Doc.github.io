@@ -6,6 +6,7 @@ msgstr "Project-Id-Version: Git\n"
 "PO-Revision-Date: 2019-06-18 15:53+0800\n"
 "Last-Translator: Jiang Xin <worldhello.net@gmail.com>\n"
 "Language-Team: GitHub <https://github.com/jiangxin/git/>\n"
+"Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -13600,7 +13601,7 @@ msgstr ""
 
 #: git-sh-setup.sh:377
 msgid "Unable to determine absolute path of git directory"
-msgstr ""
+msgstr "Unable to determine absolute path of git directory"
 
 #~ msgid "git archive [options] <tree-ish> [<path>...]"
 #~ msgstr "git archive [選項] <樹或提交> [<路徑>...]"

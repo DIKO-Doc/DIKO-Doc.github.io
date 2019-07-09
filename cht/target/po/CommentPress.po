@@ -10,7 +10,7 @@ msgstr "Project-Id-Version: CommentPress Core 3.9.11\n"
 "PO-Revision-Date: 2019-06-15 21:30+0800\n"
 "Last-Translator: Tom K. C. Chiu <babycaseny@gmail.com>\n"
 "Language-Team: Babycaseny Gavernment <babycaseny@gmail.com>\n"
-"Language: bb\n"
+"Language: zh_TW\n"
 
 #: commentpress-ajax/cp-ajax-comments.php:168
 msgid "Loading..."
@@ -51,11 +51,11 @@ msgstr ""
 
 #: commentpress-ajax/cp-ajax-comments.php:179
 msgid "Submitting..."
-msgstr ""
+msgstr "提交中..."
 
 #: commentpress-ajax/cp-ajax-comments.php:180
 msgid "Please wait while the comments are reassigned. The page will refresh when this has been done."
-msgstr ""
+msgstr "Please wait while the comments are reassigned. The page will refresh when this has been done."
 
 #: commentpress-ajax/cp-ajax-comments.php:184
 #: commentpress-core/assets/includes/theme/theme-functions.php:1435
@@ -336,7 +336,7 @@ msgstr ""
 #: themes/commentpress-theme/index.php:39
 #: themes/commentpress-theme/search.php:68
 msgid "Edit"
-msgstr "Edit"
+msgstr "編輯"
 
 #: commentpress-core/assets/includes/theme/theme-functions.php:3010
 msgid "Permalink for this comment"
@@ -433,7 +433,7 @@ msgstr ""
 #: commentpress-core/class_commentpress.php:435
 #: commentpress-multisite/class_commentpress_mu_admin.php:846
 msgid "CommentPress Core"
-msgstr "KommentPress de` Kor"
+msgstr "CommentPress核心"
 
 #: commentpress-core/class_commentpress.php:835
 #: commentpress-core/class_commentpress.php:844
@@ -1209,7 +1209,7 @@ msgstr ""
 #: commentpress-multisite/class_commentpress_mu_bp.php:1369
 #: commentpress-multisite/class_commentpress_mu_bp.php:1383
 msgid "View Document"
-msgstr ""
+msgstr "文檔檢閱"
 
 #: commentpress-multisite/class_commentpress_mu_bp.php:1376
 msgid "View Group Blog"
@@ -1818,7 +1818,7 @@ msgstr ""
 #: themes/commentpress-modern/assets/templates/user_links.php:96
 #: themes/commentpress-theme/assets/templates/user_links.php:96
 msgid "Dashboard"
-msgstr ""
+msgstr "儀表板"
 
 #: themes/commentpress-flat/assets/templates/page_navigation.php:14
 #: themes/commentpress-modern/assets/templates/page_navigation.php:14
@@ -2330,30 +2330,30 @@ msgstr ""
 #: themes/commentpress-theme/author.php:126
 #: themes/commentpress-theme/author.php:128
 msgid "Posts by"
-msgstr ""
+msgstr "Posts by"
 
 #: themes/commentpress-theme/author.php:138
 msgid "Permanent Link:"
-msgstr ""
+msgstr "永久連結："
 
 #: themes/commentpress-theme/author.php:143
 msgid "No posts by this author."
-msgstr ""
+msgstr "No posts by this author."
 
 #: themes/commentpress-theme/single.php:57
 msgid "This entry is filed under %1$s. You can follow any comments on this entry through the %2$s feed."
 #. Plugin Name of the plugin/theme
 msgstr ""
 msgid "CommentPress Core"
-msgstr "KommentPress de` Kor"
+msgstr "CommentPress核心"
 
 #. Plugin URI of the plugin/theme
 msgid "http://www.futureofthebook.org/commentpress/"
-msgstr ""
+msgstr "http://www.futureofthebook.org/commentpress/"
 
 #. Description of the plugin/theme
 msgid "CommentPress allows readers to comment in the margins of a text. You can use it to annotate, gloss, workshop, debate and more!"
-msgstr ""
+msgstr "CommentPress 允許讀者在文字的邊界寫上評語。You can use it to annotate, gloss, workshop, debate and more!"
 
 #. Author of the plugin/theme
 msgid "Institute for the Future of the Book"
@@ -2361,4 +2361,4 @@ msgstr ""
 
 #. Author URI of the plugin/theme
 msgid "http://www.futureofthebook.org"
-msgstr ""
+msgstr "http://www.futureofthebook.org"
