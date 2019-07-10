@@ -8159,7 +8159,7 @@ msgstr ""
 #: ../clients/tui/nmt-page-wifi.c:92
 msgctxt "WEP key index"
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #: ../clients/tui/nmt-page-wifi.c:93
 msgctxt "WEP key index"

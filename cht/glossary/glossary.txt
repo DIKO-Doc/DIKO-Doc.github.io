@@ -1087,3 +1087,5 @@ the Department of Bivalves	雙殼綱學系
 the Department of Gastropods	腹足綱學系
 w/o Completion?	欠完成日?sensitive keywords	敏感詞彙
 tab	頁籤
+Multi-Functional Printer	多功能事務機
+MFP	事務機

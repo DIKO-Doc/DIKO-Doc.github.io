@@ -14100,7 +14100,7 @@ msgstr ""
 #: wp-admin/includes/schema.php:395
 msgctxt "User role"
 msgid "Administrator"
-msgstr ""
+msgstr "Administrator（系統管理員）"
 
 #
 #: wp-admin/includes/schema.php:397

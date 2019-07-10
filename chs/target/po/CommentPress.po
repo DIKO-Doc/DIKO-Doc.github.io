@@ -7,10 +7,9 @@ msgstr "Project-Id-Version: CommentPress Core 3.9.11\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2019-06-15 21:30+0800\n"
-"Last-Translator: Tom K. C. Chiu <babycaseny@gmail.com>\n"
-"Language-Team: Babycaseny Gavernment <babycaseny@gmail.com>\n"
-"Language: bb\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 
 #: commentpress-ajax/cp-ajax-comments.php:168
 msgid "Loading..."
@@ -87,22 +86,22 @@ msgstr ""
 
 #: commentpress-ajax/cp-ajax-comments.php:412
 msgid "Move"
-msgstr "移动"
+msgstr "移動"
 
 #: commentpress-core/assets/includes/theme/theme-functions.php:160
 #: commentpress-core/assets/includes/theme/theme-functions.php:182
 #: commentpress-core/assets/includes/theme/theme-functions.php:196
 msgid "Site Image"
-msgstr "网站图片"
+msgstr ""
 
 #: commentpress-core/assets/includes/theme/theme-functions.php:164
 #: commentpress-core/assets/includes/theme/theme-functions.php:169
 msgid "Select %s"
-msgstr "选择%s"
+msgstr "選擇%s"
 
 #: commentpress-core/assets/includes/theme/theme-functions.php:165
 msgid "Change %s"
-msgstr "修改%s"
+msgstr "修訂%s"
 
 #: commentpress-core/assets/includes/theme/theme-functions.php:166
 msgid "Remove %s"
@@ -126,15 +125,15 @@ msgstr "选择一个图像来代表此站点。Other plugins may use this image 
 
 #: commentpress-core/assets/includes/theme/theme-functions.php:224
 msgid "Site Logo"
-msgstr "网站标志"
+msgstr ""
 
 #: commentpress-core/assets/includes/theme/theme-functions.php:238
 msgid "Logo Image"
-msgstr "标志图片"
+msgstr ""
 
 #: commentpress-core/assets/includes/theme/theme-functions.php:239
 msgid "You may prefer to display an image instead of text in the header of your site. The image must be a maximum of 70px tall. If it is less tall, then you can adjust the vertical alignment using the \"Top padding in px\" setting below."
-msgstr "You may prefer to display an image instead of text in the header of your site. The image must be a maximum of 70px tall. If it is less tall, then you can adjust the vertical alignment using the \"Top padding in px\" setting below."
+msgstr ""
 
 #: commentpress-core/assets/includes/theme/theme-functions.php:254
 msgid "Top padding in px"
@@ -146,45 +145,45 @@ msgstr ""
 
 #: commentpress-core/assets/includes/theme/theme-functions.php:309
 msgid "Customize"
-msgstr "定制"
+msgstr ""
 
 #: commentpress-core/assets/includes/theme/theme-functions.php:383
 msgid "Group avatar"
-msgstr "群组头像"
+msgstr ""
 
 #: commentpress-core/assets/includes/theme/theme-functions.php:443
 msgid "Logo"
-msgstr "标志"
+msgstr ""
 
 #: commentpress-core/assets/includes/theme/theme-functions.php:1267
 #: commentpress-core/class_commentpress_display.php:571
 #: commentpress-multisite/class_commentpress_mu_bp.php:855
 msgid " &amp; "
-msgstr " &amp; "
+msgstr ""
 
 #: commentpress-core/assets/includes/theme/theme-functions.php:1334
 msgid "Source: "
-msgstr "源： "
+msgstr ""
 
 #: commentpress-core/assets/includes/theme/theme-functions.php:1394
 #: commentpress-core/class_commentpress_display.php:680
 msgid "Posts by %s"
-msgstr "Posts by %s"
+msgstr ""
 
 #: commentpress-core/assets/includes/theme/theme-functions.php:1435
 msgid "See comment in context"
-msgstr "See comment in context"
+msgstr ""
 
 #: commentpress-core/assets/includes/theme/theme-functions.php:1489
 #: commentpress-core/assets/includes/theme/theme-functions.php:1592
 #: commentpress-core/assets/includes/theme/theme-functions.php:1876
 #: commentpress-multisite/class_commentpress_mu_bp.php:590
 msgid "Anonymous"
-msgstr "匿名"
+msgstr "匿名者"
 
 #: commentpress-core/assets/includes/theme/theme-functions.php:1495
 msgid "%1$s by %2$s on %3$s"
-msgstr "%1$s by %2$s on %3$s"
+msgstr ""
 
 #: commentpress-core/assets/includes/theme/theme-functions.php:1525
 msgid "%1$s on %2$s on %3$s"
@@ -194,17 +193,17 @@ msgstr ""
 #: commentpress-core/class_commentpress.php:1568
 #: commentpress-core/class_commentpress_db.php:3729
 msgid "Comments by Commenter"
-msgstr "评论者评论"
+msgstr ""
 
 #: commentpress-core/assets/includes/theme/theme-functions.php:1908
 #: commentpress-core/assets/includes/theme/theme-functions.php:2908
 msgid "Comment awaiting moderation"
-msgstr "等待审核的评论"
+msgstr ""
 
 #: commentpress-core/assets/includes/theme/theme-functions.php:1976
 #: commentpress-core/assets/includes/theme/theme-functions.php:2995
 msgid "%1$s at %2$s"
-msgstr "%1$s at %2$s"
+msgstr ""
 
 #: commentpress-core/assets/includes/theme/theme-functions.php:1985
 msgid "See in context"

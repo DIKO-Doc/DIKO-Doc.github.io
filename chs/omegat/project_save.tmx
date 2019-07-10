@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.0_0_e0e1b4cc" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -50,6 +50,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190618T073732Z" creationid="Tom" creationdate="20190618T073732Z">
         <seg>1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>1.1&lt;t0/&gt;  &lt;t1/&gt;S&lt;t2/&gt;YSTEM &lt;t3/&gt;C&lt;t4/&gt;ONFIGURATIONS</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T085403Z" creationid="Tom" creationdate="20190710T085403Z">
+        <seg>1.1&lt;t0/&gt;  &lt;t1/&gt;S&lt;t2/&gt;YSTEM &lt;t3/&gt;C&lt;t4/&gt;ONFIGURATIONS</seg>
       </tuv>
     </tu>
     <tu>
@@ -114,6 +122,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T083104Z" creationid="Tom" creationdate="20190604T083104Z">
         <seg>3&lt;t0/&gt;.&lt;t1/&gt;5&lt;t2/&gt;(&lt;t3/&gt;如果有以下的图片出现，点击此处&lt;t4/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T085344Z" creationid="Tom" creationdate="20190710T085344Z">
+        <seg>4</seg>
       </tuv>
     </tu>
     <tu>
@@ -647,8 +663,8 @@
       <tuv lang="EN">
         <seg>Copyright 2017 All rights reserved</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T020509Z" creationid="Tom" creationdate="20190604T020509Z">
-        <seg>©2017-2019 版權所有坐言起行教育有限公司。</seg>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T085335Z" creationid="Tom" creationdate="20190604T020509Z">
+        <seg>©2017-2019 版权所有坐言起行教育有限公司。</seg>
       </tuv>
     </tu>
     <tu>
@@ -853,6 +869,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Diko&lt;t0/&gt; Admin Guide</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T085325Z" creationid="Tom" creationdate="20190710T085325Z">
+        <seg>Diko&lt;t0/&gt; Admin Guide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Diko&lt;t0/&gt; Tutorial</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190529T034128Z" creationid="Tom" creationdate="20190529T034128Z">
@@ -921,6 +945,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T075829Z" creationid="Tom" creationdate="20190603T073627Z">
         <seg>每个类别都包含一组字段，用来支持元数据的搜寻。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter the SMTP Server information to access send email function in &lt;t0/&gt;Diko&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T085814Z" creationid="Tom" creationdate="20190710T085814Z">
+        <seg>Enter the SMTP Server information to access send email function in &lt;t0/&gt;Diko&lt;t1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1065,6 +1097,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20190603T084936Z" creationid="Administrator" creationdate="20190603T084936Z">
         <seg>&lt;t0/&gt;返回主畫面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>General Setting</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T085848Z" creationid="Tom" creationdate="20190710T085848Z">
+        <seg>一般设置</seg>
       </tuv>
     </tu>
     <tu>
@@ -1767,6 +1807,30 @@ Language: bb</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>System Configurations</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T085410Z" creationid="Tom" creationdate="20190710T085410Z">
+        <seg>系统配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>System Email Message</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T085823Z" creationid="Tom" creationdate="20190710T085823Z">
+        <seg>系统电子邮件设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>System Email Setting</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T085413Z" creationid="Tom" creationdate="20190710T085413Z">
+        <seg>系统电子邮件设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>System Functions</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T020603Z" creationid="Tom" creationdate="20190604T020603Z">
@@ -2015,10 +2079,26 @@ Language: bb</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This tab is to customize the email message.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T085838Z" creationid="Tom" creationdate="20190710T085838Z">
+        <seg>此选项卡用于自定义电子邮件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To change the name of the database, enter the new name in the &lt;t4/&gt;Database&lt;t5/&gt; box.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T080445Z" creationid="Administrator" creationdate="20190603T093234Z">
         <seg>要更改数据库名称，请在&lt;t4/&gt;Database&lt;t5/&gt;框中输入新名称。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To configure &lt;t0/&gt;General Setting&lt;t1/&gt;, click the &lt;t2/&gt; button on the &lt;t3/&gt;Menu&lt;t4/&gt; section and click the &lt;t5/&gt;System Configuration&lt;t6/&gt; function &gt; &lt;t7/&gt;General Setting&lt;t8/&gt; tab.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T085935Z" creationid="Tom" creationdate="20190710T085935Z">
+        <seg>To configure &lt;t0/&gt;General Setting&lt;t1/&gt;, click the &lt;t2/&gt; button on the &lt;t3/&gt;Menu&lt;t4/&gt; section and click the &lt;t5/&gt;System Configuration&lt;t6/&gt; function &gt; &lt;t7/&gt;General Setting&lt;t8/&gt; tab.</seg>
       </tuv>
     </tu>
     <tu>

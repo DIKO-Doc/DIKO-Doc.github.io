@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.0_0_e0e1b4cc" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -42,6 +42,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190613T025118Z" creationid="Tom" creationdate="20190613T025118Z">
         <seg>- 管理员</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>1.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190618T073732Z" creationid="Tom" creationdate="20190618T073732Z">
+        <seg>1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>1.1&lt;t0/&gt;  &lt;t1/&gt;S&lt;t2/&gt;YSTEM &lt;t3/&gt;C&lt;t4/&gt;ONFIGURATIONS</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T085403Z" creationid="Tom" creationdate="20190710T085403Z">
+        <seg>1.1&lt;t0/&gt;  &lt;t1/&gt;S&lt;t2/&gt;YSTEM &lt;t3/&gt;C&lt;t4/&gt;ONFIGURATIONS</seg>
       </tuv>
     </tu>
     <tu>
@@ -106,6 +122,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T083104Z" creationid="Tom" creationdate="20190604T083104Z">
         <seg>3&lt;t0/&gt;.&lt;t1/&gt;5&lt;t2/&gt;(&lt;t3/&gt;如果有以下的图片出现，点击此处&lt;t4/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T085344Z" creationid="Tom" creationdate="20190710T085344Z">
+        <seg>4</seg>
       </tuv>
     </tu>
     <tu>
@@ -404,6 +428,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>BosnianCyrillic = 130,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190618T073742Z" creationid="Tom" creationdate="20190618T073742Z">
+        <seg>西里尔字母波斯尼亚语 = 130,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, a recovery plan is suggested.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T080512Z" creationid="Tom" creationdate="20190604T014701Z">
@@ -631,8 +663,8 @@
       <tuv lang="EN">
         <seg>Copyright 2017 All rights reserved</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T020509Z" creationid="Tom" creationdate="20190604T020509Z">
-        <seg>©2017-2019 版權所有坐言起行教育有限公司。</seg>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T085335Z" creationid="Tom" creationdate="20190604T020509Z">
+        <seg>©2017-2019 版权所有坐言起行教育有限公司。</seg>
       </tuv>
     </tu>
     <tu>
@@ -837,6 +869,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Diko&lt;t0/&gt; Admin Guide</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T085325Z" creationid="Tom" creationdate="20190710T085325Z">
+        <seg>Diko&lt;t0/&gt; Admin Guide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Diko&lt;t0/&gt; Tutorial</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190529T034128Z" creationid="Tom" creationdate="20190529T034128Z">
@@ -849,6 +889,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T073340Z">
         <seg>版权声明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DocTracker&lt;t0/&gt;v&lt;t1/&gt;3&lt;t2/&gt;plus</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190618T073715Z" creationid="Tom" creationdate="20190618T073715Z">
+        <seg>DocTracker&lt;t0/&gt;v&lt;t1/&gt;3&lt;t2/&gt;plus</seg>
       </tuv>
     </tu>
     <tu>
@@ -897,6 +945,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T075829Z" creationid="Tom" creationdate="20190603T073627Z">
         <seg>每个类别都包含一组字段，用来支持元数据的搜寻。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter the SMTP Server information to access send email function in &lt;t0/&gt;Diko&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T085814Z" creationid="Tom" creationdate="20190710T085814Z">
+        <seg>Enter the SMTP Server information to access send email function in &lt;t0/&gt;Diko&lt;t1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1041,6 +1097,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20190603T084936Z" creationid="Administrator" creationdate="20190603T084936Z">
         <seg>&lt;t0/&gt;返回主畫面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>General Setting</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T085848Z" creationid="Tom" creationdate="20190710T085848Z">
+        <seg>一般设置</seg>
       </tuv>
     </tu>
     <tu>
@@ -1253,6 +1317,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Kazakh = 134,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190618T073813Z" creationid="Tom" creationdate="20190618T073813Z">
+        <seg>哈萨克斯坦语 = 134,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>L&lt;t0/&gt;ater, when Tom move from &lt;t1/&gt;the Department of &lt;t2/&gt;Gastropods to &lt;t3/&gt;the Department of &lt;t4/&gt;Bivalves, we need to transfer the ownership of his&lt;t5/&gt; &lt;t6/&gt;old&lt;t7/&gt; files back to his reporting line.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190529T042141Z" creationid="Tom" creationdate="20190529T041729Z">
@@ -1321,6 +1393,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T072217Z" creationid="Tom" creationdate="20190604T063323Z">
         <seg>组件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moldovan = 131,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190618T073750Z" creationid="Tom" creationdate="20190618T073750Z">
+        <seg>摩尔多瓦语 = 131,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MongolianCyrillic = 135,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190618T073819Z" creationid="Tom" creationdate="20190618T073819Z">
+        <seg>西里尔字母蒙古语 = 135,</seg>
       </tuv>
     </tu>
     <tu>
@@ -1687,6 +1775,14 @@ Language: bb</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Start setting up the &lt;t0/&gt;OCR Station.&lt;t1/&gt; Double-click the shortcut of &lt;t2/&gt;DocTracker OCR Client Config &lt;t3/&gt;on the desktop to open the &lt;t4/&gt;DocTracker OCR Station Control Panel&lt;t5/&gt; program.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190618T073834Z" creationid="Tom" creationdate="20190618T073834Z">
+        <seg>Start setting up the &lt;t0/&gt;OCR Station.&lt;t1/&gt; Double-click the shortcut of &lt;t2/&gt;DocTracker OCR Client Config &lt;t3/&gt;on the desktop to open the &lt;t4/&gt;DocTracker OCR Station Control Panel&lt;t5/&gt; program.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Steps</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T072239Z" creationid="Tom" creationdate="20190604T063357Z">
@@ -1699,6 +1795,38 @@ Language: bb</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T075028Z" creationid="Tom" creationdate="20190529T041547Z">
         <seg>总结</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SwissGerman = 132,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190618T073755Z" creationid="Tom" creationdate="20190618T073755Z">
+        <seg>瑞士德语 = 132,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>System Configurations</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T085410Z" creationid="Tom" creationdate="20190710T085410Z">
+        <seg>系统配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>System Email Message</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T085823Z" creationid="Tom" creationdate="20190710T085823Z">
+        <seg>系统电子邮件设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>System Email Setting</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T085413Z" creationid="Tom" creationdate="20190710T085413Z">
+        <seg>系统电子邮件设置</seg>
       </tuv>
     </tu>
     <tu>
@@ -1779,6 +1907,14 @@ Language: bb</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T095309Z" creationid="Tom" creationdate="20190528T100104Z">
         <seg>目录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tetum = 133,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190618T073805Z" creationid="Tom" creationdate="20190618T073805Z">
+        <seg>德顿语 = 133,</seg>
       </tuv>
     </tu>
     <tu>
@@ -1943,6 +2079,14 @@ Language: bb</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This tab is to customize the email message.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T085838Z" creationid="Tom" creationdate="20190710T085838Z">
+        <seg>此选项卡用于自定义电子邮件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To change the name of the database, enter the new name in the &lt;t4/&gt;Database&lt;t5/&gt; box.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T080445Z" creationid="Administrator" creationdate="20190603T093234Z">
@@ -2035,6 +2179,14 @@ Language: bb</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T082237Z" creationid="Tom" creationdate="20190603T073853Z">
         <seg>使用者可以通过其共享连结&lt;t4/&gt;来分享文件，以确保诉讼共享。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>UzbekLatin = 136,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190618T073826Z" creationid="Tom" creationdate="20190618T073826Z">
+        <seg>拉丁字母乌孜别克语 = 136,</seg>
       </tuv>
     </tu>
     <tu>
