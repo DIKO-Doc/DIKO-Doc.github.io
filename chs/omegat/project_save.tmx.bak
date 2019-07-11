@@ -30,10 +30,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>'''''SQL Server Reporting Services''' ('''SSRS''')'' is a server-based report generating software system from [[Microsoft]].</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T122930Z" creationid="Tom" creationdate="20190710T122930Z">
+        <seg>'''''SQL Server Reporting Services''' ('''SSRS''')'' is a server-based report generating software system from [[Microsoft]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>'''LanguageTool''' is a [[free and open-source]] [[grammar checker]], and all its features are available for download&lt;ref&gt;https://languagetool.org/#libreoffice&lt;/ref&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T122825Z" creationid="Tom" creationdate="20190710T122825Z">
+        <seg>'''LanguageTool'''是一个[[免费软件|免费]]和[[开源软件|开源]]的[[语法检查]]软件，其所有功能都可供下载&lt;ref&gt;https://languagetool.org/#libreoffice&lt;/ref&gt; 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>'''SQL Server Management Studio''' (SSMS) is a software application first launched with [[Microsoft]] [[Microsoft SQL Server|SQL Server 2005]] that is used for configuring, managing, and administering all components within [[Microsoft SQL Server]].</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190530T052841Z" creationid="Tom" creationdate="20190530T052841Z">
         <seg>'''SQL Server Management Studio'''（SSMS）是[[微软]]的一個與其[[數據庫]]產品[[Microsoft SQL Server]]配合使用的產品，以便於設定、配置及管理其元件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(beta version expires %s)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T122413Z" creationid="Tom" creationdate="20190710T122413Z">
+        <seg>(beta version expires %s)</seg>
       </tuv>
     </tu>
     <tu>
@@ -50,6 +74,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190618T073732Z" creationid="Tom" creationdate="20190618T073732Z">
         <seg>1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>1.1.1&lt;t0/&gt;  &lt;t1/&gt;System Email Setting</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T122948Z" creationid="Tom" creationdate="20190710T122948Z">
+        <seg>1.1.1&lt;t0/&gt;  &lt;t1/&gt;系统电子邮件设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>1.1.2&lt;t0/&gt;  &lt;t1/&gt;System Email Message</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T130529Z" creationid="Tom" creationdate="20190710T130502Z">
+        <seg>1.1.2&lt;t0/&gt;  &lt;t1/&gt;系统电子邮件设置</seg>
       </tuv>
     </tu>
     <tu>
@@ -142,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>5</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T130530Z" creationid="Tom" creationdate="20190710T130530Z">
+        <seg>5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>5.&lt;t0/&gt;Using &lt;t1/&gt;DIKO &lt;t2/&gt;Drop zone</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T063258Z" creationid="Tom" creationdate="20190604T063258Z">
@@ -226,6 +274,24 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T082158Z" creationid="Tom" creationdate="20190603T073011Z">
         <seg>&lt;t9/&gt;此外，&lt;t10/&gt;DIKO&lt;t11/&gt;保留每个文件的版本以确保其完整性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>== References ==
+{{Reflist|2}}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T122843Z" creationid="Tom" creationdate="20190710T122843Z">
+        <seg>==参考文献==
+{{Reflist}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>===============</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T122444Z" creationid="Tom" creationdate="20190710T122444Z">
+        <seg>===============</seg>
       </tuv>
     </tu>
     <tu>
@@ -476,6 +542,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cannot import:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T104637Z" creationid="Tom" creationdate="20190710T104637Z">
+        <seg>Cannot import:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Certainly, you may use the SQL Server Management Studio to conduct the backup.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T075940Z" creationid="Tom" creationdate="20190530T045159Z">
@@ -537,6 +611,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T072511Z" creationid="Tom" creationdate="20190604T064104Z">
         <seg>选择&lt;t0/&gt;&lt;t1/&gt; “Runtime” &lt;t2/&gt;&lt;t3/&gt;然后点击&lt;t4/&gt;&lt;t5/&gt; “Next”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clear</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T104658Z" creationid="Tom" creationdate="20190710T104658Z">
+        <seg>清除</seg>
       </tuv>
     </tu>
     <tu>
@@ -693,10 +775,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Corporate</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T122621Z" creationid="Tom" creationdate="20190710T122621Z">
+        <seg>Corporate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Customize</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190615T133559Z" creationid="Tom" creationdate="20190615T133559Z">
         <seg>定制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DIKO</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T122549Z" creationid="Tom" creationdate="20190710T122549Z">
+        <seg>DIKO</seg>
       </tuv>
     </tu>
     <tu>
@@ -945,6 +1043,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T075829Z" creationid="Tom" creationdate="20190603T073627Z">
         <seg>每个类别都包含一组字段，用来支持元数据的搜寻。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Email Capture User Guide</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T104612Z" creationid="Tom" creationdate="20190710T104612Z">
+        <seg>Email Capture User Guide</seg>
       </tuv>
     </tu>
     <tu>
@@ -1341,6 +1447,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool website connects to a [[Proprietary software|proprietary]] sister project '''LanguageTool Plus''', which provides improved error detection for English and German, as well as easier revision of longer texts, following the [[open-core model]].</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T122832Z" creationid="Tom" creationdate="20190710T122832Z">
+        <seg>LanguageTool website connects to a [[Proprietary software|proprietary]] sister project '''LanguageTool Plus''', which provides improved error detection for English and German, as well as easier revision of longer texts, following the [[open-core model]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Later, he will be transferred to another department and will report to Professor Kuroda.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190529T042317Z" creationid="Tom" creationdate="20190529T042317Z">
@@ -1349,10 +1463,44 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Licensing information
+=====================</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T122510Z" creationid="Tom" creationdate="20190710T122510Z">
+        <seg>许可信息
+=====================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Loading...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T085507Z" creationid="Tom" creationdate="20190604T060836Z">
         <seg>载入中...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Location</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T122603Z" creationid="Tom" creationdate="20190710T122603Z">
+        <seg>地点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Locked</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T122630Z" creationid="Tom" creationdate="20190710T122630Z">
+        <seg>Locked</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Login ID</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T122550Z" creationid="Tom" creationdate="20190710T122550Z">
+        <seg>Login ID</seg>
       </tuv>
     </tu>
     <tu>
@@ -1385,6 +1533,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190530T030517Z" creationid="Tom" creationdate="20190530T030517Z">
         <seg>2019年5月</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Menu</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T122615Z" creationid="Tom" creationdate="20190710T122615Z">
+        <seg>菜單</seg>
       </tuv>
     </tu>
     <tu>
@@ -1485,6 +1641,18 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is available under the terms of the GNU General Public License as
+published by the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T122541Z" creationid="Tom" creationdate="20190710T122541Z">
+        <seg>OmegaT is available under the terms of the GNU General Public License as
+published by the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the &lt;t0/&gt;General&lt;t1/&gt; page, use the &lt;t2/&gt;Source&lt;t3/&gt; section to specify the source and location of the backup sets to restore.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T080344Z" creationid="Administrator" creationdate="20190603T092404Z">
@@ -1513,6 +1681,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20190603T084906Z" creationid="Administrator" creationdate="20190603T084906Z">
         <seg>第&lt;t0/&gt; &lt;t1/&gt;2&lt;t2/&gt; &lt;t3/&gt;/&lt;t4/&gt; &lt;t5/&gt;2 頁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Password</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T122557Z" creationid="Tom" creationdate="20190710T122557Z">
+        <seg>密码</seg>
       </tuv>
     </tu>
     <tu>
@@ -1573,6 +1749,35 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project-Id-Version: 
+Report-Msgid-Bugs-To: 
+POT-Creation-Date: 2019-05-28 14:23+0200
+PO-Revision-Date: 2019-06-19 18:15+0800
+Last-Translator: Copied by Zanata &lt;copied-by-zanata@zanata.org&gt;
+Language-Team: Traditional Chinese &lt;zh@li.org&gt;
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=1; plural=0;
+X-Generator: Poedit 2.2.3</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T122350Z" creationid="Tom" creationdate="20190710T104721Z">
+        <seg>Project-Id-Version: 
+Report-Msgid-Bugs-To: 
+POT-Creation-Date: 2019-05-28 14:23+0200
+PO-Revision-Date: 2019-06-19 18:15+0800
+Last-Translator: Copied by Zanata &lt;copied-by-zanata@zanata.org&gt;
+Language-Team: Simplified Chinese &lt;zh@li.org&gt;
+Language: zh_CN
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=1; plural=0;
+X-Generator: Poedit 2.2.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project-Id-Version: CommentPress Core 3.9.11
 Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/commentpress-core
 POT-Creation-Date: 2018-04-30 12:46:00+00:00
@@ -1595,6 +1800,105 @@ PO-Revision-Date: 2019-06-15 21:30+0800
 Last-Translator: Tom K. C. Chiu &lt;babycaseny@gmail.com&gt;
 Language-Team: Babycaseny Gavernment &lt;babycaseny@gmail.com&gt;
 Language: bb</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project-Id-Version: WordPress 3.0-RC3 20100617
+Report-Msgid-Bugs-To: 
+POT-Creation-Date: 2010-06-17 14:54+0800
+PO-Revision-Date: 2019-06-15 12:13+0800
+Last-Translator: Tom K. C. Chiu &lt;babycaseny@gmail.com&gt;
+Language-Team: Babycasèny Gavernmènt &lt;babycaseny@gmail.com&gt;
+Language: bb
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=2; plural=n==1?0:1;
+X-Poedit-SourceCharset: utf-8
+X-Poedit-KeywordsList: __;_e;_c;__ngettext:1,2;_n:1,2;_nc:1,2;__ngettext_noop:1,2;_n_noop:1,2;_x:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_ex:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c
+X-Poedit-Basepath: ../..</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T122426Z" creationid="Tom" creationdate="20190710T122426Z">
+        <seg>Project-Id-Version: WordPress 3.0-RC3 20100617
+Report-Msgid-Bugs-To: 
+POT-Creation-Date: 2010-06-17 14:54+0800
+PO-Revision-Date: 2019-06-15 12:13+0800
+Last-Translator: Tom K. C. Chiu &lt;babycaseny@gmail.com&gt;
+Language-Team: Babycasèny Gavernmènt &lt;babycaseny@gmail.com&gt;
+Language: zh_CN
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=2; plural=n==1?0:1;
+X-Poedit-SourceCharset: utf-8
+X-Poedit-KeywordsList: __;_e;_c;__ngettext:1,2;_n:1,2;_nc:1,2;__ngettext_noop:1,2;_n_noop:1,2;_x:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_ex:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c
+X-Poedit-Basepath: ../..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project-Id-Version: meld master
+Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/meld/issues
+POT-Creation-Date: 2018-08-17 21:12+0000
+PO-Revision-Date: 2019-07-10 15:52+0800
+Last-Translator: Hsiu-Ming Chang &lt;cges30901@gmail.com&gt;
+Language-Team: Babycaseny Gavèrnmènt
+Language: zh_TW
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=1; plural=0;
+X-Generator: Poedit 2.2.3
+X-Project-Style: gnome
+X-Source-Language: C</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T104629Z" creationid="Tom" creationdate="20190710T104629Z">
+        <seg>Project-Id-Version: meld master
+Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/meld/issues
+POT-Creation-Date: 2018-08-17 21:12+0000
+PO-Revision-Date: 2019-07-10 15:52+0800
+Last-Translator: Hsiu-Ming Chang &lt;cges30901@gmail.com&gt;
+Language-Team: Babycaseny Gavèrnmènt
+Language: zh_CN
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=1; plural=0;
+X-Generator: Poedit 2.2.3
+X-Project-Style: gnome
+X-Source-Language: C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project-Id-Version: poedit
+Report-Msgid-Bugs-To: help@poedit.net
+POT-Creation-Date: 2019-05-14 19:28+0200
+PO-Revision-Date: 2019-06-15 21:30+0800
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=2; plural=n==1?0:1;
+X-Poedit-SourceCharset: utf-8
+X-Generator: Poedit 2.2.3
+X-Crowdin-Project: poedit
+X-Crowdin-File: /locales/poedit.pot</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T122411Z" creationid="Tom" creationdate="20190710T122411Z">
+        <seg>Project-Id-Version: poedit
+Report-Msgid-Bugs-To: help@poedit.net
+POT-Creation-Date: 2019-05-14 19:28+0200
+PO-Revision-Date: 2019-06-15 21:30+0800
+Language: zh_CN
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=2; plural=n==1?0:1;
+X-Poedit-SourceCharset: utf-8
+X-Generator: Poedit 2.2.3
+X-Crowdin-Project: poedit
+X-Crowdin-File: /locales/poedit.pot</seg>
       </tuv>
     </tu>
     <tu>
@@ -2095,6 +2399,14 @@ Language: bb</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To configure &lt;t0/&gt;General Setting&lt;t1/&gt;, click the &lt;t2/&gt; button on the &lt;t3/&gt;Menu&lt;t4/&gt; section and click the &lt;t5/&gt;System Configuration&lt;t6/&gt; function &gt; &lt;t7/&gt;General Setting&lt;t8/&gt; tab.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T085935Z" creationid="Tom" creationdate="20190710T085935Z">
+        <seg>To configure &lt;t0/&gt;General Setting&lt;t1/&gt;, click the &lt;t2/&gt; button on the &lt;t3/&gt;Menu&lt;t4/&gt; section and click the &lt;t5/&gt;System Configuration&lt;t6/&gt; function &gt; &lt;t7/&gt;General Setting&lt;t8/&gt; tab.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To override the suggested recovery plan, you can change the selections in the grid.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T080517Z" creationid="Tom" creationdate="20190604T015037Z">
@@ -2151,6 +2463,14 @@ Language: bb</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unknown log domain '%s'</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T122356Z" creationid="Tom" creationdate="20190710T122356Z">
+        <seg>Unknown log domain '%s'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Updated with details steps of backup and restore, with screen captures</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T073841Z" creationid="Tom" creationdate="20190530T030733Z">
@@ -2163,6 +2483,18 @@ Language: bb</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T081609Z" creationid="Tom" creationdate="20190604T064337Z">
         <seg>安装完成后点击&lt;t0/&gt; &lt;t1/&gt;“&lt;t2/&gt;Finish&lt;t3/&gt;”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Usage: nmcli agent { COMMAND | help }
+
+COMMAND := { secret | polkit | all }</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T104724Z" creationid="Tom" creationdate="20190710T104724Z">
+        <seg>Usage: nmcli agent { COMMAND | help }
+
+COMMAND := { secret | polkit | all }</seg>
       </tuv>
     </tu>
     <tu>
@@ -2223,6 +2555,22 @@ Language: bb</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Welcome back to DIKO</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T122608Z" creationid="Tom" creationdate="20190710T122608Z">
+        <seg>欢迎回到DIKO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What is OmegaT?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T122458Z" creationid="Tom" creationdate="20190710T122442Z">
+        <seg>OmegaT是什么？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>With &lt;t0/&gt;DIKO&lt;t1/&gt;, all documents are well protected and managed so the corporation is on the safe side in the dynamic business world.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T082244Z" creationid="Tom" creationdate="20190603T074335Z">
@@ -2235,6 +2583,24 @@ Language: bb</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T074906Z" creationid="Tom" creationdate="20190528T080829Z">
         <seg>使用Web浏览器，用户可以管理和保护组织内的文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>X-Generator: Poedit 2.2.3
+X-Poedit-SearchPath-0: .</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T122428Z" creationid="Tom" creationdate="20190710T122428Z">
+        <seg>X-Generator: Poedit 2.2.3
+X-Poedit-SearchPath-0: .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XFN</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T122429Z" creationid="Tom" creationdate="20190710T122429Z">
+        <seg>XFN</seg>
       </tuv>
     </tu>
     <tu>
@@ -2297,9 +2663,29 @@ Language: bb</seg>
       <tuv lang="EN">
         <seg>[[Category:Auditing terms|Trail]]</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T085450Z" creationid="Tom" creationdate="20190528T074918Z">
-        <seg>==外部连结==
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T122653Z" creationid="Tom" creationdate="20190528T074918Z">
+        <seg>==外部链接==
 [[Category:审计术语]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[[Category:Cross-platform free software]]
+[[Category:Software using the LGPL license]]
+[[Category:Firefox add-ons]]
+[[Category:Free software programmed in Java (programming language)]]
+[[Category:Grammar checkers]]
+[[Category:Free spelling checking programs]]</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T122904Z" creationid="Tom" creationdate="20190710T122904Z">
+        <seg>==外部链接==
+
+[[Category:Cross-platform free software]]
+[[Category:Software using the LGPL license]]
+[[Category:Firefox add-ons]]
+[[Category:Free software programmed in Java (programming language)]]
+[[Category:Grammar checkers]]
+[[Category:Free spelling checking programs]]</seg>
       </tuv>
     </tu>
     <tu>
@@ -2311,6 +2697,28 @@ Language: bb</seg>
         <seg>[[Category:微软数据库软件]]
 [[Category:数据库管理工具]]
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[[Category:Microsoft database software]]
+[[Category:Reporting software]]</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T122931Z" creationid="Tom" creationdate="20190710T122931Z">
+        <seg>[[Category:Microsoft database software]]
+[[Category:Reporting software]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[[Category:Proprietary database management systems]]
+[[Category:Microsoft server technology]]
+[[Category:Microsoft database software]]</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T122916Z" creationid="Tom" creationdate="20190710T122916Z">
+        <seg>[[Category:Proprietary database management systems]]
+[[Category:Microsoft server technology]]
+[[Category:Microsoft database software]]</seg>
       </tuv>
     </tu>
     <tu>
@@ -2335,6 +2743,14 @@ Language: bb</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190603T022306Z" creationid="Tom" creationdate="20190603T022306Z">
         <seg>協作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://sourceforge.net/p/omegat/bugs/</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T122543Z" creationid="Tom" creationdate="20190710T122543Z">
+        <seg>https://sourceforge.net/p/omegat/bugs/</seg>
       </tuv>
     </tu>
     <tu>
@@ -2371,10 +2787,124 @@ Language: bb</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>{{Infobox software
+| name = Microsoft SQL Server Express
+| logo = 
+| screenshot = 
+| caption = 
+| developer = [[Microsoft]]
+| programming language = [[C (programming language)|C]], [[C++]]
+| latest release version = SQL Server 2017 Express
+| latest release date = {{Start date and years ago|2017|11|6}}
+| status = Active
+| operating system = [[Microsoft Windows]], [[Linux]]
+| platform = [[IA-32]] or [[IA-64]]&lt;br&gt; &gt; 512 MB RAM&lt;br&gt;[[.NET Framework 4.0]]&lt;ref&gt;{{cite web|url=https://msdn.microsoft.com/en-us/library/ms143506%28v=sql.120%29.aspx |title=Hardware and Software Requirements for Installing SQL Server 2014 - SQL Server &amp;#124; Microsoft Docs |publisher=Msdn.microsoft.com |date= |accessdate=2019-04-03}}&lt;/ref&gt;
+| genre = [[Relational database management system]]
+| language = English, Chinese, French, German, Italian, Japanese, Korean, Portuguese (Brazil), Russian, Spanish
+| license = [[Proprietary software]]&lt;ref&gt;{{cite web|url=https://msdn.microsoft.com/en-us/library/ms143522%28v=sql.120%29.aspx |title=About the SQL Server License Terms - SQL Server &amp;#124; Microsoft Docs |publisher=Msdn.microsoft.com |date=2017-05-24 |accessdate=2019-04-03}}&lt;/ref&gt;
+| website = [http://www.microsoft.com/en-us/server-cloud/products/sql-server-editions/sql-server-express.aspx www.microsoft.com]
+}}
+'''Microsoft SQL Server Express''' is a version of [[Microsoft]]'s [[Microsoft SQL Server|SQL Server]] [[relational database management system]] that is free to download, distribute and use.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T122913Z" creationid="Tom" creationdate="20190710T122913Z">
+        <seg>{{Infobox software
+| name = Microsoft SQL Server Express
+| logo = 
+| screenshot = 
+| caption = 
+| developer = [[Microsoft]]
+| programming language = [[C (programming language)|C]], [[C++]]
+| latest release version = SQL Server 2017 Express
+| latest release date = {{Start date and years ago|2017|11|6}}
+| status = Active
+| operating system = [[Microsoft Windows]], [[Linux]]
+| platform = [[IA-32]] or [[IA-64]]&lt;br&gt; &gt; 512 MB RAM&lt;br&gt;[[.NET Framework 4.0]]&lt;ref&gt;{{cite web|url=https://msdn.microsoft.com/en-us/library/ms143506%28v=sql.120%29.aspx |title=Hardware and Software Requirements for Installing SQL Server 2014 - SQL Server &amp;#124; Microsoft Docs |publisher=Msdn.microsoft.com |date= |accessdate=2019-04-03}}&lt;/ref&gt;
+| genre = [[Relational database management system]]
+| language = English, Chinese, French, German, Italian, Japanese, Korean, Portuguese (Brazil), Russian, Spanish
+| license = [[Proprietary software]]&lt;ref&gt;{{cite web|url=https://msdn.microsoft.com/en-us/library/ms143522%28v=sql.120%29.aspx |title=About the SQL Server License Terms - SQL Server &amp;#124; Microsoft Docs |publisher=Msdn.microsoft.com |date=2017-05-24 |accessdate=2019-04-03}}&lt;/ref&gt;
+| website = [http://www.microsoft.com/en-us/server-cloud/products/sql-server-editions/sql-server-express.aspx www.microsoft.com]
+}}
+'''Microsoft SQL Server Express''' is a version of [[Microsoft]]'s [[Microsoft SQL Server|SQL Server]] [[relational database management system]] that is free to download, distribute and use.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{{Microsoft-software-stub}}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T122928Z" creationid="Tom" creationdate="20190710T122928Z">
+        <seg>{{Microsoft-software-stub}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>{{Refimprove|date=March 2012}}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190528T071401Z" creationid="Tom" creationdate="20190528T071401Z">
         <seg>{{Refimprove|time=2012-03}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{{free-software-stub}}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T122837Z" creationid="Tom" creationdate="20190710T122837Z">
+        <seg>{{free-software-stub}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{{short description|Free and open-source spell and grammar checker}}
+{{Infobox software
+| name = LanguageTool
+| title = LanguageTool
+| logo = LanguageTool Logo.svg
+| screenshot = LanguageTool WikiCheck.png
+| caption = LanguageTool WikiCheck
+| developer = Daniel Naber and Marcin Miłkowski
+| released = {{Start date and age|2005|08|15|df=yes}}
+| programming language = [[Java (programming language)|Java]]
+| platform = [[Java SE]]
+| language count = &lt;!--Number languages in which the user interface appear, NOT the number of languages that can be spell-checked.--&gt;
+| language footnote = 
+| size = {{ubl
+|'''Desktop app:''' 156 MB&lt;ref&gt;https://languagetool.org/download/&lt;/ref&gt;
+|'''n-gram data:''' 8.34 GB&lt;ref&gt;https://languagetool.org/download/ngram-data/&lt;/ref&gt;
+}}
+| language = &lt;!--Languages in which the user interface appear, NOT the languages that can be spell-checked.--&gt;
+| genre = [[Grammar checker]]
+| license = [[GNU Lesser General Public License|GNU LGPL]] v2.1+
+}}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T122705Z" creationid="Tom" creationdate="20190710T122705Z">
+        <seg>{{short description|Free and open-source spell and grammar checker}}
+{{Infobox software
+| name = LanguageTool
+| title = LanguageTool
+| logo = LanguageTool Logo.svg
+| screenshot = LanguageTool WikiCheck.png
+| caption = LanguageTool WikiCheck
+| developer = Daniel Naber and Marcin Miłkowski
+| released = {{Start date and age|2005|08|15|df=yes}}
+| programming language = [[Java (programming language)|Java]]
+| platform = [[Java SE]]
+| language count = &lt;!--Number languages in which the user interface appear, NOT the number of languages that can be spell-checked.--&gt;
+| language footnote = 
+| size = {{ubl
+|'''Desktop app:''' 156 MB&lt;ref&gt;https://languagetool.org/download/&lt;/ref&gt;
+|'''n-gram data:''' 8.34 GB&lt;ref&gt;https://languagetool.org/download/ngram-data/&lt;/ref&gt;
+}}
+| language = &lt;!--Languages in which the user interface appear, NOT the languages that can be spell-checked.--&gt;
+| genre = [[Grammar checker]]
+| license = [[GNU Lesser General Public License|GNU LGPL]] v2.1+
+}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>“%s” is not a valid POT file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T122416Z" creationid="Tom" creationdate="20190710T122416Z">
+        <seg>“%s” is not a valid POT file.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->

@@ -600,6 +600,14 @@ X-Generator: Poedit 2.2.3</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>1.0</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190711T011039Z" creationid="Tom" creationdate="20190711T011039Z">
+        <seg>1.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>1.1</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Tom" changedate="20190617T072903Z" creationid="Tom" creationdate="20190617T072903Z">
@@ -1200,6 +1208,14 @@ X-Generator: Poedit 2.2.3</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>10&lt;t0/&gt;th&lt;t1/&gt; &lt;t2/&gt;Oct 2018</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190711T011155Z" creationid="Tom" creationdate="20190711T011107Z">
+        <seg>2018年10月&lt;t2/&gt;10日&lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>11</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Tom" changedate="20190617T022120Z" creationid="Tom" creationdate="20190617T022120Z">
@@ -1586,8 +1602,8 @@ X-Generator: Poedit 2.2.3</seg>
       <tuv lang="EN">
         <seg>30&lt;t0/&gt;th&lt;t1/&gt; &lt;t2/&gt;May 2019</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Tom" changedate="20190710T092816Z" creationid="Tom" creationdate="20190710T092816Z">
-        <seg>2019年&lt;t2/&gt;5月30&lt;t0/&gt;&lt;t1/&gt;日</seg>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190711T011128Z" creationid="Tom" creationdate="20190710T092816Z">
+        <seg>2019年5月&lt;t2/&gt;30&lt;t0/&gt;&lt;t1/&gt;日</seg>
       </tuv>
     </tu>
     <tu>
@@ -2743,8 +2759,8 @@ or yus đe + bùtton</seg>
       <tuv lang="EN">
         <seg>All concepts, ideas and materials in this document are owned by &lt;t2/&gt;Speech &amp; Act Education Company &lt;t3/&gt;Limited.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Tom" changedate="20190604T062012Z" creationid="Tom" creationdate="20190604T062012Z">
-        <seg>所有本文中提及的概念、意念及教材均由&lt;t2/&gt;坐言起行教育&lt;t3/&gt;有限公司所擁有。</seg>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190711T013409Z" creationid="Tom" creationdate="20190604T062012Z">
+        <seg>所有本文中提及的概念、意念及教材均由&lt;t2/&gt;適時科技有限公司&lt;t3/&gt;所擁有。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2885,6 +2901,14 @@ or yus đe + bùtton</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Archive Location</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190711T030114Z" creationid="Tom" creationdate="20190711T030114Z">
+        <seg>存檔路徑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Are you sure you want to delete the “%s” extractor?</seg>
       </tuv>
       <tuv lang="ZH-TW">
@@ -2977,6 +3001,14 @@ or yus đe + bùtton</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Tom" changedate="20190620T072508Z" creationid="Tom" creationdate="20190616T140416Z">
         <seg>自動生成密碼，並通過電子郵件發送給此用戶。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto-selected replace version or not when function ‘New</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190711T030349Z" creationid="Tom" creationdate="20190711T030349Z">
+        <seg>當功能「新版本」和「鎖定新版本」使用時，是否要自動選擇替換。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3461,6 +3493,14 @@ or yus đe + bùtton</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Capture Email Setting</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190711T030758Z" creationid="Tom" creationdate="20190711T030758Z">
+        <seg>檢視電子郵件設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Catalan = 35,</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Tom" changedate="20190618T082332Z" creationid="Tom" creationdate="20190617T035055Z">
@@ -3599,24 +3639,24 @@ or yus đe + bùtton</seg>
       <tuv lang="EN">
         <seg>Charset:</seg>
       </tuv>
-      <tuv lang="ZH-TW">
-        <seg>Kärset:</seg>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190711T011415Z">
+        <seg>字集：</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Check Document Now</seg>
       </tuv>
-      <tuv lang="ZH-TW">
-        <seg>Ček Dokyumènt Nau</seg>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190711T011348Z">
+        <seg>現在檢查文檔</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Check Grammar With Spelling</seg>
       </tuv>
-      <tuv lang="ZH-TW">
-        <seg>Ček Grämmar Wiŧ Speliŋ</seg>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190711T011359Z">
+        <seg>檢查文法及拼寫</seg>
       </tuv>
     </tu>
     <tu>
@@ -4349,6 +4389,14 @@ or yus đe + bùtton</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Configuration&lt;t0/&gt; screen</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190711T030746Z" creationid="Tom" creationdate="20190711T030746Z">
+        <seg>管理&lt;t0/&gt;畫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Configure source code extraction in Properties.</seg>
       </tuv>
       <tuv lang="ZH-TW">
@@ -4519,24 +4567,24 @@ or yus đe + bùtton</seg>
       <tuv lang="EN">
         <seg>Copyright 2017 All rights reserved</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Tom" changedate="20190604T020509Z" creationid="Tom" creationdate="20190604T020509Z">
-        <seg>©2017-2019 版權所有坐言起行教育有限公司。</seg>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190711T013142Z" creationid="Tom" creationdate="20190604T020509Z">
+        <seg>©2017-2019 版權所有：適時科技有限公司。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Copyright 2017-2019 All rights reserved</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Tom" changedate="20190606T030418Z" creationid="Tom" creationdate="20190606T030418Z">
-        <seg>©2017-2019 版權所有坐言起行教育有限公司。</seg>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190711T013249Z" creationid="Tom" creationdate="20190606T030418Z">
+        <seg>©2017-2019 版權所有：適時科技有限公司。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Copyright 2017&lt;t0/&gt;-2019&lt;t1/&gt; All rights reserved</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Tom" changedate="20190605T094008Z" creationid="Tom" creationdate="20190605T094008Z">
-        <seg>©2017&lt;t0/&gt;-2019&lt;t1/&gt; 版權所有坐言起行教育有限公司。</seg>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190711T013221Z" creationid="Tom" creationdate="20190605T094008Z">
+        <seg>©2017&lt;t0/&gt;-2019&lt;t1/&gt; 版權所有：適時科技有限公司。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4551,8 +4599,8 @@ or yus đe + bùtton</seg>
       <tuv lang="EN">
         <seg>Copyright 2018&lt;t0/&gt;-2019&lt;t1/&gt; All rights reserved.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Tom" changedate="20190604T061915Z" creationid="Tom" creationdate="20190604T061915Z">
-        <seg>©2018&lt;t0/&gt;-2019&lt;t1/&gt; 版權所有坐言起行教育有限公司。</seg>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190711T013359Z" creationid="Tom" creationdate="20190604T061915Z">
+        <seg>©2018&lt;t0/&gt;-2019&lt;t1/&gt; 版權所有。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4713,6 +4761,22 @@ or yus đe + bùtton</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Tom" changedate="20190620T072540Z" creationid="Tom" creationdate="20190620T022837Z">
         <seg>為此用戶定製一個密碼。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Customize the setting and then click the                button to save this setting.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190711T025711Z" creationid="Tom" creationdate="20190711T010926Z">
+        <seg>自訂設置後，單擊 按鈕保存此設置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Customize the watermark setting and then click the               button to save this setting.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190711T030712Z" creationid="Tom" creationdate="20190711T030712Z">
+        <seg>自定浮水印設定後，點擊 鈕保存此設置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4977,6 +5041,14 @@ or yus đe + bùtton</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Tom" changedate="20190618T031940Z" creationid="Tom" creationdate="20190618T031940Z">
         <seg>Default Parameter Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Default Replace Version</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190711T030156Z" creationid="Tom" creationdate="20190711T030156Z">
+        <seg>預設替換版本</seg>
       </tuv>
     </tu>
     <tu>
@@ -5415,6 +5487,14 @@ ol katalogs in nigè prōjekt?</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Document can only be moved to folder in lowest level or in [SFK/Administration/EC]</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190711T011609Z" creationid="Tom" creationdate="20190711T011609Z">
+        <seg>文件只能移往最底層的資料夾，又或在 [SFK/Administration/EC] 裡面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Documents can be classified in different categories.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Tom" changedate="20190603T073443Z" creationid="Tom" creationdate="20190603T073443Z">
@@ -5776,6 +5856,14 @@ ol katalogs in nigè prōjekt?</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enable Expiry Date</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190711T030450Z" creationid="Tom" creationdate="20190711T030450Z">
+        <seg>啟用到期日</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>End&lt;t0/&gt; Time</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Tom" changedate="20190624T083604Z" creationid="Tom" creationdate="20190613T092142Z">
@@ -6021,6 +6109,14 @@ ol katalogs in nigè prōjekt?</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Tom" changedate="20190603T064625Z" creationid="Tom" creationdate="20190603T064625Z">
         <seg>無法刪除默認文件夾的文件種類</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fail to delete folders, Please remove all documents before deletion.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190711T011519Z" creationid="Tom" creationdate="20190711T011519Z">
+        <seg>無法刪除文件夾，請先刪除所有文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6577,6 +6673,14 @@ ol katalogs in nigè prōjekt?</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Font size will be size of the watermark content.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190711T030556Z" creationid="Tom" creationdate="20190711T030556Z">
+        <seg>字體大小會影響浮水印內容的大小。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For Windows Server 2008 / 2012</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Tom" changedate="20190710T080614Z" creationid="Tom" creationdate="20190710T080614Z">
@@ -6587,8 +6691,8 @@ ol katalogs in nigè prōjekt?</seg>
       <tuv lang="EN">
         <seg>For inquiries, please send your email &lt;t0/&gt;to info@speechnact.asia&lt;t1/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Tom" changedate="20190528T075357Z">
-        <seg>如有疑問，請發送電子郵件&lt;t0/&gt;至info@speechnact.asia&lt;t1/&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190711T011032Z">
+        <seg>如有疑問，請發送電子郵件&lt;t0/&gt;至info@si-taiwan.com&lt;t1/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10565,6 +10669,14 @@ X-Crowdin-File: /locales/poedit.pot</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Scheduled Email Send Time</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190711T030144Z" creationid="Tom" creationdate="20190711T030144Z">
+        <seg>寄出電子郵件時間排程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Schinese = 49,</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Tom" changedate="20190618T082411Z" creationid="Tom" creationdate="20190618T082411Z">
@@ -11414,6 +11526,22 @@ X-Crowdin-File: /locales/poedit.pot</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Specify when to send out the email.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190711T030151Z" creationid="Tom" creationdate="20190711T030151Z">
+        <seg>指定何時發送電子郵件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Specify whether enable expiry date of document</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190711T030059Z" creationid="Tom" creationdate="20190711T030059Z">
+        <seg>指定是否啟用文件的有效期限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Specify whether to send email to this user.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Tom" changedate="20190620T072848Z" creationid="Tom" creationdate="20190616T140320Z">
@@ -11958,6 +12086,14 @@ X-Crowdin-File: /locales/poedit.pot</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Table 1 General Setting</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190711T030044Z" creationid="Tom" creationdate="20190711T030044Z">
+        <seg>表1 一般設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Table 1 Objects Description</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Tom" changedate="20190606T034901Z" creationid="Tom" creationdate="20190606T034901Z">
@@ -12096,8 +12232,8 @@ X-Crowdin-File: /locales/poedit.pot</seg>
       <tuv lang="EN">
         <seg>The &lt;t0/&gt;General Setting&lt;t1/&gt; screen will be shown as follows:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Tom" changedate="20190618T095838Z" creationid="Tom" creationdate="20190618T095838Z">
-        <seg>The &lt;t0/&gt;General Setting&lt;t1/&gt; screen will be shown as follows:</seg>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190711T025641Z" creationid="Tom" creationdate="20190618T095838Z">
+        <seg>&lt;t0/&gt;一般設定&lt;t1/&gt;畫面將顯示如下：</seg>
       </tuv>
     </tu>
     <tu>
@@ -12298,6 +12434,14 @@ X-Crowdin-File: /locales/poedit.pot</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Tom" changedate="20190613T092428Z" creationid="Tom" creationdate="20190613T092428Z">
         <seg>要搜尋的結束日期</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The export location of &lt;t0/&gt;Immediate Archive&lt;t1/&gt; function.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190711T030136Z" creationid="Tom" creationdate="20190711T030136Z">
+        <seg>&lt;t0/&gt;即時存檔&lt;t1/&gt;功能的匯出位置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12742,6 +12886,14 @@ X-Crowdin-File: /locales/poedit.pot</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There are 5 default user groups namely “&lt;t7/&gt;System Admin&lt;t8/&gt;”, “&lt;t9/&gt;Project Folder Creation&lt;t10/&gt;”, “&lt;t11/&gt;Project Template Maintenance&lt;t12/&gt;”&lt;t13/&gt;, ”&lt;t14/&gt;Checkout&lt;t15/&gt; Document Maintenance&lt;t16/&gt;” ,"&lt;t17/&gt;Document Category Maintenance&lt;t18/&gt;" and they cannot be deleted.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190711T031100Z" creationid="Tom" creationdate="20190711T031100Z">
+        <seg>There are 5 default user groups namely “&lt;t7/&gt;System Admin&lt;t8/&gt;”, “&lt;t9/&gt;Project Folder Creation&lt;t10/&gt;”, “&lt;t11/&gt;Project Template Maintenance&lt;t12/&gt;”&lt;t13/&gt;, ”&lt;t14/&gt;Checkout&lt;t15/&gt; Document Maintenance&lt;t16/&gt;” ,"&lt;t17/&gt;Document Category Maintenance&lt;t18/&gt;" and they cannot be deleted.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There are four different kinds of Object in DIKO namely, &lt;t0/&gt;Folder&lt;t1/&gt;, &lt;t2/&gt;Document&lt;t3/&gt;, &lt;t4/&gt;URL&lt;t5/&gt; and &lt;t6/&gt;Shortcut&lt;t7/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Tom" changedate="20190606T035056Z" creationid="Tom" creationdate="20190606T035056Z">
@@ -12930,6 +13082,22 @@ X-Crowdin-File: /locales/poedit.pot</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Tom" changedate="20190708T090723Z" creationid="Tom" creationdate="20190708T081336Z">
         <seg>要增一個新用戶，前往&lt;t0/&gt;頁籤，按一下&lt;t1/&gt;按鈕後，下方視窗彈出：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To add new User or User Group in &lt;t0/&gt;Diko&lt;t1/&gt;, click the &lt;t2/&gt; button on the &lt;t3/&gt;Menu&lt;t4/&gt; section and click the &lt;t5/&gt;User Group Management&lt;t6/&gt; function.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190711T030942Z" creationid="Tom" creationdate="20190711T030942Z">
+        <seg>要在&lt;t0/&gt;DIKO&lt;t1/&gt;中新增用戶或群組，請單擊「&lt;t3/&gt;選單&lt;t4/&gt;」部分的&lt;t2/&gt;按鈕然後單擊「&lt;t5/&gt;用戶群組管理&lt;t6/&gt;」功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To cancel saving configuration, click the</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190711T025929Z" creationid="Tom" creationdate="20190711T025748Z">
+        <seg>如要取消保存配置，請點擊</seg>
       </tuv>
     </tu>
     <tu>
@@ -13680,6 +13848,14 @@ COMMAND := { secret | polkit | all }</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>User Group Management</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190711T030803Z" creationid="Tom" creationdate="20190711T030803Z">
+        <seg>用戶群組管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>User ID</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Tom" changedate="20190611T082835Z" creationid="Tom" creationdate="20190611T082835Z">
@@ -13824,6 +14000,14 @@ COMMAND := { secret | polkit | all }</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Version’ and ‘Check In with new version’</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190711T030415Z" creationid="Tom" creationdate="20190711T030415Z">
+        <seg>Version’ and ‘Check In with new version’</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>View Doc Start</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Tom" changedate="20190710T085313Z" creationid="Tom" creationdate="20190710T085313Z">
@@ -13940,6 +14124,22 @@ COMMAND := { secret | polkit | all }</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Tom" changedate="20190618T082610Z" creationid="Tom" creationdate="20190618T082610Z">
         <seg>瓦瑞語 = 100,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Watermark Setting</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190711T030019Z" creationid="Tom" creationdate="20190711T030019Z">
+        <seg>浮水印設置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Watermark content shows the following content.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190711T030520Z" creationid="Tom" creationdate="20190711T030020Z">
+        <seg>浮水印內容如下顯示：</seg>
       </tuv>
     </tu>
     <tu>
@@ -14385,6 +14585,22 @@ COMMAND := { secret | polkit | all }</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Tom" changedate="20190619T012739Z" creationid="Tom" creationdate="20190619T012739Z">
         <seg>build a temporary index based on embedded index information</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>button to exit the &lt;t0/&gt;System</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190711T030741Z" creationid="Tom" creationdate="20190711T030741Z">
+        <seg>按鈕退出&lt;t0/&gt;系統</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>button to exit the &lt;t0/&gt;System Configuration&lt;t1/&gt; screen.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Tom" changedate="20190711T025855Z" creationid="Tom" creationdate="20190711T025807Z">
+        <seg>按鈕以退出&lt;t0/&gt;系統管理&lt;t1/&gt;畫面。</seg>
       </tuv>
     </tu>
     <tu>

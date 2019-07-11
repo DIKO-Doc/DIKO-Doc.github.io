@@ -4,3 +4,770 @@ Bouchet	布歇特
 the Department of Gastropods	腹足纲学系
 the Department of Bivalves	双壳纲学系
 table of contents	目录
+Message	讯息
+Leave current form?	离开所在的页面？
+<br>Do you want to download these files and print?	<br>是否要下载这些文件并打印?
+Not allow blank of FromGroup Name.	请选择由用户群组
+Not allow blank of ToGroup Name.	请选择到用户群组
+Attachment must be a Pdf file.	附加表格必须为PDF档案
+Archive schedule format incorrect.<br>Please use 4 digits to represent a time schedule and seperated by comma	存档排程格式未正确. 请以4位数字表示并以逗号作分隔
+Please select a attribute for delete.	请选择一个属性作删除.
+Please select an end date.	请选择目标日期.
+Please select a filter.	请选择一项类别.
+Invalid end date.	目标日期不能大於开始日期.
+Please select a start date.	请选择开始日期.
+Please select a folder.	请选择一个资料夹.
+Mass can not be all blank for display if Display Category is selected	当选择分类後,请於Mass栏填上至少一项
+Please select the target.	请选择目标
+Please select a user.	请选择一个使用者.
+Service unavailable.	不能提供服务.
+Please input a Attribute Name.	请输入属性名称.
+Please input a Category Name.	请输入物件分类名称.
+Please select a comment for update.	请选择一个注解作更新.
+Update or delete other user\'s comment is not allowed.	不允许更新其他人的注解.
+Document is not found.	找不到文件.
+Document expiry date is exceeded	档案已到期
+Please input a file name.	请输入档案名称.
+Please select a file to be upload.	请从电脑中选择需上载的档案.
+Please input a folder name.	请输入资料夹名称.
+Please input a Group Name.	请输入用户群组名称.
+Please select a parent folder.	请选择目标资料夹.
+Invalid Expiry Date	到期日期无效
+Destination Folder is existed in selected Files/Folders.	目标文件夹已存在于选定的文件/文件夹
+Only file type can be printed	只有文件类型可以打印 
+Please input a Organization Unit Name.	请输入组织名称.
+Please select a reference.	请选择一个参考.
+Delete other user\'s reference is not allowed.	不允许删除其他人的注解.
+Please input the description of the request.	请在申请加上叙述
+Please input a shortcut name.	请输入捷径名称.
+Please select a target folder or file.	请选择目标档案.
+Please input a url address.	请输入连结地址.
+Target file cannot be a shortcut!	目标档案不能为捷径.
+System busy, please try again later.	系统繁忙中, 请稍後再试.
+System Default Role is not allowed to delete.	不允許刪除系統預計角色.
+Target file does not exist	目标档案不存在.
+Target document expiry date is exceeded	目标档案已到期
+Please input a url address.	请输入连结地址.
+Please input a url name.	请输入连结名称.
+Please input a Confirm Password.	请输入确定密码.
+Please input a First Name.	请输入名字.
+Please input a Last Name.	请输入姓氏.
+Please select a Language.	请选择语言.
+Please input the duration of the modified item.	请输入修改项目期间.
+Please input the duration of the new item.	请输入新项目期间.
+Please input a New Password.	请输入新密码.
+Please input a Old Password.	请输入旧密码.
+Please input a Password.	请输入密码.
+Please input the list of record per page.	请输入每页记录.
+Please select a Status.	请选择状态.
+Please select a Theme.	请选择主题.
+Please input a User ID.	请输入用户名称.
+Confirm Password does not match.	确定密码不符.
+Invalid Email format	邮件格式错误
+Printing a merged file with size greater than 1 GB is not allowd	合并打印的文件大于1 GB是不允许的
+The request was sent to administrator.	申请已被发送至系统管理员
+Sorry! You do not have permission to open.	抱歉！您没有开启的权限.
+The testing email was sent, please check your email to confirm.	測試電郵成功發送,請查閱你的電郵信箱作確認.
+Record update success	更新资料成功
+Uploading...	上载中...
+Close	关闭
+Receive	接收
+Send	发送
+Add	新增
+Admin Guide	管理员使用手册
+Advance Search	进阶搜寻
+Browse	浏览
+Cancel	取消
+Clear	清除
+Delete	删除
+Document Menu	文件功能表
+Edit	修改
+Export	汇出
+News	最新消息
+Next	下一个文件
+Prev	上一个文件
+Reset	重新设定
+Save	储存
+Save And Exit	储存及退出
+Save Attribute Value	储存属性值
+Save Category Setup	储存物件分类设定
+Search	搜寻
+Select	选择
+Show All	显示所有
+Submit	送出
+Update	更新
+User Guide	用户使用手册
+Please wait...	请等待...
+email	电子邮件
+File	档案
+Folder	资料夹
+About DIKO	关於 DIKO
+Unlock	解除封锁
+The action can only be performed by EDP Manager	只有EDP主管可以执行这动作
+The action can only be performed by System administrator or EDP Manager	只有系统主管或EDP主管可以执行这动作
+Action aborted	系统指令错误
+New Acount	新增帐户
+Add Attribute	新增属性
+Add Category	新增物件分类
+Add Category Form	新增分类表格
+New Document	新增文件
+New Folder	新增资料夹
+New Group	新增用户群组
+Add Group	新增用户群组
+New News	新的最新消息
+New Item	新增项目
+New Shortcut	新增捷径
+Add Task	新增工作
+Add To	加到
+New URL	新增URL
+New User	新增用户
+Add User	新增用户
+New File Version	新增档案版本
+Add Ref. by search	新增注解[搜寻]
+Add Task Doc by search	新增工作文件[搜寻]
+Add Archive	新增存档 
+Add to Archive Folder	新增到存档资料夹
+Add Doc. Notify List	添加文件通知列表 
+Click "Yes" for add file to preset category filing location and "No" for add file to current folder location.	选择"是"将文件新增至预先设置的存档目的地,选择"否"将文件新增至当前的目的地
+Additional Email	附加电邮
+Add Role	新增角色
+Add Shortcut	新增捷径 
+Add user from another groups	从别的群组新增用户
+Admin Check In List	已鎖定文件
+Admin Check In List	管理员解除锁定列表
+Admin is not allowed to delete	不可刪除Admin
+admin must have Admin Permission	admin必须拥有管理员权限
+Email Alert After Deadline	过到期後的电邮通知间隔
+All of document action	所有文件事件
+Allow Change DocType	允许更改文件种类 
+Allow Change Doc. Name	允许更改文件名字 
+Modified	已被修改
+New Item	新项目
+PDF rendition Failed	PDF建立错误
+Reserved	已锁定
+Apply To Subitem	更新子项目
+Archive Location	存档路径
+Archive the latest version only?	只将最新的版本作存档?
+Archive Schedule	存档排程
+Link	链结
+Attachment	附件
+Original	原文件
+Attribute Value is changed. Need to update the record to continue process, update now?	属性值已被修改, 需要先储存才能继续程序, 要现在储存?
+Attr Column Num.	属性栏位 
+Attr Conn. String	属性连接字符串 
+Attribute	属性
+Attribute Setting	属性设定
+Attr Table Name	属性表名称 
+Select a date...	选择日期...
+Filter	筛选
+Add Document	新增文件
+Add comment	新增评语
+Add Shortcut	新增捷径
+Add To Archive	新增到档案库 
+Add Version	新增版本
+All	所有
+Audit History	档案日志目录
+Browse	浏览
+Check In	解除锁定
+Check Out	锁定
+Copy	复制
+Delete	删除
+Delete By Archive	被档案库移除
+Delete comment	删除评语
+Delete Version	删除版本
+Download	下载
+Edit comment	修改评语
+Select a option...	选择项目...
+Execute Archive	执行档案库 
+Large Preview	放大预览
+Merged Print	合并打印
+Move	移动
+Properties	属性
+Remove From Archive	从档案库移除 
+Search Document	档案搜寻
+Set Permission	设定权限
+Update Document Properties	更新文件属性
+From	由
+To	至
+Content	内容
+Date	日期
+Event	事件
+User	用户
+Auto Generate Password	系统自动产生密码
+Back	返回
+Reset Password cannot be blanked	重置密码不能为空白
+Bottom	底部
+Break Down	分页
+Check In	解除鎖定
+Move Down	往下移
+Move Up	往上移
+Print	列印
+Set to Admin	设为管理员
+Set to Editor	设为编辑者
+Set to Reader	设为阅读者
+Case Sensitive	区分大小写
+Casual User	简单用户
+Category setting is changed. Need to update the record to continue process, update now?	物件分类设定已被修改, 需要先储存才能继续程序, 要现在储存?
+Attribute Name	属性名称
+Category Name	物件分类名称
+Category Filing Rule	分类存档规则
+Category Search	分类搜寻
+Change Password	更改密码
+Check In With New Version	锁定新版本
+Classification	分类叙述
+Clear Filtering	清除筛选
+Clear User Session	清除用户暂存
+Assigned	已指派
+Role	角色
+Column Display Option	欄位顯示設定
+Comment	注解
+Concurrent User	共享用户
+Confirm	确认
+Confirm Password	确定密码
+Confirm to delete inbox	确认删除此信件箱
+Confirm to delete task	确认删除此文件审核
+Confirm to delete user	确认删除此用户
+Move the selected record	移动已选的记录
+Confirm Reset Password	确认重置密码 
+Connection String	连接字符串 
+Open Containing Folder	打开所属文件夹
+Add To Group	新增用户群组
+Admin Check In	管理员解除锁定
+Attach Category Form	附加分类表格
+Audit Trail	档案日志
+Browse Content	浏览内容
+Category	物件分类
+Check In	解除锁定
+Check In with new version	存入新版本
+Check Out	锁定
+Clean Folder	清空文件夹
+Copy	复制
+Cut	剪下
+Delete	删除
+Delete Attribute	删除属性
+Delete Category	删除物件分类
+Delete Group	删除用户群组
+Delete User	删除用户
+Download	下载
+Download Original	下载原始档案
+Send Link To Email	发送连结到邮件
+Generate Barcode Label	文件夹条码标签
+Modify Attribute	修改属性
+Modify	修改
+Move	移动
+New Version	新版本
+Paste	贴上
+Permission	权限
+Properties	属性
+Remove Category Form	移除分类表格
+Remove From Group	从用户群组中移除
+SOP Email Capture Setup	SOP检视电子邮件设置
+Version History	版本目录
+Execute Archive	执行存档
+Remove From Archive	取消存档
+Get shareable link	取得档案连接
+Copy user(s) to other group? (Yes:Copy / No: Move)	复制用戶到群组? (Yes:复制 / No: 移动)
+Created By	建立用户
+Created Date	建立日期
+Cross Reference	交叉参考
+List Values	列表值
+First Completion Date	第一个完成日
+First Expiry Date	第一个到期日
+Second Completion Date	第二个完成日
+Second Expiry Date	第二个到期日
+Boolean	是/否
+Cat Look up field	分类查找储存格
+Date	日期
+Link	连结
+Number	数字
+Text	文字
+Date	日期
+Default Replace Version	默认替换版本 
+Default Sorting	預设排序
+Sorting Order	排序次序
+ Delete Attribute	删除属性
+Delete Organizational Unit	删除组织
+Remove related files after archiving? </br>(The master folder, related shortcut and subitems in the folder will be included)	存档後删除原来档案? </br>(此删除包含主文件夹,相关捷径和子文件)
+Delete the selected record(s)?	确定删除此资料?
+Delete Role	刪除角色
+Deletion	删除
+Description	叙述
+Folder	目的地
+Direct Link	文件捷径
+Display Category	分类
+Display Length	显示长度
+Delete	删除
+Document Attribute	文件属性
+Document Move	移动文件 
+Document Type Setting	档案类别设定
+Document Type Value	档案类别
+Document Category	档案分类
+Document Expiry	档案到期
+Document ID	档案編號
+Document ID	文件序号
+Document Index	档案索引
+Document Search	档案搜寻
+Document Status Summary	文件狀態概要
+Document Update	档案更新
+Confirm to delete record(s)?This action cannot be UNDONE.	确定要删除纪录？此动作不能复原
+Move down the selected record?	将已选择的项目往下移动?
+Download PDF	下载PDF
+RemoveAll	移除所有
+Upload	上传
+Email Account	邮件帐户
+Compose	编写
+Delete	删除
+Forward	转寄
+Reply	回覆
+Reply All	全部回覆
+Account Name	帐户名称
+Host	主机地址
+Port	连接埠
+Password	密码
+Server Type	伺服器类型
+User Name	登入名称
+Email	邮件
+Attachment	附加档案
+CC	副件
+Content	内容
+Email Folder	电邮
+From	送件者
+Received Date	接收日期
+Receive Email	接收邮件
+Sender	送件者
+Size	大小
+Subject	主题
+To	收件者
+Email Address	检视电子邮件的地址
+DIKO URL	DIKO URL
+Exception Folder ID	检视电子邮件的异常资料夹编号
+Email Host	检视电子邮件的主机
+Email Password	检视电子邮件的密码
+Email Port	检视电子邮件的端口
+Capture Email Setting	检视电子邮件设定
+Email Type	检视电子邮件的类别
+Email Link	邮件连结
+Scheduled Email Send Time	寄出电邮时间排程
+Enable Expiry Date	启用到期日
+Enable Watermark	启用水印
+Expiry Date	到期日期
+Email Alert Before Deadline(No. of days)	档案到期前的电邮提示(日数)
+Explorer	瀏覽器
+Export Date	汇出日期
+Empty field for auto generate password to email	空白不填将由系统随机产生密码并发到电邮
+Yes	是
+Encrypted	已被加密
+Encryption	加密
+File Name	档案名称
+No	否
+Not Encrypted	未被加密
+Attachment	档案
+Filing Parent ID	存档文件序号
+First Name	名字
+Folder Name	资料夹名称
+Project Folder Request	申请专案资料夹
+Folder Request Log	专案资料夹申请记录
+Folder Summary Report	文件夹总结报告 
+Full Format	整页 
+Full Page	全页
+Full Text Search	全文字搜寻
+Displaying Items {0} - {1} of {2}	显示共{2}中的{0}至{1}.
+No Items to display	没有显示物件
+Page	页数
+Attribute Name	属性名称
+Attribute Value	属性值
+Category Name	物件分类名称
+Comment	评语
+Created By	建立用户
+Created Date	建立日期
+Data Type	类别
+Field Name	项目名称
+File Type	档案类型
+First Name	名字
+Form Attached	已附加表格
+Group Member	隶属群组
+Group Name	用户群组名称
+Last Modified	上一次更新
+Last Name	姓氏
+Latest Version	最新版本
+Mandatory	必须
+Mass [0 as Invisible field]	Mass [0 当作隐藏项目]
+Name	名称
+Original Name	原始名称
+Password Last Modified	密码修改时间
+Path	路径
+Regualar Expression	表达式
+Reserved By	保留者
+Reserved Date	保留日期
+Size	大小
+Status	状态
+Supervisor	Supervisor
+Task Name	工作名称
+Updated By	更新用户
+User ID	用户名称
+Version	版本
+w/o Completion?	欠完成日?
+Name	名称
+By Group	依群组
+Group Name	用户群组名称
+Group Properties	用户群组属性
+Group Permission	群组权限
+IMAP	IMAP
+Immediate Archive	即时存档
+Inbox	收件箱
+Add Inbox	新增信件箱
+Delete Inbox	删除信件箱
+Edit Inbox	编辑信件箱
+Description	描述
+Destination Folder	目的地资料夹
+Inbox Email Address	信件箱电子邮件地址
+Inbox ID	信件箱编号
+Last Connection Status	最後连结状态
+Last Connect Time	最後连结时间
+Sender List	寄件人列表
+Created By	建立用户
+Created Date	建立日期
+Description	描述
+Description Folder	目的地资料夹
+Inbox Checked Email ID	信件箱已检邮件值
+Inbox Email Address	信件箱电子邮件地址
+Inbox IMAP Host	信件箱IMAP主机
+Inbox IMAP Port	信件箱IMAP端口
+Inbox Password	信件箱密码
+Inbox Secure SSL	信件箱安全协定SSL
+Sender List	寄件人
+Inbox Subject Prefix	信件箱题目前缀
+Last Connection Status	最後连结状态
+Last Connection Time	最後连结时间
+Last Modified	更新日期
+Updated By	更新用户
+New Inbox	新增信件箱
+Insufficient permissions	没有足够的权限 
+Keep Field Value	保留属性值
+KeyField	关键字 
+Keywords	关键字
+Max files exceeded more than 10, Total:	档案数量超过10, 总共:
+File(s) is over Max file size of 20MB	档案大小超过20MB
+File(s) is over Max file size of 20MB and max files exceeded more than 10, Total:	档案大小超过20MB及数量超过10, 总共:
+Remove File	移除档案
+Please select the description folder	请点选目的地资料夹作上传
+Large Preview	放大预览
+Last Login Date	上一次登入时间
+Last Name	姓氏
+Last Updated	更新日期
+Failed	失败
+Indexing	索引
+In Progress	进行中
+Others	其他
+PDF Rendition	PDF转换
+Pending	待索引
+Succeed	成功
+Unsupported	不支持
+Updated	更新
+Total License Count	授权总数
+Send To	发送到
+View Group	查看群组
+Locale	语言
+English (US)	英文(美国)
+Japanese	日语
+Korean	韩语
+Simplified Chinese	简体中文
+Traditional Chinese	繁体中文
+Location	位置
+Login ID	用户名称
+Password	密码
+Login/Logout	登入及登出事件
+Master Folder	主资料夹
+Master Folder Object Summary	主文件夹对象报告 
+Master Folder Permission Summary	主文件夹权限报告
+Merge Print	合并打印 
+Message Content	内容
+Modified Item Duration	修改项目期间
+System Default Role is not allowed to change setting	系统默认的角色是不能更改设置
+Unable to get document permission information, please try to reopen document again.	无法获取文件权限信息,请再次尝试重新打开文件。
+Permission denied, not allow to delete all the selected records	权限被拒绝,不能删除所选的记录
+The testing email was sent, please check your email to confirm.	测试电子邮件已发送,请检查您的电子邮件以确认。
+The new profile setting will be active after system reload, please press "Yes" to reload system or press "No" to keep cerrent setting, the new setting will be activate on next logon.	系统需要重置後才能启用新的使用者设定, 请按"是"重置系统或按"否"保留现在画面而新的使用者设定将在下次登入後启用.
+Named User	命名用户
+New Item Duration	新项目期间
+New Organizational Unit	新组织
+News	最新消息
+Content	内容
+Effective Date	有效日期
+Expiry Date	到期日期
+Heading	主题
+Status	状态
+Type	类型
+Content	内容
+Effective Date	有效日期
+Expiry Date	到期日期
+Heading	主题
+Private	私人
+Public	公开
+Status	状态
+Type	类型
+New Task	新增工作
+No	否
+No Record found.	没有符合档案.
+No	否 
+Reset Password is not matched	重置密码不匹配
+Object	对象
+Old Password	旧密码
+Open Document	開啟文件
+Org. Unit Name	组织名称
+Org. Unit Properties	组织属性
+Outbox	寄件箱
+Override Mandatory	覆盖必须项
+Password	密码
+Password Reset	重置密码
+PDF Rendition	PDF譯文
+Execute archive now?	即时执行存档?
+pending tasks	项待处理工作
+Total	共
+Permission Different Report	权限差异报告
+Permission type	权限类型
+Personal Folder	个人资料夹
+Add	新增
+Archive	存档
+Audit Trail	档案日志
+Version History	版本历史
+Browse Content	浏览
+Add	新增
+Audit Trail	档案日志
+Version History	版本目录
+Browse Content	浏览
+Copy	复制
+Delete	删除
+Download	下载
+Notification	通知
+Check-out	锁定
+Update	储存
+Permission	设定权限
+Visible	检视
+Copy	复制
+Delete	删除
+Download	下载
+Notification	通知
+Check-out	锁定
+Update	储存
+Permission	设定权限
+Visible	检视
+POP3	POP3
+Server Print	打印
+Print	列印 
+Printer Name	打印机名称
+Project Folder Name	专案资料夹名称
+Personal Profile	更改个人资料
+Properties	属性
+Content Type	内容类型
+Document Name	文件名称
+File Properties	档案属性
+Type	类型
+Folder Properties	资料夹属性
+Latest Version	最新版本
+Location	位置
+Original Name	原始名称
+Shortcut Properties	捷径属性
+Size	大小
+URL Properties	URL属性
+Version	版本
+Password Expiry days	密码过期日数
+Password Pattern	密码设定规则
+Password Pattern Description	密码规则说明
+Read Receipts	已读邮件确认
+Records Per Page	每页记录
+Refresh	重新整理
+Reindex	重建索引
+Reindex All	重建所有索引
+Remind	注意
+Confirm to remove the attached category form?	确认移除分类表格?
+Replace Version	版本取代
+Report	报表
+Audit Trail Report	追踪报表
+Permission Report	权限报表
+System General Report	系统报表
+User Access Report	使用者权限报告
+User / Group Report	使用者及群组报表
+Report Type	报告类型 
+Repository Path	原始路径
+Reset Password	重置密码 
+Failed to reset user password.	重设用户密码失败
+Reset this user password?<br>(The new password will be send to the user by email, please make sure the email is saved and correct).	重设用户密码?<br>(重设的新密码将发送至用户的邮件信箱, 请确定用户的正确邮件地址已被储存).
+The new password will be send to the user by email.	重设的新密码将发送至用户的邮件信箱.
+Reset Password successfully	重置密码成功
+Retry PDF Rendering	PDF重試譯文
+Retry All	重試所有譯文
+Role Management	角色管理
+Role Name	角色名稱
+Save and set Document Type?	储存档案类别?
+Attachment (Double Click to save to Library)	附加档案 (双键目标档案来储存至资料夹)
+Save succeed	成功储存资料
+Save To Library	储存至资料夹
+Searchable	可搜寻
+Classification	分类叙述
+Created Date	建立日期
+Search Criteria	搜寻条件
+Description	叙述
+Document Name	档案名称
+Keyword	关键字
+Updated Date	更新日期
+Yes	是
+Search Result	搜尋結果
+Select All	全选
+Please select one file!	请选择一个文件!
+Selected Email (Click to rename Subject as the new Document Name)	已选取邮件 (可修改主题名称来定义新档案名称)
+Send Link To Email	发送连结到邮件
+To	至
+Send Email Notification To User	发送电​​邮通知
+Send reset password Email	发送重置密码邮件
+File(s) have been sent to printer pool	档案已送到打印机
+Session Date	暂存时间
+Session timeout returned to the Login page	会话逾时回到登入画面
+Shareable link	档案连接
+Shortcut Name	捷径名称
+Target	目标
+Shortcut Report	捷径报告 
+Shortcut	捷径
+Show searched details	显示详细搜索资料
+The change of show detail in search result may effective after next login	显示详细搜索资料的设定改动将於重新登入後生效
+Add User License	增加授权数目
+Add Storage (GB)	增加容量
+Request Trial account	申请帐户试用
+Company Name	机构名称尸
+Effective Date	生效日期
+License Count	用户授权数目
+Site ID	雲端網站編號
+Site Name	云端网站名称
+Status	状况
+Total Storage	总容量
+Date	发出时间
+Subscription Expiry	到期日
+No.#	No.#
+Type	类别
+Description	内容
+Trial	帐户试用
+Site Logo	网站徽标
+Logo will be changed after page refreshed.(Best logo dimensions is 140px * 50px)	徽标将于页面刷新后被更改(最佳徽标像素为140px * 50px)
+Only png file allowed	只允许png文件
+Only size below 1MB file allowed	只允许大小在1MB以下的文件
+Site Management	云端网站管理
+Site Summary	云端网站资料
+Status	状态
+Active	启动
+Disable	停用
+Locked	被锁定
+Subscription Management	订阅设置管理
+General Setting	一般设定
+SMTP Host	SMTP 主机
+SMTP Port	SMTP 连接埠
+SMTP Password	SMTP 密码
+SSL	SSL
+SMTP User Name	SMTP 用户名称
+System Email Address	系统邮件
+System Email Message	系统预设邮件内容
+System Email Setting	系统外送邮件设定
+Deadline Notification	截止日期的通知 
+Expiry Notification	到期通知 
+Email Notification	电邮提示
+Message	内容
+Request Folder	申请专案资料夹电邮
+Reset Password	密码重设电邮
+Send Link	发送连结电邮
+Subject	主旨
+System Configuration	系统管理
+System Field	系统
+Watermark Setting	水印设置
+Table Name	表名 
+Approved	已认可
+Delete Task	删除工作
+New Task	新增工作
+Update	更新
+Update Document Version	更新文件版本
+Closed	已关闭
+AssignedTo	被指派者
+Created By	建立用户
+Status	状态
+Task Name	工作名称
+Assigned User	被指派者
+Related document had been deleted.	相关文件已被删除.
+Pending	等待处理
+Rejected	已拒绝
+Task Document	工作文件
+Template Folders Id	模板文件夹編號
+Template Folder Level	模板文件夹层级
+Template folder Name(s)	范例文件夹名称 
+Template Folders	模板文件夹 
+Inherit template permission	继承模板权限
+Send Testing Mail	发送测试电邮
+Theme	主题
+Dark Blue	天蓝色
+Dark Green	庄园绿
+Dark Metal	金属
+Dark Red	玫瑰红
+Evergreen	绿色
+Light Blue	蓝色
+Tilt	倾斜
+System timeout, To press "Yes" to logout system or press "No" to keep current screen but all action will not be send to the system before relogon system.	由於待机时间超出设定范围, 请按"是"登出系统或按"否"保留现在画面, 但所动作不会被传送至系统直至使用者重登後才可正常操作系统.
+Title	职称
+Function	功能表
+Multi Upload	多档案上传
+Top	顶部
+Transfer From Group	由用户群组转移
+Transfer From User	由使用者转移
+Ownership Transfer	转移拥有者
+Transfer To Group	到用户群组
+Transfer To User	到使用者
+Trash	回收资源筒
+Next	下一个
+Unselect All	取消全选
+Move up the selected record?	将已选择的项目往上移动?
+Updated By	更新用户
+URL Address	URL地址
+URL Name	URL名称
+By User	依使用者
+User Profile	用户状态
+User/Group ID	用户/群组 名称
+User ID	用户名称
+User Permission	使用者权限
+User Type	用户类型
+Vendor ODBC Connection String	供应商的ODBC连接字串 
+Vendor ODBC Table Name	供应商的ODBC表名 
+Version	版本
+Do you want to proceed the Next File?	你要到下个档案吗?
+Reached the end of search result. Do you want to search again?	搜寻完结, 要重新搜寻?
+Watermark Content	水印内容
+Font Size	字体大小
+Layout	布局
+Transparent	透明度
+Yes	是
+Location: 	位置: 
+Menu	功能表
+Advance Search	进阶搜寻
+All Deleted Shelves	已删除的资料夹
+Archive Folder	存档资料夹
+Audit Logins	登入记录
+Category Shelf	资料夹分类
+Personal Profile	更改个人资料
+Change Password	更改密码
+Configuration	系统设置
+Corporate	共用资料夹
+Forum	讨论区
+Forum Management	讨论区管理
+Library	资料夹
+Login	登入
+Logout	登出
+Email	我的邮件
+Personal	我的资料夹
+News & Announcement	最新消息及公告
+News Publishing	更改消息及公告
+Projects Template	项目模板
+System	系统
+System Configuration	系统管理
+Task	工作
+User Group Management	用户群组管理
+Workspace	工作区
+Loading...	读取中...
+Shortcut	捷径
+DIKO	DIKO
+URL	URL
+Welcome back to DIKO	欢迎回来DIKO,

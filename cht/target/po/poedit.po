@@ -379,13 +379,13 @@ msgid "Characters are counted including spaces."
 msgstr "Käraktās wa kaunten inkludiŋ speises."
 
 msgid "Charset:"
-msgstr "Kärset:"
+msgstr "字集："
 
 msgid "Check Document Now"
-msgstr "Ček Dokyumènt Nau"
+msgstr "現在檢查文檔"
 
 msgid "Check Grammar With Spelling"
-msgstr "Ček Grämmar Wiŧ Speliŋ"
+msgstr "檢查文法及拼寫"
 
 msgid "Check Spelling While Typing"
 msgstr "Ček Speliŋ When Taipiŋ"
