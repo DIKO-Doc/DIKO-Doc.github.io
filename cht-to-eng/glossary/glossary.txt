@@ -1,0 +1,1105 @@
+刪除屬性	Delete Attribute
+<br>是否要下載這些文件並列印?	<br>Do you want to download these files and print?
+文件名稱已被使用在相同資料夾中.  請使用不同的文件名稱.	A Document Name is already exists in the folder. Please specify a different Document Name.
+成功建立文件的新版本	A new file version has been created successfully.
+新版本已被加入	A new version has been committed.
+新的版本已成功加入到文件裡	A new version has been committed.
+關於 DIKO	About DIKO
+帳戶名稱	Account Name
+系統指令錯誤	Action aborted
+啟動	Active
+新增	Add
+新增	Add
+新增	Add
+新增存檔	Add Archive
+新增屬性	Add Attribute
+新增物件分類	Add Category
+新增分類表格	Add Category Form
+添加文件通知列表	Add Doc. Notify List
+新增文件	Add Document
+新增用戶群組	Add Group
+新增郵件信箱	Add Inbox
+新增註解[搜尋]	Add Ref. by search
+新增角色	Add Role
+新增捷徑	Add Shortcut
+新增捷徑	Add Shortcut
+增加容量	Add Storage (GB)
+新增工作	Add Task
+新增工作文件[搜尋]	Add Task Doc by search
+加到	Add To
+新增到檔案庫	Add To Archive
+新增用戶群組	Add To Group
+新增用戶	Add User
+增加授權數目	Add User License
+新增版本	Add Version
+新增評語	Add comment
+新增到存檔資料夾	Add to Archive Folder
+從別的群組新增用戶	Add user from another groups
+附加電子郵件	Additional Email
+管理員解除鎖定	Admin Check In
+已鎖定文件	Admin Check In List
+管理員解除鎖定列表	Admin Check In List
+管理員使用手冊	Admin Guide
+不可刪除Admin	Admin is not allowed to delete
+進階搜尋	Advance Search
+進階搜尋	Advance Search
+所有	All
+已刪除的資料夾	All Deleted Shelves
+所有文件相關事件	All of document action
+允許更改文件名字	Allow Change Doc. Name
+允許更改文件種類	Allow Change DocType
+更新子項目	Apply To Subitem
+已認可	Approved
+存檔	Archive
+存檔資料夾	Archive Folder
+存檔路徑	Archive Location
+存檔排程	Archive Schedule
+存檔排程格式未正確. 請以4位數字表示並以逗號作分隔	Archive schedule format incorrect.<br>Please use 4 digits to represent a time schedule and seperated by comma
+只將最新的版本作存檔?	Archive the latest version only?
+已指派	Assigned
+被指派者	Assigned User
+被指派者	AssignedTo
+附加分類表格	Attach Category Form
+檔案	Attachment
+附件	Attachment
+附加檔案	Attachment
+附加檔案 (點選目標檔案來儲存至資料夾)	Attachment (Double Click to save to Library)
+附加表格必須為PDF檔案	Attachment must be a Pdf file.
+屬性欄位	Attr Column Num.
+屬性連接字符串	Attr Conn. String
+屬性表名稱	Attr Table Name
+屬性	Attribute
+屬性名稱	Attribute Name
+屬性名稱	Attribute Name
+屬性設定	Attribute Setting
+屬性值	Attribute Value
+屬性值已被修改	Attribute Value is changed.
+ 需要先儲存才能繼續程序	Need to update the record to continue process
+ 要現在儲存?	 update now?
+屬性查找字段驗證失敗	Attributes Look Up Field validation fail
+沒有發現記錄 	 no records found
+檔案日誌目錄	Audit History
+登入記錄	Audit Logins
+檔案日誌	Audit Trail
+檔案日誌	Audit Trail
+檔案日誌	Audit Trail
+追蹤報表	Audit Trail Report
+系統自動產生密碼	Auto Generate Password
+返回	Back
+是/否	Boolean
+底部	Bottom
+布歇特	Bouchet
+分頁	Break Down
+瀏覽	Browse
+瀏覽內容	Browse Content
+依群組	By Group
+依使用者	By User
+副件	CC
+檔案不能複制至子檔案	Can not copy folder to a child folder.
+超時連接	Can not move a group to its subgroup.
+不能移動父資料夾到子資料夾	Can not move folder to a child folder.
+檔案不能移動至子檔案	Can not move folder to a child folder.
+取消	Cancel
+檢視電子郵件設定	Capture Email Setting
+區分大小寫	Case Sensitive
+非正式用户	Casual User
+分類查找儲存格	Cat Look up field
+物件分類	Category
+分類存檔規則	Category Filing Rule
+類別查找字段驗證失敗	Category Look Up Field validation fail
+沒有發現記錄 	 no records found
+物件分類名稱	Category Name
+物件分類名稱	Category Name
+分類搜尋	Category Search
+資料夾分類	Category Shelf
+文件未被設定任何文件類別	Category has not been assigned to the document.
+找不到文件類別	Category is not found.
+物件分類設定已被修改	Category setting is changed.
+ 需要先儲存才能繼續程序	Need to update the record to continue process
+ 要現在儲存?	 update now?
+更改密碼	Change Password
+更改密碼	Change Password
+解除鎖定	Check In
+解除鎖定	Check In
+解除鎖定	Check In
+鎖定新版本	Check In With New Version
+存入新版本	Check In with new version
+鎖定	Check Out
+鎖定	Check Out
+鎖定	Check-out
+鎖定	Check-out
+分類敘述	Classification
+分類敘述	Classification
+清空文件夾	Clean Folder
+清除	Clear
+清除篩選	Clear Filtering
+清除用戶暫存	Clear User Session
+選擇"是"將文件新增至預先設置的存檔目的地	Click "Yes" for add file to preset category filing location
+選擇"否"將文件新增至當前的目的地	Click "No" for add file to current folder location.
+關閉	Close
+已關閉	Closed
+欄位顯示設定	Column Display Option
+註解	Comment
+評語	Comment
+在Administration文件夾的註解只能通過EDP組群刪除	Comments in Administration Folder can only be deleted by EDP group.
+機構名稱尸	Company Name
+編寫	Compose
+同時上線用戶	Concurrent User
+系統設置	Configuration
+確認	Confirm
+確認密碼	Confirm Password
+確認密碼不符.	Confirm Password does not match.
+確認重置密碼	Confirm Reset Password
+確認刪除此信件箱	Confirm to delete inbox
+確定要刪除紀錄? 此動作不能復原	Confirm to delete record(s)?This action cannot be UNDONE.
+確認刪除此文件審核	Confirm to delete task
+確認刪除此用戶	Confirm to delete user
+確認移除分類表格?	Confirm to remove the attached category form?
+連接字符串	Connection String
+內容	Content
+內容	Content
+內容	Content
+內容	Content
+內容類型	Content Type
+複製	Copy
+複製	Copy
+複製	Copy
+複製	Copy
+複製用戶到群組? (Yes:複製 / No: 移動)	Copy user(s) to other group? (Yes:Copy / No: Move)
+共用資料夾	Corporate
+共用資料夾	Corporate Library
+建立用戶	Created By
+建立用戶	Created By
+建立用戶	Created By
+建立用戶	Created By
+建立日期	Created Date
+建立日期	Created Date
+建立日期	Created Date
+建立日期	Created Date
+交叉參考	Cross Reference
+剪下	Cut
+DIKO	DIKO
+DIKO URL	DIKO URL
+DIKO 已過試用期間	DIKO trail version expired.
+天藍色	Dark Blue
+莊園綠	Dark Green
+金屬黑	Dark Metal
+玫瑰紅	Dark Red
+類別	Data Type
+請輸入此文件	Database connection error.
+資料庫連接錯誤	Database connection error.
+日期	Date
+日期	Date
+日期	Date
+發出時間	Date
+截止日期的通知	Deadline Notification
+預設替換版本	Default Replace Version
+預設排序	Default Sorting
+刪除	Delete
+刪除	Delete
+刪除	Delete
+刪除	Delete
+刪除	Delete
+刪除	Delete
+刪除	Delete
+刪除屬性	Delete Attribute
+被檔案庫移除	Delete By Archive
+刪除物件分類	Delete Category
+刪除用戶群組	Delete Group
+刪除郵件信箱	Delete Inbox
+刪除組織	Delete Organizational Unit
+刪除角色	Delete Role
+刪除工作	Delete Task
+刪除用戶	Delete User
+刪除版本	Delete Version
+刪除評語	Delete comment
+不允許刪除其他人的註解.	Delete other user\'s reference is not allowed.
+確定刪除此資料?	Delete the selected record(s)?
+刪除	Deletion
+內容	Description
+描述	Description
+描述	Description
+敘述	Description
+敘述	Description
+目的地資料夾	Description Folder
+目的地資料夾	Destination Folder
+目標文件夾已存在於選定的文件/文件夾	Destination Folder is existed in selected Files/Folders.
+設備監控	Device Monitor
+文件捷徑	Direct Link
+停用	Disable
+分類	Display Category
+顯示長度	Display Length
+顯示共{2}中的{0}至{1}.	Displaying Items {0} - {1} of {2}
+你要到下個檔案嗎?	Do you want to proceed the Next File?
+文件	Document
+文件屬性	Document Attribute
+檔案分類	Document Category
+檔案到期	Document Expiry
+檔案編號	Document ID
+檔案編號	Document ID
+檔案索引	Document Index
+文件功能表	Document Menu
+移動文件	Document Move
+文件名稱	Document Name
+檔案名稱	Document Name
+找不到文件權限	Document Permission is not found.
+檔案搜尋	Document Search
+文件狀態概要	Document Status Summary
+檔案類別設定	Document Type Setting
+檔案類別	Document Type Value
+檔案更新	Document Update
+檔案已到期	Document expiry date is exceeded
+找不到文件.	Document is not found.
+下載	Download
+下載原始檔案	Download Original
+下載PDF	Download PDF
+修改	Edit
+編輯信件箱	Edit Inbox
+修改評語	Edit comment
+有效日期	Effective Date
+我的郵件	Email
+郵件	Email
+郵件帳戶	Email Account
+檢視電子郵件的地址	Email Address
+過到期後的電子郵件通知間隔	Email Alert After Deadline
+檔案到期前的電郵提示(日數)	Email Alert Before Deadline(No. of days)
+電子郵件	Email Folder
+檢視電子郵件的主機	Email Host
+郵件連結	Email Link
+電子郵件提示	Email Notification
+檢視電子郵件的密碼	Email Password
+檢視電子郵件的連接埠	Email Port
+檢視電子郵件的類別	Email Type
+空白不填將由系統隨機產生密碼並發到電郵	Empty field for auto generate password to email
+啟用到期日	Enable Expiry Date
+啟用浮水印	Enable Watermark
+已被加密	Encrypted
+加密	Encryption
+英文(美國)	English (US)
+事件	Event
+綠色	Evergreen
+檢視電子郵件的異常資料夾編號	Exception Folder ID
+執行存檔	Execute Archive
+執行檔案庫	Execute Archive
+即時執行存檔?	Execute archive now?
+到期日	Expiry Date
+到期日期	Expiry Date
+到期日期	Expiry Date
+到期通知	Expiry Notification
+瀏覽器	Explorer
+匯出	Export
+匯出日期	Export Date
+列印PDF文件失敗	Fail in getting PDF files to print.
+文件添加到檔案文件夾失敗	Fail to add files to Archive folder.
+無法刪除默認文件夾的文件種類	Fail to delete Default Folder DocType.
+無法刪除文件夾	Fail to delete folders
+請先刪除所有文件	 Please remove all documents before deletion.
+拿取running number失敗	Fail to get running number.
+移動文件失敗。文件只能被移動到文件夾中的最低層或 [SFK/Administration/EC]	Fail to move document. Document can only be moved to folder in lowest level or in [SFK/Administration/EC]
+保存參考失敗	Fail to save reference.
+ODBC搜索失敗	Fail to search in ODBC.
+轉移擁有者失敗	Fail to transfer permission.
+失敗	Failed
+由於讀取分類編號失敗而未能於預設檔資料夾刪除分類表格	Failed get category ID to delete category form from properties.
+初始文件解釋管理員失敗.	Failed initialize rendition manager.
+刪除檔案類別失敗	Failed to Delete Doc.Type Value.
+屬性文件載入失敗	Failed to Load properties file.
+讀取預設檔失敗	Failed to Load properties file.
+由於讀取分類編號失敗而儲存分類表格	Failed to add category form of cannot get category ID.
+由於附件不是PDF檔案而未能儲存分類表格	Failed to add category form of file type not a Pdf file.
+由於沒有附件而未能儲存分類表格	Failed to add category form of have not attachment.
+由於沒有附件而未能儲存分類表格	Failed to add category form to properties of attachment is null.
+儲存分類表格到預設檔資料夾失敗	Failed to add category form to properties.
+新增組織成員失敗	Failed to add org. unit member.
+加入追蹤記錄失敗	Failed to add the audit trail record.
+此文件日誌新增失敗	Failed to add the audit trail record.
+加入文件到儲存庫失敗	Failed to add the file to repository.
+此文件新增到資料倉失敗	Failed to add the file to repository.
+加入使用者到群組失敗.	Failed to add user to the group.
+設定文件類別錯誤	Failed to assign the category to the document.
+此資料夾瀏覽失敗	Failed to browse the folder.
+瀏覽資料夾失敗	Failed to browse the folder.
+權限已被其他用戶更新	Failed to change group permissions.
+更改密碼失敗.	Failed to change password.
+更改密碼失敗.  舊密碼錯誤.	Failed to change password. The current password is not correct.
+更改權限失敗.	Failed to change permission.
+更改用戶類型失敗.	Failed to change user member type from the group.
+更改使用者權限失敗.	Failed to change user permissions.
+文件解鎖失敗	Failed to check in the document.
+此文件不能解除鎖定	Failed to check in the document.
+文件鎖定失敗	Failed to check out the document.
+此文件不能被鎖上	Failed to check out the document.
+不能複製此文件	Failed to copy the document.
+複制文件失敗	Failed to copy the document.
+建立資料夾失敗	Failed to create the folder.
+建立捷徑失敗	Failed to create the shortcut file.
+成功建立失敗	Failed to create the url file.
+刪除文件類別屬性錯誤	Failed to delete category attribute.
+於預設檔資料夾刪除分類表格失敗	Failed to delete category form from properties.
+刪除分類表格失敗	Failed to delete category form.
+刪除文件類別錯誤	Failed to delete category.
+刪除群組失敗	Failed to delete group.
+此用戶群組刪除失敗	Failed to delete group.
+刪除組組織成員失敗	Failed to delete org. unit member.
+刪除組織失敗	Failed to delete org. unit.
+刪除文件失敗	Failed to delete the document.
+此文件刪除失敗	Failed to delete the document.
+不能從資料倉刪除此文件	Failed to delete the file from repository.
+在儲存庫刪除文件失敗	Failed to delete the file from repository.
+刪除資料夾失敗	Failed to delete the folder.
+此用戶刪除失敗	Failed to delete user.
+執行存檔失敗	Failed to execute archive for document.
+以版本讀取文件名稱失敗	Failed to get Document fileName by Version.
+不能轉換至PDF檔	Failed to get PDF rendition.
+讀取PDF解釋失敗	Failed to get PDF rendition.
+讀取使用者快取資料失敗	Failed to get User Record from session.
+讀取文件類別屬性失敗	Failed to get category attribute values.
+讀取群組權限失敗.	Failed to get group permissions.
+無法取得分享連結	Failed to get share document link.
+此文件路徑讀取失敗	Failed to get the document path.
+讀取文件路徑失敗	Failed to get the document path.
+此文件從資料倉讀取失贁	Failed to get the file from repository.
+由儲存庫讀取文件失敗	Failed to get the file from repository.
+未能讀取此文件的大小	Failed to get the file size.
+讀取文件元位失敗	Failed to get the file size.
+不能讀取類別名稱	Failed to get the filter name.
+讀取濾件名稱錯誤.	Failed to get the filter name.
+不能讀取此PDF的文件大小	Failed to get the size of PDF rendition.
+讀取PDF解釋檔元位失敗	Failed to get the size of PDF rendition.
+讀取快取圖示錯誤.	Failed to get the thumbnail from repository.
+讀取使用者權限失敗.	Failed to get user permissions.
+版本目錄讀取失敗	Failed to get version history.
+讀取版本歷史失敗	Failed to get version history.
+讀取樹狀檢視錯誤	Failed to load the treeview.
+因授權已過期而無法登入	Failed to login of license expired.
+移動用戶群組失敗	Failed to move group.
+不能移動此文件	Failed to move the document.
+移動文件失敗	Failed to move the document.
+由於讀取分類編號失敗而未能刪除分類表格	Failed to remove category form of cannot get category ID.
+移除文件類別錯誤	Failed to remove the category from the document.
+移除使用者失敗.	Failed to remove user from the group.
+移除存檔失敗	Failed to remove-archive document.
+重設用戶密碼失敗	Failed to reset user password.
+重設用戶密碼失敗	Failed to reset user password.
+儲存檔案類別失敗	Failed to save Doc. Type Value
+儲存分類表格失敗	Failed to save category form.
+儲存註解失敗	Failed to save comment.
+儲存文件失敗	Failed to save document
+ 文件正在使用中.	 it is being processed by the system.
+儲存群組權限失敗	Failed to save group permission.
+不能儲存此用戶群組權限	Failed to save group permissions.
+儲存群組失敗	Failed to save group.
+此用戶群組儲存失敗	Failed to save group.
+儲存新聞失敗	Failed to save news.
+此最新消息儲存失敗	Failed to save news.
+儲存組織失敗.	Failed to save org. unit.
+儲存連結失敗	Failed to save the URL.
+此連結儲存失敗	Failed to save the URL.
+儲存文件失敗	Failed to save the file.
+此文件儲存失敗	Failed to save the file.
+儲存資料夾失敗	Failed to save the folder.
+此資料夾儲存失敗	Failed to save the folder.
+儲存捷徑失敗	Failed to save the shortcut.
+此捷徑儲存失敗	Failed to save the shortcut.
+儲存使用者資料失敗	Failed to save user profile.
+此用戶設定儲存失敗	Failed to save user profile.
+搜尋檔案類別失敗	Failed to search Category Doc. Type Value
+搜尋追蹤記錄失敗	Failed to search audit trails.
+搜查不到文件日誌	Failed to search audit trails.
+搜尋資料失敗	Failed to search category attribute.
+搜尋不到此物件分類 	Failed to search category.
+搜尋不到此用戶群組	Failed to search group.
+搜尋群組失敗	Failed to search group.
+搜尋組織成員失敗	Failed to search org. unit members.
+搜尋組織失敗	Failed to search org. unit.
+搜尋不到此連結	Failed to search the URL.
+搜尋連結失敗	Failed to search the URL.
+搜尋不到此文件	Failed to search the file.
+搜尋文件失敗	Failed to search the file.
+搜尋不到此資料夾	Failed to search the folder.
+搜尋資料夾失敗	Failed to search the folder.
+搜尋不到此最新消息	Failed to search the news.
+搜尋新聞失敗	Failed to search the news.
+搜尋不到此捷徑	Failed to search the shortcut.
+搜尋捷徑失敗	Failed to search the shortcut.
+搜尋不到用戶	Failed to search user.
+請輸入此文件名稱	Failed to search user.
+發送電郵通知失敗.	Failed to send email notification.
+設定文件分類失敗.	Failed to set category attribute values.
+因讀取DIKO網址問題而無法取得分享連結	Failed to sharelink of failed to get server URL.
+因檔案編號問題而無法取得分享連結	Failed to sharelink of invaild document ID.
+不能更新轉換狀態	Failed to update rendition status.
+更新PDF解釋檔元位失敗	Failed to update rendition status.
+上載文件失敗	Failed to upload the file.
+項目名稱	Field Name
+檔案	File
+檔案名稱	File Name
+檔案屬性	File Properties
+檔案類型	File Type
+文件大小超過限制	File size limit exceeded.
+檔案已送到印表機	File(s) have been sent to printer pool
+檔案大小超過20MB	File(s) is over Max file size of 20MB
+檔案大小超過20MB及數量超過10	File(s) is over Max file size of 20MB and max files exceeded more than 10
+文件添加到存檔文件夾，等待歸檔到文件系統	Files are added into archive folder awaiting archive to file system.
+檔案送到背景程序進行存檔	Files are sending to archive in background process.
+檔案正等待存檔， 未能刪除	Files exists in Archive and not yet archive to file system.
+存檔文件序號	Filing Parent ID
+篩選	Filter
+第一個完成日	First Completion Date
+第一個截止日期必須早於第二個截止日期 	First Deadline Date must be earlier then Second Deadline Date
+第一個到期日	First Expiry Date
+名字	First Name
+名字	First Name
+目的地	Folder
+資料夾	Folder
+資料夾	Folder
+資料夾名稱	Folder Name
+資料夾屬性	Folder Properties
+專案資料夾申請記錄	Folder Request Log
+文件夾總結報表	Folder Summary Report
+字體大小	Font Size
+已附加表格	Form Attached
+討論區	Forum
+討論區管理	Forum Management
+轉寄	Forward
+由	From
+送件者	From
+整頁	Full Format
+全頁	Full Page
+全文字搜尋	Full Text Search
+功能表	Function
+一般設定	General Setting
+文件夾條碼標籤	Generate Barcode Label
+取得檔案連接	Get shareable link
+隸屬群組	Group Member
+用戶群組名稱	Group Name
+用戶群組名稱	Group Name
+群組權限	Group Permission
+用戶群組屬性	Group Properties
+用戶群組不能移至相同的用戶群組	Group cannot be move to the own group.
+找不到群組	Group is not found.
+主題	Heading
+主題	Heading
+主機地址	Host
+IMAP	IMAP
+即時存檔	Immediate Archive
+進行中	In Progress
+收件箱	Inbox
+郵件信箱已讀取郵件數	Inbox Checked Email ID
+信件箱電子郵件地址	Inbox Email Address
+郵件信箱之電子郵件地址	Inbox Email Address
+信件箱編號	Inbox ID
+郵件信箱IMAP主機	Inbox IMAP Host
+郵件信箱IMAP端口	Inbox IMAP Port
+郵件信箱密碼	Inbox Password
+郵件信箱安全協定SSL	Inbox Secure SSL
+信件箱題目前綴	Inbox Subject Prefix
+不正確的使用者或密碼	Incorrect user ID or password.
+用戶名稱或密碼錯誤	Incorrect user ID or password.
+索引監控	Index Monitor
+索引	Indexing
+繼承模板權限	Inherit template permission
+轉移擁有者設定無效	Inproper selection in owner transfer.
+部份檔案的存檔權限不足	Insufficient archive permission for entire folder tree.
+權限不足	Insufficient permission.
+沒有此權限.	Insufficient permission.
+沒有足夠的權限	Insufficient permissions
+不正確的使用者屬性	Invaild User Record attribute data.
+不正確的檔案名稱	Invalid Document Name
+郵件格式錯誤	Invalid Email format
+無效之到期日	Invalid Expiry Date
+不正確的群組名稱	Invalid Group Name.
+不正確的剪下或複制	Invalid copy or cut.
+不正確的文件類型	Invalid document type.
+無效的文件類型	Invalid document type.
+截止日期不能大於開始日期.	Invalid end date.
+不正確的授權數目	Invalid licence count
+尋找使用者授權失敗	 please call administrator to check the maximum number of activated users.
+主資料夾設定無效	Invalid master folder setting.
+日語	Japanese
+保留屬性值	Keep Field Value
+關鍵字	KeyField
+關鍵字	Keyword
+關鍵字	Keywords
+韓語	Korean
+黑田	Kuroda
+放大預覽	Large Preview
+放大預覽	Large Preview
+最後連結時間	Last Connect Time
+最後連結狀態	Last Connection Status
+最後連結狀態	Last Connection Status
+最後連結時間	Last Connection Time
+上一次登入時間	Last Login Date
+上一次更新	Last Modified
+更新日期	Last Modified
+姓氏	Last Name
+姓氏	Last Name
+更新日期	Last Updated
+最新版本	Latest Version
+最新版本	Latest Version
+分布排列	Layout
+離開所在的頁面？	Leave current form?
+Letter date應早於Receipt date	Letter date should be earlier than Receipt date
+資料夾	Library
+資料夾	Library
+金鑰不適用於這個版本的DIKO	Licence is not suitable for this version of DIKO.
+金鑰無效	Licence is not valid.
+用戶授權數目	License Count
+藍色	Light Blue
+連結	Link
+鏈結	Link
+列表值	List Values
+讀取中...	Loading...
+語言	Locale
+位置	Location
+位置	Location
+位置: 	Location: 
+被鎖定	Locked
+登入	Login
+用戶名稱	Login ID
+登入及登出事件	Login/Logout
+圖示將於頁面刷新後被更改(最佳圖示像素為140px * 50px)	Logo will be changed after page refreshed.(Best logo dimensions is 140px * 50px)
+登出	Logout
+必須	Mandatory
+強制屬性沒有設置 	Mandatory Attribute is not set
+Mass [0 當作隱藏項目]	Mass [0 as Invisible field]
+當選擇分類後，請於Mass欄填上至少一項	Mass can not be all blank for display if Display Category is selected
+主資料夾	Master Folder
+主文件夾對象報表	Master Folder Object Summary
+主文件夾權限報表	Master Folder Permission Summary
+主資料夾限制 - 於上層存在主資料夾.	Master Folder Restriction - A master folder exists in parent level.
+主資料夾限制 - 於下層存在主資料夾.	Master Folder Restriction - A master folder exists in subfolders.
+主資料夾限制 - 目標屬於另一個主資料夾系列	Master Folder Restriction - Destination is in different set of master folder.
+檔案數量超過10	Max files exceeded more than 10
+ 總共:	 Total:
+已到達最大儲存量	Maximum storage amount exceeded.
+已超過儲存的上限	Maximum storage amount exceeded.
+功能表	Menu
+合併列印	Merge Print
+合併列印	Merged Print
+內容	Message
+訊息	Message
+內容	Message Content
+已被修改	Modified
+修改項目期間	Modified Item Duration
+修改	Modify
+修改屬性	Modify Attribute
+移動	Move
+移動	Move
+往下移	Move Down
+往上移	Move Up
+將已選擇的項目往下移動?	Move down the selected record?
+移動已選的記錄	Move the selected record
+將已選擇的項目往上移動?	Move up the selected record?
+多檔案上傳	Multi Upload
+名稱	Name
+名稱	Name
+一般用戶	Named User
+新增帳戶	New Acount
+新增文件	New Document
+新增檔案版本	New File Version
+新增資料夾	New Folder
+新增用戶群組	New Group
+新增信件箱	New Inbox
+新增項目	New Item
+新項目	New Item
+新項目期間	New Item Duration
+新的最新消息	New News
+新組織	New Organizational Unit
+新增捷徑	New Shortcut
+新增工作	New Task
+新增工作	New Task
+新增URL	New URL
+新增用戶	New User
+新版本	New Version
+最新消息	News
+最新消息	News
+最新消息及公告	News & Announcement
+更改消息及公告	News Publishing
+下一個	Next
+下一個文件	Next
+否	No
+否	No
+否 	No
+沒有顯示物件	No Items to display
+沒有符合檔案.	No Record found.
+No.#	No.#
+未被加密	Not Encrypted
+請選擇由用戶群組	Not allow blank of FromGroup Name.
+請選擇到用戶群組	Not allow blank of ToGroup Name.
+通知	Notification
+通知	Notification
+數字	Number
+OCR服務器	OCR Station
+對象	Object
+舊密碼	Old Password
+只有文件類型可以列印	Only file type can be printed
+只允許png文件	Only png file allowed
+只允許大小在1MB以下的文件	Only size below 1MB file allowed
+打開所屬文件夾	Open Containing Folder
+開啟文件	Open Document
+組織名稱	Org. Unit Name
+組織屬性	Org. Unit Properties
+原文件	Original
+原始名稱	Original Name
+原始名稱	Original Name
+其他	Others
+寄件箱	Outbox
+覆蓋必須選項	Override Mandatory
+轉移擁有者	Ownership Transfer
+PDF譯文	PDF Rendition
+PDF轉換	PDF Rendition
+PDF建立錯誤	PDF rendition Failed
+POP3	POP3
+頁數	Page
+密碼	Password
+密碼	Password
+密碼	Password
+密碼過期日數	Password Expiry days
+密碼修改時間	Password Last Modified
+密碼設定規則	Password Pattern
+密碼規則說明	Password Pattern Description
+重置密碼	Password Reset
+帳號密碼已過期	Password expired
+ 請輸入新密碼.	 please input new password.
+貼上	Paste
+路徑	Path
+待索引	Pending
+等待處理	Pending
+永久連結	Permanent Link
+權限	Permission
+設定權限	Permission
+設定權限	Permission
+權限差異報告	Permission Different Report
+權限報表	Permission Report
+權限被拒絕	Permission denied
+不能刪除所選的記錄	 not allow to delete all the selected records
+權限類型	Permission type
+權限已轉移	Permissions are transfered.
+權限已被其他使用者更新	Permissions have been updated by other user.
+我的資料夾	Personal
+個人資料夾	Personal Folder
+我的資料夾	Personal Library
+更改個人資料	Personal Profile
+更改個人資料	Personal Profile
+Please input Document Library	Please input Document Library
+請輸入屬性名稱.	Please input a Attribute Name.
+請輸入物件分類名稱.	Please input a Category Name.
+請輸入確認密碼.	Please input a Confirm Password.
+請輸入名字.	Please input a First Name.
+請輸入用戶群組名稱.	Please input a Group Name.
+請輸入姓氏.	Please input a Last Name.
+請輸入新密碼.	Please input a New Password.
+請輸入舊密碼.	Please input a Old Password.
+請輸入組織名稱.	Please input a Organization Unit Name.
+請輸入密碼.	Please input a Password.
+請輸入用戶名稱.	Please input a User ID.
+請輸入敘述	Please input a description
+請輸入檔案名稱.	Please input a file name.
+請輸入資料夾名稱.	Please input a folder name.
+請輸入捷徑名稱.	Please input a shortcut name.
+請輸入連結地址.	Please input a url address.
+請輸入連結地址.	Please input a url address.
+請輸入連結名稱.	Please input a url name.
+請在申請加上敘述	Please input the description of the request.
+請輸入修改項目期間.	Please input the duration of the modified item.
+請輸入新項目期間.	Please input the duration of the new item.
+請輸入每頁記錄.	Please input the list of record per page.
+請選擇語言.	Please select a Language.
+請選擇狀態.	Please select a Status.
+請選擇主題.	Please select a Theme.
+請選擇一個屬性作刪除.	Please select a attribute for delete.
+請選擇一個註解作更新.	Please select a comment for update.
+請選擇一個註解	Please select a comment.
+請選擇需要剪下或複制的文件	Please select a document to copy or cut first.
+請從電腦中選擇需上傳的檔案.	Please select a file to be upload.
+請選擇上載文件	Please select a file to be uploaded.
+請選擇一項類別.	Please select a filter.
+請選擇一個資料夾.	Please select a folder.
+請選擇目標資料夾.	Please select a parent folder.
+選擇一部打印機	Please select a printer
+請先於個人資料中	in Personal Profile for printing documnet(s).
+請選擇一個參考	Please select a reference.
+請選擇一個參考值.	Please select a reference.
+請選擇開始日期.	Please select a start date.
+請選擇目標檔案.	Please select a target folder or file.
+請選擇一個使用者.	Please select a user.
+請選擇截止日期.	Please select an end date.
+請選擇一個文件!	Please select one file!
+請點選目的地資料夾作上傳	Please select the description folder
+請選擇目標	Please select the target.
+請等待...	Please wait...
+連接埠	Port
+上一個文件	Prev
+列印	Print
+列印	Print
+印表機名稱	Printer Name
+合併列印的文件大小需小於1GB	Printing a merged file with size greater than 1 GB is not allowd
+私人	Private
+教授	Professor
+專案資料夾名稱	Project Folder Name
+申請專案資料夾	Project Folder Request
+項目模板	Projects Template
+屬性	Properties
+屬性	Properties
+屬性	Properties
+公開	Public
+搜尋完畢	Reached the end of search result.
+ 要重新搜尋?	Do you want to search again?
+已讀電子郵件確認	Read Receipts
+接收	Receive
+接收郵件	Receive Email
+接收日期	Received Date
+更新資料成功	Record update success
+每頁記錄	Records Per Page
+重新整理	Refresh
+表達式	Regualar Expression
+重建索引	Reindex
+重建所有索引	Reindex All
+已拒絕	Rejected
+相關文件已被刪除.	Related document had been deleted.
+注意	Remind
+移除分類表格	Remove Category Form
+移除檔案	Remove File
+取消存檔	Remove From Archive
+從檔案庫移除	Remove From Archive
+從用戶群組中移除	Remove From Group
+存檔後刪除原來檔案?	Remove related files after archiving?
+(此刪除包含主文件夾	(The master folder
+相關捷徑和子文件)	 related shortcut and subitems in the folder will be included)
+移除所有	RemoveAll
+不能轉換	Rendition failed.
+解釋文件內容失敗.	Rendition failed.
+版本取代	Replace Version
+回覆	Reply
+全部回覆	Reply All
+報表	Report
+報告類型	Report Type
+原始路徑	Repository Path
+申請專案資料夾電子郵件	Request Folder
+要求已過時	Request Timeout.
+申請帳戶試用	Request Trial account
+已鎖定	Reserved
+保留者	Reserved By
+保留日期	Reserved Date
+保留此訊息碼作主文件夾檢查	Reserved this msg code for master folder checking.
+重新設定	Reset
+密碼重設電子郵件	Reset Password
+重置密碼	Reset Password
+重置密碼不能為空白	Reset Password cannot be blanked
+重置密碼不匹配	Reset Password is not matched
+重置密碼成功	Reset Password successfully
+重設用戶密碼?	Reset this user password?
+(重設的新密碼將發送至用戶的郵件信箱	(The new password will be send to the user by email
+ 請確定用戶的正確郵件地址已被儲存).	 please make sure the email is saved and correct).
+重試所有譯文	Retry All
+PDF重試譯文	Retry PDF Rendering
+角色	Role
+角色管理	Role Management
+角色名稱	Role Name
+SMTP 主機	SMTP Host
+SMTP 密碼	SMTP Password
+SMTP 連接埠	SMTP Port
+SMTP 用戶名稱	SMTP User Name
+SOP檢視電子郵件設置	SOP Email Capture Setup
+SSL	SSL
+儲存	Save
+儲存及退出	Save And Exit
+儲存屬性值	Save Attribute Value
+儲存物件分類設定	Save Category Setup
+儲存至資料夾	Save To Library
+儲存檔案類別?	Save and set Document Type?
+成功儲存資料	Save succeed
+寄出電子郵件時間排程	Scheduled Email Send Time
+搜尋	Search
+搜尋條件	Search Criteria
+檔案搜尋	Search Document
+搜尋結果	Search Result
+可搜尋	Searchable
+第二個完成日	Second Completion Date
+第二個到期日	Second Expiry Date
+選擇	Select
+全選	Select All
+選擇日期...	Select a date...
+選擇項目...	Select a option...
+已選取郵件 (可修改主題名稱來定義新檔案名稱)	Selected Email (Click to rename Subject as the new Document Name)
+發送	Send
+發送電子郵件通知	Send Email Notification To User
+發送連結電子郵件	Send Link
+發送連結到郵件	Send Link To Email
+發送連結到郵件	Send Link To Email
+發送測試電子郵件	Send Testing Mail
+發送到	Send To
+發送重置密碼郵件	Send reset password Email
+送件者	Sender
+寄件人	Sender List
+寄件人列表	Sender List
+列印	Server Print
+伺服器類型	Server Type
+暫停提供服務.	Service unavailable.
+暫存時間	Session Date
+工作階段逾時回到登入畫面	Session timeout returned to the Login page
+設定權限	Set Permission
+設為管理員	Set to Admin
+設為編輯者	Set to Editor
+設為閱讀者	Set to Reader
+檔案連接	Shareable link
+捷徑	Shortcut
+捷徑	Shortcut
+捷徑	Shortcut
+捷徑名稱	Shortcut Name
+捷徑屬性	Shortcut Properties
+捷徑報表	Shortcut Report
+顯示所有	Show All
+顯示詳細搜索資料	Show searched details
+簡體中文	Simplified Chinese
+雲端網站編號	Site ID
+網站圖示	Site Logo
+雲端網站管理	Site Management
+雲端網站名稱	Site Name
+雲端網站資料	Site Summary
+大小	Size
+大小	Size
+大小	Size
+抱歉！您沒有開啟的權限.	Sorry! You do not have permission to open.
+排序次序	Sorting Order
+系統中沒有找到Staff Folder	Staff Folder is not found on system.
+狀態	Status
+狀態	Status
+狀態	Status
+狀態	Status
+狀態	Status
+狀況	Status
+主旨	Subject
+主題	Subject
+送出	Submit
+到期日	Subscription Expiry
+訂閱設置管理	Subscription Management
+成功	Succeed
+Supervisor	Supervisor
+系統	System
+系統管理	System Configuration
+系統管理	System Configuration
+預設系統群組不能被刪除	System Default Group cannot be delete.
+預設系統群組不能被移動	System Default Group cannot be move.
+系統預設的角色是不能更改設置	System Default Role is not allowed to change setting
+不允許刪除系統預設角色.	System Default Role is not allowed to delete.
+預設使用者不能被刪除	System Default User cannot be delete.
+預設使用者不能被移動	System Default User cannot be move.
+系統郵件	System Email Address
+系統預設郵件內容	System Email Message
+系統外送郵件設定	System Email Setting
+系統	System Field
+系統報表	System General Report
+不能移動系統預設群組	System Group can not be relocated.
+不能刪除預設的系統管理員	System administrator can not be delete.
+不能移除系統管理群組中的系統管理員	System administrator can not be remove.
+系統繁忙中	System busy
+ 請稍後再試.	 please try again later.
+System cannot delete Department which contains user members	System cannot delete Department which contains user members
+此群組不能刪除.	System default group can not be deleted.
+系統錯誤	System error.
+系統已開始執行存檔。請稍後再試。	System is currently running scheduled achiving. Please try archiving later.
+系統不允許刪除edpmanager權限	System is not allow to remove edpmanager permission.
+待機時間超出設定範圍	System timeout
+ 請按"是"登出系統或按"否"保留現在畫面，但所動作不會被傳送至系統直至使用者重登後才可正常操作系統.	 To press "Yes" to logout system or press "No" to keep current screen but all action will not be send to the system before relogon system.
+表名	Table Name
+目標	Target
+目標檔案已到期	Target document expiry date is exceeded
+目標檔案不能為捷徑.	Target file cannot be a shortcut!
+目標檔案不存在.	Target file does not exist
+工作	Task
+工作文件	Task Document
+工作名稱	Task Name
+工作名稱	Task Name
+模板文件夾層級	Template Folder Level
+模板文件夾	Template Folders
+模板文件夾編號	Template Folders Id
+範例文件夾名稱	Template folder Name(s)
+文字	Text
+此新聞已被刪除	The News has already been deleted.
+此新聞已被其他使用者更新	The News has been updated by other user.
+不能刪除系統群組	The System Group can not be deleted.
+系統群組不能被刪除	The System Group can not be deleted.
+只有EDP主管可以執行這動作	The action can only be performed by EDP Manager
+只有EDP管理員可以執行這動作	The action can only be performed by EDP Manager
+只有系統主管或EDP主管可以執行這動作	The action can only be performed by System administrator or EDP Manager
+只有系統管理員或EDP管理員可以執行這動作	The action can only be performed by System administrator or EDP Manager
+此動作需要先儲存文件類別	The action can only be performed on a saved category.
+此動作只能在已儲存的文件執行	The action can only be performed on a saved document.
+此動作需在文件的已儲存的文件	The action can only be performed on a saved document.
+此動作只能在已儲存的用戶群組執行	The action can only be performed on a saved group.
+此動作需在文件的已儲存的群組	The action can only be performed on a saved group.
+此動作只能在已儲存的最新消息執行	The action can only be performed on a saved news.
+此動作需在文件的已儲存的新聞	The action can only be performed on a saved news.
+此動作需要先儲存物件	The action can only be performed on a saved object.
+此動作只能在已儲存的用戶執行	The action can only be performed on a saved user.
+此動作需在文件的最新版本執行	The action can only be performed on the head-version of a file.
+此動作只能在最新版本執行	The action can only be performed on the latest version of a file.
+文件類別屬性已被刪除	The category attribute has already been deleted.
+文件類別屬性已被其他使用者更新	The category attribute has been updated by other user.
+文件類別已被刪除	The category has already been deleted.
+文件類別已被其他使用者更新	The category has been updated by other user.
+顯示詳細搜索資料的設定改動將於重新登入後生效	The change of show detail in search result may effective after next login
+該註解已被刪除	The comment has already been deleted.
+註解已成功刪除	The comment has been deleted successfully.
+註解已成功保存	The comment has been saved successfully.
+註解已成功更新	The comment has been updated successfully.
+磁碟已滿	The disk is full.
+找不到文件	The docuemnt cannot be found.
+此文件不存在	The docuemnt cannot be found.
+文件已被刪除	The document has already been deleted.
+此文件已被刪除	The document has already been deleted.
+文件已被鎖定	The document has been checked out.
+此文件已被鎖上	The document has been checked out.
+成功刪除文件	The document has been deleted successfully.
+文件已成功移動	The document has been moved successfully.
+文件已成功貼上	The document has been pasted successfully.
+文件已被其他使用者更新	The document has been updated by other user.
+此資料夾已被其他用戶更新	The document has been updated by other user.
+文件未被鎖定	The document has not been checked out.
+此文件沒被鎖上	The document has not been checked out.
+文件已被複制	The document is copied.
+此文件已複製	The document is copied.
+文件已被剪下	The document is cut.
+已找到文件	The document is found.
+此文件已找到	The document is found.
+有效日期必須大於到期日	The effective date must be earlier than the expiry date.
+此有效日期必須大於保存日期	The effective date must be earlier than the expiry date.
+儲存庫中找不到文件	The file does not exist in repository.
+資料倉中搜尋不到此文件	The file does not exist in repository.
+成功加入文件	The file has been added successfully.
+成功刪除文件版本	The file version has been deleted successfully.
+找不到文件版本	The file version has not been found.
+成功建立資料夾	The folder has been created successfully.
+成功刪除資料夾	The folder has been deleted successfully.
+已找到資料夾	The folder is found.
+此用戶群組己被其他用戶下載	The group has been deleted by other user.
+群組已被刪除	The group has been deleted by other user.
+此用戶群組已被其他用戶更新	The group has been updated by other user.
+群組被其他使用者更新	The group has been updated by other user.
+使用者授權已到最大值.  未能新增用戶.	The maximum number of activated users has been reached.
+登錄用戶已達到最大數量.	The maximum number of logged on users has been reached.
+重設的新密碼將發送至用戶的郵件信箱.	The new password will be send to the user by email.
+系統需要重置後才能啟用新的使用者設定	The new profile setting will be active after system reload
+ 請按"是"重置系統或按"否"保留現在畫面	 please press "Yes" to reload system or press "No" to keep cerrent setting
+ 而新的使用者設定將在下次登入後啟用.	 the new setting will be activate on next logon.
+此最新消息已被刪除	The news has already been deleted.
+新聞已被其他使用者更新	The news has been updated by other user.
+此最新消息已被其他用戶更新	The news has been updated by other user.
+父資料夾不存在.	The parent folder does not exist.
+目標資料夾不存在	The parent folder does not exist.
+此目標資料夾不存在	The parent group does not exist.
+父群組不存在	The parent group does not exist.
+參考已成功刪除	The reference has been deleted successfully.
+參考已成功保存	The reference has been saved successfully.
+參考已成功更新	The reference has been updated successfully.
+申請已被發送至系統管理員	The request was sent to administrator.
+已存在相同角色名稱	The role name is already exist.
+成功建立捷徑	The shortcut file has been created successfully.
+測試電子郵件成功發送	The testing email was sent
+請查閱電子郵件信箱確認.	 please check your email to confirm.
+成功建立連結	The url file has been created successfully.
+已找到連結	The url is found.
+使用者帳號已被鎖	The user account is locked.
+此用戶已被鎖	The user account is locked.
+使用者帳號已停用	The user account is suspended.
+此用戶暫時停用	The user account is suspended.
+使用者不正確	The user object is null.
+用戶為null	The user object is null.
+使用者資料已被刪除	The user profile has been deleted by other user.
+此用戶設定已被其他用戶刪除	The user profile has been deleted by other user.
+使用者資料被其他使用者更新	The user profile has been updated by other user.
+此用戶設定已被其他用戶更新	The user profile has been updated by other user.
+主題	Theme
+This file type is not allow to upload into uDMS	This file type is not allow to upload into uDMS
+傾斜	Tilt
+職稱	Title
+收件者	To
+至	To
+至	To
+頂部	Top
+共	Total
+授權總數	Total License Count
+總容量	Total Storage
+繁體中文	Traditional Chinese
+由用戶群組轉移	Transfer From Group
+由使用者轉移	Transfer From User
+到用戶群組	Transfer To Group
+到使用者	Transfer To User
+透明度	Transparent
+回收資源筒	Trash
+帳戶試用	Trial
+兩個或以上的項目文件夾具有相同的Job No.	Two or more Project Folders with same Job No. are found
+系統無法創建捷徑	 System cannot create the shortcut.
+類別	Type
+URL	URL
+URL地址	URL Address
+URL名稱	URL Name
+URL屬性	URL Properties
+找不到V2C金鑰	Unable to find V2C licence.
+登入金鑰失敗	Unable to find hardware licence.
+無法獲取文件權限訊息，	Unable to get document permission information
+請再次嘗試重新打開文件。	 please try to reopen document again.
+未經授權	Unauthorized.
+請輸入用戶名稱和密碼	Unauthorized.
+解除封鎖	Unlock
+取消全選	Unselect All
+不支援	Unsupported
+儲存	Update
+儲存	Update
+更新	Update
+更新	Update
+更新文件屬性	Update Document Properties
+更新文件版本	Update Document Version
+更新失敗	Update Error.
+更新錯誤	Update Error.
+成功更新	Update Seccuss.
+更新成功	Update Seccuss.
+不允許更新或刪除其他用戶的註解	Update or delete other user's comment is not allowed.
+不允許更新其他人的註解.	Update or delete other user\'s comment is not allowed.
+更新	Updated
+更新用戶	Updated By
+更新用戶	Updated By
+更新用戶	Updated By
+更新日期	Updated Date
+上傳	Upload
+上傳中...	Uploading...
+用戶	User
+使用者及群組報表	User / Group Report
+使用者權限報告	User Access Report
+用戶群組管理	User Group Management
+用戶使用手冊	User Guide
+用戶名稱	User ID
+用戶名稱	User ID
+登入名稱	User Name
+使用者權限	User Permission
+用戶狀態	User Profile
+用戶類型	User Type
+用戶已登錄.	User account is already logon.
+找不到使用者	User is not found.
+密碼未能符合複雜性原則	User password does not meet the password complexity.
+用戶/群組 名稱	User/Group ID
+Vendor ODBC連接字串	Vendor ODBC Connection String
+Vendor ODBC表名	Vendor ODBC Table Name
+版本	Version
+版本歷史	Version History
+版本歷史已被更新	Version history has been updated.
+查看群組	View Group
+檢視	Visible
+浮水印內容	Watermark Content
+浮水印設置	Watermark Setting
+歡迎回來DIKO服務	Welcome back to DIKO
+工作區	Workspace
+是	Yes
+admin必須擁有管理員權限	admin must have Admin Permission
+電子郵件	email
+項待處理工作	pending tasks
+目錄	table of contents
+雙殼綱學系	the Department of Bivalves
+腹足綱學系	the Department of Gastropods
+欠完成日?	w/o Completion?
+敏感詞彙	sensitive keywords
+頁籤	tab
+多功能事務機	Multi-Functional Printer
+事務機	MFP

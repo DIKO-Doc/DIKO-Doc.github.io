@@ -1,0 +1,120 @@
+{{Infobox software
+| name = Microsoft SQL Server Express
+| logo = 
+| screenshot = 
+| caption = 
+| developer = [[Microsoft]]
+| programming language = [[C (programming language)|C]], [[C++]]
+| latest release version = SQL Server 2017 Express
+| latest release date = {{Start date and years ago|2017|11|6}}
+| status = Active
+| operating system = [[Microsoft Windows]], [[Linux]]
+| platform = [[IA-32]] or [[IA-64]]<br> > 512 MB RAM<br>[[.NET Framework 4.0]]<ref>{{cite web|url=https://msdn.microsoft.com/en-us/library/ms143506%28v=sql.120%29.aspx |title=Hardware and Software Requirements for Installing SQL Server 2014 - SQL Server &#124; Microsoft Docs |publisher=Msdn.microsoft.com |date= |accessdate=2019-04-03}}</ref>
+| genre = [[Relational database management system]]
+| language = English, Chinese, French, German, Italian, Japanese, Korean, Portuguese (Brazil), Russian, Spanish
+| license = [[Proprietary software]]<ref>{{cite web|url=https://msdn.microsoft.com/en-us/library/ms143522%28v=sql.120%29.aspx |title=About the SQL Server License Terms - SQL Server &#124; Microsoft Docs |publisher=Msdn.microsoft.com |date=2017-05-24 |accessdate=2019-04-03}}</ref>
+| website = [http://www.microsoft.com/en-us/server-cloud/products/sql-server-editions/sql-server-express.aspx www.microsoft.com]
+}}
+'''Microsoft SQL Server Express''' is a version of [[Microsoft]]'s [[Microsoft SQL Server|SQL Server]] [[relational database management system]] that is free to download, distribute and use. It comprises a database specifically targeted for [[Embedded system|embedded]] and smaller-scale applications. The product traces its roots to the [[MSDE|Microsoft Database Engine (MSDE)]] product, which was shipped with SQL Server 2000.  The "Express" branding has been used since the release of SQL Server 2005.
+
+== Capabilities ==
+SQL Server Express provides many of the features of the paid, full versions of Microsoft SQL Server database management system.<ref>[https://www.backup-utility.com/windows-server/windows-server-backup-reading-data-please-wait-4348.html  Disable SQL Server VSS Writer service].</ref>  However it has technical restrictions that make it unsuitable for some large-scale deployments.  Differences in the Express product include:
+
+* Maximum database size of 10&nbsp;GB per database in SQL Server 2016, SQL Server 2014, SQL Server 2012, and 2008 R2 Express<ref>{{cite web | url = http://msdn.microsoft.com/en-us/library/cc645993(v=SQL.105).aspx | title = Features Supported by the Editions of SQL Server 2008 R2 | accessdate = 2010-06-22}}</ref> (4&nbsp;GB for SQL Server 2008 Express and earlier; compared to 2&nbsp;GB in the former [[MSDE]]). The limit applies per database (log files excluded); but in some scenarios users can access more data through the use of multiple interconnected databases.
+* No SQL Server Agent service<ref>{{cite web|url=http://www.microsoft.com/sqlserver/2008/en/us/editions-compare.aspx|title=Compare Edition Features}}</ref><ref>{{cite web|title=SQL Server Express with Advanced Services Features|url=http://msdn.microsoft.com/en-us/library/ms365248.aspx|publisher=Microsoft|accessdate=28 March 2012}}</ref> 
+* Artificial hardware usage limits:
+** Single physical CPU, but multiple cores allowable<ref>{{cite web |url=http://support.microsoft.com/kb/914278 |title=How SQL Server 2005 Express Edition determines the CPU count and uses the CPUs during processing |publisher=[[MSDN]] |date=November 2008 |accessdate=2008-11-25}}</ref>
+** 1&nbsp;GB of RAM (runs on a system with higher RAM amount, but uses only at most 1&nbsp;GB per instance of SQL Server Database Engine. "Recommended: Express Editions: 1&nbsp;GB All other editions: At least 4&nbsp;GB and should be increased as database size increases to ensure optimal performance."<ref>{{cite web|url=https://msdn.microsoft.com/en-us/library/ms143506(v=sql.120).aspx |title=Hardware and Software Requirements for Installing SQL Server 2014 - SQL Server &#124; Microsoft Docs |publisher=Msdn.microsoft.com |date= |accessdate=2019-04-03}}</ref>).<ref>{{cite web|url=https://msdn.microsoft.com/library/cc645993.aspx#CrossBoxScale |title=Editions and supported features of SQL Server 2016 - SQL Server &#124; Microsoft Docs |publisher=Msdn.microsoft.com |date=2017-05-24 |accessdate=2019-04-03}}</ref> Express with Advanced Services has a limit of 4&nbsp;GB per instance of Reporting Services (not available on other Express variants). Analysis Services is not available for any Express variant.
+
+Unlike the predecessor product, [[MSDE]], the Express product does not include a concurrent workload-governor to "limit performance if the database engine receives more work than is typical of a small number of users."<ref>{{cite web |url=http://msdn2.microsoft.com/en-us/library/Aa224554(SQL.80).aspx |title=The SQL Server 2000 Workload Governor |publisher=[[MSDN]] |date=January 2004 |accessdate=2007-01-15}}</ref>
+
+SQL Server Express includes several GUI tools for database management. These include:
+
+* [[SQL Server Management Studio]] - since 2012 SP1;<ref>{{cite web|url=https://www.microsoft.com/en-us/download/details.aspx?id=35579 |title=Download Microsoft® SQL Server® 2012 Service Pack 1 (SP1) Express from Official Microsoft Download Center |publisher=Microsoft.com |date=2012-11-09 |accessdate=2019-04-03}}</ref> before that, only a stripped-down version called ''SQL Server Management Studio Express'' is provided
+* SQL Server Configuration Manager
+* SQL Server Surface Area Configuration tool
+* SQL Server [[Business Intelligence Development Studio]]
+
+The predecessor product [[MSDE]] generally lacked basic GUI management tools,<ref>{{cite web|url=http://sqlserver2000.databases.aspfaq.com/how-do-i-manage-sql-server/msde.html|title=How do I Manage SQL Server|deadurl=yes|archiveurl=https://web.archive.org/web/20100724165221/http://sqlserver2000.databases.aspfaq.com/how-do-i-manage-sql-server/msde.html|archivedate=2010-07-24|df=}}</ref>
+
+Features available in SQL Server "Standard" and better editions but absent from SQL Server Express include:
+
+* [[Microsoft Analysis Services|Analysis Services]]
+* [[SQL Server Integration Services|Integration Services]]
+* [[SQL Server Notification Services|Notification Services]]
+
+== Variants ==
+Microsoft makes SQL Server Express available as:
+
+* An integrated edition with management tools
+* Core database-engine only
+* A ''SQL Server Express with Advanced Services'' edition (first introduced relatively late in Q2 2006 compared to the original release) with a reduced-functionality version of [[SQL Server Reporting Services]] and with full-text search capabilities
+
+In the Free 2005 Express version, for example, a standard approach to installation options was provided, as follows.
+Generally, the SQL 2005 Express installers are packaged with the following consistent naming convention:
+
+; SQLEXPR.EXE: Has installers for BOTH 32-bit and 64-bit processors, but is a basic install
+; SQLEXPR32.EXE: Has ONLY the installer for 32-bit processors (still the basic install)
+; SQLEXPRWT.EXE: Has installers for BOTH 32-bit and 64-bit processors ''and'' SQL Server Management Studio Express (SSMSE) (2008 R2)
+; SQLEXPR_ADV.EXE: Has the basics ''and'' SQL Server Management Studio Express (SSMSE) + Reporting and Full Text Queries
+; SQLEXPR_TOOLKIT.EXE: Has the basics and SSMSE and Business Intelligence Development Studio (BIDS)
+
+These optional variants have gone through several service packs (SP), and each SP installer can be used without using the older ones first:
+
+{{Update|date=April 2012}}
+* Originals of the above files all carry the version number 9.0.1399.6
+* Service Pack 2 (SP2) versions all carry the version number 9.0.3042
+* Service Pack 3 (SP3) versions all carry the version number 9.00.4035
+* Service Pack 4 (SP4) versions all carry the version number 9.00.5000
+
+== Version history ==
+{| class="wikitable"
+|+ Microsoft SQL Server Express Version History
+|-
+!Version
+!Release date
+!Mainstream Support End Date
+!Extended Support End Date
+!Supported Operating Systems
+|-
+|SQL Server 2005 Express Edition || 2005-11-07<ref>{{cite web|title=Download Microsoft SQL Server 2005 Express Edition from Official Microsoft Download Center|url=http://www.microsoft.com/en-us/download/details.aspx?id=21844|accessdate=26 December 2012}}</ref> || 2011-04-12<ref name="2005 EOL">{{cite web|title=Microsoft Support Lifecycle (SQL Server 2005)|url=http://support.microsoft.com/lifecycle/?p1=2855|accessdate=26 December 2012}}</ref> || 2016-04-12<ref name="2005 EOL" /> || Windows 2000 Service Pack 4, Windows XP Service Pack 2, Windows Server 2003 Service Pack, Windows 7 Service Pack 1 (only SQL Server 2005 Express Edition SP4)<ref>{{cite web|url=https://www.microsoft.com/en-us/download/details.aspx?id=21844|title=Microsoft SQL Server 2005 Express Edition|website=Microsoft Download Center|access-date=2017-04-07}}</ref>
+|-
+|SQL Server 2008 Express || 2009-02-08<ref>{{cite web|title=Download Microsoft SQL Server 2008 Express from Official Microsoft Download Center|url=http://www.microsoft.com/en-us/download/details.aspx?id=1695|accessdate=26 December 2012}}</ref> || 2014-07-08<ref name="2008 EOL">{{cite web|title=Microsoft Support Lifecycle (SQL Server 2008)|url=http://support.microsoft.com/lifecycle/?p1=13165|accessdate=26 December 2012}}</ref> || 2019-07-09<ref name="2008 EOL" /> || Windows XP Service Pack 2, Windows XP Service Pack 3, Windows Vista, Windows Vista Service Pack 1, Windows Server 2003 Service Pack 2, Windows Server 2008<ref>{{cite web|url=https://www.microsoft.com/en-us/download/details.aspx?id=1695 |title=Download Microsoft® SQL Server® 2008 Express from Official Microsoft Download Center |publisher=Microsoft.com |date=2009-02-08 |accessdate=2019-04-03}}</ref>
+|-
+|SQL Server 2008 R2 Express || 2010-04-16<ref>{{cite web|title=Download Microsoft SQL Server 2008 R2 - Express from Official Microsoft Download Center|url=http://www.microsoft.com/en-us/download/details.aspx?id=3743|accessdate=26 December 2012}}</ref> || 2014-07-08<ref name="2008 R2 EOL">{{cite web|title=Microsoft Support Lifecycle (SQL Server 2008 R2)|url=http://support.microsoft.com/lifecycle/?p1=14917|accessdate=26 December 2012}}</ref> || 2019-07-09<ref name="2008 R2 EOL" /> || Windows XP, Windows Vista, Windows 7, Windows 8, Windows Server 2003, Windows Server 2008, Windows Server 2008 R2, Windows Server 2012, Windows Server 2012 R2<ref>{{cite web|url=https://msdn.microsoft.com/en-us/library/ms143506(v=sql.105).aspx|title=Hardware and Software Requirements for Installing SQL Server 2008 R2|website=msdn.microsoft.com|language=en|access-date=2017-10-16}}</ref>
+|-
+|SQL Server 2012 Express || 2012-05-14<ref>{{cite web|title=Download Microsoft® SQL Server® 2012 Express from Official Microsoft Download Center|url=http://www.microsoft.com/en-us/download/details.aspx?id=29062|accessdate=26 December 2012}}</ref> || 2017-07-11<ref name="2012 EOL">{{cite web|title=Microsoft Support Lifecycle (SQL Server 2012)|url=http://support.microsoft.com/lifecycle/?p1=16139|accessdate=26 December 2012}}</ref> || 2022-07-12<ref name="2012 EOL" /> || Windows Vista Service Pack 2, Windows 7, Windows 7 Service Pack 1, Windows 8, Windows 8.1, Windows Server 2008,<ref name="SQL Server 2012 Express">{{cite web|title=Hardware and Software Requirements for Installing SQL Server 2012|url=https://msdn.microsoft.com/en-us/library/ms143506%28v=sql.110%29.aspx|accessdate=6 June 2017}}</ref> Windows Server 2008 R2, Windows Server 2008 R2 SP1, Windows Server 2012, Windows Server 2012 R2<ref>{{cite web|url=https://www.microsoft.com/en-us/download/details.aspx?id=43351|title=Microsoft® SQL Server® 2012 SP2 Express|website=Microsoft Download Center|access-date=2017-04-07}}</ref>
+|-
+|SQL Server 2014 Express || 2014-04-01<ref>{{cite web|title=Download Microsoft SQL Server 2014 Express|url=http://msdn.microsoft.com/en-us/evalcenter/dn434042.aspx|accessdate=11 April 2014}}</ref> || 2019-07-09<ref name="2014 EOL">{{cite web|title=Microsoft Support Lifecycle (SQL Server 2014)|url=http://support.microsoft.com/lifecycle/?c2=1044|accessdate=11 April 2014}}</ref> || 2024-07-09<ref name="2014 EOL" /> || Windows 7 Service Pack 1, Windows 8, Windows 8.1, Windows 10, Windows Server 2008 SP2,<ref name="SQL Server 2014 Express">{{cite web|title=Hardware and Software Requirements for Installing SQL Server 2014|url=https://msdn.microsoft.com/en-us/library/ms143506(v=sql.120).aspx|accessdate=30 June 2017}}</ref> Windows Server 2008 R2 SP1, Windows Server 2012, Windows Server 2012 R2<ref>{{cite web|url=https://www.microsoft.com/en-us/download/details.aspx?id=42299|title=Microsoft® SQL Server® 2014 Express|website=Microsoft Download Center|access-date=2017-04-08}}</ref> 
+|-
+|SQL Server 2016 Express || 2016-06-01<ref>{{cite web|title=Download Microsoft SQL Server 2016 Express|url=https://www.microsoft.com/en-us/download/details.aspx?id=52679}}</ref> || 2021-07-13<ref name="2016 EOL">{{cite web|title=Microsoft Support Lifecycle (SQL Server 2016)|url=http://support.microsoft.com/lifecycle/?c2=1044}}</ref> || 2026-07-14<ref name="2016 EOL" /> || Windows 8, Windows 8.1, Windows 10, Windows Server 2012, Windows Server 2012 R2, Windows Server 2016
+|-
+|SQL Server 2017 Express || 2017-09-29<ref>{{cite web|title=Download Microsoft SQL Server 2017 Express|url=https://www.microsoft.com/en-ca/download/details.aspx?id=55994}}</ref> || 2022-10-11<ref name="2017 EOL">{{cite web|title=Microsoft Support Lifecycle (SQL Server 2017)|url=https://support.microsoft.com/en-us/lifecycle/search?alpha=SQL%20Server%202017}}</ref> || 2027-10-12<ref name="2017 EOL" /> || Windows 8, Windows 8.1, Windows 10, Windows Server 2012, Windows Server 2012 R2, Windows Server 2016*,<br>Red Hat Enterprise Linux 7.3 or 7.4, SUSE Enterprise Linux Server v12 SP2, Ubuntu 16.04LTS, <br>Docker Engine 1.8+ (on Windows, Mac, or Linux)
+|}
+*Does not include Windows Server 2016 "Essentials" Edition
+
+==See also==
+* [[SQL Server Compact]]
+* [[MSDE]]
+* [[SQLite]]
+* [[Microsoft SQL Server]]
+* [[Microsoft Servers]]
+* [[List of relational database management systems]]
+* [[Comparison of relational database management systems]]
+
+==參考文獻==
+{{Reflist}}
+
+==External links==
+* [https://www.microsoft.com/en-us/search/DownloadsDrillInResults.aspx?q=sql+server+express&cateorder=1_5_2_3_11&site= Microsoft SQL Server Express downloads]
+* [https://msdn.microsoft.com/library/bb545450.aspx Microsoft SQL Server Express documentation]
+* [http://msdn.microsoft.com/en-us/library/cc645993%28v=SQL.110%29.aspx SQL Server 2012 Comparison of features by edition]
+* [http://blogs.msdn.com/sqlexpress/ SQL Server Express WebLog]
+* [https://msdn.microsoft.com/en-us/library/ms143506%28v=sql.110%29.aspx Hardware and Software Requirements for Installing SQL Server 2012]
+* [https://msdn.microsoft.com/en-us/library/ms143506(v=sql.120).aspx Hardware and Software Requirements for Installing SQL Server 2014]
+
+<big>{{MS DevTools}}</big>
+
+[[Category:Proprietary database management systems]]
+[[Category:Microsoft server technology]]
+[[Category:Microsoft database software]]

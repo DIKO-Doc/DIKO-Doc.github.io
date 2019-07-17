@@ -1,0 +1,57 @@
+'''''SQL Server Reporting Services''' ('''SSRS''')'' is a server-based report generating software system from [[Microsoft]]. It is part of a suite of [[Microsoft SQL Server]] services, including SSAS ([[SQL Server Analysis Services]]) and SSIS ([[SQL Server Integration Services]]). 
+
+Administered via a [[World Wide Web|Web]] interface, it can be used to prepare and deliver a variety of interactive and printed reports. The SSRS service provides an interface into [[Microsoft Visual Studio]] so that developers as well as SQL administrators can connect to SQL databases and use SSRS tools to format SQL reports in many complex ways. It also provides a 'Report Builder' tool for less technical users to format SQL reports of lesser complexity.
+
+SSRS competes with [[Crystal Reports]] and other [[business intelligence tools]].
+
+==History==
+Reporting Services was first released in 2004 as an add-on to [[Microsoft SQL Server#SQL Server 2000|SQL Server 2000]]. Subsequent versions have been:
+
+* Second version with [[Microsoft SQL Server#SQL Server 2005|SQL Server 2005]] in November 2005
+* Third as part of [[Microsoft SQL Server#SQL Server 2008 R2|SQL Server 2008 R2]] in April 2010
+* Fourth version as part of [[SQL Server 2012]] in March 2012
+* Fifth version as part of [[SQL Server 2014]] in March 2014
+* Sixth version as part of [[SQL Server 2016]] in March 2016
+* Seventh version as part of SQL Server 2017 in October 2017
+
+==Packaging==
+* [[Microsoft SQL Server]] Developer, Standard, and Enterprise editions all include SSRS as an install option. 
+* The free [[SQL Server Express]] includes a limited version.<ref>{{cite web|url=https://docs.microsoft.com/en-us/previous-versions/sql/sql-server-2008-r2/ms365166(v%3dsql.105)|title=Reporting Services in SQL Server Express with Advanced Services|first=|last=Archiveddocs|website=docs.microsoft.com}}</ref>
+
+==Use==
+SQL Server Data Tools for Business Intelligence (SSDT BI) reduces the RDL (Report Definition Language) component to graphic icons in a GUI (Graphical User Interface). In this way, instead of writing code, the user can drag-and-drop graphic icons into an SSRS report format for most aspects of the SSRS report.
+
+Reports defined by RDL can be downloaded to a variety of formats<ref>{{cite web|url=https://docs.microsoft.com/en-us/previous-versions/sql/sql-server-2008/ms159684(v%3dsql.100)|title=ReportExecutionService.Render Method (ReportExecution2005)|first=Ryan Majidimehr (H10|last=Capital)|website=docs.microsoft.com}}</ref> including [[Microsoft Excel|Excel]], [[PDF]], [[Comma-separated values|CSV]], [[XML]], [[TIFF]] (and other image formats<ref>[http://msdn2.microsoft.com/en-us/library/ms155373.aspx Image Device Information Settings] - SSRS can render [[BMP file format|BMP]], [[Windows Metafile|EMF]], [[GIF]], [[JPEG]], [[Portable Network Graphics|PNG]], and [[TIFF]].</ref>), and HTML Web Archive. SQL Server 2008 and 2012 SSRS can also prepare reports in [[Microsoft Word]] (DOC) format, while third-party report generators offer additional output formats.
+
+Users can interact with the Report Server web service directly, or instead use Report Manager, a Web-based application that interfaces with the Report Server web service. With Report Manager, users can view, subscribe to, and manage reports as well as manage and maintain data sources and security settings. Report Manager can also deliver SQL reports by e-mail, or place them on a file share.
+
+[[computer security|Security]] is [[Role-based access control|role-based]] and can be assigned on an individual item, such as a report or data source, a folder of items, or site wide. Security roles and rights are inherited and can be overloaded.
+
+RDL reports can be viewed by using the standalone Report Server that comes with [[Microsoft SQL Server]], or by using the [[ASP.NET]] ReportViewer web control, or by using the ReportViewer [[Windows Forms]] control. The latter method allows reports to be embedded directly into web pages or [[.NET Framework|.NET Windows applications]]. The ReportViewer control will process reports by: (a) server processing, where the report is rendered by the Report Server; or (b) local processing, where the control renders the RDL file itself.
+
+SQL Server Reporting Services also support ''ad hoc'' reports: the designer develops a report schema and deploys it on the reporting server, where the user can choose relevant fields/data and generate reports. Users can then download the reports locally.
+
+[[Microsoft SQL Server]] 2012 SP1 expands Microsoft support for viewing reports to mobile platforms, including [[Microsoft Surface]], Apple iOS 6 and Windows Phone 8.<ref>{{cite web|url=https://docs.microsoft.com/en-us/sql/reporting-services/view-reporting-services-reports-surface-ios-devices|title=View Reporting Services Reports on Microsoft Surface Devices and Apple iOS Devices - SQL Server 2014 Reporting Services|first=|last=maggiesMSFT|website=docs.microsoft.com}}</ref>
+
+==References==
+<references/>
+
+==External links==
+* [http://www.microsoft.com/sqlserver/en/us/solutions-technologies/business-intelligence/reporting-services.aspx Microsoft SQL Server: Reporting Services home page]
+* [http://msdn.microsoft.com/en-us/sqlserver/cc511478.aspx Microsoft SQL Server: Reporting Services resources page]
+* [http://www.dnrtv.com/default.aspx?showNum=26 DNR TV: Reporting Services Part A]
+* [http://www.dnrtv.com/default.aspx?showNum=27 DNR TV: Reporting Services Part B]
+* [http://www.dnrtv.com/default.aspx?showNum=28 DNR TV: Reporting Services Part C]
+* [https://technet.microsoft.com/en-us/library/aa237438%28SQL.80%29.aspx SSRS with Visual Basic and Visual C#]
+* [http://msdn.microsoft.com/en-us/library/aa964126%28v=sql.90%29.aspx SSRS in your ASP.Net application]
+* [https://github.com/ChartBlocks/php-ssrs PHP library for connecting to SSRS over SOAP]
+* [http://www.javaworld.com/javaworld/jw-01-2005/jw-0110-sqlrs.html Creating a Java proxy for SSRS]
+* [http://www.mindharbor.com/SSRS_case_study_whitepaper.pdf Custom SSRS solution I white paper by MindHARBOR]
+* [http://www.packtpub.com/microsoft-sql-azure-enterprise-application-development/book Microsoft SQL Azure Enterprise Application Development], {{ISBN|978-1-849680806}}, Jayaram Krishnaswamy, 2010
+* Learn SQL Server Reporting Services 2008, {{ISBN|978-1-847196187}}, Jayaram Krishnaswamy, 2008
+* Learning SQL Server Reporting Services 2012, {{ISBN|978-1-849689922}}, Jayaram Krishnaswamy, 2013
+
+{{MS DevTools}}
+
+[[Category:Microsoft database software]]
+[[Category:Reporting software]]

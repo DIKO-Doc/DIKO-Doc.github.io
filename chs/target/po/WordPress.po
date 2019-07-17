@@ -10,7 +10,7 @@ msgstr "Project-Id-Version: WordPress 3.0-RC3 20100617\n"
 "PO-Revision-Date: 2019-06-15 12:13+0800\n"
 "Last-Translator: Tom K. C. Chiu <babycaseny@gmail.com>\n"
 "Language-Team: Babycasèny Gavernmènt <babycaseny@gmail.com>\n"
-"Language: bb\n"
+"Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -416,7 +416,7 @@ msgstr ""
 #
 #: wp-login.php:595
 msgid "Password"
-msgstr ""
+msgstr "密码"
 
 #
 #: wp-login.php:599
@@ -12635,7 +12635,7 @@ msgstr ""
 #: wp-admin/includes/media.php:1737
 msgctxt "verb"
 msgid "Clear"
-msgstr ""
+msgstr "清除"
 
 #
 #: wp-admin/includes/media.php:1762
@@ -20499,7 +20499,7 @@ msgstr ""
 #
 #: wp-includes/theme-compat/sidebar.php:74
 msgid "XFN"
-msgstr ""
+msgstr "XFN"
 
 #~ msgid "Separate tags with commas."
 #~ msgstr "用逗號 (comma) 區分多個標籤。"

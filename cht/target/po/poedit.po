@@ -228,34 +228,34 @@ msgid "<unnamed>"
 msgstr "<mǐ-neimen>"
 
 msgid "About %s"
-msgstr "Àbaut %s"
+msgstr "有關%s"
 
 msgid "Accounts"
-msgstr "Akkaunts"
+msgstr "帳號"
 
 msgid "Acknowledgements"
-msgstr ""
+msgstr "致謝"
 
 msgid "Activate"
-msgstr "Aktiveit"
+msgstr "啟動"
 
 msgid "Activating your license…"
-msgstr "Aktiveitiŋ neidè laisèns…"
+msgstr "啟動您的許可證"
 
 msgid "Add Comment"
-msgstr "Ädd Komment"
+msgstr "新增註解"
 
 msgid "Add comment"
-msgstr "Ädd komment"
+msgstr "新增註解"
 
 msgid "Add directory to the list"
-msgstr "Ädd direktori tu list"
+msgstr "新增資料夾到列表"
 
 msgid "Additional keywords"
-msgstr "Äddeiçionol kyiwörds"
+msgstr "新增關鍵字"
 
 msgid "Advanced"
-msgstr "Gokab"
+msgstr "進階"
 
 msgid "All Translation Files"
 msgstr "Ol Transleiçion Fayls"

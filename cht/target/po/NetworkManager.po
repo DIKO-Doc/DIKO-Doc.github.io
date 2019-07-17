@@ -8292,7 +8292,7 @@ msgstr ""
 
 #: ../clients/tui/nmtui-connect.c:391 ../clients/tui/nmtui-connect.c:440
 msgid "Activate"
-msgstr "Aktiveit"
+msgstr "啟動"
 
 #: ../clients/tui/nmtui-connect.c:393
 msgid "Deactivate"

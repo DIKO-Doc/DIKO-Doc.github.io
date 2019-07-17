@@ -62,10 +62,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- &lt;t0/&gt;Microsoft WSE 2.0 SP3</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190711T070900Z" creationid="Tom" creationdate="20190711T070900Z">
+        <seg>- &lt;t0/&gt;Microsoft WSE 2.0 SP3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- Administrator</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190613T025118Z" creationid="Tom" creationdate="20190613T025118Z">
         <seg>- 管理员</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-&lt;t0/&gt;Windows</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190711T070859Z" creationid="Tom" creationdate="20190711T070859Z">
+        <seg>-&lt;t0/&gt;Windows</seg>
       </tuv>
     </tu>
     <tu>
@@ -104,8 +120,8 @@
       <tuv lang="EN">
         <seg>1.1.4&lt;t0/&gt;  &lt;t1/&gt;Watermark Setting</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T130542Z" creationid="Tom" creationdate="20190710T130542Z">
-        <seg>1.1.4&lt;t0/&gt;  &lt;t1/&gt;Watermark Setting</seg>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190711T062117Z" creationid="Tom" creationdate="20190710T130542Z">
+        <seg>1.1.4&lt;t0/&gt;&lt;t1/&gt;水印设置</seg>
       </tuv>
     </tu>
     <tu>
@@ -150,10 +166,74 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>12</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190711T070854Z" creationid="Tom" creationdate="20190711T070854Z">
+        <seg>12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>15</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190711T070856Z" creationid="Tom" creationdate="20190711T070856Z">
+        <seg>15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>1&lt;t0/&gt;  &lt;t1/&gt;SYSTEM FUNCTIONS</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T020533Z" creationid="Tom" creationdate="20190604T020533Z">
         <seg>1&lt;t0/&gt;  &lt;t1/&gt;系統功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>2.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190711T070837Z" creationid="Tom" creationdate="20190711T070837Z">
+        <seg>2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>2.1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190711T070902Z" creationid="Tom" creationdate="20190711T070902Z">
+        <seg>2.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>2.2</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190711T070920Z" creationid="Tom" creationdate="20190711T070920Z">
+        <seg>2.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>2.3</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190711T070929Z" creationid="Tom" creationdate="20190711T070929Z">
+        <seg>2.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>2.&lt;t0/&gt;5</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190711T071149Z" creationid="Tom" creationdate="20190711T071149Z">
+        <seg>2.&lt;t0/&gt;5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>2.&lt;t0/&gt;6</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190711T071156Z" creationid="Tom" creationdate="20190711T071156Z">
+        <seg>2.&lt;t0/&gt;6</seg>
       </tuv>
     </tu>
     <tu>
@@ -166,10 +246,114 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>2&lt;t0/&gt;.&lt;t1/&gt;4</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190711T071142Z" creationid="Tom" creationdate="20190711T071142Z">
+        <seg>2&lt;t0/&gt;.&lt;t1/&gt;4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190711T070836Z" creationid="Tom" creationdate="20190711T070836Z">
+        <seg>3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190711T070840Z" creationid="Tom" creationdate="20190711T070840Z">
+        <seg>3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.11</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190711T062859Z" creationid="Tom" creationdate="20190711T062859Z">
+        <seg>3.11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.12</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190711T062933Z" creationid="Tom" creationdate="20190711T062933Z">
+        <seg>3.12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.5&lt;t0/&gt;(&lt;t1/&gt;If the below image shows up, select Download and install&lt;t2/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190711T071401Z" creationid="Tom" creationdate="20190711T071327Z">
+        <seg>3.5&lt;t0/&gt;（&lt;t1/&gt;如果出现以下图像，请选择下载并安装&lt;t2/&gt;）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.8</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190711T071512Z" creationid="Tom" creationdate="20190711T071512Z">
+        <seg>3.8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.9</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190711T071659Z" creationid="Tom" creationdate="20190711T071659Z">
+        <seg>3.9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3&lt;t0/&gt;.1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190711T071215Z" creationid="Tom" creationdate="20190711T071215Z">
+        <seg>3&lt;t0/&gt;.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3&lt;t0/&gt;.2</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190711T071221Z" creationid="Tom" creationdate="20190711T071221Z">
+        <seg>3&lt;t0/&gt;.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3&lt;t0/&gt;.3</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190711T071224Z" creationid="Tom" creationdate="20190711T071224Z">
+        <seg>3&lt;t0/&gt;.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3&lt;t0/&gt;.4</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190711T071227Z" creationid="Tom" creationdate="20190711T071227Z">
+        <seg>3&lt;t0/&gt;.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>3&lt;t0/&gt;.&lt;t1/&gt; &lt;t2/&gt;Installing &lt;t3/&gt;DropZone&lt;t4/&gt; in Windows</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T081618Z" creationid="Tom" creationdate="20190604T064511Z">
         <seg>3&lt;t0/&gt;.&lt;t1/&gt; &lt;t2/&gt;在Windows安装&lt;t3/&gt;Dropzone&lt;t4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3&lt;t0/&gt;.&lt;t1/&gt;1&lt;t2/&gt;0</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190711T062846Z" creationid="Tom" creationdate="20190711T062846Z">
+        <seg>3&lt;t0/&gt;.&lt;t1/&gt;1&lt;t2/&gt;0</seg>
       </tuv>
     </tu>
     <tu>
@@ -182,6 +366,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>3&lt;t0/&gt;.&lt;t1/&gt;6</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190711T071504Z" creationid="Tom" creationdate="20190711T071504Z">
+        <seg>3&lt;t0/&gt;.&lt;t1/&gt;6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3&lt;t0/&gt;.&lt;t1/&gt;7</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190711T071508Z" creationid="Tom" creationdate="20190711T071508Z">
+        <seg>3&lt;t0/&gt;.&lt;t1/&gt;7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3&lt;t0/&gt;.&lt;t1/&gt;9</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190711T062723Z" creationid="Tom" creationdate="20190711T062723Z">
+        <seg>3&lt;t0/&gt;.&lt;t1/&gt;9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>4</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T085344Z" creationid="Tom" creationdate="20190710T085344Z">
@@ -190,10 +398,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>4.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190711T070851Z" creationid="Tom" creationdate="20190711T070851Z">
+        <seg>4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4&lt;t0/&gt;.1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190711T071746Z" creationid="Tom" creationdate="20190711T071746Z">
+        <seg>4&lt;t0/&gt;.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>4&lt;t0/&gt;.&lt;t1/&gt; &lt;t2/&gt;DIKO &lt;t3/&gt;DropZone&lt;t4/&gt; System Settings</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T083334Z" creationid="Tom" creationdate="20190604T083334Z">
         <seg>4&lt;t0/&gt;.&lt;t1/&gt; &lt;t2/&gt;DIKO &lt;t3/&gt;DropZone&lt;t4/&gt; 系统设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4&lt;t0/&gt;.&lt;t1/&gt;2</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190711T071748Z" creationid="Tom" creationdate="20190711T071748Z">
+        <seg>4&lt;t0/&gt;.&lt;t1/&gt;2</seg>
       </tuv>
     </tu>
     <tu>
@@ -218,6 +450,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T130537Z" creationid="Tom" creationdate="20190710T130537Z">
         <seg>6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>7</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190711T070851Z" creationid="Tom" creationdate="20190711T070851Z">
+        <seg>7</seg>
       </tuv>
     </tu>
     <tu>
@@ -631,6 +871,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose&lt;t0/&gt; &lt;t1/&gt;“I accept the terms in the license agreement”&lt;t2/&gt; &lt;t3/&gt;then select&lt;t4/&gt; &lt;t5/&gt;“Next”</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190711T071140Z" creationid="Tom" creationdate="20190711T071016Z">
+        <seg>选择&lt;t0/&gt;&lt;t1/&gt;“I accept the terms in the license agreement”&lt;t2/&gt;（我接受许可协议中的条款）&lt;t3/&gt;然后点选&lt;t4/&gt;&lt;t5/&gt;“Next”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose&lt;t0/&gt; &lt;t1/&gt;“Runtime”&lt;t2/&gt; &lt;t3/&gt;then click&lt;t4/&gt; &lt;t5/&gt;“Next”</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T072511Z" creationid="Tom" creationdate="20190604T064104Z">
@@ -663,6 +911,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;t0/&gt; &lt;t1/&gt;“&lt;t2/&gt;Install”</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190711T071154Z" creationid="Tom" creationdate="20190711T071154Z">
+        <seg>点击&lt;t0/&gt; &lt;t1/&gt;“&lt;t2/&gt;Install”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click&lt;t0/&gt; &lt;t1/&gt;“&lt;t2/&gt;Install&lt;t3/&gt;”</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T081753Z" creationid="Tom" creationdate="20190604T064715Z">
@@ -679,6 +935,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click&lt;t0/&gt; &lt;t1/&gt;“Install”</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190711T071234Z" creationid="Tom" creationdate="20190711T071234Z">
+        <seg>点击&lt;t0/&gt; &lt;t1/&gt;“Install”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click&lt;t0/&gt; &lt;t1/&gt;“Next”</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T081742Z" creationid="Tom" creationdate="20190604T064645Z">
@@ -689,8 +953,8 @@
       <tuv lang="EN">
         <seg>Click&lt;t0/&gt;“&lt;t1/&gt;Download&lt;t2/&gt; and install this feature&lt;t3/&gt;”</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T083124Z" creationid="Tom" creationdate="20190604T083124Z">
-        <seg>点击&lt;t0/&gt;“&lt;t1/&gt;Download&lt;t2/&gt; and install this feature&lt;t3/&gt;” </seg>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190711T071502Z" creationid="Tom" creationdate="20190604T083124Z">
+        <seg>点击&lt;t0/&gt;“&lt;t1/&gt;Download&lt;t2/&gt; and install this feature&lt;t3/&gt;”（下载并安装此功能）</seg>
       </tuv>
     </tu>
     <tu>
@@ -871,6 +1135,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>DIKO&lt;t0/&gt; User Guide</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190711T062120Z" creationid="Tom" creationdate="20190711T062120Z">
+        <seg>DIKO&lt;t0/&gt; User Guide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>DIKO&lt;t0/&gt; consists of two storage media namely Database and File System.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T082534Z" creationid="Tom" creationdate="20190530T034440Z">
@@ -1047,6 +1319,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Double click&lt;t0/&gt; &lt;t1/&gt;“&lt;t2/&gt;Microsoft WSE 2.0 SP3&lt;t3/&gt;” &lt;t4/&gt;to initiate installation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190711T070918Z" creationid="Tom" creationdate="20190711T070918Z">
+        <seg>双击&lt;t0/&gt;&lt;t1/&gt;“&lt;t2/&gt;Microsoft WSE 2.0 SP3&lt;t3/&gt;”&lt;t4/&gt;开始安装</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Double click&lt;t0/&gt; &lt;t1/&gt;“&lt;t2/&gt;Microsoft WSE 2.0 SP3&lt;t3/&gt;”&lt;t4/&gt; &lt;t5/&gt;to initiate installation</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T072314Z" creationid="Tom" creationdate="20190604T063547Z">
@@ -1083,6 +1363,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190710T085814Z" creationid="Tom" creationdate="20190710T085814Z">
         <seg>Enter the SMTP Server information to access send email function in &lt;t0/&gt;Diko&lt;t1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter your DIKO address under “Service Address”, input DIKO User ID and Password, click “Save”</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190711T071800Z" creationid="Tom" creationdate="20190711T071800Z">
+        <seg>Enter your DIKO address under “Service Address”, input DIKO User ID and Password, click “Save”</seg>
       </tuv>
     </tu>
     <tu>
@@ -1243,6 +1531,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T095353Z" creationid="Tom" creationdate="20190604T095353Z">
         <seg>入门</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Give “blueprint.txt” to the vendor</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190711T062858Z" creationid="Tom" creationdate="20190711T062858Z">
+        <seg>把”Blueprint.txt” 传给供货商</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to “System” then select “Settings”</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190711T070723Z" creationid="Tom" creationdate="20190711T070723Z">
+        <seg>转到“系统”，然后选择“设置”</seg>
       </tuv>
     </tu>
     <tu>
@@ -1725,6 +2029,24 @@ published by the Free Software Foundation, either version 3 of the License, or
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Paste the key code from vendor into Activation Key and hit &lt;t0/&gt;“Activate”</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190711T070757Z" creationid="Tom" creationdate="20190711T070757Z">
+        <seg>把供货商传给您的KEY贴上并点击&lt;t0/&gt;“Activate”
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Paste the key code from vendor into Activation Key and hit&lt;t0/&gt; &lt;t1/&gt;“&lt;t2/&gt;Activate&lt;t3/&gt;”</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190711T062931Z" creationid="Tom" creationdate="20190711T062931Z">
+        <seg>把供货商传给您的KEY贴上并点击&lt;t0/&gt;&lt;t1/&gt;“&lt;t2/&gt;Activate&lt;t3/&gt;”
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please enter a valid email address.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T085533Z" creationid="Tom" creationdate="20190604T060911Z">
@@ -2055,10 +2377,53 @@ X-Crowdin-File: /locales/poedit.pot</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select&lt;t0/&gt; &lt;t1/&gt;“&lt;t2/&gt;Blueprint&lt;t3/&gt;” &lt;t4/&gt;path then&lt;t5/&gt; &lt;t6/&gt;click&lt;t7/&gt; &lt;t8/&gt;“&lt;t9/&gt;Generate H/W Blueprint&lt;t10/&gt;”</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190711T071729Z" creationid="Tom" creationdate="20190711T071729Z">
+        <seg>选择&lt;t0/&gt;”&lt;t1/&gt;Blueprint&lt;t2/&gt;”&lt;t3/&gt; &lt;t4/&gt;路径，然后&lt;t5/&gt;&lt;t6/&gt;点击&lt;t7/&gt;&lt;t8/&gt;“&lt;t9/&gt;Generate H/W Blueprint&lt;t10/&gt;”
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select&lt;t0/&gt; &lt;t1/&gt;“&lt;t2/&gt;Next&lt;t3/&gt;”</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T072346Z" creationid="Tom" creationdate="20190604T063748Z">
         <seg>点选&lt;t0/&gt;&lt;t1/&gt; “&lt;t2/&gt;Next&lt;t3/&gt;”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select&lt;t0/&gt; &lt;t1/&gt;“&lt;t2/&gt;Properties&lt;t3/&gt;”&lt;t4/&gt; &lt;t5/&gt;under&lt;t6/&gt;“&lt;t7/&gt;Compatibility&lt;t8/&gt;”&lt;t9/&gt; &lt;t10/&gt;click&lt;t11/&gt; &lt;t12/&gt;“&lt;t13/&gt;Change settings for all users&lt;t14/&gt;”&lt;t15/&gt; &lt;t16/&gt;check&lt;t17/&gt; &lt;t18/&gt;“&lt;t19/&gt;Run this program as an administrator&lt;t20/&gt;”</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190711T062843Z" creationid="Tom" creationdate="20190711T062706Z">
+        <seg>选择“&lt;t7/&gt;兼容性&lt;t8/&gt;”&lt;t9/&gt;&lt;t4/&gt;&lt;t5/&gt;之下&lt;t6/&gt;的&lt;t0/&gt;&lt;t1/&gt; “&lt;t2/&gt;属性&lt;t3/&gt;” ，然后&lt;t10/&gt;点选&lt;t11/&gt;&lt;t12/&gt;“&lt;t13/&gt;更改所有用户设置&lt;t14/&gt;”&lt;t15/&gt;，最后&lt;t16/&gt;勾选&lt;t17/&gt;&lt;t18/&gt;“&lt;t19/&gt;以管理员身分运行此程序&lt;t20/&gt;”
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select&lt;t0/&gt; &lt;t1/&gt;“Next”</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190711T070928Z" creationid="Tom" creationdate="20190711T070928Z">
+        <seg>点选&lt;t0/&gt;&lt;t1/&gt; “Next”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select&lt;t0/&gt; “&lt;t1/&gt;Properties&lt;t2/&gt;”&lt;t3/&gt; &lt;t4/&gt;under&lt;t5/&gt;“Compatibility”&lt;t6/&gt; &lt;t7/&gt;click&lt;t8/&gt; &lt;t9/&gt;“Change settings for all users” &lt;t10/&gt;check&lt;t11/&gt; &lt;t12/&gt;“Run this program as an administrator”</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190711T071653Z" creationid="Tom" creationdate="20190711T071653Z">
+        <seg>选择&lt;t5/&gt;“兼容性”&lt;t6/&gt;之下的&lt;t0/&gt; “&lt;t1/&gt;属性&lt;t2/&gt;”&lt;t3/&gt;&lt;t4/&gt;，&lt;t7/&gt;点击&lt;t8/&gt;&lt;t9/&gt;“更改所有用户的设置” &lt;t10/&gt;校验&lt;t11/&gt;&lt;t12/&gt;“以管理员身份运行此程序”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select&lt;t0/&gt;”&lt;t1/&gt;Blueprint&lt;t2/&gt;”&lt;t3/&gt; &lt;t4/&gt;path then&lt;t5/&gt; &lt;t6/&gt;click&lt;t7/&gt;“&lt;t8/&gt;Generate H/W Blueprint&lt;t9/&gt;”</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190711T062815Z" creationid="Tom" creationdate="20190711T062815Z">
+        <seg>选择&lt;t0/&gt;”&lt;t1/&gt;Blueprint&lt;t2/&gt;”&lt;t3/&gt; &lt;t4/&gt;路径，然后&lt;t5/&gt;&lt;t6/&gt;点击&lt;t7/&gt;“&lt;t8/&gt;Generate H/W Blueprint&lt;t9/&gt;”
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -2115,6 +2480,15 @@ X-Crowdin-File: /locales/poedit.pot</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T072239Z" creationid="Tom" creationdate="20190604T063357Z">
         <seg>步骤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Successfully entered DIKO &lt;t0/&gt;DropZone&lt;t1/&gt;, Click “Yes”</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190711T063002Z" creationid="Tom" creationdate="20190711T063002Z">
+        <seg>成功载入 “DIKO &lt;t0/&gt;Drop Zone&lt;t1/&gt;” 界面, 点击“NO”
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -2219,6 +2593,14 @@ X-Crowdin-File: /locales/poedit.pot</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190529T042157Z" creationid="Tom" creationdate="20190529T041606Z">
         <seg>&lt;t0/&gt;調任</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table of &lt;t0/&gt;Content&lt;t1/&gt;s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190711T070835Z" creationid="Tom" creationdate="20190711T070835Z">
+        <seg>&lt;t0/&gt;目录&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2507,6 +2889,14 @@ X-Crowdin-File: /locales/poedit.pot</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Tom" changedate="20190604T081609Z" creationid="Tom" creationdate="20190604T064337Z">
         <seg>安装完成后点击&lt;t0/&gt; &lt;t1/&gt;“&lt;t2/&gt;Finish&lt;t3/&gt;”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Upon completion click&lt;t0/&gt; &lt;t1/&gt;“Finish”</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Tom" changedate="20190711T071205Z" creationid="Tom" creationdate="20190711T071205Z">
+        <seg>安装完成后点击&lt;t0/&gt; &lt;t1/&gt;“Finish”</seg>
       </tuv>
     </tu>
     <tu>

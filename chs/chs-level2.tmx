@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx14.dtd">
 <tmx version="1.4">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.0_0_e0e1b4cc" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -30,10 +30,42 @@
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>'''''SQL Server Reporting Services''' ('''SSRS''')'' is a server-based report generating software system from [[Microsoft]].</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190710T122930Z" creationid="Tom" creationdate="20190710T122930Z">
+        <seg>'''''SQL Server Reporting Services''' ('''SSRS''')'' is a server-based report generating software system from [[Microsoft]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>'''LanguageTool''' is a [[free and open-source]] [[grammar checker]], and all its features are available for download&lt;ref&gt;https://languagetool.org/#libreoffice&lt;/ref&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190710T122825Z" creationid="Tom" creationdate="20190710T122825Z">
+        <seg>'''LanguageTool'''是一个[[免费软件|免费]]和[[开源软件|开源]]的[[语法检查]]软件，其所有功能都可供下载&lt;ref&gt;https://languagetool.org/#libreoffice&lt;/ref&gt; 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>'''SQL Server Management Studio''' (SSMS) is a software application first launched with [[Microsoft]] [[Microsoft SQL Server|SQL Server 2005]] that is used for configuring, managing, and administering all components within [[Microsoft SQL Server]].</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190530T052841Z" creationid="Tom" creationdate="20190530T052841Z">
         <seg>'''SQL Server Management Studio'''（SSMS）是[[微软]]的一個與其[[數據庫]]產品[[Microsoft SQL Server]]配合使用的產品，以便於設定、配置及管理其元件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>(beta version expires %s)</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190710T122413Z" creationid="Tom" creationdate="20190710T122413Z">
+        <seg>(beta version expires %s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>- <ph x="0">&lt;t0/&gt;</ph>Microsoft WSE 2.0 SP3</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190711T070900Z" creationid="Tom" creationdate="20190711T070900Z">
+        <seg>- <ph x="0">&lt;t0/&gt;</ph>Microsoft WSE 2.0 SP3</seg>
       </tuv>
     </tu>
     <tu>
@@ -46,10 +78,58 @@
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>-<ph x="0">&lt;t0/&gt;</ph>Windows</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190711T070859Z" creationid="Tom" creationdate="20190711T070859Z">
+        <seg>-<ph x="0">&lt;t0/&gt;</ph>Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>1.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190618T073732Z" creationid="Tom" creationdate="20190618T073732Z">
         <seg>1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>1.1.1<ph x="0">&lt;t0/&gt;</ph>  <ph x="1">&lt;t1/&gt;</ph>System Email Setting</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190710T122948Z" creationid="Tom" creationdate="20190710T122948Z">
+        <seg>1.1.1<ph x="0">&lt;t0/&gt;</ph>  <ph x="1">&lt;t1/&gt;</ph>系统电子邮件设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>1.1.2<ph x="0">&lt;t0/&gt;</ph>  <ph x="1">&lt;t1/&gt;</ph>System Email Message</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190710T130529Z" creationid="Tom" creationdate="20190710T130502Z">
+        <seg>1.1.2<ph x="0">&lt;t0/&gt;</ph>  <ph x="1">&lt;t1/&gt;</ph>系统电子邮件设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>1.1.3<ph x="0">&lt;t0/&gt;</ph>  <ph x="1">&lt;t1/&gt;</ph>General Setting</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190710T130536Z" creationid="Tom" creationdate="20190710T130536Z">
+        <seg>1.1.3<ph x="0">&lt;t0/&gt;</ph>  <ph x="1">&lt;t1/&gt;</ph>一般设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>1.1.4<ph x="0">&lt;t0/&gt;</ph>  <ph x="1">&lt;t1/&gt;</ph>Watermark Setting</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190711T062117Z" creationid="Tom" creationdate="20190710T130542Z">
+        <seg>1.1.4<ph x="0">&lt;t0/&gt;</ph><ph x="1">&lt;t1/&gt;</ph>水印设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>1.1<ph x="0">&lt;t0/&gt;</ph>  <ph x="1">&lt;t1/&gt;</ph>S<ph x="2">&lt;t2/&gt;</ph>YSTEM <ph x="3">&lt;t3/&gt;</ph>C<ph x="4">&lt;t4/&gt;</ph>ONFIGURATIONS</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190710T085403Z" creationid="Tom" creationdate="20190710T085403Z">
+        <seg>1.1<ph x="0">&lt;t0/&gt;</ph>  <ph x="1">&lt;t1/&gt;</ph>S<ph x="2">&lt;t2/&gt;</ph>YSTEM <ph x="3">&lt;t3/&gt;</ph>C<ph x="4">&lt;t4/&gt;</ph>ONFIGURATIONS</seg>
       </tuv>
     </tu>
     <tu>
@@ -78,10 +158,74 @@
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>12</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190711T070854Z" creationid="Tom" creationdate="20190711T070854Z">
+        <seg>12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>15</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190711T070856Z" creationid="Tom" creationdate="20190711T070856Z">
+        <seg>15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>1<ph x="0">&lt;t0/&gt;</ph>  <ph x="1">&lt;t1/&gt;</ph>SYSTEM FUNCTIONS</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190604T020533Z" creationid="Tom" creationdate="20190604T020533Z">
         <seg>1<ph x="0">&lt;t0/&gt;</ph>  <ph x="1">&lt;t1/&gt;</ph>系統功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>2.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190711T070837Z" creationid="Tom" creationdate="20190711T070837Z">
+        <seg>2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>2.1</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190711T070902Z" creationid="Tom" creationdate="20190711T070902Z">
+        <seg>2.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>2.2</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190711T070920Z" creationid="Tom" creationdate="20190711T070920Z">
+        <seg>2.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>2.3</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190711T070929Z" creationid="Tom" creationdate="20190711T070929Z">
+        <seg>2.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>2.<ph x="0">&lt;t0/&gt;</ph>5</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190711T071149Z" creationid="Tom" creationdate="20190711T071149Z">
+        <seg>2.<ph x="0">&lt;t0/&gt;</ph>5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>2.<ph x="0">&lt;t0/&gt;</ph>6</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190711T071156Z" creationid="Tom" creationdate="20190711T071156Z">
+        <seg>2.<ph x="0">&lt;t0/&gt;</ph>6</seg>
       </tuv>
     </tu>
     <tu>
@@ -94,6 +238,102 @@
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>2<ph x="0">&lt;t0/&gt;</ph>.<ph x="1">&lt;t1/&gt;</ph>4</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190711T071142Z" creationid="Tom" creationdate="20190711T071142Z">
+        <seg>2<ph x="0">&lt;t0/&gt;</ph>.<ph x="1">&lt;t1/&gt;</ph>4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>3</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190711T070836Z" creationid="Tom" creationdate="20190711T070836Z">
+        <seg>3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>3.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190711T070840Z" creationid="Tom" creationdate="20190711T070840Z">
+        <seg>3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>3.11</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190711T062859Z" creationid="Tom" creationdate="20190711T062859Z">
+        <seg>3.11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>3.12</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190711T062933Z" creationid="Tom" creationdate="20190711T062933Z">
+        <seg>3.12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>3.5<ph x="0">&lt;t0/&gt;</ph>(<ph x="1">&lt;t1/&gt;</ph>If the below image shows up, select Download and install<ph x="2">&lt;t2/&gt;</ph>)</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190711T071401Z" creationid="Tom" creationdate="20190711T071327Z">
+        <seg>3.5<ph x="0">&lt;t0/&gt;</ph>（<ph x="1">&lt;t1/&gt;</ph>如果出现以下图像，请选择下载并安装<ph x="2">&lt;t2/&gt;</ph>）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>3.8</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190711T071512Z" creationid="Tom" creationdate="20190711T071512Z">
+        <seg>3.8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>3.9</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190711T071659Z" creationid="Tom" creationdate="20190711T071659Z">
+        <seg>3.9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>3<ph x="0">&lt;t0/&gt;</ph>.1</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190711T071215Z" creationid="Tom" creationdate="20190711T071215Z">
+        <seg>3<ph x="0">&lt;t0/&gt;</ph>.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>3<ph x="0">&lt;t0/&gt;</ph>.2</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190711T071221Z" creationid="Tom" creationdate="20190711T071221Z">
+        <seg>3<ph x="0">&lt;t0/&gt;</ph>.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>3<ph x="0">&lt;t0/&gt;</ph>.3</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190711T071224Z" creationid="Tom" creationdate="20190711T071224Z">
+        <seg>3<ph x="0">&lt;t0/&gt;</ph>.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>3<ph x="0">&lt;t0/&gt;</ph>.4</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190711T071227Z" creationid="Tom" creationdate="20190711T071227Z">
+        <seg>3<ph x="0">&lt;t0/&gt;</ph>.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>3<ph x="0">&lt;t0/&gt;</ph>.<ph x="1">&lt;t1/&gt;</ph> <ph x="2">&lt;t2/&gt;</ph>Installing <ph x="3">&lt;t3/&gt;</ph>DropZone<ph x="4">&lt;t4/&gt;</ph> in Windows</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190604T081618Z" creationid="Tom" creationdate="20190604T064511Z">
@@ -102,10 +342,50 @@
     </tu>
     <tu>
       <tuv xml:lang="EN">
-        <seg>3<ph x="0">&lt;t0/&gt;</ph>.<ph x="1">&lt;t1/&gt;</ph>5<ph x="2">&lt;t2/&gt;</ph>(<ph x="3">&lt;t3/&gt;</ph>If the below image shows up, select Download and install<ph x="4">&lt;t4/&gt;</ph>)</seg>
+        <seg>3<ph x="0">&lt;t0/&gt;</ph>.<ph x="1">&lt;t1/&gt;</ph>1<ph x="2">&lt;t2/&gt;</ph>0</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190604T083104Z" creationid="Tom" creationdate="20190604T083104Z">
-        <seg>3<ph x="0">&lt;t0/&gt;</ph>.<ph x="1">&lt;t1/&gt;</ph>5<ph x="2">&lt;t2/&gt;</ph>(<ph x="3">&lt;t3/&gt;</ph>如果有以下的图片出现，点击此处<ph x="4">&lt;t4/&gt;</ph>)</seg>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190711T062846Z" creationid="Tom" creationdate="20190711T062846Z">
+        <seg>3<ph x="0">&lt;t0/&gt;</ph>.<ph x="1">&lt;t1/&gt;</ph>1<ph x="2">&lt;t2/&gt;</ph>0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>3<ph x="0">&lt;t0/&gt;</ph>.<ph x="1">&lt;t1/&gt;</ph>6</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190711T071504Z" creationid="Tom" creationdate="20190711T071504Z">
+        <seg>3<ph x="0">&lt;t0/&gt;</ph>.<ph x="1">&lt;t1/&gt;</ph>6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>3<ph x="0">&lt;t0/&gt;</ph>.<ph x="1">&lt;t1/&gt;</ph>7</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190711T071508Z" creationid="Tom" creationdate="20190711T071508Z">
+        <seg>3<ph x="0">&lt;t0/&gt;</ph>.<ph x="1">&lt;t1/&gt;</ph>7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>4</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190710T085344Z" creationid="Tom" creationdate="20190710T085344Z">
+        <seg>4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>4.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190711T070851Z" creationid="Tom" creationdate="20190711T070851Z">
+        <seg>4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>4<ph x="0">&lt;t0/&gt;</ph>.1</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190711T071746Z" creationid="Tom" creationdate="20190711T071746Z">
+        <seg>4<ph x="0">&lt;t0/&gt;</ph>.1</seg>
       </tuv>
     </tu>
     <tu>
@@ -118,10 +398,42 @@
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>4<ph x="0">&lt;t0/&gt;</ph>.<ph x="1">&lt;t1/&gt;</ph>2</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190711T071748Z" creationid="Tom" creationdate="20190711T071748Z">
+        <seg>4<ph x="0">&lt;t0/&gt;</ph>.<ph x="1">&lt;t1/&gt;</ph>2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>5</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190710T130530Z" creationid="Tom" creationdate="20190710T130530Z">
+        <seg>5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>5.<ph x="0">&lt;t0/&gt;</ph>Using <ph x="1">&lt;t1/&gt;</ph>DIKO <ph x="2">&lt;t2/&gt;</ph>Drop zone</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190604T063258Z" creationid="Tom" creationdate="20190604T063258Z">
         <seg>5.<ph x="0">&lt;t0/&gt;</ph>使用<ph x="1">&lt;t1/&gt;</ph>DIKO <ph x="2">&lt;t2/&gt;</ph>Drop zone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>6</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190710T130537Z" creationid="Tom" creationdate="20190710T130537Z">
+        <seg>6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>7</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190711T070851Z" creationid="Tom" creationdate="20190711T070851Z">
+        <seg>7</seg>
       </tuv>
     </tu>
     <tu>
@@ -166,14 +478,6 @@
     </tu>
     <tu>
       <tuv xml:lang="EN">
-        <seg><ph x="1">&lt;t1/&gt;</ph>Install<ph x="2">&lt;t2/&gt;</ph> Microsoft WSE 2.0 SP3</seg>
-      </tuv>
-      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190604T080752Z" creationid="Tom" creationdate="20190604T063341Z">
-        <seg><ph x="1">&lt;t1/&gt;</ph>安装<ph x="2">&lt;t2/&gt;</ph> Microsoft WSE 2.0 SP3</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="EN">
         <seg><ph x="12">&lt;t12/&gt;</ph>Role-based permissions ensure only authorized groups and users can access the documents.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190604T082202Z" creationid="Tom" creationdate="20190603T073039Z">
@@ -194,6 +498,24 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190604T082158Z" creationid="Tom" creationdate="20190603T073011Z">
         <seg><ph x="9">&lt;t9/&gt;</ph>此外，<ph x="10">&lt;t10/&gt;</ph>DIKO<ph x="11">&lt;t11/&gt;</ph>保留每个文件的版本以确保其完整性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>== References ==
+{{Reflist|2}}</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190710T122843Z" creationid="Tom" creationdate="20190710T122843Z">
+        <seg>==参考文献==
+{{Reflist}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>===============</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190710T122444Z" creationid="Tom" creationdate="20190710T122444Z">
+        <seg>===============</seg>
       </tuv>
     </tu>
     <tu>
@@ -380,14 +702,6 @@
     </tu>
     <tu>
       <tuv xml:lang="EN">
-        <seg>BosnianCyrillic = 130,</seg>
-      </tuv>
-      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190618T073742Z" creationid="Tom" creationdate="20190618T073742Z">
-        <seg>西里尔字母波斯尼亚语 = 130,</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="EN">
         <seg>By default, a recovery plan is suggested.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190604T080512Z" creationid="Tom" creationdate="20190604T014701Z">
@@ -404,14 +718,6 @@
     </tu>
     <tu>
       <tuv xml:lang="EN">
-        <seg>C<ph x="0">&lt;t0/&gt;</ph>lick<ph x="1">&lt;t1/&gt;</ph>[<ph x="2">&lt;t2/&gt;</ph>Next<ph x="3">&lt;t3/&gt;</ph>]</seg>
-      </tuv>
-      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190613T025250Z" creationid="Tom" creationdate="20190613T025250Z">
-        <seg>点<ph x="0">&lt;t0/&gt;</ph>击<ph x="1">&lt;t1/&gt;</ph>[<ph x="2">&lt;t2/&gt;</ph>Next<ph x="3">&lt;t3/&gt;</ph>]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="EN">
         <seg>C<ph x="0">&lt;t0/&gt;</ph>reate the folder “Gastropods” and “Bivalves” under “Mollusks”.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="Administrator" changedate="20190603T084527Z" creationid="Administrator" creationdate="20190603T084527Z">
@@ -424,6 +730,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="Administrator" changedate="20190603T084437Z" creationid="Administrator" creationdate="20190603T084422Z">
         <seg><ph x="0">&lt;t0/&gt;</ph>在“Corporate”這個資料夾之下建立新的資料夾“Mollusks”；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Cannot import:</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190710T104637Z" creationid="Tom" creationdate="20190710T104637Z">
+        <seg>Cannot import:</seg>
       </tuv>
     </tu>
     <tu>
@@ -476,11 +790,10 @@
     </tu>
     <tu>
       <tuv xml:lang="EN">
-        <seg>Choose<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>“<ph x="2">&lt;t2/&gt;</ph>I accept the terms in the license agreement<ph x="3">&lt;t3/&gt;</ph>”<ph x="4">&lt;t4/&gt;</ph> <ph x="5">&lt;t5/&gt;</ph>then select<ph x="6">&lt;t6/&gt;</ph> <ph x="7">&lt;t7/&gt;</ph>“<ph x="8">&lt;t8/&gt;</ph>Next<ph x="9">&lt;t9/&gt;</ph>”</seg>
+        <seg>Choose<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>“I accept the terms in the license agreement”<ph x="2">&lt;t2/&gt;</ph> <ph x="3">&lt;t3/&gt;</ph>then select<ph x="4">&lt;t4/&gt;</ph> <ph x="5">&lt;t5/&gt;</ph>“Next”</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190604T072441Z" creationid="Tom" creationdate="20190604T064013Z">
-        <seg>选择<ph x="0">&lt;t0/&gt;</ph><ph x="1">&lt;t1/&gt;</ph> “<ph x="2">&lt;t2/&gt;</ph>I accept the terms in the license agreement<ph x="3">&lt;t3/&gt;</ph>”<ph x="4">&lt;t4/&gt;</ph><ph x="5">&lt;t5/&gt;</ph> 然后点选<ph x="6">&lt;t6/&gt;</ph><ph x="7">&lt;t7/&gt;</ph> “<ph x="8">&lt;t8/&gt;</ph>Next<ph x="9">&lt;t9/&gt;</ph>”
-</seg>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190711T071140Z" creationid="Tom" creationdate="20190711T071016Z">
+        <seg>选择<ph x="0">&lt;t0/&gt;</ph><ph x="1">&lt;t1/&gt;</ph>“I accept the terms in the license agreement”<ph x="2">&lt;t2/&gt;</ph>（我接受许可协议中的条款）<ph x="3">&lt;t3/&gt;</ph>然后点选<ph x="4">&lt;t4/&gt;</ph><ph x="5">&lt;t5/&gt;</ph>“Next”</seg>
       </tuv>
     </tu>
     <tu>
@@ -493,6 +806,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>Clear</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190710T104658Z" creationid="Tom" creationdate="20190710T104658Z">
+        <seg>清除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>Click</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190604T020425Z" creationid="Tom" creationdate="20190604T020425Z">
@@ -501,18 +822,10 @@
     </tu>
     <tu>
       <tuv xml:lang="EN">
-        <seg>Click <ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>“<ph x="2">&lt;t2/&gt;</ph>Install<ph x="3">&lt;t3/&gt;</ph>”</seg>
+        <seg>Click <ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>“<ph x="2">&lt;t2/&gt;</ph>Install”</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190604T081538Z" creationid="Tom" creationdate="20190604T064237Z">
-        <seg>点击<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>“<ph x="2">&lt;t2/&gt;</ph>Install<ph x="3">&lt;t3/&gt;</ph>”</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="EN">
-        <seg>Click<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>“<ph x="2">&lt;t2/&gt;</ph>Install<ph x="3">&lt;t3/&gt;</ph>”</seg>
-      </tuv>
-      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190604T081753Z" creationid="Tom" creationdate="20190604T064715Z">
-        <seg>点击<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>“<ph x="2">&lt;t2/&gt;</ph>Install<ph x="3">&lt;t3/&gt;</ph>”</seg>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190711T071154Z" creationid="Tom" creationdate="20190711T071154Z">
+        <seg>点击<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>“<ph x="2">&lt;t2/&gt;</ph>Install”</seg>
       </tuv>
     </tu>
     <tu>
@@ -521,6 +834,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190604T081814Z" creationid="Tom" creationdate="20190604T081814Z">
         <seg>点击<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>“Finish”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Click<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>“Install”</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190711T071234Z" creationid="Tom" creationdate="20190711T071234Z">
+        <seg>点击<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>“Install”</seg>
       </tuv>
     </tu>
     <tu>
@@ -535,8 +856,8 @@
       <tuv xml:lang="EN">
         <seg>Click<ph x="0">&lt;t0/&gt;</ph>“<ph x="1">&lt;t1/&gt;</ph>Download<ph x="2">&lt;t2/&gt;</ph> and install this feature<ph x="3">&lt;t3/&gt;</ph>”</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190604T083124Z" creationid="Tom" creationdate="20190604T083124Z">
-        <seg>点击<ph x="0">&lt;t0/&gt;</ph>“<ph x="1">&lt;t1/&gt;</ph>Download<ph x="2">&lt;t2/&gt;</ph> and install this feature<ph x="3">&lt;t3/&gt;</ph>” </seg>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190711T071502Z" creationid="Tom" creationdate="20190604T083124Z">
+        <seg>点击<ph x="0">&lt;t0/&gt;</ph>“<ph x="1">&lt;t1/&gt;</ph>Download<ph x="2">&lt;t2/&gt;</ph> and install this feature<ph x="3">&lt;t3/&gt;</ph>”（下载并安装此功能）</seg>
       </tuv>
     </tu>
     <tu>
@@ -615,8 +936,8 @@
       <tuv xml:lang="EN">
         <seg>Copyright 2017 All rights reserved</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190604T020509Z" creationid="Tom" creationdate="20190604T020509Z">
-        <seg>©2017-2019 版權所有坐言起行教育有限公司。</seg>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190710T085335Z" creationid="Tom" creationdate="20190604T020509Z">
+        <seg>©2017-2019 版权所有坐言起行教育有限公司。</seg>
       </tuv>
     </tu>
     <tu>
@@ -637,10 +958,26 @@
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>Corporate</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190710T122621Z" creationid="Tom" creationdate="20190710T122621Z">
+        <seg>Corporate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>Customize</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190615T133559Z" creationid="Tom" creationdate="20190615T133559Z">
         <seg>定制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>DIKO</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190710T122549Z" creationid="Tom" creationdate="20190710T122549Z">
+        <seg>DIKO</seg>
       </tuv>
     </tu>
     <tu>
@@ -693,6 +1030,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>DIKO<ph x="0">&lt;t0/&gt;</ph> User Guide</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190711T062120Z" creationid="Tom" creationdate="20190711T062120Z">
+        <seg>DIKO<ph x="0">&lt;t0/&gt;</ph> User Guide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>DIKO<ph x="0">&lt;t0/&gt;</ph> consists of two storage media namely Database and File System.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190604T082534Z" creationid="Tom" creationdate="20190530T034440Z">
@@ -737,6 +1082,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190604T073957Z">
         <seg>数据库备份</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Database connection error.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190603T035009Z" creationid="Tom" creationdate="20190603T035009Z">
+        <seg>資料庫連接錯誤</seg>
       </tuv>
     </tu>
     <tu>
@@ -797,6 +1150,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>Diko<ph x="0">&lt;t0/&gt;</ph> Admin Guide</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190710T085325Z" creationid="Tom" creationdate="20190710T085325Z">
+        <seg>Diko<ph x="0">&lt;t0/&gt;</ph> Admin Guide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>Diko<ph x="0">&lt;t0/&gt;</ph> Tutorial</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190529T034128Z" creationid="Tom" creationdate="20190529T034128Z">
@@ -809,14 +1170,6 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190604T073340Z">
         <seg>版权声明</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="EN">
-        <seg>DocTracker<ph x="0">&lt;t0/&gt;</ph>v<ph x="1">&lt;t1/&gt;</ph>3<ph x="2">&lt;t2/&gt;</ph>plus</seg>
-      </tuv>
-      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190618T073715Z" creationid="Tom" creationdate="20190618T073715Z">
-        <seg>DocTracker<ph x="0">&lt;t0/&gt;</ph>v<ph x="1">&lt;t1/&gt;</ph>3<ph x="2">&lt;t2/&gt;</ph>plus</seg>
       </tuv>
     </tu>
     <tu>
@@ -845,10 +1198,10 @@
     </tu>
     <tu>
       <tuv xml:lang="EN">
-        <seg>Double click<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>“<ph x="2">&lt;t2/&gt;</ph>Microsoft WSE 2.0 SP3<ph x="3">&lt;t3/&gt;</ph>”<ph x="4">&lt;t4/&gt;</ph> <ph x="5">&lt;t5/&gt;</ph>to initiate installation</seg>
+        <seg>Double click<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>“<ph x="2">&lt;t2/&gt;</ph>Microsoft WSE 2.0 SP3<ph x="3">&lt;t3/&gt;</ph>” <ph x="4">&lt;t4/&gt;</ph>to initiate installation</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190604T072314Z" creationid="Tom" creationdate="20190604T063547Z">
-        <seg>双击<ph x="0">&lt;t0/&gt;</ph><ph x="1">&lt;t1/&gt;</ph>“<ph x="2">&lt;t2/&gt;</ph>Microsoft WSE 2.0 SP3<ph x="3">&lt;t3/&gt;</ph>”<ph x="4">&lt;t4/&gt;</ph><ph x="5">&lt;t5/&gt;</ph> 开始安装</seg>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190711T070918Z" creationid="Tom" creationdate="20190711T070918Z">
+        <seg>双击<ph x="0">&lt;t0/&gt;</ph><ph x="1">&lt;t1/&gt;</ph>“<ph x="2">&lt;t2/&gt;</ph>Microsoft WSE 2.0 SP3<ph x="3">&lt;t3/&gt;</ph>”<ph x="4">&lt;t4/&gt;</ph>开始安装</seg>
       </tuv>
     </tu>
     <tu>
@@ -869,6 +1222,126 @@
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>Email Capture User Guide</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190710T104612Z" creationid="Tom" creationdate="20190710T104612Z">
+        <seg>Email Capture User Guide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Enter the SMTP Server information to access send email function in <ph x="0">&lt;t0/&gt;</ph>Diko<ph x="1">&lt;t1/&gt;</ph>.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190710T085814Z" creationid="Tom" creationdate="20190710T085814Z">
+        <seg>Enter the SMTP Server information to access send email function in <ph x="0">&lt;t0/&gt;</ph>Diko<ph x="1">&lt;t1/&gt;</ph>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Enter your DIKO address under “Service Address”, input DIKO User ID and Password, click “Save”</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190711T071800Z" creationid="Tom" creationdate="20190711T071800Z">
+        <seg>Enter your DIKO address under “Service Address”, input DIKO User ID and Password, click “Save”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Fail to delete Default Folder DocType.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190603T064625Z" creationid="Tom" creationdate="20190603T064625Z">
+        <seg>無法刪除默認文件夾的文件種類</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Fail to get running number.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190603T064544Z" creationid="Tom" creationdate="20190603T064544Z">
+        <seg>拿取running number失敗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Fail to move document.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190603T064523Z" creationid="Tom" creationdate="20190603T064523Z">
+        <seg>移動文件失敗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Fail to search in ODBC.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190603T035331Z" creationid="Tom" creationdate="20190603T035331Z">
+        <seg>ODBC搜索失敗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Failed to Load properties file.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190603T035043Z" creationid="Tom" creationdate="20190603T035043Z">
+        <seg>屬性文件載入失敗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Failed to browse the folder.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190603T035326Z" creationid="Tom" creationdate="20190603T035326Z">
+        <seg>Failed to browse the folder.odbc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Failed to change permission.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190603T070114Z" creationid="Tom" creationdate="20190603T070114Z">
+        <seg>更改權限失敗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Failed to change user member type from the group.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190603T070055Z" creationid="Tom" creationdate="20190603T070055Z">
+        <seg>更改用戶類型失敗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Failed to move group.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190603T070149Z" creationid="Tom" creationdate="20190603T070149Z">
+        <seg>移動用戶群組失敗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Failed to reset user password.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190603T070139Z" creationid="Tom" creationdate="20190603T070139Z">
+        <seg>重設用戶密碼失敗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Failed to save news.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190603T035102Z" creationid="Tom" creationdate="20190603T035102Z">
+        <seg>此最新消息儲存失敗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Failed to search user.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190603T035018Z" creationid="Tom" creationdate="20190603T035018Z">
+        <seg>搜尋不到用戶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>File</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190604T061243Z" creationid="Tom" creationdate="20190604T061243Z">
@@ -881,6 +1354,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190604T074004Z">
         <seg>文件系统备份</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>File size limit exceeded.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190603T064919Z" creationid="Tom" creationdate="20190603T064919Z">
+        <seg>文件大小超過限制</seg>
       </tuv>
     </tu>
     <tu>
@@ -901,10 +1382,34 @@
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>General Setting</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190710T085848Z" creationid="Tom" creationdate="20190710T085848Z">
+        <seg>一般设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>Getting Started</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190604T095353Z" creationid="Tom" creationdate="20190604T095353Z">
         <seg>入门</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Give “blueprint.txt” to the vendor</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190711T062858Z" creationid="Tom" creationdate="20190711T062858Z">
+        <seg>把”Blueprint.txt” 传给供货商</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Go to “System” then select “Settings”</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190711T070723Z" creationid="Tom" creationdate="20190711T070723Z">
+        <seg>转到“系统”，然后选择“设置”</seg>
       </tuv>
     </tu>
     <tu>
@@ -973,14 +1478,6 @@
     </tu>
     <tu>
       <tuv xml:lang="EN">
-        <seg>In <ph x="0">&lt;t0/&gt;</ph>Server Manager<ph x="1">&lt;t1/&gt;</ph>, <ph x="2">&lt;t2/&gt;</ph>tap<ph x="3">&lt;t3/&gt;</ph>[<ph x="4">&lt;t4/&gt;</ph>Add roles and features<ph x="5">&lt;t5/&gt;</ph>]</seg>
-      </tuv>
-      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190613T025209Z" creationid="Tom" creationdate="20190613T025209Z">
-        <seg>在 <ph x="0">&lt;t0/&gt;</ph>Server Manager<ph x="1">&lt;t1/&gt;</ph>，<ph x="2">&lt;t2/&gt;</ph>tap<ph x="3">&lt;t3/&gt;</ph>[<ph x="4">&lt;t4/&gt;</ph>Add roles and features<ph x="5">&lt;t5/&gt;</ph>]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="EN">
         <seg>In [[voting]], a [[voter-verified paper audit trail]] is a method of providing feedback to voters using a [[ballot]]less voting system.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190604T085413Z" creationid="Tom" creationdate="20190604T085337Z">
@@ -1013,10 +1510,10 @@
     </tu>
     <tu>
       <tuv xml:lang="EN">
-        <seg>In the <ph x="0">&lt;t0/&gt;</ph>Restore to<ph x="1">&lt;t1/&gt;</ph> box, leave the default as <ph x="2">&lt;t2/&gt;</ph>To<ph x="3">&lt;t3/&gt;</ph> the last backup taken<ph x="4">&lt;t4/&gt;</ph> or click on <ph x="5">&lt;t5/&gt;</ph>Timeline<ph x="6">&lt;t6/&gt;</ph> to access the <ph x="7">&lt;t7/&gt;</ph>Backup Timeline<ph x="8">&lt;t8/&gt;</ph> dialog box to manually select a point in time to stop the recovery action.</seg>
+        <seg>Incorrect user ID or password.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190604T080451Z" creationid="Tom" creationdate="20190603T100028Z">
-        <seg>在<ph x="0">&lt;t0/&gt;</ph>Restore to<ph x="1">&lt;t1/&gt;</ph>框中，保留预设设置为<ph x="2">&lt;t2/&gt;</ph>To<ph x="3">&lt;t3/&gt;</ph> the last backup taken<ph x="4">&lt;t4/&gt;</ph>或单击<ph x="5">&lt;t5/&gt;</ph>Timeline<ph x="6">&lt;t6/&gt;</ph>以访问<ph x="7">&lt;t7/&gt;</ph>Backup Timeline<ph x="8">&lt;t8/&gt;</ph>对话框，以手动选择停止恢复操作的时间点。</seg>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190603T035036Z" creationid="Tom" creationdate="20190603T035036Z">
+        <seg>用戶名稱或密碼錯誤</seg>
       </tuv>
     </tu>
     <tu>
@@ -1033,6 +1530,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190604T094942Z" creationid="Tom" creationdate="20190529T041514Z">
         <seg>介绍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Invalid Document Name</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190603T040101Z" creationid="Tom" creationdate="20190603T040101Z">
+        <seg>不正確的檔案名稱</seg>
       </tuv>
     </tu>
     <tu>
@@ -1093,6 +1598,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>LanguageTool website connects to a [[Proprietary software|proprietary]] sister project '''LanguageTool Plus''', which provides improved error detection for English and German, as well as easier revision of longer texts, following the [[open-core model]].</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190710T122832Z" creationid="Tom" creationdate="20190710T122832Z">
+        <seg>LanguageTool website connects to a [[Proprietary software|proprietary]] sister project '''LanguageTool Plus''', which provides improved error detection for English and German, as well as easier revision of longer texts, following the [[open-core model]].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>Later, he will be transferred to another department and will report to Professor Kuroda.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190529T042317Z" creationid="Tom" creationdate="20190529T042317Z">
@@ -1101,10 +1614,44 @@
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>Licensing information
+=====================</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190710T122510Z" creationid="Tom" creationdate="20190710T122510Z">
+        <seg>许可信息
+=====================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>Loading...</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190604T085507Z" creationid="Tom" creationdate="20190604T060836Z">
         <seg>载入中...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Location</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190710T122603Z" creationid="Tom" creationdate="20190710T122603Z">
+        <seg>地点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Locked</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190710T122630Z" creationid="Tom" creationdate="20190710T122630Z">
+        <seg>Locked</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Login ID</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190710T122550Z" creationid="Tom" creationdate="20190710T122550Z">
+        <seg>Login ID</seg>
       </tuv>
     </tu>
     <tu>
@@ -1125,6 +1672,22 @@
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>Mandatory Attribute is not set</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190603T035351Z" creationid="Tom" creationdate="20190603T035351Z">
+        <seg>強制屬性沒有設置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Menu</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190710T122615Z" creationid="Tom" creationdate="20190710T122615Z">
+        <seg>菜單</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>Module</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190604T072217Z" creationid="Tom" creationdate="20190604T063323Z">
@@ -1137,14 +1700,6 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190618T073750Z" creationid="Tom" creationdate="20190618T073750Z">
         <seg>摩尔多瓦语 = 131,</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="EN">
-        <seg>MongolianCyrillic = 135,</seg>
-      </tuv>
-      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190618T073819Z" creationid="Tom" creationdate="20190618T073819Z">
-        <seg>西里尔字母蒙古语 = 135,</seg>
       </tuv>
     </tu>
     <tu>
@@ -1205,6 +1760,18 @@
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>OmegaT is available under the terms of the GNU General Public License as
+published by the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190710T122541Z" creationid="Tom" creationdate="20190710T122541Z">
+        <seg>OmegaT is available under the terms of the GNU General Public License as
+published by the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>On the <ph x="0">&lt;t0/&gt;</ph>General<ph x="1">&lt;t1/&gt;</ph> page, use the <ph x="2">&lt;t2/&gt;</ph>Source<ph x="3">&lt;t3/&gt;</ph> section to specify the source and location of the backup sets to restore.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190604T080344Z" creationid="Administrator" creationdate="20190603T092404Z">
@@ -1233,6 +1800,31 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="Administrator" changedate="20190603T084906Z" creationid="Administrator" creationdate="20190603T084906Z">
         <seg>第<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>2<ph x="2">&lt;t2/&gt;</ph> <ph x="3">&lt;t3/&gt;</ph>/<ph x="4">&lt;t4/&gt;</ph> <ph x="5">&lt;t5/&gt;</ph>2 頁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Password</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190710T122557Z" creationid="Tom" creationdate="20190710T122557Z">
+        <seg>密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Password expired, please input new password.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190603T064902Z" creationid="Tom" creationdate="20190603T064902Z">
+        <seg>帳號密碼已過期，請輸入新密碼。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Paste the key code from vendor into Activation Key and hit <ph x="0">&lt;t0/&gt;</ph>“Activate”</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190711T070757Z" creationid="Tom" creationdate="20190711T070757Z">
+        <seg>把供货商传给您的KEY贴上并点击<ph x="0">&lt;t0/&gt;</ph>“Activate”
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -1285,28 +1877,130 @@
     </tu>
     <tu>
       <tuv xml:lang="EN">
-        <seg>Project-Id-Version: CommentPress Core 3.9.11
-Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/commentpress-core
-POT-Creation-Date: 2018-04-30 12:46:00+00:00
+        <seg>Project-Id-Version: 
+Report-Msgid-Bugs-To: 
+POT-Creation-Date: 2019-05-28 14:23+0200
+PO-Revision-Date: 2019-06-19 18:15+0800
+Last-Translator: Copied by Zanata &lt;copied-by-zanata@zanata.org&gt;
+Language-Team: Traditional Chinese &lt;zh@li.org&gt;
 MIME-Version: 1.0
 Content-Type: text/plain; charset=UTF-8
 Content-Transfer-Encoding: 8bit
-PO-Revision-Date: 2019-06-15 21:30+0800
-Last-Translator: Tom K. C. Chiu &lt;babycaseny@gmail.com&gt;
-Language-Team: Babycaseny Gavernment &lt;babycaseny@gmail.com&gt;
-Language: bb</seg>
+Plural-Forms: nplurals=1; plural=0;
+X-Generator: Poedit 2.2.3</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190615T133408Z" creationid="Tom" creationdate="20190615T133408Z">
-        <seg>Project-Id-Version: CommentPress Core 3.9.11
-Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/commentpress-core
-POT-Creation-Date: 2018-04-30 12:46:00+00:00
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190710T122350Z" creationid="Tom" creationdate="20190710T104721Z">
+        <seg>Project-Id-Version: 
+Report-Msgid-Bugs-To: 
+POT-Creation-Date: 2019-05-28 14:23+0200
+PO-Revision-Date: 2019-06-19 18:15+0800
+Last-Translator: Copied by Zanata &lt;copied-by-zanata@zanata.org&gt;
+Language-Team: Simplified Chinese &lt;zh@li.org&gt;
+Language: zh_CN
 MIME-Version: 1.0
 Content-Type: text/plain; charset=UTF-8
 Content-Transfer-Encoding: 8bit
-PO-Revision-Date: 2019-06-15 21:30+0800
+Plural-Forms: nplurals=1; plural=0;
+X-Generator: Poedit 2.2.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Project-Id-Version: WordPress 3.0-RC3 20100617
+Report-Msgid-Bugs-To: 
+POT-Creation-Date: 2010-06-17 14:54+0800
+PO-Revision-Date: 2019-06-15 12:13+0800
 Last-Translator: Tom K. C. Chiu &lt;babycaseny@gmail.com&gt;
-Language-Team: Babycaseny Gavernment &lt;babycaseny@gmail.com&gt;
-Language: bb</seg>
+Language-Team: Babycasèny Gavernmènt &lt;babycaseny@gmail.com&gt;
+Language: bb
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=2; plural=n==1?0:1;
+X-Poedit-SourceCharset: utf-8
+X-Poedit-KeywordsList: __;_e;_c;__ngettext:1,2;_n:1,2;_nc:1,2;__ngettext_noop:1,2;_n_noop:1,2;_x:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_ex:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c
+X-Poedit-Basepath: ../..</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190710T122426Z" creationid="Tom" creationdate="20190710T122426Z">
+        <seg>Project-Id-Version: WordPress 3.0-RC3 20100617
+Report-Msgid-Bugs-To: 
+POT-Creation-Date: 2010-06-17 14:54+0800
+PO-Revision-Date: 2019-06-15 12:13+0800
+Last-Translator: Tom K. C. Chiu &lt;babycaseny@gmail.com&gt;
+Language-Team: Babycasèny Gavernmènt &lt;babycaseny@gmail.com&gt;
+Language: zh_CN
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=2; plural=n==1?0:1;
+X-Poedit-SourceCharset: utf-8
+X-Poedit-KeywordsList: __;_e;_c;__ngettext:1,2;_n:1,2;_nc:1,2;__ngettext_noop:1,2;_n_noop:1,2;_x:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_ex:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c
+X-Poedit-Basepath: ../..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Project-Id-Version: meld master
+Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/meld/issues
+POT-Creation-Date: 2018-08-17 21:12+0000
+PO-Revision-Date: 2019-07-10 15:52+0800
+Last-Translator: Hsiu-Ming Chang &lt;cges30901@gmail.com&gt;
+Language-Team: Babycaseny Gavèrnmènt
+Language: zh_TW
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=1; plural=0;
+X-Generator: Poedit 2.2.3
+X-Project-Style: gnome
+X-Source-Language: C</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190710T104629Z" creationid="Tom" creationdate="20190710T104629Z">
+        <seg>Project-Id-Version: meld master
+Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/meld/issues
+POT-Creation-Date: 2018-08-17 21:12+0000
+PO-Revision-Date: 2019-07-10 15:52+0800
+Last-Translator: Hsiu-Ming Chang &lt;cges30901@gmail.com&gt;
+Language-Team: Babycaseny Gavèrnmènt
+Language: zh_CN
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=1; plural=0;
+X-Generator: Poedit 2.2.3
+X-Project-Style: gnome
+X-Source-Language: C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Project-Id-Version: poedit
+Report-Msgid-Bugs-To: help@poedit.net
+POT-Creation-Date: 2019-05-14 19:28+0200
+PO-Revision-Date: 2019-06-15 21:30+0800
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=2; plural=n==1?0:1;
+X-Poedit-SourceCharset: utf-8
+X-Generator: Poedit 2.2.3
+X-Crowdin-Project: poedit
+X-Crowdin-File: /locales/poedit.pot</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190710T122411Z" creationid="Tom" creationdate="20190710T122411Z">
+        <seg>Project-Id-Version: poedit
+Report-Msgid-Bugs-To: help@poedit.net
+POT-Creation-Date: 2019-05-14 19:28+0200
+PO-Revision-Date: 2019-06-15 21:30+0800
+Language: zh_CN
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=2; plural=n==1?0:1;
+X-Poedit-SourceCharset: utf-8
+X-Generator: Poedit 2.2.3
+X-Crowdin-Project: poedit
+X-Crowdin-File: /locales/poedit.pot</seg>
       </tuv>
     </tu>
     <tu>
@@ -1439,10 +2133,27 @@ Language: bb</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN">
-        <seg>Select<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>“<ph x="2">&lt;t2/&gt;</ph>Next<ph x="3">&lt;t3/&gt;</ph>”</seg>
+        <seg>Select<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>“<ph x="2">&lt;t2/&gt;</ph>Blueprint<ph x="3">&lt;t3/&gt;</ph>” <ph x="4">&lt;t4/&gt;</ph>path then<ph x="5">&lt;t5/&gt;</ph> <ph x="6">&lt;t6/&gt;</ph>click<ph x="7">&lt;t7/&gt;</ph> <ph x="8">&lt;t8/&gt;</ph>“<ph x="9">&lt;t9/&gt;</ph>Generate H/W Blueprint<ph x="10">&lt;t10/&gt;</ph>”</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190604T072346Z" creationid="Tom" creationdate="20190604T063748Z">
-        <seg>点选<ph x="0">&lt;t0/&gt;</ph><ph x="1">&lt;t1/&gt;</ph> “<ph x="2">&lt;t2/&gt;</ph>Next<ph x="3">&lt;t3/&gt;</ph>”</seg>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190711T071729Z" creationid="Tom" creationdate="20190711T071729Z">
+        <seg>选择<ph x="0">&lt;t0/&gt;</ph>”<ph x="1">&lt;t1/&gt;</ph>Blueprint<ph x="2">&lt;t2/&gt;</ph>”<ph x="3">&lt;t3/&gt;</ph> <ph x="4">&lt;t4/&gt;</ph>路径，然后<ph x="5">&lt;t5/&gt;</ph><ph x="6">&lt;t6/&gt;</ph>点击<ph x="7">&lt;t7/&gt;</ph><ph x="8">&lt;t8/&gt;</ph>“<ph x="9">&lt;t9/&gt;</ph>Generate H/W Blueprint<ph x="10">&lt;t10/&gt;</ph>”
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Select<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>“Next”</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190711T070928Z" creationid="Tom" creationdate="20190711T070928Z">
+        <seg>点选<ph x="0">&lt;t0/&gt;</ph><ph x="1">&lt;t1/&gt;</ph> “Next”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Select<ph x="0">&lt;t0/&gt;</ph> “<ph x="1">&lt;t1/&gt;</ph>Properties<ph x="2">&lt;t2/&gt;</ph>”<ph x="3">&lt;t3/&gt;</ph> <ph x="4">&lt;t4/&gt;</ph>under<ph x="5">&lt;t5/&gt;</ph>“Compatibility”<ph x="6">&lt;t6/&gt;</ph> <ph x="7">&lt;t7/&gt;</ph>click<ph x="8">&lt;t8/&gt;</ph> <ph x="9">&lt;t9/&gt;</ph>“Change settings for all users” <ph x="10">&lt;t10/&gt;</ph>check<ph x="11">&lt;t11/&gt;</ph> <ph x="12">&lt;t12/&gt;</ph>“Run this program as an administrator”</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190711T071653Z" creationid="Tom" creationdate="20190711T071653Z">
+        <seg>选择<ph x="5">&lt;t5/&gt;</ph>“兼容性”<ph x="6">&lt;t6/&gt;</ph>之下的<ph x="0">&lt;t0/&gt;</ph> “<ph x="1">&lt;t1/&gt;</ph>属性<ph x="2">&lt;t2/&gt;</ph>”<ph x="3">&lt;t3/&gt;</ph><ph x="4">&lt;t4/&gt;</ph>，<ph x="7">&lt;t7/&gt;</ph>点击<ph x="8">&lt;t8/&gt;</ph><ph x="9">&lt;t9/&gt;</ph>“更改所有用户的设置” <ph x="10">&lt;t10/&gt;</ph>校验<ph x="11">&lt;t11/&gt;</ph><ph x="12">&lt;t12/&gt;</ph>“以管理员身份运行此程序”</seg>
       </tuv>
     </tu>
     <tu>
@@ -1479,10 +2190,10 @@ Language: bb</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN">
-        <seg>Start setting up the <ph x="0">&lt;t0/&gt;</ph>OCR Station.<ph x="1">&lt;t1/&gt;</ph> Double-click the shortcut of <ph x="2">&lt;t2/&gt;</ph>DocTracker OCR Client Config <ph x="3">&lt;t3/&gt;</ph>on the desktop to open the <ph x="4">&lt;t4/&gt;</ph>DocTracker OCR Station Control Panel<ph x="5">&lt;t5/&gt;</ph> program.</seg>
+        <seg>Staff Folder is not found on system.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190618T073834Z" creationid="Tom" creationdate="20190618T073834Z">
-        <seg>Start setting up the <ph x="0">&lt;t0/&gt;</ph>OCR Station.<ph x="1">&lt;t1/&gt;</ph> Double-click the shortcut of <ph x="2">&lt;t2/&gt;</ph>DocTracker OCR Client Config <ph x="3">&lt;t3/&gt;</ph>on the desktop to open the <ph x="4">&lt;t4/&gt;</ph>DocTracker OCR Station Control Panel<ph x="5">&lt;t5/&gt;</ph> program.</seg>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190603T040128Z" creationid="Tom" creationdate="20190603T040128Z">
+        <seg>系統中沒有找到Staff Folder</seg>
       </tuv>
     </tu>
     <tu>
@@ -1495,6 +2206,15 @@ Language: bb</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>Successfully entered DIKO <ph x="0">&lt;t0/&gt;</ph>DropZone<ph x="1">&lt;t1/&gt;</ph>, Click “Yes”</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190711T063002Z" creationid="Tom" creationdate="20190711T063002Z">
+        <seg>成功载入 “DIKO <ph x="0">&lt;t0/&gt;</ph>Drop Zone<ph x="1">&lt;t1/&gt;</ph>” 界面, 点击“NO”
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>Summary</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190604T075028Z" creationid="Tom" creationdate="20190529T041547Z">
@@ -1503,10 +2223,26 @@ Language: bb</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN">
-        <seg>SwissGerman = 132,</seg>
+        <seg>System Configurations</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190618T073755Z" creationid="Tom" creationdate="20190618T073755Z">
-        <seg>瑞士德语 = 132,</seg>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190710T085410Z" creationid="Tom" creationdate="20190710T085410Z">
+        <seg>系统配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>System Email Message</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190710T085823Z" creationid="Tom" creationdate="20190710T085823Z">
+        <seg>系统电子邮件设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>System Email Setting</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190710T085413Z" creationid="Tom" creationdate="20190710T085413Z">
+        <seg>系统电子邮件设置</seg>
       </tuv>
     </tu>
     <tu>
@@ -1519,6 +2255,14 @@ Language: bb</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>System Group can not be relocated.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190603T070208Z" creationid="Tom" creationdate="20190603T070208Z">
+        <seg>不能移動系統預設群組</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>System Installation Guide</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190613T024802Z" creationid="Tom" creationdate="20190613T024802Z">
@@ -1527,10 +2271,18 @@ Language: bb</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN">
-        <seg>T<ph x="0">&lt;t0/&gt;</ph>able of Content</seg>
+        <seg>System cannot delete Department which contains user members</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190604T074924Z" creationid="Tom" creationdate="20190529T041520Z">
-        <seg>目录</seg>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190603T070256Z" creationid="Tom" creationdate="20190603T070256Z">
+        <seg>系統無法刪除仍有用戶的部門</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>System error.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190603T064822Z" creationid="Tom" creationdate="20190603T064737Z">
+        <seg>系統錯誤。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1551,10 +2303,10 @@ Language: bb</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN">
-        <seg>Table of Content</seg>
+        <seg>Table of <ph x="0">&lt;t0/&gt;</ph>Content<ph x="1">&lt;t1/&gt;</ph>s</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190604T073902Z">
-        <seg>目录</seg>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190711T070835Z" creationid="Tom" creationdate="20190711T070835Z">
+        <seg><ph x="0">&lt;t0/&gt;</ph>目录<ph x="1">&lt;t1/&gt;</ph></seg>
       </tuv>
     </tu>
     <tu>
@@ -1583,18 +2335,26 @@ Language: bb</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN">
-        <seg>The following procedures show how to restore the database backup using MS SQL Server Management Studio.</seg>
+        <seg>The disk is full.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190604T080308Z" creationid="Tom" creationdate="20190530T051904Z">
-        <seg>以下过程说明如何使用MS SQL Server Management Studio复原数据库备份。</seg>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190603T064830Z" creationid="Tom" creationdate="20190603T064748Z">
+        <seg>磁碟已滿。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="EN">
-        <seg>The following procedures show you how <ph x="5">&lt;t5/&gt;</ph>to <ph x="6">&lt;t6/&gt;</ph>use the SQL Server Management Studio <ph x="7">&lt;t7/&gt;</ph>to <ph x="8">&lt;t8/&gt;</ph>backup<ph x="9">&lt;t9/&gt;</ph> the <ph x="10">&lt;t10/&gt;</ph>DIKO<ph x="11">&lt;t11/&gt;</ph> database <ph x="12">&lt;t12/&gt;</ph>installed to <ph x="13">&lt;t13/&gt;</ph>its default location</seg>
+        <seg>The document has been updated by other user.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190604T075946Z" creationid="Administrator" creationdate="20190603T091014Z">
-        <seg>以下过程说明如何<ph x="5">&lt;t5/&gt;</ph>去<ph x="6">&lt;t6/&gt;</ph>透过SQL Server Management Studio<ph x="7">&lt;t7/&gt;</ph>将<ph x="12">&lt;t12/&gt;</ph>安装于<ph x="13">&lt;t13/&gt;</ph>于默认位置的<ph x="10">&lt;t10/&gt;</ph>DIKO<ph x="11">&lt;t11/&gt;</ph>数据库<ph x="8">&lt;t8/&gt;</ph>备份<ph x="9">&lt;t9/&gt;</ph>。</seg>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190603T035028Z" creationid="Tom" creationdate="20190603T035028Z">
+        <seg>此資料夾已被其他用戶更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The following procedures show how to restore the database backup using MS SQL Server Management Studio.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190604T080308Z" creationid="Tom" creationdate="20190530T051904Z">
+        <seg>以下过程说明如何使用MS SQL Server Management Studio复原数据库备份。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1619,6 +2379,14 @@ Language: bb</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190604T075207Z" creationid="Tom" creationdate="20190529T093241Z">
         <seg>学院各部门间的架构如下图：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The user object is null.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190603T035049Z" creationid="Tom" creationdate="20190603T035049Z">
+        <seg>用戶為null</seg>
       </tuv>
     </tu>
     <tu>
@@ -1687,10 +2455,26 @@ Language: bb</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>This tab is to customize the email message.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190710T085838Z" creationid="Tom" creationdate="20190710T085838Z">
+        <seg>此选项卡用于自定义电子邮件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>To change the name of the database, enter the new name in the <ph x="4">&lt;t4/&gt;</ph>Database<ph x="5">&lt;t5/&gt;</ph> box.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190604T080445Z" creationid="Administrator" creationdate="20190603T093234Z">
         <seg>要更改数据库名称，请在<ph x="4">&lt;t4/&gt;</ph>Database<ph x="5">&lt;t5/&gt;</ph>框中输入新名称。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>To configure <ph x="0">&lt;t0/&gt;</ph>General Setting<ph x="1">&lt;t1/&gt;</ph>, click the <ph x="2">&lt;t2/&gt;</ph> button on the <ph x="3">&lt;t3/&gt;</ph>Menu<ph x="4">&lt;t4/&gt;</ph> section and click the <ph x="5">&lt;t5/&gt;</ph>System Configuration<ph x="6">&lt;t6/&gt;</ph> function &gt; <ph x="7">&lt;t7/&gt;</ph>General Setting<ph x="8">&lt;t8/&gt;</ph> tab.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190710T085935Z" creationid="Tom" creationdate="20190710T085935Z">
+        <seg>To configure <ph x="0">&lt;t0/&gt;</ph>General Setting<ph x="1">&lt;t1/&gt;</ph>, click the <ph x="2">&lt;t2/&gt;</ph> button on the <ph x="3">&lt;t3/&gt;</ph>Menu<ph x="4">&lt;t4/&gt;</ph> section and click the <ph x="5">&lt;t5/&gt;</ph>System Configuration<ph x="6">&lt;t6/&gt;</ph> function &gt; <ph x="7">&lt;t7/&gt;</ph>General Setting<ph x="8">&lt;t8/&gt;</ph> tab.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1735,6 +2519,22 @@ Language: bb</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>Unauthorized.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190603T035000Z" creationid="Tom" creationdate="20190603T035000Z">
+        <seg>未經授權</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Unknown log domain '%s'</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190710T122356Z" creationid="Tom" creationdate="20190710T122356Z">
+        <seg>Unknown log domain '%s'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>Updated with details steps of backup and restore, with screen captures</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190604T073841Z" creationid="Tom" creationdate="20190530T030733Z">
@@ -1743,10 +2543,22 @@ Language: bb</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN">
-        <seg>Upon completion click<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>“<ph x="2">&lt;t2/&gt;</ph>Finish<ph x="3">&lt;t3/&gt;</ph>”</seg>
+        <seg>Upon completion click<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>“Finish”</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190604T081609Z" creationid="Tom" creationdate="20190604T064337Z">
-        <seg>安装完成后点击<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>“<ph x="2">&lt;t2/&gt;</ph>Finish<ph x="3">&lt;t3/&gt;</ph>”</seg>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190711T071205Z" creationid="Tom" creationdate="20190711T071205Z">
+        <seg>安装完成后点击<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>“Finish”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Usage: nmcli agent { COMMAND | help }
+
+COMMAND := { secret | polkit | all }</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190710T104724Z" creationid="Tom" creationdate="20190710T104724Z">
+        <seg>Usage: nmcli agent { COMMAND | help }
+
+COMMAND := { secret | polkit | all }</seg>
       </tuv>
     </tu>
     <tu>
@@ -1763,14 +2575,6 @@ Language: bb</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190604T082237Z" creationid="Tom" creationdate="20190603T073853Z">
         <seg>使用者可以通过其共享连结<ph x="4">&lt;t4/&gt;</ph>来分享文件，以确保诉讼共享。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="EN">
-        <seg>UzbekLatin = 136,</seg>
-      </tuv>
-      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190618T073826Z" creationid="Tom" creationdate="20190618T073826Z">
-        <seg>拉丁字母乌孜别克语 = 136,</seg>
       </tuv>
     </tu>
     <tu>
@@ -1799,6 +2603,22 @@ Language: bb</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>Welcome back to DIKO</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190710T122608Z" creationid="Tom" creationdate="20190710T122608Z">
+        <seg>欢迎回到DIKO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>What is OmegaT?</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190710T122458Z" creationid="Tom" creationdate="20190710T122442Z">
+        <seg>OmegaT是什么？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>With <ph x="0">&lt;t0/&gt;</ph>DIKO<ph x="1">&lt;t1/&gt;</ph>, all documents are well protected and managed so the corporation is on the safe side in the dynamic business world.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190604T082244Z" creationid="Tom" creationdate="20190603T074335Z">
@@ -1815,6 +2635,24 @@ Language: bb</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>X-Generator: Poedit 2.2.3
+X-Poedit-SearchPath-0: .</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190710T122428Z" creationid="Tom" creationdate="20190710T122428Z">
+        <seg>X-Generator: Poedit 2.2.3
+X-Poedit-SearchPath-0: .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>XFN</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190710T122429Z" creationid="Tom" creationdate="20190710T122429Z">
+        <seg>XFN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>You may prefer to display an image instead of text in the header of your site.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190615T133551Z" creationid="Tom" creationdate="20190615T133551Z">
@@ -1827,14 +2665,6 @@ Language: bb</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190604T080238Z" creationid="Administrator" creationdate="20190603T091408Z">
         <seg>您可以使用Windows的计划任务功能于每晚进行文件系统备份。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="EN">
-        <seg>You may use some database backup software to <ph x="0">&lt;t0/&gt;</ph>backup<ph x="1">&lt;t1/&gt;</ph> the <ph x="2">&lt;t2/&gt;</ph>DIKO<ph x="3">&lt;t3/&gt;</ph> database<ph x="4">&lt;t4/&gt;</ph>.</seg>
-      </tuv>
-      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190604T075936Z" creationid="Tom" creationdate="20190530T045141Z">
-        <seg>您可以使用一些数据库备份软件来<ph x="0">&lt;t0/&gt;</ph>备份<ph x="1">&lt;t1/&gt;</ph><ph x="2">&lt;t2/&gt;</ph>DIKO<ph x="3">&lt;t3/&gt;</ph>数据库<ph x="4">&lt;t4/&gt;</ph>。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1873,9 +2703,29 @@ Language: bb</seg>
       <tuv xml:lang="EN">
         <seg>[[Category:Auditing terms|Trail]]</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190604T085450Z" creationid="Tom" creationdate="20190528T074918Z">
-        <seg>==外部连结==
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190710T122653Z" creationid="Tom" creationdate="20190528T074918Z">
+        <seg>==外部链接==
 [[Category:审计术语]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>[[Category:Cross-platform free software]]
+[[Category:Software using the LGPL license]]
+[[Category:Firefox add-ons]]
+[[Category:Free software programmed in Java (programming language)]]
+[[Category:Grammar checkers]]
+[[Category:Free spelling checking programs]]</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190710T122904Z" creationid="Tom" creationdate="20190710T122904Z">
+        <seg>==外部链接==
+
+[[Category:Cross-platform free software]]
+[[Category:Software using the LGPL license]]
+[[Category:Firefox add-ons]]
+[[Category:Free software programmed in Java (programming language)]]
+[[Category:Grammar checkers]]
+[[Category:Free spelling checking programs]]</seg>
       </tuv>
     </tu>
     <tu>
@@ -1891,10 +2741,40 @@ Language: bb</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>[[Category:Microsoft database software]]
+[[Category:Reporting software]]</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190710T122931Z" creationid="Tom" creationdate="20190710T122931Z">
+        <seg>[[Category:Microsoft database software]]
+[[Category:Reporting software]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>[[Category:Proprietary database management systems]]
+[[Category:Microsoft server technology]]
+[[Category:Microsoft database software]]</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190710T122916Z" creationid="Tom" creationdate="20190710T122916Z">
+        <seg>[[Category:Proprietary database management systems]]
+[[Category:Microsoft server technology]]
+[[Category:Microsoft database software]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>[[Securities and Exchange Commission]] |date=26 May 2010 |accessdate=7 March 2012}}&lt;/ref&gt; [[scientific research]] and health care data transactions,&lt;ref&gt;{{cite web|url=http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;sid=5ff3a0efed913ef8fae9e225869688a2&amp;rgn=div5&amp;view=text&amp;node=21:1.0.1.1.7&amp;idno=21 |title=Electronic Code of Federal Regulations - Title 21: Food and Drugs - Part 11: Electronic Records; Electronic Signatures |publisher=[[U.S.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190528T074327Z" creationid="Tom" creationdate="20190528T073945Z">
         <seg>[[美国证券交易委员会|Securities and Exchange Commission]] |date=2010-05-26 |access-date=2012-03-07 |language=en }}&lt;/ref&gt;、[[科学方法|科學研究]]和醫療保健數據交易&lt;ref&gt;{{cite web|url=http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&amp;sid=5ff3a0efed913ef8fae9e225869688a2&amp;rgn=div5&amp;view=text&amp;node=21:1.0.1.1.7&amp;idno=21 |title=Electronic Code of Federal Regulations - Title 21: Food and Drugs - Part 11: Electronic Records; Electronic Signatures |publisher=[[美国政府出版局|U.S.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>https://sourceforge.net/p/omegat/bugs/</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190710T122543Z" creationid="Tom" creationdate="20190710T122543Z">
+        <seg>https://sourceforge.net/p/omegat/bugs/</seg>
       </tuv>
     </tu>
     <tu>
@@ -1915,10 +2795,124 @@ Language: bb</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>{{Infobox software
+| name = Microsoft SQL Server Express
+| logo = 
+| screenshot = 
+| caption = 
+| developer = [[Microsoft]]
+| programming language = [[C (programming language)|C]], [[C++]]
+| latest release version = SQL Server 2017 Express
+| latest release date = {{Start date and years ago|2017|11|6}}
+| status = Active
+| operating system = [[Microsoft Windows]], [[Linux]]
+| platform = [[IA-32]] or [[IA-64]]&lt;br&gt; &gt; 512 MB RAM&lt;br&gt;[[.NET Framework 4.0]]&lt;ref&gt;{{cite web|url=https://msdn.microsoft.com/en-us/library/ms143506%28v=sql.120%29.aspx |title=Hardware and Software Requirements for Installing SQL Server 2014 - SQL Server &amp;#124; Microsoft Docs |publisher=Msdn.microsoft.com |date= |accessdate=2019-04-03}}&lt;/ref&gt;
+| genre = [[Relational database management system]]
+| language = English, Chinese, French, German, Italian, Japanese, Korean, Portuguese (Brazil), Russian, Spanish
+| license = [[Proprietary software]]&lt;ref&gt;{{cite web|url=https://msdn.microsoft.com/en-us/library/ms143522%28v=sql.120%29.aspx |title=About the SQL Server License Terms - SQL Server &amp;#124; Microsoft Docs |publisher=Msdn.microsoft.com |date=2017-05-24 |accessdate=2019-04-03}}&lt;/ref&gt;
+| website = [http://www.microsoft.com/en-us/server-cloud/products/sql-server-editions/sql-server-express.aspx www.microsoft.com]
+}}
+'''Microsoft SQL Server Express''' is a version of [[Microsoft]]'s [[Microsoft SQL Server|SQL Server]] [[relational database management system]] that is free to download, distribute and use.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190710T122913Z" creationid="Tom" creationdate="20190710T122913Z">
+        <seg>{{Infobox software
+| name = Microsoft SQL Server Express
+| logo = 
+| screenshot = 
+| caption = 
+| developer = [[Microsoft]]
+| programming language = [[C (programming language)|C]], [[C++]]
+| latest release version = SQL Server 2017 Express
+| latest release date = {{Start date and years ago|2017|11|6}}
+| status = Active
+| operating system = [[Microsoft Windows]], [[Linux]]
+| platform = [[IA-32]] or [[IA-64]]&lt;br&gt; &gt; 512 MB RAM&lt;br&gt;[[.NET Framework 4.0]]&lt;ref&gt;{{cite web|url=https://msdn.microsoft.com/en-us/library/ms143506%28v=sql.120%29.aspx |title=Hardware and Software Requirements for Installing SQL Server 2014 - SQL Server &amp;#124; Microsoft Docs |publisher=Msdn.microsoft.com |date= |accessdate=2019-04-03}}&lt;/ref&gt;
+| genre = [[Relational database management system]]
+| language = English, Chinese, French, German, Italian, Japanese, Korean, Portuguese (Brazil), Russian, Spanish
+| license = [[Proprietary software]]&lt;ref&gt;{{cite web|url=https://msdn.microsoft.com/en-us/library/ms143522%28v=sql.120%29.aspx |title=About the SQL Server License Terms - SQL Server &amp;#124; Microsoft Docs |publisher=Msdn.microsoft.com |date=2017-05-24 |accessdate=2019-04-03}}&lt;/ref&gt;
+| website = [http://www.microsoft.com/en-us/server-cloud/products/sql-server-editions/sql-server-express.aspx www.microsoft.com]
+}}
+'''Microsoft SQL Server Express''' is a version of [[Microsoft]]'s [[Microsoft SQL Server|SQL Server]] [[relational database management system]] that is free to download, distribute and use.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>{{Microsoft-software-stub}}</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190710T122928Z" creationid="Tom" creationdate="20190710T122928Z">
+        <seg>{{Microsoft-software-stub}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>{{Refimprove|date=March 2012}}</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190528T071401Z" creationid="Tom" creationdate="20190528T071401Z">
         <seg>{{Refimprove|time=2012-03}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>{{free-software-stub}}</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190710T122837Z" creationid="Tom" creationdate="20190710T122837Z">
+        <seg>{{free-software-stub}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>{{short description|Free and open-source spell and grammar checker}}
+{{Infobox software
+| name = LanguageTool
+| title = LanguageTool
+| logo = LanguageTool Logo.svg
+| screenshot = LanguageTool WikiCheck.png
+| caption = LanguageTool WikiCheck
+| developer = Daniel Naber and Marcin Miłkowski
+| released = {{Start date and age|2005|08|15|df=yes}}
+| programming language = [[Java (programming language)|Java]]
+| platform = [[Java SE]]
+| language count = &lt;!--Number languages in which the user interface appear, NOT the number of languages that can be spell-checked.--&gt;
+| language footnote = 
+| size = {{ubl
+|'''Desktop app:''' 156 MB&lt;ref&gt;https://languagetool.org/download/&lt;/ref&gt;
+|'''n-gram data:''' 8.34 GB&lt;ref&gt;https://languagetool.org/download/ngram-data/&lt;/ref&gt;
+}}
+| language = &lt;!--Languages in which the user interface appear, NOT the languages that can be spell-checked.--&gt;
+| genre = [[Grammar checker]]
+| license = [[GNU Lesser General Public License|GNU LGPL]] v2.1+
+}}</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190710T122705Z" creationid="Tom" creationdate="20190710T122705Z">
+        <seg>{{short description|Free and open-source spell and grammar checker}}
+{{Infobox software
+| name = LanguageTool
+| title = LanguageTool
+| logo = LanguageTool Logo.svg
+| screenshot = LanguageTool WikiCheck.png
+| caption = LanguageTool WikiCheck
+| developer = Daniel Naber and Marcin Miłkowski
+| released = {{Start date and age|2005|08|15|df=yes}}
+| programming language = [[Java (programming language)|Java]]
+| platform = [[Java SE]]
+| language count = &lt;!--Number languages in which the user interface appear, NOT the number of languages that can be spell-checked.--&gt;
+| language footnote = 
+| size = {{ubl
+|'''Desktop app:''' 156 MB&lt;ref&gt;https://languagetool.org/download/&lt;/ref&gt;
+|'''n-gram data:''' 8.34 GB&lt;ref&gt;https://languagetool.org/download/ngram-data/&lt;/ref&gt;
+}}
+| language = &lt;!--Languages in which the user interface appear, NOT the languages that can be spell-checked.--&gt;
+| genre = [[Grammar checker]]
+| license = [[GNU Lesser General Public License|GNU LGPL]] v2.1+
+}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>“%s” is not a valid POT file.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Tom" changedate="20190710T122416Z" creationid="Tom" creationdate="20190710T122416Z">
+        <seg>“%s” is not a valid POT file.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->

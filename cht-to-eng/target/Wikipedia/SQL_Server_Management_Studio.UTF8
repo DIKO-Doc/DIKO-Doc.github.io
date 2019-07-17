@@ -1,0 +1,52 @@
+{{Infobox software
+| name                   = SQL Server Management Studio
+| logo                   = 
+| screenshot             = SQLServerManagementStudio.JPG
+| caption                = 一個早期版本的Microsoft SQL Server Management Studio的截圖，顯示一條query, the results of the query, and the Object Explorer pane while connected to a SQL Server database engine instance.
+| collapsible            = 
+| author                 = 
+| developer              = Microsoft
+| released               = 2005
+| discontinued           = 
+| latest release version = <!-- 如果本項更新了，請同時亦更新 {{tsl|en|Comparison of database tools|}}-->18.1<ref name="ssms_release">{{cite web |url=https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-2017 |date=2019-06-11 |title=Download SQL Server Management Studio (SSMS) |archiveurl=https://web.archive.org/web/20190619092838/https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-2017 |archivedate=2019-06-19 |language=en}}</ref>
+| latest release date    = {{Start date and age|2019|6|11}}
+| latest preview version = 
+| latest preview date    = <!-- {{Start date and age|YYYY|MM|DD|df=yes/no}} -->
+| programming language   = 
+| operating system       = [[Microsoft Windows 8.1]] (64-bit)、[[Microsoft Windows 10]] (64-bit)、[[Windows Server]] [[Windows Server 2008|2008]]至[[Windows Server 2019|2019]]
+| platform               = 
+| size                   = 
+| language               = 只有英語
+| genre                  = 
+| license                = 
+| website                = {{URL|https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms}}
+}}
+
+'''SQL Server Management Studio'''（SSMS）是[[微软]]的一個與其[[數據庫]]產品[[Microsoft SQL Server]]配合使用的產品，以便於設定、配置及管理其元件。原為SQL Server 2000的管理工具，名為「SQL Server Enterprise Manager」。The tool includes both script editors and graphical tools which work with objects and features of the server.<ref>[http://msdn2.microsoft.com/en-us/library/ms174173.aspx MSDN: Introducing SQL Server Management Studio]</ref>
+
+SSMS最主要的功能都集中在Object Explorer：透過這個程式，用戶可以瀏覽、選擇、以及對伺服器內的對象作出各種動作<ref>{{cite web |url=http://msdn2.microsoft.com/en-us/library/ms173849.aspx |title=Using Object Explorer |trans-title=使用Object Explorer |work=[[MSDN]] |language=en }}</ref>。It also shipped a separate Express edition that could be freely downloaded, however recent versions of SSMS are fully capable of connecting to and manage any SQL Server Express instance. Microsoft also incorporated backwards compatibility for older versions of SQL Server thus allowing a newer version of SSMS to connect to older versions of SQL Server instances. It also comes with Microsoft SQL Server Express 2012, or users can download it separately.
+
+Starting from version 11, the application was based on the [[Microsoft_Visual_Studio#Visual_Studio_2010|Visual Studio 2010]] shell, using [[Windows Presentation Foundation|WPF]] for the user interface. Versions 18 and after are based on the [[Microsoft_Visual_Studio#2017|Visual Studio 2017]] [[Microsoft_Visual_Studio#Extensibility|Isolated Shell]].<ref>{{cite web|title=SSMS 18.0 (preview 4)|url=https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-changelog-ssms?view=sql-server-2017#ssms-180-preview-4download-sql-server-management-studio-ssmsmd|website=SQL Server Management Studio - Changelog (SSMS)|publisher=Microsoft|accessdate=22 October 2018|date=24 September 2018}}</ref>
+
+2015年6月，微軟宣布打算於未來發佈獨立於SQL Server數據庫引擎的未來SSMS版本<ref> {{cite web | title = Announcing SQL Server Management Studio – June 2015 Release | trans-title =宣布推出SQL Server Management Studio  -  2015年6月發布 | url = http://blogs.msdn.com/b/sqlreleaseservices/archive/2015/06/24/sql-server-management-studio-june-2015-release.aspx | website = SQL發布服務博客| publisher = Microsoft | access-date = 2015-09-07 |date=2015-06-24 |language=en }} </ref>。
+
+==參看==
+* {{tsl|en|Comparison of database tools|数据库软件比较}}
+* [[Microsoft SQL Server]]
+** {{tsl|en|SQL Server Compact|Microsoft SQL Server Compact|Microsoft SQL Server Compact}}
+** [[SQL Server Express|Microsoft SQL Server Express]]
+
+==參考文獻==
+{{Reflist}}
+
+==外部連結==
+* 位於[[微软开发者网络|MSDN]]有關的[https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms SQL Server Management Studio]連結
+
+{{MS DevTools}}
+
+[[Category:微软数据库软件]]
+[[Category:数据库管理工具]]
+
+
+
+{{Microsoft-software-stub}}

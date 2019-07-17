@@ -438,6 +438,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>'''LanguageTool''' is a [[free and open-source]] [[grammar checker]], and all its features are available for download&lt;ref&gt;https://languagetool.org/#libreoffice&lt;/ref&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190715T093328Z" creationid="Tom" creationdate="20190715T093328Z">
+        <seg>'''LanguageTool'''是[[免費和開源]]的[[語法檢查]]，其所有功能都可供下載&lt;ref&gt;{{cite web |url=https://languagetool.org/#libreoffice |title=Spell and Grammar Checker |work=LanguageTool |language=en }}&lt;/ref&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>'''SQL Server Management Studio''' (SSMS) is a software application first launched with [[Microsoft]] [[Microsoft SQL Server|SQL Server 2005]] that is used for configuring, managing, and administering all components within [[Microsoft SQL Server]].</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190530T052841Z" creationid="Tom" creationdate="20190530T052841Z">
@@ -458,6 +466,14 @@
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190613T062734Z" creationid="Tom" creationdate="20190613T062734Z">
         <seg>（32位的伺服器在<ph x="0">&lt;t0/&gt;</ph>C:\Program Files (x86)\DocTracker\iDRS_15\iDRS_15_4_5_Win64\redist\Microsoft\vs2017\32bits<ph x="1">&lt;t1/&gt;</ph>\<ph x="2">&lt;t2/&gt;</ph>vc_redist.x86<ph x="3">&lt;t3/&gt;</ph>）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>(IIS)<ph x="0">&lt;t0/&gt;</ph>”</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190715T092526Z" creationid="Tom" creationdate="20190715T092526Z">
+        <seg>(IIS)<ph x="0">&lt;t0/&gt;</ph>”</seg>
       </tuv>
     </tu>
     <tu>
@@ -522,6 +538,14 @@
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190709T022749Z">
         <seg>(未儲存)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>- <ph x="0">&lt;t0/&gt;</ph>Microsoft WSE 2.0 SP3</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T100820Z" creationid="Tom" creationdate="20190711T100820Z">
+        <seg>- <ph x="0">&lt;t0/&gt;</ph>Microsoft WSE 2.0 SP3</seg>
       </tuv>
     </tu>
     <tu>
@@ -1272,6 +1296,22 @@ X-Generator: Poedit 2.2.3</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>2.11.2</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190715T092817Z" creationid="Tom" creationdate="20190715T092817Z">
+        <seg>2.11.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>2.12</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190715T092917Z" creationid="Tom" creationdate="20190715T092917Z">
+        <seg>2.12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>2.1<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>C<ph x="2">&lt;t2/&gt;</ph>ONTACT</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190618T095246Z" creationid="Tom" creationdate="20190618T095246Z">
@@ -1312,6 +1352,30 @@ X-Generator: Poedit 2.2.3</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>2.8</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190715T092650Z" creationid="Tom" creationdate="20190715T092650Z">
+        <seg>2.8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>2.<ph x="0">&lt;t0/&gt;</ph>5</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T064712Z" creationid="Tom" creationdate="20190711T064712Z">
+        <seg>2.<ph x="0">&lt;t0/&gt;</ph>5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>2.<ph x="0">&lt;t0/&gt;</ph>6</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T064724Z" creationid="Tom" creationdate="20190711T064724Z">
+        <seg>2.<ph x="0">&lt;t0/&gt;</ph>6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>2.OCR STATION <ph x="0">&lt;t0/&gt;</ph>installation and setup</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190709T051143Z" creationid="Tom" creationdate="20190709T051143Z">
@@ -1348,14 +1412,6 @@ X-Generator: Poedit 2.2.3</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190709T073550Z" creationid="Tom" creationdate="20190709T073550Z">
         <seg>23</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="EN">
-        <seg>24</seg>
-      </tuv>
-      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190625T051214Z" creationid="Tom" creationdate="20190625T051214Z">
-        <seg>24</seg>
       </tuv>
     </tu>
     <tu>
@@ -1408,6 +1464,14 @@ X-Generator: Poedit 2.2.3</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>2<ph x="0">&lt;t0/&gt;</ph>.<ph x="1">&lt;t1/&gt;</ph>4</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T064707Z" creationid="Tom" creationdate="20190711T064707Z">
+        <seg>2<ph x="0">&lt;t0/&gt;</ph>.<ph x="1">&lt;t1/&gt;</ph>4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>3</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190624T074711Z" creationid="Tom" creationdate="20190624T074711Z">
@@ -1420,6 +1484,14 @@ X-Generator: Poedit 2.2.3</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190708T092401Z" creationid="Tom" creationdate="20190708T092401Z">
         <seg>3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>3.1</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T094941Z" creationid="Tom" creationdate="20190711T094941Z">
+        <seg>3.1</seg>
       </tuv>
     </tu>
     <tu>
@@ -1444,6 +1516,78 @@ X-Generator: Poedit 2.2.3</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190619T030714Z" creationid="Tom" creationdate="20190619T030714Z">
         <seg>3.1.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>3.10</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T095711Z" creationid="Tom" creationdate="20190711T095711Z">
+        <seg>3.10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>3.11</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T065253Z" creationid="Tom" creationdate="20190711T065253Z">
+        <seg>3.11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>3.12</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T070116Z" creationid="Tom" creationdate="20190711T070116Z">
+        <seg>3.12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>3.13</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T095743Z" creationid="Tom" creationdate="20190711T095743Z">
+        <seg>3.13</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>3.14</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T095753Z" creationid="Tom" creationdate="20190711T095753Z">
+        <seg>3.14</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>3.15</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T095812Z" creationid="Tom" creationdate="20190711T095812Z">
+        <seg>3.15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>3.15.1</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T095819Z" creationid="Tom" creationdate="20190711T095819Z">
+        <seg>3.15.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>3.15.2</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T095828Z" creationid="Tom" creationdate="20190711T095828Z">
+        <seg>3.15.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>3.15.3</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T095834Z" creationid="Tom" creationdate="20190711T095834Z">
+        <seg>3.15.3</seg>
       </tuv>
     </tu>
     <tu>
@@ -1484,6 +1628,46 @@ X-Generator: Poedit 2.2.3</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190627T032012Z" creationid="Tom" creationdate="20190627T032012Z">
         <seg>3.5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>3.5<ph x="0">&lt;t0/&gt;</ph>(<ph x="1">&lt;t1/&gt;</ph>If the below image shows up, select Download and install<ph x="2">&lt;t2/&gt;</ph>)</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T101121Z" creationid="Tom" creationdate="20190711T064851Z">
+        <seg>3.5<ph x="0">&lt;t0/&gt;</ph>（<ph x="1">&lt;t1/&gt;</ph>如果有以下的圖片出現，點擊「Download  and install」<ph x="2">&lt;t2/&gt;</ph>）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>3.6</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T095052Z" creationid="Tom" creationdate="20190711T095052Z">
+        <seg>3.6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>3.7</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T095103Z" creationid="Tom" creationdate="20190711T095103Z">
+        <seg>3.7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>3.8</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T064923Z" creationid="Tom" creationdate="20190711T064923Z">
+        <seg>3.8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>3.9</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T065117Z" creationid="Tom" creationdate="20190711T065117Z">
+        <seg>3.9</seg>
       </tuv>
     </tu>
     <tu>
@@ -1568,18 +1752,66 @@ X-Generator: Poedit 2.2.3</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN">
-        <seg>3<ph x="0">&lt;t0/&gt;</ph>.<ph x="1">&lt;t1/&gt;</ph> <ph x="2">&lt;t2/&gt;</ph>Installing <ph x="3">&lt;t3/&gt;</ph>DropZone<ph x="4">&lt;t4/&gt;</ph> in Windows</seg>
+        <seg>3<ph x="0">&lt;t0/&gt;</ph>.1</seg>
       </tuv>
-      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190604T064511Z" creationid="Tom" creationdate="20190604T064511Z">
-        <seg>3<ph x="0">&lt;t0/&gt;</ph>.<ph x="1">&lt;t1/&gt;</ph> <ph x="2">&lt;t2/&gt;</ph>在Windows安裝<ph x="3">&lt;t3/&gt;</ph>Dropzone<ph x="4">&lt;t4/&gt;</ph></seg>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T100918Z" creationid="Tom" creationdate="20190711T100918Z">
+        <seg>3<ph x="0">&lt;t0/&gt;</ph>.1</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="EN">
-        <seg>3<ph x="0">&lt;t0/&gt;</ph>.<ph x="1">&lt;t1/&gt;</ph>5<ph x="2">&lt;t2/&gt;</ph>(<ph x="3">&lt;t3/&gt;</ph>If the below image shows up, select Download and install<ph x="4">&lt;t4/&gt;</ph>)</seg>
+        <seg>3<ph x="0">&lt;t0/&gt;</ph>.2</seg>
       </tuv>
-      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190610T013646Z" creationid="Tom" creationdate="20190610T013618Z">
-        <seg>3<ph x="0">&lt;t0/&gt;</ph>.<ph x="1">&lt;t1/&gt;</ph>5<ph x="2">&lt;t2/&gt;</ph>（<ph x="3">&lt;t3/&gt;</ph>如果有以下的圖片出現，點選「Download  and install」<ph x="4">&lt;t4/&gt;</ph>）</seg>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T101020Z" creationid="Tom" creationdate="20190711T101020Z">
+        <seg>3<ph x="0">&lt;t0/&gt;</ph>.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>3<ph x="0">&lt;t0/&gt;</ph>.3</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T101049Z" creationid="Tom" creationdate="20190711T101049Z">
+        <seg>3<ph x="0">&lt;t0/&gt;</ph>.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>3<ph x="0">&lt;t0/&gt;</ph>.4</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T101053Z" creationid="Tom" creationdate="20190711T101053Z">
+        <seg>3<ph x="0">&lt;t0/&gt;</ph>.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>3<ph x="0">&lt;t0/&gt;</ph>.<ph x="1">&lt;t1/&gt;</ph> <ph x="2">&lt;t2/&gt;</ph>Installing Drop<ph x="3">&lt;t3/&gt;</ph> <ph x="4">&lt;t4/&gt;</ph>Zone in Windows</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T100915Z" creationid="Tom" creationdate="20190711T100915Z">
+        <seg>3<ph x="0">&lt;t0/&gt;</ph>.<ph x="1">&lt;t1/&gt;</ph> <ph x="2">&lt;t2/&gt;</ph>在Windows安裝Drop<ph x="3">&lt;t3/&gt;</ph> <ph x="4">&lt;t4/&gt;</ph>Zone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>3<ph x="0">&lt;t0/&gt;</ph>.<ph x="1">&lt;t1/&gt;</ph>1<ph x="2">&lt;t2/&gt;</ph>0</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T065243Z" creationid="Tom" creationdate="20190711T065243Z">
+        <seg>3<ph x="0">&lt;t0/&gt;</ph>.<ph x="1">&lt;t1/&gt;</ph>1<ph x="2">&lt;t2/&gt;</ph>0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>3<ph x="0">&lt;t0/&gt;</ph>.<ph x="1">&lt;t1/&gt;</ph>6</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T064914Z" creationid="Tom" creationdate="20190711T064914Z">
+        <seg>3<ph x="0">&lt;t0/&gt;</ph>.<ph x="1">&lt;t1/&gt;</ph>6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>3<ph x="0">&lt;t0/&gt;</ph>.<ph x="1">&lt;t1/&gt;</ph>7</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T064918Z" creationid="Tom" creationdate="20190711T064918Z">
+        <seg>3<ph x="0">&lt;t0/&gt;</ph>.<ph x="1">&lt;t1/&gt;</ph>7</seg>
       </tuv>
     </tu>
     <tu>
@@ -1596,6 +1828,30 @@ X-Generator: Poedit 2.2.3</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190708T092449Z" creationid="Tom" creationdate="20190708T092449Z">
         <seg>4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>4.1</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T095853Z" creationid="Tom" creationdate="20190711T095853Z">
+        <seg>4.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>4.1.1</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T095854Z" creationid="Tom" creationdate="20190711T095854Z">
+        <seg>4.1.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>4.1.2</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T095909Z" creationid="Tom" creationdate="20190711T095909Z">
+        <seg>4.1.2</seg>
       </tuv>
     </tu>
     <tu>
@@ -1728,10 +1984,10 @@ X-Generator: Poedit 2.2.3</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN">
-        <seg>4<ph x="0">&lt;t0/&gt;</ph>.<ph x="1">&lt;t1/&gt;</ph> <ph x="2">&lt;t2/&gt;</ph>DIKO <ph x="3">&lt;t3/&gt;</ph>DropZone<ph x="4">&lt;t4/&gt;</ph> System Settings</seg>
+        <seg>4<ph x="0">&lt;t0/&gt;</ph>.<ph x="1">&lt;t1/&gt;</ph> <ph x="2">&lt;t2/&gt;</ph>DIKO <ph x="3">&lt;t3/&gt;</ph>Drop<ph x="4">&lt;t4/&gt;</ph> <ph x="5">&lt;t5/&gt;</ph>Zone<ph x="6">&lt;t6/&gt;</ph> System Settings</seg>
       </tuv>
-      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190610T014938Z" creationid="Tom" creationdate="20190610T014938Z">
-        <seg>4<ph x="0">&lt;t0/&gt;</ph>.<ph x="1">&lt;t1/&gt;</ph> <ph x="2">&lt;t2/&gt;</ph>DIKO <ph x="3">&lt;t3/&gt;</ph>DropZone<ph x="4">&lt;t4/&gt;</ph>的系統設置</seg>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190715T070606Z" creationid="Tom" creationdate="20190715T070606Z">
+        <seg>4<ph x="0">&lt;t0/&gt;</ph>.<ph x="1">&lt;t1/&gt;</ph> <ph x="2">&lt;t2/&gt;</ph>DIKO <ph x="3">&lt;t3/&gt;</ph>Drop<ph x="4">&lt;t4/&gt;</ph> <ph x="5">&lt;t5/&gt;</ph>Zone<ph x="6">&lt;t6/&gt;</ph>的系統設置</seg>
       </tuv>
     </tu>
     <tu>
@@ -1984,14 +2240,6 @@ or yus đe + bùtton</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN">
-        <seg><ph x="1">&lt;t1/&gt;</ph>Install<ph x="2">&lt;t2/&gt;</ph> Microsoft WSE 2.0 SP3</seg>
-      </tuv>
-      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190604T063341Z" creationid="Tom" creationdate="20190604T063341Z">
-        <seg><ph x="1">&lt;t1/&gt;</ph>安裝<ph x="2">&lt;t2/&gt;</ph> Microsoft WSE 2.0 SP3</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="EN">
         <seg><ph x="12">&lt;t12/&gt;</ph>Role-based permissions ensure only authorized groups and users can access the documents.</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190603T073039Z" creationid="Tom" creationdate="20190603T073039Z">
@@ -2052,6 +2300,34 @@ or yus đe + bùtton</seg>
       </tuv>
       <tuv xml:lang="ZH-TW">
         <seg>&lt;mǐ-neimen&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>== References ==
+{{Reflist|2}}</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190715T092943Z" creationid="Tom" creationdate="20190715T092943Z">
+        <seg>==參考文獻==
+{{Reflist|2}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>== See also ==
+{{Portal|Free and open-source software}}
+* [[Comparison of anti-plagiarism software]]
+* [[Natural language processing]]
+* [[Grammarly]]
+* [[OpenTaal]]</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190715T092935Z" creationid="Tom" creationdate="20190715T092935Z">
+        <seg>==參看==
+{{Portal|Free and open-source software}}
+* [[Comparison of anti-plagiarism software]]
+* [[Natural language processing]]
+* [[Grammarly]]
+* [[OpenTaal]]</seg>
       </tuv>
     </tu>
     <tu>
@@ -2214,48 +2490,72 @@ or yus đe + bùtton</seg>
       <tuv xml:lang="EN">
         <seg>About %s</seg>
       </tuv>
-      <tuv xml:lang="ZH-TW">
-        <seg>Àbaut %s</seg>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T095621Z">
+        <seg>有關%s</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="EN">
         <seg>Accounts</seg>
       </tuv>
-      <tuv xml:lang="ZH-TW">
-        <seg>Akkaunts</seg>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T095616Z">
+        <seg>帳號</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Acknowledgements</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T095609Z" creationid="Tom" creationdate="20190711T095609Z">
+        <seg>致謝</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="EN">
         <seg>Activate</seg>
       </tuv>
-      <tuv xml:lang="ZH-TW">
-        <seg>Aktiveit</seg>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T095605Z">
+        <seg>啟動</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="EN">
         <seg>Activating your license…</seg>
       </tuv>
-      <tuv xml:lang="ZH-TW">
-        <seg>Aktiveitiŋ neidè laisèns…</seg>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T095556Z">
+        <seg>啟動您的許可證</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="EN">
         <seg>Add Comment</seg>
       </tuv>
-      <tuv xml:lang="ZH-TW">
-        <seg>Ädd Komment</seg>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T095528Z">
+        <seg>新增註解</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="EN">
         <seg>Add Cross-reference document</seg>
       </tuv>
-      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190619T032903Z" creationid="Tom" creationdate="20190619T032903Z">
-        <seg>Add Cross-reference document</seg>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T094854Z" creationid="Tom" creationdate="20190619T032903Z">
+        <seg>新增交叉參考文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Add Document</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T095029Z" creationid="Tom" creationdate="20190711T095029Z">
+        <seg>新增文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Add Folder</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T095300Z" creationid="Tom" creationdate="20190711T095018Z">
+        <seg>新增資料夾</seg>
       </tuv>
     </tu>
     <tu>
@@ -2284,6 +2584,14 @@ or yus đe + bùtton</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>Add New Version</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T095049Z" creationid="Tom" creationdate="20190711T095049Z">
+        <seg>新版本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>Add OCR Station</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190626T091516Z" creationid="Tom" creationdate="20190624T075359Z">
@@ -2296,6 +2604,14 @@ or yus đe + bùtton</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190617T052432Z" creationid="Tom" creationdate="20190617T052432Z">
         <seg>增頁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Add Shortcut</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T095036Z" creationid="Tom" creationdate="20190711T095036Z">
+        <seg>新增捷徑</seg>
       </tuv>
     </tu>
     <tu>
@@ -2358,32 +2674,32 @@ or yus đe + bùtton</seg>
       <tuv xml:lang="EN">
         <seg>Add comment</seg>
       </tuv>
-      <tuv xml:lang="ZH-TW">
-        <seg>Ädd komment</seg>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T095454Z">
+        <seg>新增註解</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="EN">
         <seg>Add directory to the list</seg>
       </tuv>
-      <tuv xml:lang="ZH-TW">
-        <seg>Ädd direktori tu list</seg>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T095507Z">
+        <seg>新增資料夾到列表</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="EN">
         <seg>Add/Edit/Delete Comment</seg>
       </tuv>
-      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190619T030638Z" creationid="Tom" creationdate="20190619T030638Z">
-        <seg>新增/編輯/刪除留言'</seg>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T094920Z" creationid="Tom" creationdate="20190619T030638Z">
+        <seg>新增/修改/刪除註解</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="EN">
         <seg>Additional keywords</seg>
       </tuv>
-      <tuv xml:lang="ZH-TW">
-        <seg>Äddeiçionol kyiwörds</seg>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T095516Z">
+        <seg>新增關鍵字</seg>
       </tuv>
     </tu>
     <tu>
@@ -2438,8 +2754,8 @@ or yus đe + bùtton</seg>
       <tuv xml:lang="EN">
         <seg>Advanced</seg>
       </tuv>
-      <tuv xml:lang="ZH-TW">
-        <seg>Gokab</seg>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T095522Z">
+        <seg>進階</seg>
       </tuv>
     </tu>
     <tu>
@@ -2493,10 +2809,10 @@ or yus đe + bùtton</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN">
-        <seg>After successful connection, DIKO folders will show up on the right hand side.</seg>
+        <seg>After successful connection, DIKO folders will show up on the <ph x="0">&lt;t0/&gt;</ph>right-hand<ph x="1">&lt;t1/&gt;</ph> side.</seg>
       </tuv>
-      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190610T082524Z" creationid="Tom" creationdate="20190610T082524Z">
-        <seg>成功連接後，DIKO的資料夾將在右側顯示。</seg>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T102351Z" creationid="Tom" creationdate="20190711T102351Z">
+        <seg>成功連接後，DIKO的資料夾將在<ph x="0">&lt;t0/&gt;</ph>右<ph x="1">&lt;t1/&gt;</ph>側顯示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2717,6 +3033,14 @@ or yus đe + bùtton</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>Assign Permission</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T095707Z" creationid="Tom" creationdate="20190711T095707Z">
+        <seg>分配權限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>Asturian = 119,</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190618T082718Z" creationid="Tom" creationdate="20190618T082718Z">
@@ -2727,8 +3051,8 @@ or yus đe + bùtton</seg>
       <tuv xml:lang="EN">
         <seg>Audit Trail</seg>
       </tuv>
-      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190613T092956Z" creationid="Tom" creationdate="20190613T092956Z">
-        <seg>審查紀錄</seg>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T095717Z" creationid="Tom" creationdate="20190613T092956Z">
+        <seg>檔案日誌</seg>
       </tuv>
     </tu>
     <tu>
@@ -3421,6 +3745,14 @@ or yus đe + bùtton</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>Check-out / Check-in Document (Lock/Unlock)</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T095742Z" creationid="Tom" creationdate="20190711T095742Z">
+        <seg>鎖定/解除鎖定文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>Checked I agree to the license terms and conditions and click [Install]</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190613T062810Z" creationid="Tom" creationdate="20190613T062810Z">
@@ -3477,10 +3809,10 @@ or yus đe + bùtton</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN">
-        <seg>Choose<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>“<ph x="2">&lt;t2/&gt;</ph>I accept the terms in the license agreement<ph x="3">&lt;t3/&gt;</ph>”<ph x="4">&lt;t4/&gt;</ph> <ph x="5">&lt;t5/&gt;</ph>then select<ph x="6">&lt;t6/&gt;</ph> <ph x="7">&lt;t7/&gt;</ph>“<ph x="8">&lt;t8/&gt;</ph>Next<ph x="9">&lt;t9/&gt;</ph>”</seg>
+        <seg>Choose<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>“I accept the terms in the license agreement”<ph x="2">&lt;t2/&gt;</ph> <ph x="3">&lt;t3/&gt;</ph>then select<ph x="4">&lt;t4/&gt;</ph> <ph x="5">&lt;t5/&gt;</ph>“Next”</seg>
       </tuv>
-      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190604T064013Z" creationid="Tom" creationdate="20190604T064013Z">
-        <seg>選擇<ph x="0">&lt;t0/&gt;</ph><ph x="1">&lt;t1/&gt;</ph>「<ph x="2">&lt;t2/&gt;</ph>I accept the terms in the license agreement<ph x="3">&lt;t3/&gt;</ph>」<ph x="4">&lt;t4/&gt;</ph>，<ph x="5">&lt;t5/&gt;</ph>然後點選<ph x="6">&lt;t6/&gt;</ph><ph x="7">&lt;t7/&gt;</ph>「<ph x="8">&lt;t8/&gt;</ph>Next<ph x="9">&lt;t9/&gt;</ph>」</seg>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T064652Z" creationid="Tom" creationdate="20190711T064652Z">
+        <seg>選擇<ph x="0">&lt;t0/&gt;</ph><ph x="1">&lt;t1/&gt;</ph>「I accept the terms in the license agreement」（我接受協議）<ph x="2">&lt;t2/&gt;</ph>，<ph x="3">&lt;t3/&gt;</ph>然後點選<ph x="4">&lt;t4/&gt;</ph><ph x="5">&lt;t5/&gt;</ph>「Next」</seg>
       </tuv>
     </tu>
     <tu>
@@ -3553,14 +3885,6 @@ or yus đe + bùtton</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190617T092024Z" creationid="Tom" creationdate="20190617T092024Z">
         <seg>按一下「Next」</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="EN">
-        <seg>Click <ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>“<ph x="2">&lt;t2/&gt;</ph>Install<ph x="3">&lt;t3/&gt;</ph>”</seg>
-      </tuv>
-      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190604T064237Z" creationid="Tom" creationdate="20190604T064237Z">
-        <seg>點擊<ph x="0">&lt;t0/&gt;</ph><ph x="1">&lt;t1/&gt;</ph>「<ph x="2">&lt;t2/&gt;</ph>Install<ph x="3">&lt;t3/&gt;</ph>」</seg>
       </tuv>
     </tu>
     <tu>
@@ -3645,6 +3969,14 @@ or yus đe + bùtton</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>Click <ph x="0">&lt;t0/&gt;</ph>“<ph x="1">&lt;t1/&gt;</ph>Install”</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190715T090408Z" creationid="Tom" creationdate="20190715T090408Z">
+        <seg>點擊<ph x="0">&lt;t0/&gt;</ph>「<ph x="1">&lt;t1/&gt;</ph>Install」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>Click Advanced... then Find Now</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190709T080028Z" creationid="Tom" creationdate="20190709T080028Z">
@@ -3657,6 +3989,22 @@ or yus đe + bùtton</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190710T080626Z" creationid="Tom" creationdate="20190710T080532Z">
         <seg>按一下[<ph x="0">&lt;t0/&gt;</ph>[下一步(N) &amp;gt;<ph x="1">&lt;t1/&gt;</ph>]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Click [<ph x="4">&lt;t4/&gt;</ph>Add<ph x="5">&lt;t5/&gt;</ph> <ph x="6">&lt;t6/&gt;</ph>Features<ph x="7">&lt;t7/&gt;</ph>]</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190715T092813Z" creationid="Tom" creationdate="20190715T092813Z">
+        <seg>按一下在視窗上的「<ph x="4">&lt;t4/&gt;</ph>新增<ph x="5">&lt;t5/&gt;</ph><ph x="6">&lt;t6/&gt;</ph>功能<ph x="7">&lt;t7/&gt;</ph>」按鈕</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Click [<ph x="5">&lt;t5/&gt;</ph>Add Features<ph x="6">&lt;t6/&gt;</ph>]</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190715T092848Z" creationid="Tom" creationdate="20190715T092848Z">
+        <seg>按一下「<ph x="5">&lt;t5/&gt;</ph>新增功能<ph x="6">&lt;t6/&gt;</ph>」按鈕</seg>
       </tuv>
     </tu>
     <tu>
@@ -3797,6 +4145,14 @@ or yus đe + bùtton</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>Click “Add Features” and then click [Next]</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190715T092612Z" creationid="Tom" creationdate="20190715T092612Z">
+        <seg>按一下在視窗上的「新增功能」按鈕，然後單擊「下一步 (N)&gt;」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>Click<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>"Install"<ph x="2">&lt;t2/&gt;</ph> start installation program</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190613T091559Z" creationid="Tom" creationdate="20190613T091559Z">
@@ -3813,14 +4169,6 @@ or yus đe + bùtton</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN">
-        <seg>Click<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>“<ph x="2">&lt;t2/&gt;</ph>Install<ph x="3">&lt;t3/&gt;</ph>”</seg>
-      </tuv>
-      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190604T064715Z" creationid="Tom" creationdate="20190604T064715Z">
-        <seg>點擊<ph x="0">&lt;t0/&gt;</ph><ph x="1">&lt;t1/&gt;</ph>「<ph x="2">&lt;t2/&gt;</ph>Install<ph x="3">&lt;t3/&gt;</ph>」</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="EN">
         <seg>Click<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>“Finish”</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190610T013849Z" creationid="Tom" creationdate="20190610T013849Z">
@@ -3829,10 +4177,18 @@ or yus đe + bùtton</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN">
-        <seg>Click<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>“Next”</seg>
+        <seg>Click<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>“Install”</seg>
       </tuv>
-      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190604T064645Z" creationid="Tom" creationdate="20190604T064645Z">
-        <seg>點擊<ph x="0">&lt;t0/&gt;</ph><ph x="1">&lt;t1/&gt;</ph>「Next」</seg>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T064819Z" creationid="Tom" creationdate="20190711T064819Z">
+        <seg>點擊<ph x="0">&lt;t0/&gt;</ph><ph x="1">&lt;t1/&gt;</ph>「Install」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Click<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>“Next<ph x="2">&lt;t2/&gt;</ph> &gt;<ph x="3">&lt;t3/&gt;</ph>”</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T101047Z" creationid="Tom" creationdate="20190711T101047Z">
+        <seg>點擊<ph x="0">&lt;t0/&gt;</ph><ph x="1">&lt;t1/&gt;</ph>「Next<ph x="2">&lt;t2/&gt;</ph> &gt;<ph x="3">&lt;t3/&gt;</ph>」</seg>
       </tuv>
     </tu>
     <tu>
@@ -4365,6 +4721,14 @@ or yus đe + bùtton</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>Cut/Move/Copy</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T095117Z" creationid="Tom" creationdate="20190711T095117Z">
+        <seg>剪下/移動/複製</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>Czech = 15,</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190618T082254Z" creationid="Tom" creationdate="20190617T034320Z">
@@ -4397,18 +4761,26 @@ or yus đe + bùtton</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN">
-        <seg>DIKO <ph x="0">&lt;t0/&gt;</ph>DropZone<ph x="1">&lt;t1/&gt;</ph> <ph x="2">&lt;t2/&gt;</ph>Installation and User Guide</seg>
-      </tuv>
-      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190605T095140Z" creationid="Tom" creationdate="20190605T095140Z">
-        <seg>DIKO <ph x="0">&lt;t0/&gt;</ph>DropZone<ph x="1">&lt;t1/&gt;</ph> <ph x="2">&lt;t2/&gt;</ph>安裝及使用手冊</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="EN">
         <seg>DIKO <ph x="0">&lt;t0/&gt;</ph>T<ph x="1">&lt;t1/&gt;</ph>utorial<ph x="2">&lt;t2/&gt;</ph> v1.0</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Administrator" changedate="20190603T084752Z" creationid="Administrator" creationdate="20190603T084752Z">
         <seg>DIKO <ph x="0">&lt;t0/&gt;</ph><ph x="1">&lt;t1/&gt;</ph>概述<ph x="2">&lt;t2/&gt;</ph> v1.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>DIKO Drop<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>Zone <ph x="2">&lt;t2/&gt;</ph>Installation and User Guide</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T100806Z" creationid="Tom" creationdate="20190711T093724Z">
+        <seg>DIKO Drop<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>Zone<ph x="2">&lt;t2/&gt;</ph>安裝及使用手冊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>DIKO Dropzone <ph x="0">&lt;t0/&gt;</ph>安装手册<ph x="1">&lt;t1/&gt;</ph> <ph x="2">&lt;t2/&gt;</ph>繁中</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T102404Z" creationid="Tom" creationdate="20190711T102404Z">
+        <seg>DIKO Dropzone <ph x="0">&lt;t0/&gt;</ph>安装手册<ph x="1">&lt;t1/&gt;</ph> <ph x="2">&lt;t2/&gt;</ph>繁中</seg>
       </tuv>
     </tu>
     <tu>
@@ -4649,6 +5021,14 @@ or yus đe + bùtton</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190617T052434Z" creationid="Tom" creationdate="20190617T052434Z">
         <seg>Delete Exhibit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Delete Folder and document</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T095137Z" creationid="Tom" creationdate="20190711T095137Z">
+        <seg>刪除資料夾與文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -4959,10 +5339,26 @@ ol katalogs in nigè prōjekt?</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>Document Properties</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T095833Z" creationid="Tom" creationdate="20190711T095833Z">
+        <seg>文件屬性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>Document Review</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190627T023526Z" creationid="Tom" creationdate="20190627T015633Z">
         <seg>文檔檢閱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Document Search</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T095907Z" creationid="Tom" creationdate="20190711T095907Z">
+        <seg>文件搜尋</seg>
       </tuv>
     </tu>
     <tu>
@@ -5063,18 +5459,18 @@ ol katalogs in nigè prōjekt?</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN">
-        <seg>Double click<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>“<ph x="2">&lt;t2/&gt;</ph>DIKO <ph x="3">&lt;t3/&gt;</ph>DropZone<ph x="4">&lt;t4/&gt;</ph> Setup”<ph x="5">&lt;t5/&gt;</ph> <ph x="6">&lt;t6/&gt;</ph>begin installation</seg>
+        <seg>Double click<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>“<ph x="2">&lt;t2/&gt;</ph>DIKO <ph x="3">&lt;t3/&gt;</ph>Drop<ph x="4">&lt;t4/&gt;</ph> <ph x="5">&lt;t5/&gt;</ph>Zone Setup”<ph x="6">&lt;t6/&gt;</ph> <ph x="7">&lt;t7/&gt;</ph>begin installation</seg>
       </tuv>
-      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190604T064615Z" creationid="Tom" creationdate="20190604T064615Z">
-        <seg>雙擊<ph x="0">&lt;t0/&gt;</ph><ph x="1">&lt;t1/&gt;</ph>「<ph x="2">&lt;t2/&gt;</ph>DIKO <ph x="3">&lt;t3/&gt;</ph>DropZone<ph x="4">&lt;t4/&gt;</ph> Setup」<ph x="5">&lt;t5/&gt;</ph><ph x="6">&lt;t6/&gt;</ph>開始安裝</seg>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T101018Z" creationid="Tom" creationdate="20190711T101018Z">
+        <seg>雙擊<ph x="0">&lt;t0/&gt;</ph><ph x="1">&lt;t1/&gt;</ph>「<ph x="2">&lt;t2/&gt;</ph>DIKO <ph x="3">&lt;t3/&gt;</ph>Drop<ph x="4">&lt;t4/&gt;</ph> <ph x="5">&lt;t5/&gt;</ph>Zone Setup」<ph x="6">&lt;t6/&gt;</ph><ph x="7">&lt;t7/&gt;</ph>開始安裝</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="EN">
-        <seg>Double click<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>“<ph x="2">&lt;t2/&gt;</ph>Microsoft WSE 2.0 SP3<ph x="3">&lt;t3/&gt;</ph>”<ph x="4">&lt;t4/&gt;</ph> <ph x="5">&lt;t5/&gt;</ph>to initiate installation</seg>
+        <seg>Double click<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>“<ph x="2">&lt;t2/&gt;</ph>Microsoft WSE 2.0 SP3<ph x="3">&lt;t3/&gt;</ph>” <ph x="4">&lt;t4/&gt;</ph>to initiate installation</seg>
       </tuv>
-      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190604T063547Z" creationid="Tom" creationdate="20190604T063547Z">
-        <seg>按兩下<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>「<ph x="2">&lt;t2/&gt;</ph>Microsoft WSE 2.0 SP3<ph x="3">&lt;t3/&gt;</ph>」<ph x="4">&lt;t4/&gt;</ph> <ph x="5">&lt;t5/&gt;</ph>以啟動安裝程序</seg>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T064503Z" creationid="Tom" creationdate="20190711T064503Z">
+        <seg>按兩下<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>「<ph x="2">&lt;t2/&gt;</ph>Microsoft WSE 2.0 SP3<ph x="3">&lt;t3/&gt;</ph>」<ph x="4">&lt;t4/&gt;</ph>以啟動安裝程序</seg>
       </tuv>
     </tu>
     <tu>
@@ -5091,6 +5487,14 @@ ol katalogs in nigè prōjekt?</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190627T032813Z">
         <seg>下載</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Download Document</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T095723Z" creationid="Tom" creationdate="20190711T095723Z">
+        <seg>下載文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -5357,6 +5761,14 @@ ol katalogs in nigè prōjekt?</seg>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190618T095424Z" creationid="Tom" creationdate="20190618T095424Z">
         <seg>輸入SMTP伺服器資訊以透過<ph x="0">&lt;t0/&gt;</ph>DIKO<ph x="1">&lt;t1/&gt;</ph>來發送電子郵件。
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Enter your DIKO address under “Service Address”, input DIKO User ID and Password, click “Save”</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T102330Z" creationid="Tom" creationdate="20190711T102330Z">
+        <seg>請在「服務地址:」輸入您的DIKO伺服器的地址，然後在「使用者帳號:」及「密碼:」輸入DIKO的帳號名稱及密碼，然後按「儲存」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6081,6 +6493,14 @@ ol katalogs in nigè prōjekt?</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>Folder Properties</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T095827Z" creationid="Tom" creationdate="20190711T095827Z">
+        <seg>資料夾屬性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>Folder “%s”</seg>
       </tuv>
       <tuv xml:lang="ZH-TW">
@@ -6109,6 +6529,14 @@ ol katalogs in nigè prōjekt?</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190710T080614Z" creationid="Tom" creationdate="20190710T080614Z">
         <seg>For Windows Server 2008 / 2012</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>For Windows Server 2016 / 2019</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190715T092647Z" creationid="Tom" creationdate="20190715T092647Z">
+        <seg>對應 Windows Server 2016 / 2019 畫面</seg>
       </tuv>
     </tu>
     <tu>
@@ -6265,6 +6693,14 @@ ol katalogs in nigè prōjekt?</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>Generate Barcode Label</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T095810Z" creationid="Tom" creationdate="20190711T095810Z">
+        <seg>產生文件夾條碼標籤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>Generate Installation Key</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190625T035436Z" creationid="Tom" creationdate="20190625T035005Z">
@@ -6307,8 +6743,8 @@ ol katalogs in nigè prōjekt?</seg>
       <tuv xml:lang="EN">
         <seg>Give “blueprint.txt” to the vendor</seg>
       </tuv>
-      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190610T014457Z" creationid="Tom" creationdate="20190610T014457Z">
-        <seg>把「blueprint.txt」檔案傳送回給vendor</seg>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T065959Z" creationid="Tom" creationdate="20190610T014457Z">
+        <seg>把「blueprint.txt」檔案傳送回給供應商</seg>
       </tuv>
     </tu>
     <tu>
@@ -6674,6 +7110,14 @@ ol katalogs in nigè prōjekt?</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>In Features, select “<ph x="0">&lt;t0/&gt;</ph>.NET Framework 3.5 Features<ph x="1">&lt;t1/&gt;</ph>” and “<ph x="2">&lt;t2/&gt;</ph>.NET Framework 4.5 Features<ph x="3">&lt;t3/&gt;</ph>”</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190715T092743Z" creationid="Tom" creationdate="20190715T092743Z">
+        <seg>In Features, select “<ph x="0">&lt;t0/&gt;</ph>.NET Framework 3.5 Features<ph x="1">&lt;t1/&gt;</ph>” and “<ph x="2">&lt;t2/&gt;</ph>.NET Framework 4.5 Features<ph x="3">&lt;t3/&gt;</ph>”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>In Installation Type<ph x="0">&lt;t0/&gt;</ph> select</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190617T073259Z" creationid="Tom" creationdate="20190617T021340Z">
@@ -6750,6 +7194,14 @@ ol katalogs in nigè prōjekt?</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190710T093103Z" creationid="Tom" creationdate="20190710T093103Z">
         <seg>在<ph x="0">&lt;t0/&gt;</ph>Restore to<ph x="1">&lt;t1/&gt;</ph>框中，保留預設設置為<ph x="2">&lt;t2/&gt;</ph>To<ph x="3">&lt;t3/&gt;</ph> the last backup taken<ph x="4">&lt;t4/&gt;</ph>或按一下<ph x="5">&lt;t5/&gt;</ph>Timeline<ph x="6">&lt;t6/&gt;</ph>以訪問<ph x="7">&lt;t7/&gt;</ph>Backup Timeline對話方塊，以手動選擇停止恢復操作的時間點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>In “<ph x="0">&lt;t0/&gt;</ph>Server Roles<ph x="1">&lt;t1/&gt;</ph>”, select “<ph x="2">&lt;t2/&gt;</ph>Web Server<ph x="3">&lt;t3/&gt;</ph> <ph x="4">&lt;t4/&gt;</ph>(IIS)<ph x="5">&lt;t5/&gt;</ph>”; Select also “<ph x="6">&lt;t6/&gt;</ph>Application Server<ph x="7">&lt;t7/&gt;</ph>” <ph x="8">&lt;t8/&gt;</ph>for systems running Windows<ph x="9">&lt;t9/&gt;</ph>and “<ph x="10">&lt;t10/&gt;</ph>Web<ph x="11">&lt;t11/&gt;</ph> Server <ph x="12">&lt;t12/&gt;</ph>2008 / 2012.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190715T091526Z" creationid="Tom" creationdate="20190715T091526Z">
+        <seg>在「<ph x="0">&lt;t0/&gt;</ph>Server Roles<ph x="1">&lt;t1/&gt;</ph>」中，勾選「<ph x="2">&lt;t2/&gt;</ph>Web Server<ph x="3">&lt;t3/&gt;</ph> <ph x="4">&lt;t4/&gt;</ph>(IIS)<ph x="5">&lt;t5/&gt;</ph>」；對於在Windows<ph x="9">&lt;t9/&gt;</ph>及<ph x="10">&lt;t10/&gt;</ph> Server<ph x="12">&lt;t12/&gt;</ph>2008 / 2012執行的系統，請亦勾選「<ph x="6">&lt;t6/&gt;</ph>Application Server<ph x="7">&lt;t7/&gt;</ph>」<ph x="8">&lt;t8/&gt;</ph></seg>
       </tuv>
     </tu>
     <tu>
@@ -7043,6 +7495,14 @@ ol katalogs in nigè prōjekt?</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>It now supports 31 languages, each developed by volunteer maintainers, usually native speakers of said languages.&lt;ref&gt;{{cite web|title=Supported languages|url=https://languagetool.org/languages/|date=28 December 2016|accessdate=29 December 2016}}&lt;/ref&gt; Based on error detection patterns, rules are created and then tested for a given text.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190715T093513Z" creationid="Tom" creationdate="20190715T093513Z">
+        <seg>It now supports 31 languages, each developed by volunteer maintainers, usually native speakers of said languages.&lt;ref&gt;{{cite web|title=Supported languages|url=https://languagetool.org/languages/|date=28 December 2016|accessdate=29 December 2016}}&lt;/ref&gt; Based on error detection patterns, rules are created and then tested for a given text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>It shows user information about [User ID]<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>[First Name]<ph x="2">&lt;t2/&gt;</ph> <ph x="3">&lt;t3/&gt;</ph>[Last Name]<ph x="4">&lt;t4/&gt;</ph> <ph x="5">&lt;t5/&gt;</ph>[Email]<ph x="6">&lt;t6/&gt;</ph> <ph x="7">&lt;t7/&gt;</ph>[Title]<ph x="8">&lt;t8/&gt;</ph> <ph x="9">&lt;t9/&gt;</ph>[Locale<ph x="10">&lt;t10/&gt;</ph>][<ph x="11">&lt;t11/&gt;</ph>Records Per Page][Last Login Date],  language can be adjusted by [Locale]<ph x="12">&lt;t12/&gt;</ph>.</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190624T085550Z" creationid="Tom" creationdate="20190624T084705Z">
@@ -7247,6 +7707,22 @@ ol katalogs in nigè prōjekt?</seg>
       </tuv>
       <tuv xml:lang="ZH-TW">
         <seg>Leŋgueij:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>LanguageTool was started by Daniel Naber for his diploma thesis&lt;ref&gt;{{cite web|url=http://danielnaber.de/languagetool/download/style_and_grammar_checker.pdf|format=PDF|title=A Rule-Based Style and Grammar Checker|author=Daniel Naber|website=Danielnaber.de|accessdate=30 June 2018}}&lt;/ref&gt; in 2003 (then written in [[Python (programming language)|Python]]).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190715T093511Z" creationid="Tom" creationdate="20190715T093511Z">
+        <seg>LanguageTool由Daniel Naber創辦，用於他的畢業論文&lt;ref&gt; {{cite web | url = http://danielnaber.de/languagetool/download/style_and_grammar_checker.pdf | format = PDF | title=A Rule-Based Style and Grammar Checker | trans-title =基於規則的樣式和語法檢查器|作者= Daniel Naber |網站= Danielnaber.de | access-date = 2018-06-30 | language=en }} &lt;/ref&gt;在2003年（然後用[[Python（編程語言）| Python]]編寫。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>LanguageTool website connects to a [[Proprietary software|proprietary]] sister project '''LanguageTool Plus''', which provides improved error detection for English and German, as well as easier revision of longer texts, following the [[open-core model]].</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190715T093353Z" creationid="Tom" creationdate="20190715T093353Z">
+        <seg>LanguageTool website connects to a [[Proprietary software|proprietary]] sister project '''LanguageTool Plus''', which provides improved error detection for English and German, as well as easier revision of longer texts, following the [[open-core model]].</seg>
       </tuv>
     </tu>
     <tu>
@@ -8435,6 +8911,14 @@ ol katalogs in nigè prōjekt?</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>P<ph x="0">&lt;t0/&gt;</ph>age <ph x="1">&lt;t1/&gt;</ph>1</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190715T013552Z" creationid="Tom" creationdate="20190715T013552Z">
+        <seg>第<ph x="0">&lt;t0/&gt;</ph>1<ph x="1">&lt;t1/&gt;</ph>頁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>P<ph x="0">&lt;t0/&gt;</ph>ersonal <ph x="1">&lt;t1/&gt;</ph>Profile</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190627T024710Z" creationid="Tom" creationdate="20190627T024710Z">
@@ -8583,6 +9067,14 @@ ol katalogs in nigè prōjekt?</seg>
       </tuv>
       <tuv xml:lang="ZH-TW">
         <seg>Peist en Mätč Staiyol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Paste the key code from vendor into Activation Key and hit <ph x="0">&lt;t0/&gt;</ph>“Activate”</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T070110Z" creationid="Tom" creationdate="20190711T065258Z">
+        <seg>將供應商的密鑰代碼貼到寫上「Activation Key」的方格中並點擊<ph x="0">&lt;t0/&gt;</ph>「啟用」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8983,6 +9475,14 @@ X-Crowdin-File: /locales/poedit.pot</seg>
       </tuv>
       <tuv xml:lang="ZH-TW">
         <seg>Prōjekt:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Properties</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T095818Z" creationid="Tom" creationdate="20190711T095818Z">
+        <seg>屬性</seg>
       </tuv>
     </tu>
     <tu>
@@ -9555,6 +10055,14 @@ X-Crowdin-File: /locales/poedit.pot</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>Searching</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T095851Z" creationid="Tom" creationdate="20190711T095851Z">
+        <seg>搜尋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>Sections</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190528T075428Z">
@@ -9708,26 +10216,26 @@ X-Crowdin-File: /locales/poedit.pot</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN">
-        <seg>Select<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>“<ph x="2">&lt;t2/&gt;</ph>Next<ph x="3">&lt;t3/&gt;</ph>”</seg>
+        <seg>Select<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>“<ph x="2">&lt;t2/&gt;</ph>Blueprint<ph x="3">&lt;t3/&gt;</ph>” <ph x="4">&lt;t4/&gt;</ph>path then<ph x="5">&lt;t5/&gt;</ph> <ph x="6">&lt;t6/&gt;</ph>click<ph x="7">&lt;t7/&gt;</ph> <ph x="8">&lt;t8/&gt;</ph>“<ph x="9">&lt;t9/&gt;</ph>Generate H/W Blueprint<ph x="10">&lt;t10/&gt;</ph>”</seg>
       </tuv>
-      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190604T063748Z" creationid="Tom" creationdate="20190604T063748Z">
-        <seg>點選<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>「<ph x="2">&lt;t2/&gt;</ph>Next<ph x="3">&lt;t3/&gt;</ph>」</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="EN">
-        <seg>Select<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>“<ph x="2">&lt;t2/&gt;</ph>Properties<ph x="3">&lt;t3/&gt;</ph>”<ph x="4">&lt;t4/&gt;</ph> <ph x="5">&lt;t5/&gt;</ph>under<ph x="6">&lt;t6/&gt;</ph>“<ph x="7">&lt;t7/&gt;</ph>Compatibility<ph x="8">&lt;t8/&gt;</ph>”<ph x="9">&lt;t9/&gt;</ph> <ph x="10">&lt;t10/&gt;</ph>click<ph x="11">&lt;t11/&gt;</ph> <ph x="12">&lt;t12/&gt;</ph>“<ph x="13">&lt;t13/&gt;</ph>Change settings for all users<ph x="14">&lt;t14/&gt;</ph>”<ph x="15">&lt;t15/&gt;</ph> <ph x="16">&lt;t16/&gt;</ph>check<ph x="17">&lt;t17/&gt;</ph> <ph x="18">&lt;t18/&gt;</ph>“<ph x="19">&lt;t19/&gt;</ph>Run this program as an administrator<ph x="20">&lt;t20/&gt;</ph>”</seg>
-      </tuv>
-      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190610T014256Z" creationid="Tom" creationdate="20190605T095935Z">
-        <seg>選擇<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>「<ph x="2">&lt;t2/&gt;</ph>Properties<ph x="3">&lt;t3/&gt;</ph>」<ph x="4">&lt;t4/&gt;</ph>，<ph x="5">&lt;t5/&gt;</ph>在<ph x="6">&lt;t6/&gt;</ph>「<ph x="7">&lt;t7/&gt;</ph>Compatibility<ph x="8">&lt;t8/&gt;</ph>」<ph x="9">&lt;t9/&gt;</ph> <ph x="10">&lt;t10/&gt;</ph>點擊<ph x="11">&lt;t11/&gt;</ph> <ph x="12">&lt;t12/&gt;</ph>「<ph x="13">&lt;t13/&gt;</ph>Change settings for all users<ph x="14">&lt;t14/&gt;</ph>」<ph x="15">&lt;t15/&gt;</ph> <ph x="16">&lt;t16/&gt;</ph>，然後再點選<ph x="17">&lt;t17/&gt;</ph> <ph x="18">&lt;t18/&gt;</ph>「<ph x="19">&lt;t19/&gt;</ph>Run this program as an administrator<ph x="20">&lt;t20/&gt;</ph>」‧</seg>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T065236Z" creationid="Tom" creationdate="20190711T065236Z">
+        <seg>選擇<ph x="0">&lt;t0/&gt;</ph><ph x="1">&lt;t1/&gt;</ph>「<ph x="2">&lt;t2/&gt;</ph>Blueprint<ph x="3">&lt;t3/&gt;</ph>」<ph x="4">&lt;t4/&gt;</ph>的路徑，然後<ph x="5">&lt;t5/&gt;</ph> <ph x="6">&lt;t6/&gt;</ph>點擊<ph x="7">&lt;t7/&gt;</ph><ph x="8">&lt;t8/&gt;</ph>「<ph x="9">&lt;t9/&gt;</ph>Generate H/W Blueprint<ph x="10">&lt;t10/&gt;</ph>」。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="EN">
-        <seg>Select<ph x="0">&lt;t0/&gt;</ph>”<ph x="1">&lt;t1/&gt;</ph>Blueprint<ph x="2">&lt;t2/&gt;</ph>”<ph x="3">&lt;t3/&gt;</ph> <ph x="4">&lt;t4/&gt;</ph>path then<ph x="5">&lt;t5/&gt;</ph> <ph x="6">&lt;t6/&gt;</ph>click<ph x="7">&lt;t7/&gt;</ph>“<ph x="8">&lt;t8/&gt;</ph>Generate H/W Blueprint<ph x="9">&lt;t9/&gt;</ph>”</seg>
+        <seg>Select<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>“Next”</seg>
       </tuv>
-      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190605T100045Z" creationid="Tom" creationdate="20190605T100045Z">
-        <seg>選擇<ph x="0">&lt;t0/&gt;</ph>「<ph x="1">&lt;t1/&gt;</ph>Blueprint<ph x="2">&lt;t2/&gt;</ph>」<ph x="3">&lt;t3/&gt;</ph> <ph x="4">&lt;t4/&gt;</ph>路徑 然後<ph x="5">&lt;t5/&gt;</ph> <ph x="6">&lt;t6/&gt;</ph>點擊<ph x="7">&lt;t7/&gt;</ph>「<ph x="8">&lt;t8/&gt;</ph>Generate H/W Blueprint<ph x="9">&lt;t9/&gt;</ph>」‧</seg>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T064534Z" creationid="Tom" creationdate="20190711T064507Z">
+        <seg>點選<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>「Next」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Select<ph x="0">&lt;t0/&gt;</ph> “<ph x="1">&lt;t1/&gt;</ph>Properties<ph x="2">&lt;t2/&gt;</ph>”<ph x="3">&lt;t3/&gt;</ph> <ph x="4">&lt;t4/&gt;</ph>under<ph x="5">&lt;t5/&gt;</ph>“Compatibility”<ph x="6">&lt;t6/&gt;</ph> <ph x="7">&lt;t7/&gt;</ph>click<ph x="8">&lt;t8/&gt;</ph> <ph x="9">&lt;t9/&gt;</ph>“Change settings for all users” <ph x="10">&lt;t10/&gt;</ph>check<ph x="11">&lt;t11/&gt;</ph> <ph x="12">&lt;t12/&gt;</ph>“Run this program as an administrator”</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T065114Z" creationid="Tom" creationdate="20190711T065114Z">
+        <seg>選擇<ph x="0">&lt;t0/&gt;</ph>「<ph x="1">&lt;t1/&gt;</ph>Properties<ph x="2">&lt;t2/&gt;</ph>」<ph x="3">&lt;t3/&gt;</ph>，<ph x="4">&lt;t4/&gt;</ph>在<ph x="5">&lt;t5/&gt;</ph>「Compatibility」<ph x="6">&lt;t6/&gt;</ph> <ph x="7">&lt;t7/&gt;</ph>點擊<ph x="8">&lt;t8/&gt;</ph> <ph x="9">&lt;t9/&gt;</ph>「Change settings for all users」<ph x="10">&lt;t10/&gt;</ph> ，然後再勾選<ph x="11">&lt;t11/&gt;</ph> <ph x="12">&lt;t12/&gt;</ph>「Run this program as an administrator」</seg>
       </tuv>
     </tu>
     <tu>
@@ -9760,6 +10268,14 @@ X-Crowdin-File: /locales/poedit.pot</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190620T072813Z" creationid="Tom" creationdate="20190616T140309Z">
         <seg>電子郵件通知用戶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Send Link To Email</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T095752Z" creationid="Tom" creationdate="20190711T095752Z">
+        <seg>發送連結到郵件</seg>
       </tuv>
     </tu>
     <tu>
@@ -9888,6 +10404,14 @@ X-Crowdin-File: /locales/poedit.pot</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190606T034712Z" creationid="Tom" creationdate="20190606T034712Z">
         <seg>捷徑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Shortcut Properties</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T095844Z" creationid="Tom" creationdate="20190711T095844Z">
+        <seg>捷徑屬性</seg>
       </tuv>
     </tu>
     <tu>
@@ -10128,6 +10652,14 @@ X-Crowdin-File: /locales/poedit.pot</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190618T082533Z" creationid="Tom" creationdate="20190618T082533Z">
         <seg>索馬里語 = 79,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Some languages use 'n-gram' data&lt;ref&gt;{{cite web|url=https://languagetool.org/download/ngram-data/ |title=N-Gram Data Download Page |website=languagetool.org |date=2019-03-30 |accessdate=2019-03-30}}&lt;/ref&gt;, which is massive and requires considerable processing power and I/O speed, for some extra detections.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190715T093116Z" creationid="Tom" creationdate="20190715T093116Z">
+        <seg>Some languages use 'n-gram' data&lt;ref&gt;{{cite web|url=https://languagetool.org/download/ngram-data/ |title=N-Gram Data Download Page |website=languagetool.org |date=2019-03-30 |accessdate=2019-03-30}}&lt;/ref&gt;, which is massive and requires considerable processing power and I/O speed, for some extra detections.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10494,8 +11026,8 @@ X-Crowdin-File: /locales/poedit.pot</seg>
       <tuv xml:lang="EN">
         <seg>Successfully entered DIKO <ph x="0">&lt;t0/&gt;</ph>DropZone<ph x="1">&lt;t1/&gt;</ph>, Click “Yes”</seg>
       </tuv>
-      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190610T014900Z" creationid="Tom" creationdate="20190610T014900Z">
-        <seg>成功載入「DIKO <ph x="0">&lt;t0/&gt;</ph>DropZone<ph x="1">&lt;t1/&gt;</ph>」界面，點擊「No」</seg>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T070233Z" creationid="Tom" creationdate="20190610T014900Z">
+        <seg>成功載入「DIKO <ph x="0">&lt;t0/&gt;</ph>DropZone<ph x="1">&lt;t1/&gt;</ph>」界面，點擊「Yes」，點擊「No」繼續設定用戶界面的語言。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10820,6 +11352,14 @@ X-Crowdin-File: /locales/poedit.pot</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>Table of <ph x="0">&lt;t0/&gt;</ph>Content<ph x="1">&lt;t1/&gt;</ph>s</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T100734Z" creationid="Tom" creationdate="20190711T100716Z">
+        <seg>目<ph x="0">&lt;t0/&gt;</ph>錄<ph x="1">&lt;t1/&gt;</ph></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>Table of Content<ph x="0">&lt;t0/&gt;</ph>s</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190710T092834Z" creationid="Tom" creationdate="20190710T092834Z">
@@ -11048,6 +11588,14 @@ X-Crowdin-File: /locales/poedit.pot</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190708T040009Z" creationid="Tom" creationdate="20190708T040009Z">
         <seg>文件類別已被其他使用者更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The core app itself is [[free and open-source]], and can be downloaded for offline use.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190715T093048Z" creationid="Tom" creationdate="20190715T093048Z">
+        <seg>核心應用程序本身是[[免費和開源]]，可以下載以供離線使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12326,10 +12874,10 @@ X-Crowdin-File: /locales/poedit.pot</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN">
-        <seg>Upon completion click<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>“<ph x="2">&lt;t2/&gt;</ph>Finish<ph x="3">&lt;t3/&gt;</ph>”</seg>
+        <seg>Upon completion click<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>“Finish”</seg>
       </tuv>
-      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190604T064337Z" creationid="Tom" creationdate="20190604T064337Z">
-        <seg>安裝完成後點擊<ph x="0">&lt;t0/&gt;</ph><ph x="1">&lt;t1/&gt;</ph>「<ph x="2">&lt;t2/&gt;</ph>Finish<ph x="3">&lt;t3/&gt;</ph>」</seg>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T064734Z" creationid="Tom" creationdate="20190711T064734Z">
+        <seg>安裝完成後點擊<ph x="0">&lt;t0/&gt;</ph><ph x="1">&lt;t1/&gt;</ph>「Finish」</seg>
       </tuv>
     </tu>
     <tu>
@@ -12598,10 +13146,18 @@ COMMAND := { secret | polkit | all }</seg>
     </tu>
     <tu>
       <tuv xml:lang="EN">
+        <seg>View Document Version</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T095102Z" creationid="Tom" creationdate="20190711T095102Z">
+        <seg>查看文件版本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
         <seg>View Folder and Document</seg>
       </tuv>
-      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190619T030015Z" creationid="Tom" creationdate="20190619T030015Z">
-        <seg>查看資料夾和檔案</seg>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190711T094933Z" creationid="Tom" creationdate="20190619T030015Z">
+        <seg>查看資料夾和文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -12762,6 +13318,14 @@ COMMAND := { secret | polkit | all }</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190618T132454Z" creationid="Tom" creationdate="20190618T132454Z">
         <seg>到完成後，可以將已完成的文件移動到<ph x="12">&lt;t12/&gt;</ph>共用資料夾<ph x="13">&lt;t13/&gt;</ph>與其他人分享。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>When<ph x="0">&lt;t0/&gt;</ph> “<ph x="1">&lt;t1/&gt;</ph>ASP .NET 3.5<ph x="2">&lt;t2/&gt;</ph>” is selected, “<ph x="3">&lt;t3/&gt;</ph>Add Roles and Features Wizard<ph x="4">&lt;t4/&gt;</ph>” pops up.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190715T092821Z" creationid="Tom" creationdate="20190715T092821Z">
+        <seg>When<ph x="0">&lt;t0/&gt;</ph> “<ph x="1">&lt;t1/&gt;</ph>ASP .NET 3.5<ph x="2">&lt;t2/&gt;</ph>” is selected, “<ph x="3">&lt;t3/&gt;</ph>Add Roles and Features Wizard<ph x="4">&lt;t4/&gt;</ph>” pops up.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13044,6 +13608,24 @@ COMMAND := { secret | polkit | all }</seg>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190604T084737Z" creationid="Tom" creationdate="20190528T074918Z">
         <seg>==外部連結==
 [[Category:稽核術語]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>[[Category:Cross-platform free software]]
+[[Category:Software using the LGPL license]]
+[[Category:Firefox add-ons]]
+[[Category:Free software programmed in Java (programming language)]]
+[[Category:Grammar checkers]]
+[[Category:Free spelling checking programs]]</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190715T092957Z" creationid="Tom" creationdate="20190715T092957Z">
+        <seg>[[Category:Cross-platform free software]]
+[[Category:Software using the LGPL license]]
+[[Category:Firefox add-ons]]
+[[Category:Free software programmed in Java (programming language)]]
+[[Category:Grammar checkers]]
+[[Category:Free spelling checking programs]]</seg>
       </tuv>
     </tu>
     <tu>
@@ -13423,6 +14005,54 @@ COMMAND := { secret | polkit | all }</seg>
       </tuv>
       <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190528T071401Z" creationid="Tom" creationdate="20190528T071401Z">
         <seg>{{Refimprove|time=2012-03}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>{{short description|Free and open-source spell and grammar checker}}
+{{Infobox software
+| name = LanguageTool
+| title = LanguageTool
+| logo = LanguageTool Logo.svg
+| screenshot = LanguageTool WikiCheck.png
+| caption = LanguageTool WikiCheck
+| developer = Daniel Naber and Marcin Miłkowski
+| released = {{Start date and age|2005|08|15|df=yes}}
+| programming language = [[Java (programming language)|Java]]
+| platform = [[Java SE]]
+| language count = &lt;!--Number languages in which the user interface appear, NOT the number of languages that can be spell-checked.--&gt;
+| language footnote = 
+| size = {{ubl
+|'''Desktop app:''' 156 MB&lt;ref&gt;https://languagetool.org/download/&lt;/ref&gt;
+|'''n-gram data:''' 8.34 GB&lt;ref&gt;https://languagetool.org/download/ngram-data/&lt;/ref&gt;
+}}
+| language = &lt;!--Languages in which the user interface appear, NOT the languages that can be spell-checked.--&gt;
+| genre = [[Grammar checker]]
+| license = [[GNU Lesser General Public License|GNU LGPL]] v2.1+
+}}</seg>
+      </tuv>
+      <tuv xml:lang="ZH-TW" changeid="Tom" changedate="20190715T093023Z" creationid="Tom" creationdate="20190715T093023Z">
+        <seg>{{short description|Free and open-source spell and grammar checker}}
+{{Infobox software
+| name = LanguageTool
+| title = LanguageTool
+| logo = LanguageTool Logo.svg
+| screenshot = LanguageTool WikiCheck.png
+| caption = LanguageTool WikiCheck
+| developer = Daniel Naber and Marcin Miłkowski
+| released = {{Start date and age|2005|08|15|df=yes}}
+| programming language = [[Java (programming language)|Java]]
+| platform = [[Java SE]]
+| language count = &lt;!--Number languages in which the user interface appear, NOT the number of languages that can be spell-checked.--&gt;
+| language footnote = 
+| size = {{ubl
+|'''Desktop app:''' 156 MB&lt;ref&gt;https://languagetool.org/download/&lt;/ref&gt;
+|'''n-gram data:''' 8.34 GB&lt;ref&gt;https://languagetool.org/download/ngram-data/&lt;/ref&gt;
+}}
+| language = &lt;!--Languages in which the user interface appear, NOT the languages that can be spell-checked.--&gt;
+| genre = [[Grammar checker]]
+| license = [[GNU Lesser General Public License|GNU LGPL]] v2.1+
+}}</seg>
       </tuv>
     </tu>
     <tu>
