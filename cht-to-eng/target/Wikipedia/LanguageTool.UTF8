@@ -7,7 +7,7 @@
 | caption = LanguageTool WikiCheck
 | developer = Daniel Naber and Marcin Miłkowski
 | released = {{Start date and age|2005|08|15|df=yes}}
-| programming language = [[Java (programming language)|Java]]
+| programming language = [[Java]]
 | platform = [[Java SE]]
 | language count = <!--Number languages in which the user interface appear, NOT the number of languages that can be spell-checked.-->
 | language footnote = 
@@ -16,16 +16,17 @@
 |'''n-gram data:''' 8.34 GB<ref>https://languagetool.org/download/ngram-data/</ref>
 }}
 | language = <!--Languages in which the user interface appear, NOT the languages that can be spell-checked.-->
-| genre = [[Grammar checker]]
-| license = [[GNU Lesser General Public License|GNU LGPL]] v2.1+
+| genre = [[語法檢查]]
+| license = [[GNU宽通用公共许可证|GNU LGPL]] v2.1+
 }}
 
-'''LanguageTool'''是[[免費和開源]]的[[語法檢查]]，其所有功能都可供下載<ref>{{cite web |url=https://languagetool.org/#libreoffice |title=Spell and Grammar Checker |work=LanguageTool |language=en }}</ref>。LanguageTool website connects to a [[Proprietary software|proprietary]] sister project '''LanguageTool Plus''', which provides improved error detection for English and German, as well as easier revision of longer texts, following the [[open-core model]].
+'''LanguageTool'''是一套[[自由及开放源代码软件|自由及开放源代码]]的[[語法檢查]]软件，其所有功能都可供下載<ref>{{cite web |url=https://languagetool.org/#libreoffice |title=Spell and Grammar Checker |work=LanguageTool |language=en }}</ref>。
+LanguageTool website connects to a [[Proprietary software|proprietary]] sister project '''LanguageTool Plus''', which provides improved error detection for English and German, as well as easier revision of longer texts, following the [[open-core model]].
 
-LanguageTool由Daniel Naber創辦，用於他的畢業論文<ref> {{cite web | url = http://danielnaber.de/languagetool/download/style_and_grammar_checker.pdf | format = PDF | title=A Rule-Based Style and Grammar Checker | trans-title =基於規則的樣式和語法檢查器|作者= Daniel Naber |網站= Danielnaber.de | access-date = 2018-06-30 | language=en }} </ref>在2003年（然後用[[Python（編程語言）| Python]]編寫。
-It now supports 31 languages, each developed by volunteer maintainers, usually native speakers of said languages.<ref>{{cite web|title=Supported languages|url=https://languagetool.org/languages/|date=28 December 2016|accessdate=29 December 2016}}</ref> Based on error detection patterns, rules are created and then tested for a given text. 
+LanguageTool由Daniel Naber創辦，用於他的畢業論文<ref> {{cite web | url = http://danielnaber.de/languagetool/download/style_and_grammar_checker.pdf | format = PDF | title=A Rule-Based Style and Grammar Checker | trans-title =基於規則的樣式和語法檢查器|作者= Daniel Naber |work = Danielnaber.de | access-date = 2018-06-30 | language=en }} </ref>在2003年（然後用[[Python（編程語言）| Python]]編寫。
+It now supports 31 languages, each developed by volunteer maintainers, usually native speakers of said languages.<ref>{{cite web|title=Supported languages|url=https://languagetool.org/languages/|date=2016-12-28 |access-date=2016-12-29 |language=en }}</ref> Based on error detection patterns, rules are created and then tested for a given text. 
 
-核心應用程序本身是[[免費和開源]]，可以下載以供離線使用。Some languages use 'n-gram' data<ref>{{cite web|url=https://languagetool.org/download/ngram-data/ |title=N-Gram Data Download Page |website=languagetool.org |date=2019-03-30 |accessdate=2019-03-30}}</ref>, which is massive and requires considerable processing power and I/O speed, for some extra detections. As such, LanguageTool is also offered as a web service that does the processing of 'n-grams' data on the server side. LanguageTool Plus also uses n-grams as part of its [[freemium]] business model. 
+核心應用程序本身是[[免費和開源]]，可以下載以供離線使用。Some languages use 'n-gram' data<ref>{{cite web|url=https://languagetool.org/download/ngram-data/ |title=N-Gram Data Download Page |website=languagetool.org |date=2019-03-30 |access-date=2019-03-30}}</ref>, which is massive and requires considerable processing power and I/O speed, for some extra detections. As such, LanguageTool is also offered as a web service that does the processing of 'n-grams' data on the server side. LanguageTool Plus also uses n-grams as part of its [[freemium]] business model. 
 
 LanguageTool web service can be used via a [[Web app|web interface]] in a [[web browser]], or via a specialized [[client-server model|client-side]] [[Plug-in (computing)|plug-ins]] for [[Microsoft Office]]<ref>{{cite web|title=LanguageTool Microsoft Office Plug-in|url=https://github.com/jaumeortola/languagetool-msword10-addin/releases/tag/1.1|date=11 January 2019|accessdate=29 December 2016}}</ref>, [[LibreOffice]]<ref>{{cite web|url=https://languagetool.org/download/LanguageTool-4.4.oxt |format=OXT |title=LanguageTool v4.4|website=Languagetool.org|accessdate=11 January 2019}}</ref>, [[Apache OpenOffice]],<ref>{{cite web|url=https://languagetool.org/download/LanguageTool-2.5.oxt |format=OXT |title=LanguageTool v2.5|website=Languagetool.org|accessdate=30 June 2018}}</ref> [[Vim (text editor)|Vim]],<ref>{{cite web |url=http://www.vim.org/scripts/script.php?script_id=3223 |title=LanguageTool – Grammar checker for English, French, German (etc.) in Vim : vim online |website=Vim.org |date= |accessdate=2014-05-03}}</ref><ref>{{cite web |url=https://github.com/rhysd/vim-grammarous |title=vim-grammarous: A powerful grammar checker for Vim using LanguageTool |website=[[GitHub]] |accessdate=2014-09-30}}</ref> [[Emacs]],<ref>{{cite web |first=Alex |last=Schroeder |url=http://www.emacswiki.org/emacs/langtool.el |title=langtool.el |website=EmacsWiki |date=2013-08-24 |accessdate=2014-05-03}}</ref><ref>{{Cite web|url=https://github.com/mhayashi1120/Emacs-langtool|title=Emacs-langtool|last=Hayashi|first=Masahiro|date=|website=GitHub|archive-url=|archive-date=|dead-url=|access-date=2019-03-18}}</ref> [[Firefox]]<ref>{{cite web|url=https://addons.mozilla.org/en-US/firefox/addon/languagetool/|title=Grammar and Spell Checker - LanguageTool|last=|first=|date=2018-12-26|website=addons.mozilla.org|publisher=[[Mozilla Foundation]]|archive-url=|archive-date=|dead-url=|accessdate=2019-01-05}}</ref>, [[Mozilla Thunderbird|Thunderbird]],<ref>{{cite web|author= |url=https://addons.mozilla.org/en-US/thunderbird/addon/grammar-checker/ |title=Grammar Checker |website=addons.mozilla.org |publisher=[[Mozilla Corporation]] |date=2013-05-17 |accessdate=2014-05-03}}</ref>, and [[Google Chrome]]<ref>{{cite web|url=https://chrome.google.com/webstore/detail/languagetool-grammar-and/oldceeleldhonbafppcapldpdifcinji |title=LanguageTool - Grammar and Style Checker |website=Google Chrome Webstore |publisher=[[Google]] |date=2017-12-17 |accessdate=2017-12-29}}</ref>. Its web app client can also be integrated on websites.<ref>{{cite web|url=http://wiki.languagetool.org/integration-on-websites |title=Integration On Websites – LanguageTool Wiki |website=Wiki.languagetool.org |date=2014-04-15 |accessdate=2014-05-03}}</ref>
 
@@ -40,12 +41,6 @@ LanguageTool web service can be used via a [[Web app|web interface]] in a [[web 
 ==參考文獻==
 {{Reflist|2}}
 
-[[Category:Cross-platform free software]]
-[[Category:Software using the LGPL license]]
-[[Category:Firefox add-ons]]
-[[Category:Free software programmed in Java (programming language)]]
-[[Category:Grammar checkers]]
-[[Category:Free spelling checking programs]]
 
 
 {{free-software-stub}}
