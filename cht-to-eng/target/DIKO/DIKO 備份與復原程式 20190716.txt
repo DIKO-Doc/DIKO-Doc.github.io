@@ -1,0 +1,94 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Diko Backup & Restore Procedures  
+
+
+
+V1.1  20190716  
+
+DIKO Backup & Restore Procedures  
+
+Disclaimer (C) All rights reserved 2019. All rights reserved by Software Island Taiwan. 如沒有任何授權，翻印必究。  For inquiries, please send your email to info@speechnact.asia.  
+
+
+
+Page 2 / 9  
+
+DIKO Backup & Restore Procedures  
+
+Change History Version Date Sections Remarks  1.0 10th Oct 2018 All New document released 1.1 30th May 2019 Chapter 2 Backup  Restore Updated with details steps of backup and restore, with screen captures  
+
+Page 3 / 9  
+
+DIKO Backup & Restore Procedures  
+
+Table of Contents  
+
+聲明 ................................................................................................................................................. 2  檔案修訂追蹤 ................................................................................................................................. 3  目錄 ................................................................................................................................................. 4  1. DIKO概述 ................................................................................................................................ 5  2. 備份與復原 ............................................................................................................................. 6  2.1 備份 ................................................................................................................................. 6  2.1.1 資料庫備份 ............................................................................................................... 6  2.1.2 檔案系統備份 ........................................................................................................... 8  2.2 復原 ................................................................................................................................. 8  2.2.1 資料庫復原 ............................................................................................................... 8  2.2.2 檔案系統復原 ........................................................................................................... 9  
+
+
+
+第 4 / 9  
+
+DIKO Backup & Restore Procedures  
+
+1. DIKO Overview DIKO is a web-based, UNICODE-supported Document Management System. With a web browser, the user can manage and protect the documents within the organization.  DIKO offers multi-lingual user interface to serve international users. It can display and accept multi-lingual inputs.  In DIKO, you can preview more than 40 file types in PDF format. Each preview has a watermark of user name, IP address and date to avoid the potential risk of any file content being stolen through screen capture.  All document activities are stored in audit trail for future review. Any update on the documents can notify the relevant users via email alert. In addition, DIKO keeps the versions of each document to protect its integrity. Role-based permissions ensure only authorized groups and users can access the documents. Documents stored in DIKO are encrypted so documents can only be viewed within DIKO. SSL is also supported so the data transmission between DIKO and web browser is safe.  Documents can be classified in different categories. Each category consists a group of fields which hold the metadata for searching.  DIKO supports both metadata and content search. DIKO allows the users to merge multiple documents to a PDF for printing. Users can share the documents via its share-link to ensure litigate sharing.    Within DIKO, all documents are well protected and managed so the corporation is on the safe side in the dynamic business world.   
+
+Page 5 / 9  
+
+DIKO Backup & Restore Procedures  
+
+2. Backup and Restore It is very important to backup DIKO on a daily basis to ensure its integrity. In case of disaster happens, the backup can be restored and the operation loss can be minimized.  2.1 Backup DIKO consists of two storage media namely Database and File System. Database stores all document records, audit trails, user groups, etc. File System stores all encrypted files, PDF renditions, full text index, etc. Both storage media should be backed at the same time to ensure data synchronization.    2.1 Database backup You may use some database backup software to backup the DIKO database. Certainly, you may use the SQL Server Management Studio to conduct the backup. The following procedures show you how to use the SQL Server Management Studio to backup the DIKO database installed to its default location.  In Object Explorer, connect to an instance of the SQL Server Database Engine and then expand that instance. 展開 Databases，於 DIKO 按右鍵，然後指向 Tasks，按一下 Back  Up....。  
+
+
+
+
+
+Page 6 / 9  
+
+DIKO Backup & Restore Procedures  
+
+Then you will see the dialog box below:  
+
+Click OK to accept the default parameters; Otherwise, you may set the default location for backup to a Network Attached Storage (NAS) for nearline storage. At this point, the pattern of the backup process will appear in the lower left corner of the dialog. When the backup is completed, the system will prompt the backup to complete the message as shown below:  
+
+Page 6 / 9  
+
+DIKO Backup & Restore Procedures  
+
+You may use the task scheduler to automate the database backup task.  
+
+2.1.2 檔案系統備份  預設情況下，DIKO安裝在 C磁碟機上。有一個名為 DIKO的文件夾，用於儲存應用 程式、檔案物件和全文索引，因此，C磁碟機上的 DIKO文件夾應該透過系統的 「複製」命令或其他備份軟體進行備份。您可以使用Windows的計畫任務功能於 每晚進行檔案系統備份。建議將備份檔案存儲在 NAS上以方便保護。  
+
+2.2 復原  要復原 DIKO很簡單，將資料庫和檔案系統備份從 NAS放到默認位置（即 C磁碟 機），DIKO將再次投入生產。  
+
+2.2.1 資料庫復原  以下過程說明如何使用MS SQL Server Management Studio復原資料庫備份。  1. 在 Object Explorer中，連接到 SQL Server資料庫引擎的物件，然後展開該物件。  2. 於 Databases按右鍵，然後點選 Restore Database...  3. 在 General頁面上，使用 Source部分指定要復原的備份組的來源和位置。選擇 以下選項之一：  4. 從下拉清單中選擇要復原的資料庫。該清單僅包含根據 msdb備份歷史記錄作 過備份的資料庫。  5. 在 Destination部分中，Database框將自動填充要復原的資料庫名稱。要更改資 料庫名稱，請在 Database框中輸入新名稱。  第 8 / 9  
+
+DIKO Backup & Restore Procedures  
+
+6. 在 Restore to框中，保留預設設置為 To the last backup taken或按一下 Timeline 以訪問 Backup Timeline對話方塊，以手動選擇停止恢復操作的時間點。 有關指 定特定時間點的詳細資訊，請參閱備份時間表。  7. 在 Backup sets to restore網格中，選擇要復原的備份。 此網格顯示指定位置的可 用備份。 By default, a recovery plan is suggested. 要覆蓋建議的恢復計畫，您可以更 改網格中的選擇。 當取消選擇早期備份時，將自動取消選擇依賴於恢復早期備 份的備份。   8. 復原操作可能會失敗若與資料庫的活動連接仍然存在。 選擇 Close existing  connections option選項以確保所有在Management Studio與資料庫之間的活動 連接均已關閉。 此核取方塊在執行還原操作之前將資料庫設置為單使用者模 式，並在完成時資料庫設置為多使用者模式。  9. 如果希望在每個復原操作之間出現提示，請選擇 Prompt before restoring each  backup。 除非資料庫很大並且您希望監視還原操作的狀態，否則通常不需要這 樣做。  10. 按一下 OK。  
+
+2.2.2 檔案系統復原  要復原檔案系統，只需複製整個 DIKO文件夾及其內容，並將之放回到 C磁碟機 （或 DIKO安裝的硬碟）上。  
+
+
+
+
+
+第 9 / 9  
+

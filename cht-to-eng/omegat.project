@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <omegat>
     <project version="1.0">
-        <source_dir>../../cht</source_dir>
+        <source_dir>../../../ChT/target</source_dir>
         <source_dir_excludes>
             <mask>**/.svn/**</mask>
             <mask>**/CVS/**</mask>

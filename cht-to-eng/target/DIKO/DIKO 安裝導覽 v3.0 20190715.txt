@@ -1,0 +1,1766 @@
+DIKO Installation Guide v1.0  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DIKO 安裝導覽  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v1.0  
+
+Copyright 2017-2019 All rights reserved  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  第1頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+DIKO Installation & Configuration  
+
+
+
+目錄  1  需求 ..................................................................................................................................... 3  2  安裝 IIS Server 及其相關的.net Framework 3.5.1 與 4.5.1 ............................................... 4  3  安裝 Microsoft WSE 2.0 SP3 ............................................................................................. 14  4  DIKO 伺服器核心 .............................................................................................................. 17  5  安裝 Open Office ............................................................................................................... 20  6  安裝「Microsoft SQL 2012 Express」 .............................................................................. 24  7  為 DIKO 產生軟體的認證 ................................................................................................. 38  8  設定 web.config ................................................................................................................ 40  9  在 IIS 中新增 Web application .......................................................................................... 46  10  設定並初始化 Solr 系統 ................................................................................................. 49  11  新增與安裝 DIKO Index Monitor 到 Windows services ............................................... 54  12  新增與安裝 DIKO Rendition manager 到 Windows services ....................................... 59  13  新增與安裝 DIKO Email Capturing 到 Windows services ............................................. 64  14  新增與安裝 DIKO Email Capturing Pro 到 Windows services ....................................... 69  15  新增與安裝 DIKO Sync Folder Mass Monitor 到 Windows services ............................ 73  16  瀏覽並登入 DIKO ............................................................................................................ 78  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  第2頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+1  需求  作業系統  - MS Windows Server 2008 / 2012 / 2016   資料庫  - MS SQL Server 2008 / 2012  模組  - IIS Server 7.0 / 8.0 / 9.0 / 10.0  
+
+- .net Framework 3.5 sp1 (Microsoft SQL Express2012 所需元件)  
+
+- .net Framework 4.5  
+
+- Microsoft WSE 2.0 SP3 (必要)   安裝所需的用戶權限  - Administrator  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  第3頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+2  安裝 IIS Server 及其相關的.net Framework  3.5.1 與 4.5.1  應該只在「伺服器管理員」內安裝.net Framework，以免往後與其他軟體衝突。  
+
+2.1 打開 “伺服器管理員”  
+
+2.2 選擇 “管理”, 並選擇 “新增角色及功能”  
+
+
+
+  第4頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+
+
+2.3 點擊[下一步(N) >]  
+
+2.4 點擊 [下一步(N) >]  
+
+
+
+
+
+
+
+  第5頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+
+
+2.5 點擊 [下一步(N) >]   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  第6頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+
+
+2.6 在“伺服器角色”, 選擇 “Application Server” 和 “Web Server (IIS)”  
+
+(此畫面針對 Windows Server 2008 / 2012)  
+
+
+
+(此畫面針對 Windows Server 2016)  
+
+
+
+
+
+  第7頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+
+
+2.7 當選擇了 “Web Server (IIS)” ，將會顯示 “新增角色及功能精靈”的視窗。點擊 “新 增功能”並點擊 [下一步(N) >]  
+
+2.8 在 功能， 選擇 “.NET Framework 3.5 Features” 和 “.NET Framework 4.5  Features”  
+
+  第8頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+2.9 點擊「應用程式伺服器」對應的「角色服務」，選擇「.NET Framework 4.5」「TCP  Port Sharing」：  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  第9頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+2.10 點選“網頁伺服器角色-角色服務”  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  第10頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+2.11 往下捲動並展開 “Application Development”， 選擇 “.Net Exensibility3.5”,  “ASP.NET 3.5”， “ISAPI Extensions”， “ISAPI Filters”， 然後點擊 [Next]  
+
+2.11.1 選擇“.net Extensibility 3.5” 後, 將會顯示“新增角色及功能精靈” 的視窗。 點擊  [新增功能]  
+
+
+
+
+
+  第11頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+2.11.2 選擇 “ASP .NET 3.5”後 , 將會顯示“新增角色及功能” 的視窗。 點擊 [新增功 能]  
+
+2.12 在 確認中點擊 [安裝]  
+
+
+
+  第12頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+2.13 安裝完成後， 點擊 [關閉]  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  第13頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+3  安裝 Microsoft WSE 2.0 SP3  Microsoft 的 Web Service Enhancement (WSE)是 IIS 服務上的增強套件，只提供英文版本。 DIKO 系統須配合 WSE 的 2.0 SP3 版本使用。在系統安裝程式附有安裝檔案。使用者亦可 從 Microsoft 的官網下載本增強套件。以下詳細列出安裝時所出現的畫面。  3.1 雙擊 “Microsoft WSE 2.0 SP3”, 並點擊 [Next >]  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.2 選擇 “I accept the terms in the license agreement” （我接受上列的協議）並點擊 [Next >]以繼續  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  第14頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+3.3 選擇 “Runtime” 並點擊 [Next >]  
+
+3.4 點擊 [Install]  
+
+
+
+
+
+  第15頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+3.5 安裝完成後，點擊[Finish].  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  第16頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+4  DIKO 伺服器核心  4.1 雙擊 “DIKO setup.exe” 啟動 setup wizard， 並點擊 [Next >]  
+
+4.2 選擇 “I accept the terms in the license agreement”， 並點擊 [Next >]  
+
+  第17頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+4.3 如有需要，可以改變安裝路徑，然後點擊 [Next >]  
+
+4.4 點擊 [Install]  
+
+
+
+
+
+  第18頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+4.5 等待安裝程序  
+
+4.6 點擊 [Finish]  
+
+
+
+
+
+  第19頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+5  安裝 Open Office  5.1 在 DIKO 的目錄中打開 OOO3_4_1 資料夾並點擊 Setup.exe  
+
+5.2 點擊 [Next >]  
+
+  第20頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+5.3 如有需要，可輸入您的使用者資訊，並點擊 [Next >]  
+
+5.4 點擊 [Next>]  
+
+
+
+
+
+  第21頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+5.5 點擊 [Install]  
+
+5.6 等待安裝程序  
+
+
+
+
+
+  第22頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+5.7 完成安裝程序後，點擊 [Finish]   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  第23頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+6  安裝「Microsoft SQL 2012 Express」  6.1  Microsoft® SQL Server® 2012 Express 是一個功能強大而且可靠的免費資料管理系 統，可為輕量型網站和桌面應用程式，提供豐富可靠的資料存放區。  您可以從 Microsoft 的網站下載 Microsoft SQL Express  https://www.microsoft.com/zh-tw/download/details.aspx?id=29062  
+
+啟動您下載的 SQLEXPRADV_x64_CHT（1.4 GB）。系統將在運行安裝之前壓縮下載的 文件。  
+
+
+
+
+
+
+
+
+
+
+
+  第24頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+6.2  啟動 SQLEXPRADV_x64_CHT.exe 選擇 “安裝” > “新增SQL  Server獨立安裝或將功 能加入至現有安裝”  
+
+6.3 選取 “我接受授權條款(A)” 並點擊 [下一步(N) >]  
+
+  第25頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+6.4 點擊 [下一步(N) >]  
+
+6.5 等待作業程序  
+
+  第26頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+6.6 完成程序後，點擊 [下一步(N) >] 以確定默認設置。  
+
+6.7 點擊 [下一步(N) >]  
+
+  第27頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+6.8 選擇 “定序” 標籤改變排序順序  
+
+6.9 點擊 [自訂]  
+
+  第28頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+6.10 先點選「選取要使用的定序方式：」之下的「Windows定序指示項和排序次序(W)」， 然後才可以將排序次序改成「Chinese_Hong_Kong_Stroke_90」，之後再勾選「區分腔調 字」然後點擊 [確定]  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  第29頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+6.11 點擊 [下一步(N) >]  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  第30頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+6.12 選擇 “混合模式 (SQL Server 驗證與Windows 驗證)” 並點擊 [Add Current User]。 “輸入密碼” 和 “確認密碼” ， 預設的密碼為“p@ssw0rd”， 接著點擊[下一步(N) >]  p@ssw0rd  
+
+6.13 選擇 “安裝和設定” 並點擊 [下一步(N) >]  
+
+  第31頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+6.14 點擊 [下一步(N) >]  
+
+6.15 等待安裝程序  
+
+  第32頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+6.16 安裝程序完成後，點擊 [關閉]   
+
+6.17 關閉 “SQL Server 安裝中心” 視窗  
+
+  第33頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+6.18 搜尋隨著 Microsoft SQL Server Express 2012 一起安裝的“SQL Server  Management Studio”。如果找不到，也可以單獨下載此工具：  https://go.microsoft.com/fwlink/?linkid=2088649  在安裝較新版本之前，請檢查並卸載以前安裝的 SQL Server Management Studio。  
+
+6.19 點擊 “以系統管理員身分” 來啟動  
+
+
+
+
+
+  第34頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+6.20 在 “驗證” 選擇 “Windows 驗證” ， 並點擊 [連接]  
+
+6.21 右鍵點擊 “資料庫”， 並選擇 “附加”  
+
+
+
+
+
+
+
+
+
+  第35頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+6.21 點擊 “加入”  
+
+6.22 從 C:\DIKO\Database路徑中選擇 “diko.mdf” 並點擊 [確定]  
+
+  第36頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+6.23 點擊 [確定]  
+
+6.24 將新增一個 “diko”的資料庫。  
+
+  第37頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+7  為 DIKO 產生軟體的認證  7.1 在 C:\DIKO\GenHWBlueprint的資料夾中雙擊 “GenHWBlueprint.exe”， 接著輸入 相關資訊並點擊 “Generate C2V File”  
+
+7.2 選擇一個產生C2V File的目的地路徑，並點擊Save。  
+
+
+
+  第38頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+7.3 將產生的文件 “DIKO License Blueprint.c2v” 發送回給供應商.  
+
+7.4 供應商會將 “diko_license.v2c” 發送給您 ，並請將  “diko_license.v2c” 複製至 C:\DIKO\Properties  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  第39頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+8  設定 web.config  8.1 前往 C:\DIKO\Web, 並經由記事本打開 web.config  
+
+8.2 確保以下內容在 web.config 中指向正確的路徑：  <appSettings>  <add key="LogPath" value=" C:\diko\Logs\" />  <add key="RepositoryPath" value="C:\diko\Repository\" />  <add key="TempPath" value="C:\diko\Temp\" />  <add key="PropertiesDir" value="C:\diko\Properties\" />  <add key="FilterMappings" value="C:\diko\Properties\filter_mappings.properties" />  <add key="MIMEMappings" value=" C:\diko\Properties\mime‐types.xml" />  <add key="IndexPath" value="C:\ diko\Index\" />  </appSettings>  
+
+8.3 同時，將 connectionString 中的 DataSource 和 Password 值更改為 MSSQL sa 密碼：  <connectionStrings>  <add name="udmsmsdb" connectionString="Data  Source=WIN‐DHEDFUCIKSP\SQLEXPRESS;Initial  Catalog=diko;Persist Security Info=True;User ID=sa;Password=p@ssw0rd"  providerName="System.Data.SqlClient" />  </connectionStrings>  8.4 保存 web.config     第40頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+8.5 打開 web.config 的內容，並點擊安全性選單  
+
+
+
+
+
+
+
+  第41頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+8.6 點擊編輯，並點擊新增...  
+
+
+
+8.7 點擊對話匣左下角的「進階(A)…」  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  第42頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+出現了下列畫面之後，點選「立即尋找(N)」  
+
+
+
+8.8 在對話匣下方的「搜尋結果(U):」內點選 IIS_IUSRS，並點擊[確定]為網上連線設權限  
+
+  第43頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+8.9 點擊[確定]  
+
+
+
+8.10 將 IIS_IUSRS 的權限都設為「允許」，點擊[確定]繼續。  
+
+
+
+
+
+
+
+
+
+  第44頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+8.11 確定已新增新的使用者權限後，點擊[確定]  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  第45頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+9  在 IIS 中新增 Web application  9.1 搜尋 “IIS 管理控制台”  
+
+9.2 在Server中展開 “應用程式集區” 的連結樹，並右鍵點擊 “Default Web Site”，接著 選擇 “新增應用程式”  
+
+  第46頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+9.3 在別名中輸入 “diko” ， 並在 “實體路徑” 中選擇 “C:\DIKO\Web” (預設安裝路 徑) ，接著點擊[確定]  
+
+9.4 在左側列表選擇 “應用程式集區” ，在右側列表右鍵單擊“DefaultAppPool”， 接 著選擇 “進階設定…”  
+
+  第47頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+9.5 確認 “.NET Framework 版本” 是選擇 “V2.0” ，“啟用32位元應用程式” 是 選擇 “True”，接著點擊 [OK]  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  第48頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+10  設定並初始化 Solr 系統  10.1 以工作管理員身分執行命令提示元用以檢查安裝狀態。在鍵盤上按 Windows鍵，或是像下方捕捉的畫面，透過滑鼠去點選開始功能表。  
+
+10.2 在鍵盤上輸入 cmd ，在畫面左側會列出搜尋到的「命令提示字元」  
+
+  第49頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+10.3 右鍵單擊「命令提示字元」，點選「以系統管理員身分執行」：  
+
+10.4 輸入 cd C:\DIKO\solr，並按下Enter鍵，用以改變當前的目錄為 C:\DIKO\solr  
+
+10.5 輸入 nssm install Solr，並按下Enter鍵  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  第50頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+10.6 NSSM service installer將如下顯示  
+
+10.7 按下 Path 的[...] 按鈕，瀏覽C:\DIKO\solr\jdk7\bin，並選擇java.exe作為設定的 路徑 . 同時Startup directory 將會轉變為C:\DIKO\solr\jdk7\bin  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  第51頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+10.8 在Options中，貼上Option script裡面的內容 (Option script在DIKO預設安裝路徑的 Solr資料夾中，如: C:\DIKO\Solr) :  
+
+
+
+
+
+10.9 點擊 [Install service].  
+
+10.10 Service安裝成功後會得到以下訊息。  
+
+
+
+
+
+  第52頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+10.11 輸入 net start Solr 並按下Enter鍵來啟動Solr 服務，啟動成功後會出現以下訊 息“Solr 服務已經啟動成功”  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  第53頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+11  新增與安裝 DIKO Index Monitor 到 Windows  services  11.1 到 C:\DIKO\Indexer，並經由記事本打開 config.ini  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  第54頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+11.2 確認 Config.ini 中以下的內容指向正確路徑。  確保 DBServer 等於“您的伺服器名稱”/ SQLEXPRESS，您可以從 SQL Server  Management Studio 的連接畫面中找到此資訊。  
+
+11.3 以系統管理員身分打開命令提示字元以用來註冊DIKO Indexer service  11.4 輸入 cd C:\DIKO\Indexer，並按下Enter鍵將當前目錄更改為C:\DIKO\Indexer.  
+
+
+
+  第55頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+11.5 輸入 "Register DIKOIndexer.bat" 並按下Enter鍵來啟動安裝程序  
+
+
+
+11.6 如果安裝成功後，畫面將會出現訊息 “已經完成交易性的安裝”  
+
+11.7 關閉命令提示字元視窗    第56頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+11.8 搜尋 “Service” 並 打開 “服務” 介面  
+
+11.9 右鍵點擊 DIKO Index Monitor 並選擇 內容  
+
+
+
+
+
+  第57頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+11.10 改變啟動類型 為 “自動(延遲啟動)” 並點擊 [確定]  
+
+11.11 點擊 啟動 來運行 DIKO Index Monitor  
+
+  第58頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+12  新增與安裝 DIKO Rendition manager 到  Windows services  12.1 到 C:\DIKO\RenditionManager，並經由記事本打開 config.ini  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  第59頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+12.2 確認 Config.ini 中以下的內容指向正確路徑。  確保 DBServer 等於“您的伺服器名稱”/ SQLEXPRESS，您可以從 SQL Server  Management Studio 的連接畫面中找到此資訊。  
+
+12.3以系統管理員身分打開命令提示字元以用來註冊DIKO Rendition Manager  12.4 輸入 cd C:\DIKO\RenditionManager，並按下Enter鍵將當前目錄更改為 C:\DIKO\RenditionManager  
+
+
+
+12.5 輸入 "Register RenditionManager.bat" 並按下Enter鍵來執行安裝程序  
+
+
+
+
+
+
+
+
+
+  第60頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+12.6 如果安裝成功後，畫面將會出現訊息 “已經完成交易性的安裝”  
+
+12.7 關閉命令提示字元視窗  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  第61頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+12.8 搜尋 “Service” 並 打開 “服務” 介面  
+
+12.9右鍵點擊 DIKO Rendition Manager 並選擇 內容  
+
+
+
+
+
+
+
+
+
+  第62頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+12.10 改變啟動類型 為 “自動(延遲啟動)” 並點擊 [確定]  
+
+12.11 點擊 啟動來運行 DIKO Rendition Manager  
+
+  第63頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+13  新增與安裝 DIKO Email Capturing 到 Windows services  13.1 到 C:\DIKO\EmailCapturing，並經由 Notepad 打開 config.ini  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  第64頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+13.2 確認 Config.ini 中以下的內容指向正確路徑。  確保 DBServer 等於“您的伺服器名稱”/ SQLEXPRESS，您可以從 SQL Server  Management Studio 的連接畫面中找到此資訊。  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  第65頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+13.3 以系統管理員身分打開命令提示元以用來註冊DIKO EmailCapturing service  13.4 輸入 cd C:\DIKO\EmailCapturing，並按下Enter鍵將當前目錄更改為 C:\DIKO\EmailCapturing  
+
+13.5 輸入 "Register DIKOEmailCapturing.bat" 並按下Enter鍵來執行安裝程序  
+
+13.6 如果安裝成功後，畫面將會出現訊息 “已經完成交易性的安裝”  
+
+13.7 關閉命令提示元視窗    第66頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+13.8 搜尋 “Service” 並 打開 “服務” 介面  
+
+13.9 右鍵點擊 DIKO Email Capturing 並選擇 內容  
+
+
+
+
+
+
+
+
+
+  第67頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+13.10 改變啟動類型 為 “自動(延遲啟動)” 並點擊 [確定]  
+
+13.11 點擊 啟動來運行 DIKO Email Capturing  
+
+  第68頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+14  新增與安裝 DIKO Email Capturing Pro 到 Windows services  14.1 到 C:\DIKO\Email Capturing Pro，並經由記事本打開 config.ini： 
+
+14.2 確認 Config.ini 中以下的內容指向正確路徑。  確保 DBServer 等於“您的伺服器名稱”/ SQLEXPRESS，您可以從 SQL Server  Management Studio 的連接畫面中找到此資訊。  
+
+  第69頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+14.3 以系統管理員身分打開命令提示元以用來註冊DIKO Email Capturing Pro service  14.4 輸入 cd C:\DIKO\Email Capturing Pro，並按下Enter鍵將當前目錄更改為 C:\DIKO\Email Capturing Pro  
+
+14.5 輸入 "Register DIKOEmailCapturingPro.bat" 並按下Enter鍵來執行安裝程序  
+
+14.6 如果安裝成功後，畫面將會出現訊息 “已經完成交易性的安裝”  
+
+14.7 關閉命令提示字元視窗    第70頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+14.8 搜尋 “Service” 並 打開 “服務” 介面  
+
+14.9 右鍵點擊 DIKO Email Capturing Pro 並選擇 內容  
+
+
+
+
+
+
+
+
+
+
+
+  第71頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+14.10 改變啟動類型為 “自動(延遲啟動)” 並點擊 [確定]  
+
+14.11 點擊 啟動 來運行 DIKO Email Capturing Pro  
+
+
+
+  第72頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+15  新增與安裝 DIKO Sync Folder Mass Monitor  到 Windows services  15.1 到 C:\DIKO\SyncFolderMass，並經由記事本打開 config.ini：  
+
+15.2 確認 Config.ini 中以下的內容指向正確路徑。  確保 DBServer 等於“您的伺服器名稱”/ SQLEXPRESS，您可以從 SQL Server  Management Studio 的連接畫面中找到此資訊。  
+
+  第73頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+
+
+
+
+15.3 以系統管理員身分打開命令提示字元以用來註冊DIKO Sync Folder Mass Monitor  service  15.4 輸入 cd C:\DIKO\SyncFolderMass，並按下Enter鍵將當前目錄更改為  C:\DIKO\SyncFolderMass  
+
+
+
+  第74頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+15.5 輸入 "Register DIKOSyncFolderMass.bat" 並按下 Enter 鍵來執行安裝程序  
+
+
+
+15.6 如果安裝成功後，畫面將會出現訊息 “已經完成交易性的安裝”  
+
+
+
+15.7 關閉命令提示字元視窗。  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  第75頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+15.8 搜尋 “Service” 並 打開 “服務” 介面  
+
+15.9 右鍵點擊 DIKO Sync Folder Mass Monitor 並選擇 Properties（內容）  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  第76頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+15.10 將其啟動類型改變為「自動 (延遲啟動)」並點擊 [確定]  
+
+15.11 點擊 啟動 來運行 DIKO Folder Mass Sync Monitor  
+
+
+
+
+
+
+
+  第77頁／共78頁  
+
+DIKO Installation Guide v1.0  
+
+
+
+16  瀏覽並登入 DIKO  16.1 打開網頁瀏覽器 (例如:Google Chrome)，輸入網址  “http://127.0.0.1/diko/index.aspx”， 預設ID為 admin ，預設密碼為 12345，最 後，點擊 [Login] 或按下Enter鍵  
+
+  第78頁／共78頁  
+

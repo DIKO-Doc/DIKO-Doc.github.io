@@ -3,8 +3,6 @@ msgstr "Project-Id-Version: poedit\n"
 "Report-Msgid-Bugs-To: help@poedit.net\n"
 "POT-Creation-Date: 2019-05-14 19:28+0200\n"
 "PO-Revision-Date: 2019-06-15 21:30+0800\n"
-"Language-Team: Traditional Chinese <zh@li.org>\n"
-"Language: zh_Hant\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -15,23 +13,23 @@ msgstr "Project-Id-Version: poedit\n"
 "X-Crowdin-File: /locales/poedit.pot\n"
 
 msgid " (beta version expires %s)"
-msgstr " (測試版本將於%s過期)"
+msgstr " (beta vörçion ikspair gut %s)"
 
 msgid " (modified)"
-msgstr " (已修改)"
+msgstr " (modifaien)"
 
 msgid " (unsaved)"
-msgstr " (未儲存)"
+msgstr " (mǐ-seiven)"
 
 msgid "%d entry"
 msgid_plural "%d entries"
-msgstr[0] "%d個項目"
-msgstr[1] "%d個項目"
+msgstr[0] "%d-gè entri"
+msgstr[1] "%d-gè entris"
 
 msgid "%d error"
 msgid_plural "%d errors"
-msgstr[0] "%d個錯誤"
-msgstr[1] "%d個錯誤"
+msgstr[0] "%d-gè öra"
+msgstr[1] "%d-gè öras"
 
 msgid "%d issue with the translation found."
 msgid_plural "%d issues with the translation found."
@@ -49,28 +47,28 @@ msgstr[0] "%i-gè lain in fayl «%s» wa not dū louden korrektli."
 msgstr[1] "%i-gè lains in fayl «%s» wa not dū louden korrektli."
 
 msgid "%s Format"
-msgstr "%s格式"
+msgstr "%s Formät"
 
 msgid "%s format"
-msgstr "%s格式"
+msgstr "%s formät"
 
 msgid "&About"
-msgstr "有關"
+msgstr "À&baut"
 
 msgid "&About Poedit"
-msgstr "(&A) 有關Poedit"
+msgstr "À&baut Poedit"
 
 msgid "&Bookmarks"
-msgstr "(&B) 書簽"
+msgstr "&Būkmarks"
 
 msgid "&Close"
-msgstr "(&C) 關閉"
+msgstr "&Klos"
 
 msgid "&Copy"
-msgstr "(&C) 複製"
+msgstr "&Kopi"
 
 msgid "&Delete"
-msgstr "(&D) 刪除"
+msgstr "&Dilit"
 
 msgid "&Done and Next"
 msgstr "&Finišen en Nèist"
@@ -228,34 +226,34 @@ msgid "<unnamed>"
 msgstr "<mǐ-neimen>"
 
 msgid "About %s"
-msgstr "有關%s"
+msgstr "Àbaut %s"
 
 msgid "Accounts"
-msgstr "帳號"
+msgstr "Akkaunts"
 
 msgid "Acknowledgements"
-msgstr "致謝"
+msgstr ""
 
 msgid "Activate"
-msgstr "啟動"
+msgstr "Aktiveit"
 
 msgid "Activating your license…"
-msgstr "啟動您的許可證"
+msgstr "Aktiveitiŋ neidè laisèns…"
 
 msgid "Add Comment"
-msgstr "新增註解"
+msgstr "Ädd Komment"
 
 msgid "Add comment"
-msgstr "新增註解"
+msgstr "Ädd komment"
 
 msgid "Add directory to the list"
-msgstr "新增資料夾到列表"
+msgstr "Ädd direktori tu list"
 
 msgid "Additional keywords"
-msgstr "新增關鍵字"
+msgstr "Äddeiçionol kyiwörds"
 
 msgid "Advanced"
-msgstr "進階"
+msgstr "Gokab"
 
 msgid "All Translation Files"
 msgstr "Ol Transleiçion Fayls"
@@ -379,13 +377,13 @@ msgid "Characters are counted including spaces."
 msgstr "Käraktās wa kaunten inkludiŋ speises."
 
 msgid "Charset:"
-msgstr "字集："
+msgstr "Kärset:"
 
 msgid "Check Document Now"
-msgstr "現在檢查文檔"
+msgstr "Ček Dokyumènt Nau"
 
 msgid "Check Grammar With Spelling"
-msgstr "檢查文法及拼寫"
+msgstr "Ček Grämmar Wiŧ Speliŋ"
 
 msgid "Check Spelling While Typing"
 msgstr "Ček Speliŋ When Taipiŋ"
@@ -567,28 +565,28 @@ msgid "Do you want to remove all translations that are no longer used?"
 msgstr ""
 
 msgid "Do&n’t save"
-msgstr "(&n) 不要儲存"
+msgstr "&Not dū seiv"
 
 msgid "Don’t Ask Again"
-msgstr "不要再問"
+msgstr "Not dū Ask Agäin"
 
 msgid "Don’t Save"
-msgstr "不要儲存"
+msgstr "Not dū Seiv"
 
 msgid "Don’t Show Again"
-msgstr "不要再顯示"
+msgstr "Not dū Displei Agäin"
 
 msgid "Don’t ask again"
-msgstr "不要再問"
+msgstr "Not dū ask agäin"
 
 msgid "Don’t show again"
-msgstr "不要再顯示"
+msgstr "Not dū displei agäin"
 
 msgid "Down"
-msgstr "向下"
+msgstr "Dawn"
 
 msgid "Download"
-msgstr "下載"
+msgstr "Dawnloud"
 
 msgid "Download a file from Crowdin project, translate and sync your changes back."
 msgstr "Dawnloud 1-gè fayl from Crowdin prōjekt, transleit en synĥ neidè čeinjs bäk."
@@ -600,31 +598,31 @@ msgid "Downloading translations is disabled in this project."
 msgstr "Dawnloudiŋ transleiçions wa disàbolen in nigè prōjekt."
 
 msgid "E&xit"
-msgstr "離開"
+msgstr "I&ksit"
 
 msgid "Edit"
-msgstr "編輯"
+msgstr "Edit"
 
 msgid "Edit &Comment"
-msgstr "(&C) 修改評語"
+msgstr "Edit &Komment"
 
 msgid "Edit &comment"
-msgstr "(&C) 修改評語"
+msgstr "Edit &komment"
 
 msgid "Edit Comment"
-msgstr "修改評語"
+msgstr "Edit Komment"
 
 msgid "Edit a translation"
-msgstr "修改一個翻譯"
+msgstr "Edit 1-gè transleiçion"
 
 msgid "Edit comment"
-msgstr "修改評語"
+msgstr "Edit komment"
 
 msgid "Edit project"
-msgstr "修改專案"
+msgstr "Edit projekt"
 
 msgid "Edit the project"
-msgstr "修改這個專案"
+msgstr "Edit nige projekt"
 
 msgid "Editing"
 msgstr "編輯"
@@ -965,7 +963,7 @@ msgid ""
 msgstr ""
 
 msgid "New"
-msgstr "新"
+msgstr "Niu"
 
 msgid "New strings"
 msgstr "Niu striŋs"
@@ -1229,10 +1227,10 @@ msgid "Retrieve Lost License Key"
 msgstr "Rītrīv Losen Laisèns Kyi"
 
 msgid "Review"
-msgstr "檢閱"
+msgstr "Rīvyu"
 
 msgid "Save"
-msgstr "儲存"
+msgstr "Seiv"
 
 msgid "Save as…"
 msgstr "Seiv as…"
@@ -1346,10 +1344,10 @@ msgid "Smart Dashes"
 msgstr "Smart Däšes"
 
 msgid "Smart Links"
-msgstr "智慧連結"
+msgstr "Smart Liŋks"
 
 msgid "Smart Quotes"
-msgstr "智慧引言"
+msgstr "Smart Kwots"
 
 msgid "Sort by &File Order"
 msgstr "Sort bai &Fayl Ordèr"
@@ -1784,16 +1782,16 @@ msgid "Version %s"
 msgstr "Vörçion %s"
 
 msgid "View Log"
-msgstr "檢視紀錄"
+msgstr "Vyu Log"
 
 msgid "View log"
-msgstr "檢視紀錄"
+msgstr "Vyu log"
 
 msgid "Waiting for authentication…"
-msgstr "等候認證…"
+msgstr "Weiting für òŧentikeiçion…"
 
 msgid "Welcome to Poedit"
-msgstr "歡迎使用Poedit"
+msgstr "Welkom tu Poedit"
 
 msgid "What is Crowdin?"
 msgstr "Crowdin-wa myenigga?"
