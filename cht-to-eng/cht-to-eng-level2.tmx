@@ -3910,26 +3910,10 @@
     </tu>
     <tu>
       <tuv xml:lang="ZH-TW">
-        <seg>- <ph x="0">&lt;t0/&gt;</ph>Microsoft WSE 2.0 SP3</seg>
-      </tuv>
-      <tuv xml:lang="EN">
-        <seg>- <ph x="0">&lt;t0/&gt;</ph>Microsoft WSE 2.0 SP3</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="ZH-TW">
         <seg>- IIS Server 7.0 / 8.0</seg>
       </tuv>
       <tuv xml:lang="EN">
         <seg>- IIS Server 7.0 / 8.0</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="ZH-TW">
-        <seg>- Microsoft WSE 2.0 SP3</seg>
-      </tuv>
-      <tuv xml:lang="EN" changeid="Tom" changedate="20190718T032329Z" creationid="Tom" creationdate="20190718T032329Z">
-        <seg>- Microsoft WSE 2.0 SP3</seg>
       </tuv>
     </tu>
     <tu>
@@ -4114,14 +4098,6 @@
       </tuv>
       <tuv xml:lang="EN">
         <seg>-Wformat-zero-length 未與 -Wformat 一起使用，已忽略</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="ZH-TW">
-        <seg>-Windows <ph x="0">&lt;t0/&gt;</ph>7/8/10</seg>
-      </tuv>
-      <tuv xml:lang="EN" changeid="Tom" changedate="20190718T032318Z" creationid="Tom" creationdate="20190718T032318Z">
-        <seg>-Windows <ph x="0">&lt;t0/&gt;</ph>7/8/10</seg>
       </tuv>
     </tu>
     <tu>
@@ -4886,6 +4862,22 @@
     </tu>
     <tu>
       <tuv xml:lang="ZH-TW">
+        <seg>1  <ph x="0">&lt;t0/&gt;</ph>介紹</seg>
+      </tuv>
+      <tuv xml:lang="EN" changeid="Tom" changedate="20190722T095348Z" creationid="Tom" creationdate="20190722T095348Z">
+        <seg>1  <ph x="0">&lt;t0/&gt;</ph>Introduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ZH-TW">
+        <seg>1  <ph x="0">&lt;t0/&gt;</ph>系統功能</seg>
+      </tuv>
+      <tuv xml:lang="EN" changeid="Tom" changedate="20190722T060303Z" creationid="Tom" creationdate="20190722T060242Z">
+        <seg>1<ph x="0">&lt;t0/&gt;</ph>  <ph x="1">&lt;t1/&gt;</ph>System Functions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ZH-TW">
         <seg>1 (Default)</seg>
       </tuv>
       <tuv xml:lang="EN">
@@ -4934,10 +4926,90 @@
     </tu>
     <tu>
       <tuv xml:lang="ZH-TW">
+        <seg>1.1  <ph x="0">&lt;t0/&gt;</ph>系統管理</seg>
+      </tuv>
+      <tuv xml:lang="EN" changeid="Tom" changedate="20190722T060245Z" creationid="Tom" creationdate="20190722T060245Z">
+        <seg>System Configurations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ZH-TW">
         <seg>1.1.1</seg>
       </tuv>
       <tuv xml:lang="EN">
         <seg>1.1.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ZH-TW">
+        <seg>1.1.1  <ph x="0">&lt;t0/&gt;</ph>系統外送郵件設定</seg>
+      </tuv>
+      <tuv xml:lang="EN" changeid="Tom" changedate="20190722T060557Z" creationid="Tom" creationdate="20190722T060557Z">
+        <seg>1.1.1<ph x="0">&lt;t0/&gt;</ph>  <ph x="1">&lt;t1/&gt;</ph>System Email Setting</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ZH-TW">
+        <seg>1.1.10  <ph x="0">&lt;t0/&gt;</ph>重置密碼</seg>
+      </tuv>
+      <tuv xml:lang="EN" changeid="Tom" changedate="20190722T065329Z" creationid="Tom" creationdate="20190722T065329Z">
+        <seg>1.1.10 <ph x="0">&lt;t0/&gt;</ph>Reset Password</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ZH-TW">
+        <seg>1.1.11  <ph x="0">&lt;t0/&gt;</ph>新增用戶群組</seg>
+      </tuv>
+      <tuv xml:lang="EN" changeid="Tom" changedate="20190722T081528Z" creationid="Tom" creationdate="20190722T081528Z">
+        <seg>1.1.11 <ph x="0">&lt;t0/&gt;</ph>Add New Group</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ZH-TW">
+        <seg>1.1.12  <ph x="0">&lt;t0/&gt;</ph>修改用戶群組</seg>
+      </tuv>
+      <tuv xml:lang="EN" changeid="Tom" changedate="20190722T081539Z" creationid="Tom" creationdate="20190722T081539Z">
+        <seg>1.1.12 <ph x="0">&lt;t0/&gt;</ph>Modify Group</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ZH-TW">
+        <seg>1.1.13  <ph x="0">&lt;t0/&gt;</ph>刪除用戶群組</seg>
+      </tuv>
+      <tuv xml:lang="EN" changeid="Tom" changedate="20190722T081548Z" creationid="Tom" creationdate="20190722T081548Z">
+        <seg>1.1.13 <ph x="0">&lt;t0/&gt;</ph>Delete Group</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ZH-TW">
+        <seg>1.1.14  <ph x="0">&lt;t0/&gt;</ph>新增用戶到群組中</seg>
+      </tuv>
+      <tuv xml:lang="EN" changeid="Tom" changedate="20190722T081555Z" creationid="Tom" creationdate="20190722T081555Z">
+        <seg>1.1.14 <ph x="0">&lt;t0/&gt;</ph>Add User into Group</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ZH-TW">
+        <seg>1.1.14.1  <ph x="0">&lt;t0/&gt;</ph>拖放用戶</seg>
+      </tuv>
+      <tuv xml:lang="EN" changeid="Tom" changedate="20190722T081606Z" creationid="Tom" creationdate="20190722T081606Z">
+        <seg>1.1.14.1 <ph x="0">&lt;t0/&gt;</ph>Drag and drop user</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ZH-TW">
+        <seg>1.1.14.2  <ph x="0">&lt;t0/&gt;</ph>從別的群組新增用戶</seg>
+      </tuv>
+      <tuv xml:lang="EN" changeid="Tom" changedate="20190722T081614Z" creationid="Tom" creationdate="20190722T081614Z">
+        <seg>1.1.14.2 <ph x="0">&lt;t0/&gt;</ph>Add User from another groups</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ZH-TW">
+        <seg>1.1.15  <ph x="0">&lt;t0/&gt;</ph>轉移擁有者</seg>
+      </tuv>
+      <tuv xml:lang="EN" changeid="Tom" changedate="20190722T081622Z" creationid="Tom" creationdate="20190722T081622Z">
+        <seg>1.1.15 <ph x="0">&lt;t0/&gt;</ph>Transfer Ownership</seg>
       </tuv>
     </tu>
     <tu>
@@ -4950,10 +5022,26 @@
     </tu>
     <tu>
       <tuv xml:lang="ZH-TW">
+        <seg>1.1.2  <ph x="0">&lt;t0/&gt;</ph>系統預設郵件內容</seg>
+      </tuv>
+      <tuv xml:lang="EN" changeid="Tom" changedate="20190722T071853Z" creationid="Tom" creationdate="20190722T062738Z">
+        <seg>1.1.2 <ph x="0">&lt;t0/&gt;</ph>System Email Message</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ZH-TW">
         <seg>1.1.3</seg>
       </tuv>
       <tuv xml:lang="EN">
         <seg>1.1.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ZH-TW">
+        <seg>1.1.3  <ph x="0">&lt;t0/&gt;</ph>一般設定</seg>
+      </tuv>
+      <tuv xml:lang="EN" changeid="Tom" changedate="20190722T063447Z" creationid="Tom" creationdate="20190722T063447Z">
+        <seg>1.1.3 <ph x="0">&lt;t0/&gt;</ph>General Setting</seg>
       </tuv>
     </tu>
     <tu>
@@ -4966,10 +5054,66 @@
     </tu>
     <tu>
       <tuv xml:lang="ZH-TW">
+        <seg>1.1.4  <ph x="0">&lt;t0/&gt;</ph>浮水印設置</seg>
+      </tuv>
+      <tuv xml:lang="EN" changeid="Tom" changedate="20190722T063502Z" creationid="Tom" creationdate="20190722T063502Z">
+        <seg>1.1.4 <ph x="0">&lt;t0/&gt;</ph>Watermark Setting</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ZH-TW">
+        <seg>1.1.5  <ph x="0">&lt;t0/&gt;</ph>檢視電子郵件設定</seg>
+      </tuv>
+      <tuv xml:lang="EN" changeid="Tom" changedate="20190722T063550Z" creationid="Tom" creationdate="20190722T063550Z">
+        <seg>1.1.5 <ph x="0">&lt;t0/&gt;</ph>Capture Email Setting</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ZH-TW">
+        <seg>1.1.6  <ph x="0">&lt;t0/&gt;</ph>用戶群組管理</seg>
+      </tuv>
+      <tuv xml:lang="EN" changeid="Tom" changedate="20190722T063629Z" creationid="Tom" creationdate="20190722T063629Z">
+        <seg>1.1.6 <ph x="0">&lt;t0/&gt;</ph>User Group Management</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ZH-TW">
+        <seg>1.1.7  <ph x="0">&lt;t0/&gt;</ph>新增用戶</seg>
+      </tuv>
+      <tuv xml:lang="EN" changeid="Tom" changedate="20190722T064558Z" creationid="Tom" creationdate="20190722T064558Z">
+        <seg>1.1.7 <ph x="0">&lt;t0/&gt;</ph>Add New User</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ZH-TW">
+        <seg>1.1.8  <ph x="0">&lt;t0/&gt;</ph>修改用戶</seg>
+      </tuv>
+      <tuv xml:lang="EN" changeid="Tom" changedate="20190722T065245Z" creationid="Tom" creationdate="20190722T065245Z">
+        <seg>1.1.8 <ph x="0">&lt;t0/&gt;</ph>Modify User</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ZH-TW">
+        <seg>1.1.9  <ph x="0">&lt;t0/&gt;</ph>刪除用戶</seg>
+      </tuv>
+      <tuv xml:lang="EN" changeid="Tom" changedate="20190722T065255Z" creationid="Tom" creationdate="20190722T065255Z">
+        <seg>1.1.9 <ph x="0">&lt;t0/&gt;</ph>Delete User</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ZH-TW">
         <seg>1.2</seg>
       </tuv>
       <tuv xml:lang="EN">
         <seg>1.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ZH-TW">
+        <seg>1.2  <ph x="0">&lt;t0/&gt;</ph>定義類別和屬性</seg>
+      </tuv>
+      <tuv xml:lang="EN" changeid="Tom" changedate="20190722T081807Z" creationid="Tom" creationdate="20190722T081807Z">
+        <seg>1.2  <ph x="0">&lt;t0/&gt;</ph>定義類別和屬性</seg>
       </tuv>
     </tu>
     <tu>
@@ -4994,14 +5138,6 @@
       </tuv>
       <tuv xml:lang="EN">
         <seg>1.5</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="ZH-TW">
-        <seg>1.<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>需求</seg>
-      </tuv>
-      <tuv xml:lang="EN" changeid="Tom" changedate="20190718T032251Z" creationid="Tom" creationdate="20190718T032251Z">
-        <seg>1.<ph x="0">&lt;t0/&gt;</ph>Requirements</seg>
       </tuv>
     </tu>
     <tu>
@@ -5134,6 +5270,14 @@
     </tu>
     <tu>
       <tuv xml:lang="ZH-TW">
+        <seg>2  <ph x="0">&lt;t0/&gt;</ph>入門</seg>
+      </tuv>
+      <tuv xml:lang="EN" changeid="Tom" changedate="20190722T095407Z" creationid="Tom" creationdate="20190722T095407Z">
+        <seg>2  <ph x="0">&lt;t0/&gt;</ph>Getting Started</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ZH-TW">
         <seg>2.</seg>
       </tuv>
       <tuv xml:lang="EN">
@@ -5218,46 +5362,6 @@
       </tuv>
       <tuv xml:lang="EN" changeid="Tom" changedate="20190718T082100Z" creationid="Tom" creationdate="20190718T082100Z">
         <seg>2.2.2</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="ZH-TW">
-        <seg>2.3</seg>
-      </tuv>
-      <tuv xml:lang="EN">
-        <seg>2.3</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="ZH-TW">
-        <seg>2.4</seg>
-      </tuv>
-      <tuv xml:lang="EN">
-        <seg>2.4</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="ZH-TW">
-        <seg>2.5</seg>
-      </tuv>
-      <tuv xml:lang="EN">
-        <seg>2.5</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="ZH-TW">
-        <seg>2.6</seg>
-      </tuv>
-      <tuv xml:lang="EN" changeid="Tom" changedate="20190718T032631Z" creationid="Tom" creationdate="20190718T032631Z">
-        <seg>2.6</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="ZH-TW">
-        <seg>2.<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>安裝<ph x="2">&lt;t2/&gt;</ph> MICROSOFT WSE 2.0 SP3</seg>
-      </tuv>
-      <tuv xml:lang="EN" changeid="Tom" changedate="20190718T032230Z" creationid="Tom" creationdate="20190718T032230Z">
-        <seg>2. <ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>Install<ph x="2">&lt;t2/&gt;</ph> Microsoft WSE 2.0 SP3</seg>
       </tuv>
     </tu>
     <tu>
@@ -5366,14 +5470,6 @@
     </tu>
     <tu>
       <tuv xml:lang="ZH-TW">
-        <seg>2<ph x="0">&lt;t0/&gt;</ph>.<ph x="1">&lt;t1/&gt;</ph>4</seg>
-      </tuv>
-      <tuv xml:lang="EN">
-        <seg>2<ph x="0">&lt;t0/&gt;</ph>.<ph x="1">&lt;t1/&gt;</ph>4</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="ZH-TW">
         <seg>2<ph x="0">&lt;t0/&gt;</ph>0190716</seg>
       </tuv>
       <tuv xml:lang="EN" changeid="Tom" changedate="20190718T072903Z" creationid="Tom" creationdate="20190718T072903Z">
@@ -5398,6 +5494,14 @@
     </tu>
     <tu>
       <tuv xml:lang="ZH-TW">
+        <seg>3  <ph x="0">&lt;t0/&gt;</ph>正常功能</seg>
+      </tuv>
+      <tuv xml:lang="EN" changeid="Tom" changedate="20190722T095418Z" creationid="Tom" creationdate="20190722T095418Z">
+        <seg>3  <ph x="0">&lt;t0/&gt;</ph>Normal Function</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ZH-TW">
         <seg>3.</seg>
       </tuv>
       <tuv xml:lang="EN">
@@ -5414,114 +5518,170 @@
     </tu>
     <tu>
       <tuv xml:lang="ZH-TW">
-        <seg>3.1</seg>
+        <seg>3.1  <ph x="0">&lt;t0/&gt;</ph>查看資料夾和文件</seg>
       </tuv>
-      <tuv xml:lang="EN">
-        <seg>3.1</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="ZH-TW">
-        <seg>3.10</seg>
-      </tuv>
-      <tuv xml:lang="EN">
-        <seg>3.10</seg>
+      <tuv xml:lang="EN" changeid="Tom" changedate="20190722T095425Z" creationid="Tom" creationdate="20190722T095425Z">
+        <seg>3.1  <ph x="0">&lt;t0/&gt;</ph>View Folder and Document</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="ZH-TW">
-        <seg>3.11</seg>
+        <seg>3.1.1  <ph x="0">&lt;t0/&gt;</ph>新增<ph x="1">&lt;t1/&gt;</ph>/<ph x="2">&lt;t2/&gt;</ph>修改<ph x="3">&lt;t3/&gt;</ph>/<ph x="4">&lt;t4/&gt;</ph>刪除註解</seg>
       </tuv>
-      <tuv xml:lang="EN">
-        <seg>3.11</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="ZH-TW">
-        <seg>3.12</seg>
-      </tuv>
-      <tuv xml:lang="EN">
-        <seg>3.12</seg>
+      <tuv xml:lang="EN" changeid="Tom" changedate="20190722T095450Z" creationid="Tom" creationdate="20190722T095450Z">
+        <seg>3.1.1  <ph x="0">&lt;t0/&gt;</ph>Add<ph x="1">&lt;t1/&gt;</ph>/<ph x="2">&lt;t2/&gt;</ph>Edit<ph x="3">&lt;t3/&gt;</ph>/<ph x="4">&lt;t4/&gt;</ph>Delete Comment</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="ZH-TW">
-        <seg>3.13</seg>
+        <seg>3.1.2  <ph x="0">&lt;t0/&gt;</ph>新增交叉參考文件</seg>
       </tuv>
-      <tuv xml:lang="EN">
-        <seg>3.13</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="ZH-TW">
-        <seg>3.2</seg>
-      </tuv>
-      <tuv xml:lang="EN">
-        <seg>3.2</seg>
+      <tuv xml:lang="EN" changeid="Tom" changedate="20190722T095458Z" creationid="Tom" creationdate="20190722T095458Z">
+        <seg>3.1.2  <ph x="0">&lt;t0/&gt;</ph>Add Cross-reference document</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="ZH-TW">
-        <seg>3.3</seg>
+        <seg>3.10  <ph x="0">&lt;t0/&gt;</ph>檔案日誌</seg>
       </tuv>
-      <tuv xml:lang="EN">
-        <seg>3.3</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="ZH-TW">
-        <seg>3.4</seg>
-      </tuv>
-      <tuv xml:lang="EN">
-        <seg>3.4</seg>
+      <tuv xml:lang="EN" changeid="Tom" changedate="20190722T095607Z" creationid="Tom" creationdate="20190722T095607Z">
+        <seg>3.10  <ph x="0">&lt;t0/&gt;</ph>Audit Trail</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="ZH-TW">
-        <seg>3.5(<ph x="0">&lt;t0/&gt;</ph>如果有以下的圖片出現，點擊此</seg>
+        <seg>3.11  <ph x="0">&lt;t0/&gt;</ph>下載文件</seg>
       </tuv>
-      <tuv xml:lang="EN" changeid="Tom" changedate="20190718T032930Z" creationid="Tom" creationdate="20190718T032930Z">
-        <seg>3.5<ph x="0">&lt;t0/&gt;</ph>(If the below image shows up, select this</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="ZH-TW">
-        <seg>3.6</seg>
-      </tuv>
-      <tuv xml:lang="EN">
-        <seg>3.6</seg>
+      <tuv xml:lang="EN" changeid="Tom" changedate="20190722T095612Z" creationid="Tom" creationdate="20190722T095612Z">
+        <seg>3.11  <ph x="0">&lt;t0/&gt;</ph>Download Document</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="ZH-TW">
-        <seg>3.7</seg>
+        <seg>3.12  <ph x="0">&lt;t0/&gt;</ph>鎖定<ph x="1">&lt;t1/&gt;</ph>/<ph x="2">&lt;t2/&gt;</ph>解除鎖定文件</seg>
       </tuv>
-      <tuv xml:lang="EN">
-        <seg>3.7</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="ZH-TW">
-        <seg>3.8</seg>
-      </tuv>
-      <tuv xml:lang="EN">
-        <seg>3.8</seg>
+      <tuv xml:lang="EN" changeid="Tom" changedate="20190722T095642Z" creationid="Tom" creationdate="20190722T095642Z">
+        <seg>3.12  <ph x="0">&lt;t0/&gt;</ph>Check-out<ph x="1">&lt;t1/&gt;</ph> / <ph x="2">&lt;t2/&gt;</ph>Check-in Document (Lock/Unlock)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="ZH-TW">
-        <seg>3.9</seg>
+        <seg>3.13  <ph x="0">&lt;t0/&gt;</ph>發送連結到郵件</seg>
       </tuv>
-      <tuv xml:lang="EN">
-        <seg>3.9</seg>
+      <tuv xml:lang="EN" changeid="Tom" changedate="20190722T095647Z" creationid="Tom" creationdate="20190722T095647Z">
+        <seg>3.13  <ph x="0">&lt;t0/&gt;</ph>Send Link To Email</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="ZH-TW">
-        <seg>3.<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>在<ph x="2">&lt;t2/&gt;</ph> WINDOWS <ph x="3">&lt;t3/&gt;</ph>安裝<ph x="4">&lt;t4/&gt;</ph> DROPZONE</seg>
+        <seg>3.14  <ph x="0">&lt;t0/&gt;</ph>文件夾條碼標籤</seg>
       </tuv>
-      <tuv xml:lang="EN" changeid="Tom" changedate="20190718T032054Z" creationid="Tom" creationdate="20190718T032041Z">
-        <seg>3.<ph x="0">&lt;t0/&gt;</ph><ph x="1">&lt;t1/&gt;</ph> <ph x="2">&lt;t2/&gt;</ph>Installing <ph x="3">&lt;t3/&gt;</ph>DropZone<ph x="4">&lt;t4/&gt;</ph> in Windows</seg>
+      <tuv xml:lang="EN" changeid="Tom" changedate="20190722T095708Z" creationid="Tom" creationdate="20190722T095708Z">
+        <seg>3.14  <ph x="0">&lt;t0/&gt;</ph>Generate Barcode Label</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ZH-TW">
+        <seg>3.15  <ph x="0">&lt;t0/&gt;</ph>屬性</seg>
+      </tuv>
+      <tuv xml:lang="EN" changeid="Tom" changedate="20190722T095716Z" creationid="Tom" creationdate="20190722T095716Z">
+        <seg>3.15  <ph x="0">&lt;t0/&gt;</ph>Properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ZH-TW">
+        <seg>3.15.1  <ph x="0">&lt;t0/&gt;</ph>資料夾屬性</seg>
+      </tuv>
+      <tuv xml:lang="EN" changeid="Tom" changedate="20190722T095721Z" creationid="Tom" creationdate="20190722T095721Z">
+        <seg>3.15.1  <ph x="0">&lt;t0/&gt;</ph>Folder Properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ZH-TW">
+        <seg>3.15.2  <ph x="0">&lt;t0/&gt;</ph>文件屬性</seg>
+      </tuv>
+      <tuv xml:lang="EN" changeid="Tom" changedate="20190722T095726Z" creationid="Tom" creationdate="20190722T095726Z">
+        <seg>3.15.2  <ph x="0">&lt;t0/&gt;</ph>Document Properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ZH-TW">
+        <seg>3.15.3  <ph x="0">&lt;t0/&gt;</ph>捷徑屬性</seg>
+      </tuv>
+      <tuv xml:lang="EN" changeid="Tom" changedate="20190722T095730Z" creationid="Tom" creationdate="20190722T095730Z">
+        <seg>3.15.3  <ph x="0">&lt;t0/&gt;</ph>Shortcut Properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ZH-TW">
+        <seg>3.2  <ph x="0">&lt;t0/&gt;</ph>新增資料夾</seg>
+      </tuv>
+      <tuv xml:lang="EN" changeid="Tom" changedate="20190722T095504Z" creationid="Tom" creationdate="20190722T095504Z">
+        <seg>3.2  <ph x="0">&lt;t0/&gt;</ph>Add Folder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ZH-TW">
+        <seg>3.3  <ph x="0">&lt;t0/&gt;</ph>新增文件</seg>
+      </tuv>
+      <tuv xml:lang="EN" changeid="Tom" changedate="20190722T095512Z" creationid="Tom" creationdate="20190722T095512Z">
+        <seg>3.3  <ph x="0">&lt;t0/&gt;</ph>Add Document</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ZH-TW">
+        <seg>3.4  <ph x="0">&lt;t0/&gt;</ph>新增捷徑</seg>
+      </tuv>
+      <tuv xml:lang="EN" changeid="Tom" changedate="20190722T095517Z" creationid="Tom" creationdate="20190722T095517Z">
+        <seg>3.4  <ph x="0">&lt;t0/&gt;</ph>Add Shortcut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ZH-TW">
+        <seg>3.5  <ph x="0">&lt;t0/&gt;</ph>新版本</seg>
+      </tuv>
+      <tuv xml:lang="EN" changeid="Tom" changedate="20190722T095521Z" creationid="Tom" creationdate="20190722T095521Z">
+        <seg>3.5  <ph x="0">&lt;t0/&gt;</ph>Add New Version</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ZH-TW">
+        <seg>3.6  <ph x="0">&lt;t0/&gt;</ph>查看文件版本</seg>
+      </tuv>
+      <tuv xml:lang="EN" changeid="Tom" changedate="20190722T095528Z" creationid="Tom" creationdate="20190722T095528Z">
+        <seg>3.6  <ph x="0">&lt;t0/&gt;</ph>View Document Version</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ZH-TW">
+        <seg>3.7  <ph x="0">&lt;t0/&gt;</ph>剪下<ph x="1">&lt;t1/&gt;</ph>/<ph x="2">&lt;t2/&gt;</ph>移動<ph x="3">&lt;t3/&gt;</ph>/<ph x="4">&lt;t4/&gt;</ph>複製</seg>
+      </tuv>
+      <tuv xml:lang="EN" changeid="Tom" changedate="20190722T095550Z" creationid="Tom" creationdate="20190722T095550Z">
+        <seg>3.7  <ph x="0">&lt;t0/&gt;</ph>Cut<ph x="1">&lt;t1/&gt;</ph>/<ph x="2">&lt;t2/&gt;</ph>Move<ph x="3">&lt;t3/&gt;</ph>/<ph x="4">&lt;t4/&gt;</ph>Copy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ZH-TW">
+        <seg>3.8  <ph x="0">&lt;t0/&gt;</ph>刪除資料夾與文件</seg>
+      </tuv>
+      <tuv xml:lang="EN" changeid="Tom" changedate="20190722T095557Z" creationid="Tom" creationdate="20190722T095557Z">
+        <seg>3.8  <ph x="0">&lt;t0/&gt;</ph>Delete Folder and document</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ZH-TW">
+        <seg>3.9  <ph x="0">&lt;t0/&gt;</ph>分配權限</seg>
+      </tuv>
+      <tuv xml:lang="EN" changeid="Tom" changedate="20190722T095603Z" creationid="Tom" creationdate="20190722T095603Z">
+        <seg>3.9  <ph x="0">&lt;t0/&gt;</ph>Assign Permission</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ZH-TW">
+        <seg>30</seg>
+      </tuv>
+      <tuv xml:lang="EN" changeid="Tom" changedate="20190722T095648Z" creationid="Tom" creationdate="20190722T095648Z">
+        <seg>30</seg>
       </tuv>
     </tu>
     <tu>
@@ -5606,66 +5766,18 @@
     </tu>
     <tu>
       <tuv xml:lang="ZH-TW">
-        <seg>3<ph x="0">&lt;t0/&gt;</ph>.1</seg>
-      </tuv>
-      <tuv xml:lang="EN">
-        <seg>3<ph x="0">&lt;t0/&gt;</ph>.1</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="ZH-TW">
-        <seg>3<ph x="0">&lt;t0/&gt;</ph>.2</seg>
-      </tuv>
-      <tuv xml:lang="EN">
-        <seg>3<ph x="0">&lt;t0/&gt;</ph>.2</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="ZH-TW">
-        <seg>3<ph x="0">&lt;t0/&gt;</ph>.3</seg>
-      </tuv>
-      <tuv xml:lang="EN">
-        <seg>3<ph x="0">&lt;t0/&gt;</ph>.3</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="ZH-TW">
-        <seg>3<ph x="0">&lt;t0/&gt;</ph>.4</seg>
-      </tuv>
-      <tuv xml:lang="EN">
-        <seg>3<ph x="0">&lt;t0/&gt;</ph>.4</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="ZH-TW">
-        <seg>3<ph x="0">&lt;t0/&gt;</ph>.<ph x="1">&lt;t1/&gt;</ph>1<ph x="2">&lt;t2/&gt;</ph>0</seg>
-      </tuv>
-      <tuv xml:lang="EN">
-        <seg>3<ph x="0">&lt;t0/&gt;</ph>.<ph x="1">&lt;t1/&gt;</ph>1<ph x="2">&lt;t2/&gt;</ph>0</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="ZH-TW">
-        <seg>3<ph x="0">&lt;t0/&gt;</ph>.<ph x="1">&lt;t1/&gt;</ph>6</seg>
-      </tuv>
-      <tuv xml:lang="EN">
-        <seg>3<ph x="0">&lt;t0/&gt;</ph>.<ph x="1">&lt;t1/&gt;</ph>6</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="ZH-TW">
-        <seg>3<ph x="0">&lt;t0/&gt;</ph>.<ph x="1">&lt;t1/&gt;</ph>7</seg>
-      </tuv>
-      <tuv xml:lang="EN">
-        <seg>3<ph x="0">&lt;t0/&gt;</ph>.<ph x="1">&lt;t1/&gt;</ph>7</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="ZH-TW">
         <seg>4</seg>
       </tuv>
       <tuv xml:lang="EN">
         <seg>4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ZH-TW">
+        <seg>4  <ph x="0">&lt;t0/&gt;</ph>搜尋</seg>
+      </tuv>
+      <tuv xml:lang="EN" changeid="Tom" changedate="20190722T095735Z" creationid="Tom" creationdate="20190722T095735Z">
+        <seg>4  <ph x="0">&lt;t0/&gt;</ph>Searching</seg>
       </tuv>
     </tu>
     <tu>
@@ -5678,26 +5790,10 @@
     </tu>
     <tu>
       <tuv xml:lang="ZH-TW">
-        <seg>4.1</seg>
+        <seg>4.1  <ph x="0">&lt;t0/&gt;</ph>進階搜尋</seg>
       </tuv>
-      <tuv xml:lang="EN">
-        <seg>4.1</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="ZH-TW">
-        <seg>4.2</seg>
-      </tuv>
-      <tuv xml:lang="EN">
-        <seg>4.2</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="ZH-TW">
-        <seg>4.<ph x="0">&lt;t0/&gt;</ph>  <ph x="1">&lt;t1/&gt;</ph>DIKO DROP ZONE <ph x="2">&lt;t2/&gt;</ph>系統設置</seg>
-      </tuv>
-      <tuv xml:lang="EN" changeid="Tom" changedate="20190718T032101Z" creationid="Tom" creationdate="20190718T032034Z">
-        <seg>4.<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>DIKO DROP ZONE <ph x="2">&lt;t2/&gt;</ph>System Settings</seg>
+      <tuv xml:lang="EN" changeid="Tom" changedate="20190722T095740Z" creationid="Tom" creationdate="20190722T095740Z">
+        <seg>4.1  <ph x="0">&lt;t0/&gt;</ph>Advance Searching</seg>
       </tuv>
     </tu>
     <tu>
@@ -5762,38 +5858,6 @@
       </tuv>
       <tuv xml:lang="EN">
         <seg>5.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="ZH-TW">
-        <seg>5.1</seg>
-      </tuv>
-      <tuv xml:lang="EN">
-        <seg>5.1</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="ZH-TW">
-        <seg>5.2</seg>
-      </tuv>
-      <tuv xml:lang="EN">
-        <seg>5.2</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="ZH-TW">
-        <seg>5.3</seg>
-      </tuv>
-      <tuv xml:lang="EN">
-        <seg>5.3</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="ZH-TW">
-        <seg>5.<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>使用<ph x="2">&lt;t2/&gt;</ph> DIKO DROP ZONE</seg>
-      </tuv>
-      <tuv xml:lang="EN" changeid="Tom" changedate="20190718T031954Z" creationid="Tom" creationdate="20190718T031954Z">
-        <seg>5.<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>Using<ph x="2">&lt;t2/&gt;</ph> DIKO DROP ZONE</seg>
       </tuv>
     </tu>
     <tu>
@@ -6042,14 +6106,6 @@ or yus đe + bùtton</seg>
       </tuv>
       <tuv xml:lang="EN" changeid="Tom" changedate="20190718T073041Z" creationid="Tom" creationdate="20190718T073041Z">
         <seg>All rights reserved<ph x="4">&lt;t4/&gt;</ph> by <ph x="2">&lt;t2/&gt;</ph>Software Island Taiwan<ph x="3">&lt;t3/&gt;</ph>.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="ZH-TW">
-        <seg><ph x="3">&lt;t3/&gt;</ph> <ph x="4">&lt;t4/&gt;</ph>適時科技有限公司保留本文所有權利。</seg>
-      </tuv>
-      <tuv xml:lang="EN" changeid="Tom" changedate="20190718T031829Z" creationid="Tom" creationdate="20190718T031829Z">
-        <seg><ph x="3">&lt;t3/&gt;</ph> <ph x="4">&lt;t4/&gt;</ph>適時科技有限公司保留本文所有權利。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10366,18 +10422,10 @@ to %s.
     </tu>
     <tu>
       <tuv xml:lang="ZH-TW">
-        <seg>DIKO Drop Zone <ph x="0">&lt;t0/&gt;</ph>安裝及使用手冊</seg>
+        <seg>DIKO <ph x="0">&lt;t0/&gt;</ph>使用者導<ph x="1">&lt;t1/&gt;</ph>覽</seg>
       </tuv>
-      <tuv xml:lang="EN" changeid="Tom" changedate="20190718T031603Z" creationid="Tom" creationdate="20190718T031603Z">
-        <seg>DIKO Drop Zone <ph x="0">&lt;t0/&gt;</ph>Installation and User Guide</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="ZH-TW">
-        <seg>DIKO Drop<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>Zone<ph x="2">&lt;t2/&gt;</ph>安裝及使用手冊</seg>
-      </tuv>
-      <tuv xml:lang="EN">
-        <seg>DIKO Drop<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>Zone <ph x="2">&lt;t2/&gt;</ph>Installation and User Guide</seg>
+      <tuv xml:lang="EN" changeid="Tom" changedate="20190722T095303Z" creationid="Tom" creationdate="20190722T095235Z">
+        <seg>DIKO<ph x="0">&lt;t0/&gt;</ph> User Guide<ph x="1">&lt;t1/&gt;</ph></seg>
       </tuv>
     </tu>
     <tu>
@@ -10398,18 +10446,18 @@ to %s.
     </tu>
     <tu>
       <tuv xml:lang="ZH-TW">
-        <seg>DIKO 安裝 &amp; 設置</seg>
-      </tuv>
-      <tuv xml:lang="EN">
-        <seg>DIKO Installation &amp; Configuration</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="ZH-TW">
         <seg>DIKO 安裝導覽 v1.0</seg>
       </tuv>
       <tuv xml:lang="EN">
         <seg>DIKO Installation Guide v1.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ZH-TW">
+        <seg>DIKO<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>管理者<ph x="2">&lt;t2/&gt;</ph>導覽</seg>
+      </tuv>
+      <tuv xml:lang="EN" changeid="Tom" changedate="20190722T055810Z" creationid="Tom" creationdate="20190722T055810Z">
+        <seg>Diko<ph x="0">&lt;t0/&gt;</ph> Admin Guide</seg>
       </tuv>
     </tu>
     <tu>
@@ -22180,6 +22228,40 @@ X-Generator: Poedit 2.2.3</seg>
     </tu>
     <tu>
       <tuv xml:lang="ZH-TW">
+        <seg>Project-Id-Version: meld master
+Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/meld/issues
+POT-Creation-Date: 2018-08-17 21:12+0000
+PO-Revision-Date: 2019-06-10 14:07+0800
+Last-Translator: Hsiu-Ming Chang &lt;cges30901@gmail.com&gt;
+Language-Team: Babycaseny Gavèrnmènt
+Language: zh_TW
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=1; plural=0;
+X-Generator: Poedit 2.2.3
+X-Project-Style: gnome
+X-Source-Language: C</seg>
+      </tuv>
+      <tuv xml:lang="EN" changeid="Tom" changedate="20190722T095253Z" creationid="Tom" creationdate="20190722T095253Z">
+        <seg>Project-Id-Version: meld master
+Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/meld/issues
+POT-Creation-Date: 2018-08-17 21:12+0000
+PO-Revision-Date: 2019-06-10 14:07+0800
+Last-Translator: Hsiu-Ming Chang &lt;cges30901@gmail.com&gt;
+Language-Team: Babycaseny Gavèrnmènt
+Language: zh_TW
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=1; plural=0;
+X-Generator: Poedit 2.2.3
+X-Project-Style: gnome
+X-Source-Language: C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ZH-TW">
         <seg>Project-Id-Version: poedit
 Report-Msgid-Bugs-To: help@poedit.net
 POT-Creation-Date: 2019-05-14 19:28+0200
@@ -29440,14 +29522,6 @@ Consult nmcli(1) and nmcli-examples(7) manual pages for complete usage details.<
       </tuv>
       <tuv xml:lang="EN">
         <seg>使用內建 specs。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="ZH-TW">
-        <seg>V1.0</seg>
-      </tuv>
-      <tuv xml:lang="EN">
-        <seg>V1.0</seg>
       </tuv>
     </tu>
     <tu>
@@ -46103,14 +46177,6 @@ Meld 執行時遭遇嚴重錯誤：
     </tu>
     <tu>
       <tuv xml:lang="ZH-TW">
-        <seg>©2017-2019 版權所有：適時科技有限公司。</seg>
-      </tuv>
-      <tuv xml:lang="EN">
-        <seg>Copyright 2017-2019 All rights reserved</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="ZH-TW">
         <seg>“%s” hidden by “%s”</seg>
       </tuv>
       <tuv xml:lang="EN">
@@ -46123,14 +46189,6 @@ Meld 執行時遭遇嚴重錯誤：
       </tuv>
       <tuv xml:lang="EN">
         <seg>«%s» wa not dū välid POT fayl.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="ZH-TW">
-        <seg>“<ph x="0">&lt;t0/&gt;</ph>Run this program as an administrator<ph x="1">&lt;t1/&gt;</ph>”</seg>
-      </tuv>
-      <tuv xml:lang="EN" changeid="Tom" changedate="20190718T035422Z" creationid="Tom" creationdate="20190718T035422Z">
-        <seg>“<ph x="0">&lt;t0/&gt;</ph>Run this program as an administrator<ph x="1">&lt;t1/&gt;</ph>”</seg>
       </tuv>
     </tu>
     <tu>
@@ -46375,14 +46433,6 @@ Meld 執行時遭遇嚴重錯誤：
     </tu>
     <tu>
       <tuv xml:lang="ZH-TW">
-        <seg>右鍵點擊<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>“<ph x="2">&lt;t2/&gt;</ph>DIKO <ph x="3">&lt;t3/&gt;</ph>DropZone<ph x="4">&lt;t4/&gt;</ph>”</seg>
-      </tuv>
-      <tuv xml:lang="EN" changeid="Tom" changedate="20190718T033025Z" creationid="Tom" creationdate="20190718T033025Z">
-        <seg>Right click<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>“<ph x="2">&lt;t2/&gt;</ph>DIKO <ph x="3">&lt;t3/&gt;</ph>DropZone<ph x="4">&lt;t4/&gt;</ph>”</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="ZH-TW">
         <seg>啟用到期日</seg>
       </tuv>
       <tuv xml:lang="EN">
@@ -46395,14 +46445,6 @@ Meld 執行時遭遇嚴重錯誤：
       </tuv>
       <tuv xml:lang="EN" changeid="Tom" changedate="20190718T072058Z" creationid="Tom" creationdate="20190718T071557Z">
         <seg>In DIKO, you can preview more than 40 file types in PDF format. Each preview has a watermark of user name, IP address and date to avoid the potential risk of any file content being stolen through screen capture. </seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="ZH-TW">
-        <seg>在<ph x="0">&lt;t0/&gt;</ph> Windows <ph x="1">&lt;t1/&gt;</ph>安裝<ph x="2">&lt;t2/&gt;</ph> <ph x="3">&lt;t3/&gt;</ph>Dropzone</seg>
-      </tuv>
-      <tuv xml:lang="EN" changeid="Tom" changedate="20190718T032738Z" creationid="Tom" creationdate="20190718T032738Z">
-        <seg><ph x="1">&lt;t1/&gt;</ph>Installing<ph x="2">&lt;t2/&gt;</ph> <ph x="3">&lt;t3/&gt;</ph>DropZone<ph x="0">&lt;t0/&gt;</ph> in Windows</seg>
       </tuv>
     </tu>
     <tu>
@@ -46487,6 +46529,22 @@ Meld 執行時遭遇嚴重錯誤：
     </tu>
     <tu>
       <tuv xml:lang="ZH-TW">
+        <seg>如有任何疑問，請<ph x="0">&lt;t0/&gt;</ph>電郵至<ph x="1">&lt;t1/&gt;</ph> info@si-taiwan.com <ph x="2">&lt;t2/&gt;</ph>查詢。</seg>
+      </tuv>
+      <tuv xml:lang="EN" changeid="Tom" changedate="20190722T095333Z" creationid="Tom" creationdate="20190722T095333Z">
+        <seg>If you have any questions, please <ph x="0">&lt;t0/&gt;</ph>email to<ph x="1">&lt;t1/&gt;</ph>Info@si-taiwan.com<ph x="2">&lt;t2/&gt;</ph>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ZH-TW">
+        <seg>如有任何疑問，請電郵至<ph x="0">&lt;t0/&gt;</ph>info@si-taiwan.com<ph x="1">&lt;t1/&gt;</ph>查詢。</seg>
+      </tuv>
+      <tuv xml:lang="EN" changeid="Tom" changedate="20190722T032923Z" creationid="Tom" creationdate="20190722T022040Z">
+        <seg>If you have any questions, please email to<ph x="0">&lt;t0/&gt;</ph>Info@si-taiwan.com<ph x="1">&lt;t1/&gt;</ph>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ZH-TW">
         <seg>如有疑問，請發送電子郵件<ph x="0">&lt;t0/&gt;</ph>至<ph x="1">&lt;t1/&gt;</ph>info@<ph x="2">&lt;t2/&gt;</ph>si-taiwan.com<ph x="3">&lt;t3/&gt;</ph>。</seg>
       </tuv>
       <tuv xml:lang="EN" changeid="Tom" changedate="20190718T073133Z" creationid="Tom" creationdate="20190718T073133Z">
@@ -46503,6 +46561,14 @@ Meld 執行時遭遇嚴重錯誤：
     </tu>
     <tu>
       <tuv xml:lang="ZH-TW">
+        <seg>如有疑問，請發送電子郵件至<ph x="0">&lt;t0/&gt;</ph>info@si-taiwan.com<ph x="1">&lt;t1/&gt;</ph>。</seg>
+      </tuv>
+      <tuv xml:lang="EN" changeid="Tom" changedate="20190722T060201Z" creationid="Tom" creationdate="20190722T060201Z">
+        <seg>For inquiries, please send your email to info@speechnact.asia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ZH-TW">
         <seg>如果希望在每<ph x="0">&lt;t0/&gt;</ph>個<ph x="1">&lt;t1/&gt;</ph>復原操作之間出現提示，請選擇<ph x="2">&lt;t2/&gt;</ph>Prompt before restoring each backup<ph x="3">&lt;t3/&gt;</ph>。</seg>
       </tuv>
       <tuv xml:lang="EN" changeid="Tom" changedate="20190718T082229Z" creationid="Tom" creationdate="20190718T082229Z">
@@ -46513,8 +46579,8 @@ Meld 執行時遭遇嚴重錯誤：
       <tuv xml:lang="ZH-TW">
         <seg>如沒任何授權，翻印必究。</seg>
       </tuv>
-      <tuv xml:lang="EN" changeid="Tom" changedate="20190718T031911Z" creationid="Tom" creationdate="20190718T031911Z">
-        <seg>如沒任何授權，翻印必究。</seg>
+      <tuv xml:lang="EN" changeid="Tom" changedate="20190722T032503Z" creationid="Tom" creationdate="20190718T031911Z">
+        <seg>Unauthorized reprints are prohibited</seg>
       </tuv>
     </tu>
     <tu>
@@ -46563,22 +46629,6 @@ Meld 執行時遭遇嚴重錯誤：
       </tuv>
       <tuv xml:lang="EN">
         <seg>Security Level</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="ZH-TW">
-        <seg>安裝<ph x="0">&lt;t0/&gt;</ph> Microsoft WSE 2.0 SP3</seg>
-      </tuv>
-      <tuv xml:lang="EN" changeid="Tom" changedate="20190718T032341Z" creationid="Tom" creationdate="20190718T032341Z">
-        <seg>Install<ph x="0">&lt;t0/&gt;</ph> Microsoft WSE 2.0 SP3</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="ZH-TW">
-        <seg>安裝完成後點擊<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>“<ph x="2">&lt;t2/&gt;</ph>Finish<ph x="3">&lt;t3/&gt;</ph>”</seg>
-      </tuv>
-      <tuv xml:lang="EN" changeid="Tom" changedate="20190718T032638Z" creationid="Tom" creationdate="20190718T032638Z">
-        <seg>Upon completion click<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>“<ph x="2">&lt;t2/&gt;</ph>Finish<ph x="3">&lt;t3/&gt;</ph>”</seg>
       </tuv>
     </tu>
     <tu>
@@ -46751,22 +46801,6 @@ Meld 執行時遭遇嚴重錯誤：
     </tu>
     <tu>
       <tuv xml:lang="ZH-TW">
-        <seg>把<ph x="0">&lt;t0/&gt;</ph>「<ph x="1">&lt;t1/&gt;</ph>Blueprint.txt<ph x="2">&lt;t2/&gt;</ph>」<ph x="3">&lt;t3/&gt;</ph>傳給賣家</seg>
-      </tuv>
-      <tuv xml:lang="EN" changeid="Tom" changedate="20190718T040001Z" creationid="Tom" creationdate="20190718T040001Z">
-        <seg>Send<ph x="0">&lt;t0/&gt;</ph>"<ph x="1">&lt;t1/&gt;</ph>Blueprint.txt<ph x="2">&lt;t2/&gt;</ph>"<ph x="3">&lt;t3/&gt;</ph> to vendor</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="ZH-TW">
-        <seg>把賣家傳給您的<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>KEY <ph x="2">&lt;t2/&gt;</ph>貼上並點擊</seg>
-      </tuv>
-      <tuv xml:lang="EN" changeid="Tom" changedate="20190718T040043Z" creationid="Tom" creationdate="20190718T040043Z">
-        <seg>把賣家傳給您的<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>KEY <ph x="2">&lt;t2/&gt;</ph>貼上並點擊</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="ZH-TW">
         <seg>拉丁字母亞塞拜然語<ph x="0">&lt;t0/&gt;</ph> = 120,</seg>
       </tuv>
       <tuv xml:lang="EN">
@@ -46831,18 +46865,18 @@ Meld 執行時遭遇嚴重錯誤：
     </tu>
     <tu>
       <tuv xml:lang="ZH-TW">
-        <seg>提示</seg>
+        <seg>描述</seg>
       </tuv>
-      <tuv xml:lang="EN">
-        <seg>Remark</seg>
+      <tuv xml:lang="EN" changeid="Tom" changedate="20190722T081212Z" creationid="Tom" creationdate="20190722T081212Z">
+        <seg>描述</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="ZH-TW">
-        <seg>操作系統</seg>
+        <seg>提示</seg>
       </tuv>
-      <tuv xml:lang="EN" changeid="Tom" changedate="20190718T032300Z" creationid="Tom" creationdate="20190718T032300Z">
-        <seg>OS</seg>
+      <tuv xml:lang="EN">
+        <seg>Remark</seg>
       </tuv>
     </tu>
     <tu>
@@ -46983,6 +47017,14 @@ Meld 執行時遭遇嚴重錯誤：
     </tu>
     <tu>
       <tuv xml:lang="ZH-TW">
+        <seg>本<ph x="0">&lt;t0/&gt;</ph>章<ph x="1">&lt;t1/&gt;</ph>節介紹<ph x="2">&lt;t2/&gt;</ph>DIKO<ph x="3">&lt;t3/&gt;</ph>伺服器<ph x="4">&lt;t4/&gt;</ph>的系統功能。</seg>
+      </tuv>
+      <tuv xml:lang="EN" changeid="Tom" changedate="20190722T080434Z" creationid="Tom" creationdate="20190722T080434Z">
+        <seg>This<ph x="0">&lt;t0/&gt;</ph> section<ph x="1">&lt;t1/&gt;</ph> describes system function of the <ph x="2">&lt;t2/&gt;</ph>DIKO<ph x="3">&lt;t3/&gt;</ph> Server<ph x="4">&lt;t4/&gt;</ph>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ZH-TW">
         <seg>模組</seg>
       </tuv>
       <tuv xml:lang="EN">
@@ -47079,18 +47121,26 @@ Meld 執行時遭遇嚴重錯誤：
     </tu>
     <tu>
       <tuv xml:lang="ZH-TW">
-        <seg>此外，DIKO保留每個檔案的版本以確保其 完整性。</seg>
+        <seg>欄位名稱</seg>
       </tuv>
-      <tuv xml:lang="EN" changeid="Tom" changedate="20190718T072146Z" creationid="Tom" creationdate="20190718T072146Z">
-        <seg>In addition, DIKO keeps the versions of each document to protect its integrity.</seg>
+      <tuv xml:lang="EN" changeid="Tom" changedate="20190722T081142Z" creationid="Tom" creationdate="20190722T081142Z">
+        <seg>Field</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="ZH-TW">
-        <seg>步驟</seg>
+        <seg>此<ph x="0">&lt;t0/&gt;</ph>選項用於自定義電子郵件信息<ph x="1">&lt;t1/&gt;</ph>。</seg>
       </tuv>
-      <tuv xml:lang="EN">
-        <seg>Steps</seg>
+      <tuv xml:lang="EN" changeid="Tom" changedate="20190722T080251Z" creationid="Tom" creationdate="20190722T080251Z">
+        <seg>This tab is to customize the email message.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ZH-TW">
+        <seg>此外，DIKO保留每個檔案的版本以確保其 完整性。</seg>
+      </tuv>
+      <tuv xml:lang="EN" changeid="Tom" changedate="20190718T072146Z" creationid="Tom" creationdate="20190718T072146Z">
+        <seg>In addition, DIKO keeps the versions of each document to protect its integrity.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47119,14 +47169,6 @@ Meld 執行時遭遇嚴重錯誤：
     </tu>
     <tu>
       <tuv xml:lang="ZH-TW">
-        <seg>然後<ph x="0">&lt;t0/&gt;</ph>“<ph x="1">&lt;t1/&gt;</ph>Change settings for all users<ph x="2">&lt;t2/&gt;</ph>”<ph x="3">&lt;t3/&gt;</ph> <ph x="4">&lt;t4/&gt;</ph>然後</seg>
-      </tuv>
-      <tuv xml:lang="EN" changeid="Tom" changedate="20190718T033131Z" creationid="Tom" creationdate="20190718T033131Z">
-        <seg>然後<ph x="0">&lt;t0/&gt;</ph>“<ph x="1">&lt;t1/&gt;</ph>Change settings for all users<ph x="2">&lt;t2/&gt;</ph>”<ph x="3">&lt;t3/&gt;</ph> <ph x="4">&lt;t4/&gt;</ph>然後</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="ZH-TW">
         <seg>然後你會看到以下的對話框<ph x="0">&lt;t0/&gt;</ph>：</seg>
       </tuv>
       <tuv xml:lang="EN">
@@ -47143,18 +47185,10 @@ Meld 執行時遭遇嚴重錯誤：
     </tu>
     <tu>
       <tuv xml:lang="ZH-TW">
-        <seg>版權所有<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>2019<ph x="2">&lt;t2/&gt;</ph>。</seg>
-      </tuv>
-      <tuv xml:lang="EN" changeid="Tom" changedate="20190718T031759Z" creationid="Tom" creationdate="20190718T031614Z">
-        <seg>Copyright<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>2019<ph x="2">&lt;t2/&gt;</ph>.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="ZH-TW">
         <seg>版權所有<ph x="0">&lt;t0/&gt;</ph>2019<ph x="1">&lt;t1/&gt;</ph>。</seg>
       </tuv>
-      <tuv xml:lang="EN" changeid="Tom" changedate="20190718T072956Z" creationid="Tom" creationdate="20190718T072956Z">
-        <seg>Copyright <ph x="0">&lt;t0/&gt;</ph>2019<ph x="1">&lt;t1/&gt;</ph>. All rights reserved.</seg>
+      <tuv xml:lang="EN" changeid="Tom" changedate="20190722T055849Z" creationid="Tom" creationdate="20190718T072956Z">
+        <seg>Copyright <ph x="0">&lt;t0/&gt;</ph>2019<ph x="1">&lt;t1/&gt;</ph>..</seg>
       </tuv>
     </tu>
     <tu>
@@ -47519,14 +47553,6 @@ Meld 執行時遭遇嚴重錯誤：
     </tu>
     <tu>
       <tuv xml:lang="ZH-TW">
-        <seg>處<ph x="0">&lt;t0/&gt;</ph>)</seg>
-      </tuv>
-      <tuv xml:lang="EN" changeid="Tom" changedate="20190718T032937Z" creationid="Tom" creationdate="20190718T032937Z">
-        <seg>place<ph x="0">&lt;t0/&gt;</ph>)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="ZH-TW">
         <seg>西里爾字母波斯尼亞語<ph x="0">&lt;t0/&gt;</ph> = 130,</seg>
       </tuv>
       <tuv xml:lang="EN">
@@ -47679,6 +47705,14 @@ Meld 執行時遭遇嚴重錯誤：
     </tu>
     <tu>
       <tuv xml:lang="ZH-TW">
+        <seg>輸入SMTP<ph x="0">&lt;t0/&gt;</ph>伺服器資訊以透過<ph x="1">&lt;t1/&gt;</ph>DIKO<ph x="2">&lt;t2/&gt;</ph>來發送電子郵件<ph x="3">&lt;t3/&gt;</ph>。</seg>
+      </tuv>
+      <tuv xml:lang="EN" changeid="Tom" changedate="20190722T080336Z" creationid="Tom" creationdate="20190722T080336Z">
+        <seg>Enter the SMTP<ph x="0">&lt;t0/&gt;</ph> Server information to access send email function<ph x="3">&lt;t3/&gt;</ph> in <ph x="1">&lt;t1/&gt;</ph>DIKO<ph x="2">&lt;t2/&gt;</ph>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="ZH-TW">
         <seg>這時，對話匣的左下角會出現備份 進程的圖案。</seg>
       </tuv>
       <tuv xml:lang="EN" changeid="Tom" changedate="20190718T064906Z" creationid="Tom" creationdate="20190718T064348Z">
@@ -47715,30 +47749,6 @@ Meld 執行時遭遇嚴重錯誤：
       </tuv>
       <tuv xml:lang="EN" changeid="Tom" changedate="20190718T040235Z" creationid="Tom" creationdate="20190718T040235Z">
         <seg>All rights reserved by Software Island Taiwan.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="ZH-TW">
-        <seg>選擇<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>“<ph x="2">&lt;t2/&gt;</ph>I accept the terms in the license <ph x="3">&lt;t3/&gt;</ph>agreement”<ph x="4">&lt;t4/&gt;</ph> <ph x="5">&lt;t5/&gt;</ph>然後<ph x="6">&lt;t6/&gt;</ph> <ph x="7">&lt;t7/&gt;</ph>點選<ph x="8">&lt;t8/&gt;</ph> <ph x="9">&lt;t9/&gt;</ph>“Next”</seg>
-      </tuv>
-      <tuv xml:lang="EN" changeid="Tom" changedate="20190718T032552Z" creationid="Tom" creationdate="20190718T032552Z">
-        <seg>Choose<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>“<ph x="2">&lt;t2/&gt;</ph>I accept the terms in the license agreement<ph x="3">&lt;t3/&gt;</ph>”<ph x="4">&lt;t4/&gt;</ph> <ph x="5">&lt;t5/&gt;</ph>then <ph x="6">&lt;t6/&gt;</ph> <ph x="7">&lt;t7/&gt;</ph>select<ph x="8">&lt;t8/&gt;</ph> <ph x="9">&lt;t9/&gt;</ph>“Next”</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="ZH-TW">
-        <seg>選擇<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>“Runtime”<ph x="2">&lt;t2/&gt;</ph> <ph x="3">&lt;t3/&gt;</ph>然後點擊<ph x="4">&lt;t4/&gt;</ph> <ph x="5">&lt;t5/&gt;</ph>“Next”</seg>
-      </tuv>
-      <tuv xml:lang="EN" changeid="Tom" changedate="20190718T032600Z" creationid="Tom" creationdate="20190718T032600Z">
-        <seg>Choose<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>“Runtime”<ph x="2">&lt;t2/&gt;</ph> <ph x="3">&lt;t3/&gt;</ph>then click<ph x="4">&lt;t4/&gt;</ph> <ph x="5">&lt;t5/&gt;</ph>“Next”</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="ZH-TW">
-        <seg>選擇<ph x="0">&lt;t0/&gt;</ph> “<ph x="1">&lt;t1/&gt;</ph>內容 <ph x="2">&lt;t2/&gt;</ph>(R)<ph x="3">&lt;t3/&gt;</ph>” <ph x="4">&lt;t4/&gt;</ph>然後<ph x="5">&lt;t5/&gt;</ph>“<ph x="6">&lt;t6/&gt;</ph>Compatibility<ph x="7">&lt;t7/&gt;</ph>”</seg>
-      </tuv>
-      <tuv xml:lang="EN" changeid="Tom" changedate="20190718T033127Z" creationid="Tom" creationdate="20190718T033127Z">
-        <seg>Select <ph x="0">&lt;t0/&gt;</ph> “<ph x="1">&lt;t1/&gt;</ph>Properties <ph x="2">&lt;t2/&gt;</ph>(R)<ph x="3">&lt;t3/&gt;</ph>” <ph x="4">&lt;t4/&gt;</ph>and then<ph x="5">&lt;t5/&gt;</ph>“<ph x="6">&lt;t6/&gt;</ph>Compatibility<ph x="7">&lt;t7/&gt;</ph>”</seg>
       </tuv>
     </tu>
     <tu>
@@ -47791,22 +47801,6 @@ Meld 執行時遭遇嚴重錯誤：
     </tu>
     <tu>
       <tuv xml:lang="ZH-TW">
-        <seg>雙擊<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>“<ph x="2">&lt;t2/&gt;</ph>DIKO <ph x="3">&lt;t3/&gt;</ph>DropZone<ph x="4">&lt;t4/&gt;</ph> Setup”<ph x="5">&lt;t5/&gt;</ph> <ph x="6">&lt;t6/&gt;</ph>開始安裝</seg>
-      </tuv>
-      <tuv xml:lang="EN" changeid="Tom" changedate="20190718T032823Z" creationid="Tom" creationdate="20190718T032823Z">
-        <seg>Double click<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>“<ph x="2">&lt;t2/&gt;</ph>DIKO <ph x="3">&lt;t3/&gt;</ph>DropZone<ph x="4">&lt;t4/&gt;</ph> Setup”<ph x="5">&lt;t5/&gt;</ph> <ph x="6">&lt;t6/&gt;</ph>begin installation</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="ZH-TW">
-        <seg>雙擊<ph x="0">&lt;t0/&gt;</ph>“<ph x="1">&lt;t1/&gt;</ph>Microsoft WSE 2.0 SP3<ph x="2">&lt;t2/&gt;</ph>”<ph x="3">&lt;t3/&gt;</ph> <ph x="4">&lt;t4/&gt;</ph>開始安裝</seg>
-      </tuv>
-      <tuv xml:lang="EN" changeid="Tom" changedate="20190718T032414Z" creationid="Tom" creationdate="20190718T032414Z">
-        <seg>Double click<ph x="0">&lt;t0/&gt;</ph>“<ph x="1">&lt;t1/&gt;</ph>Microsoft WSE 2.0 SP3<ph x="2">&lt;t2/&gt;</ph>”<ph x="3">&lt;t3/&gt;</ph> <ph x="4">&lt;t4/&gt;</ph>and start installation</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="ZH-TW">
         <seg>電子郵件</seg>
       </tuv>
       <tuv xml:lang="EN">
@@ -47819,14 +47813,6 @@ Meld 執行時遭遇嚴重錯誤：
       </tuv>
       <tuv xml:lang="EN">
         <seg>Send Email Notification To User</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="ZH-TW">
-        <seg>需求</seg>
-      </tuv>
-      <tuv xml:lang="EN">
-        <seg>Requirement</seg>
       </tuv>
     </tu>
     <tu>
@@ -47851,54 +47837,6 @@ Meld 執行時遭遇嚴重錯誤：
       </tuv>
       <tuv xml:lang="EN">
         <seg>Default Replace Version</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="ZH-TW">
-        <seg>點擊<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>“<ph x="2">&lt;t2/&gt;</ph>Install<ph x="3">&lt;t3/&gt;</ph>”</seg>
-      </tuv>
-      <tuv xml:lang="EN" changeid="Tom" changedate="20190718T032605Z" creationid="Tom" creationdate="20190718T032605Z">
-        <seg>Click<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>“<ph x="2">&lt;t2/&gt;</ph>Install<ph x="3">&lt;t3/&gt;</ph>”</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="ZH-TW">
-        <seg>點擊<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>“Finish”</seg>
-      </tuv>
-      <tuv xml:lang="EN" changeid="Tom" changedate="20190718T033017Z" creationid="Tom" creationdate="20190718T033017Z">
-        <seg>Click<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>“Finish”</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="ZH-TW">
-        <seg>點擊<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>“Next<ph x="2">&lt;t2/&gt;</ph> &gt;<ph x="3">&lt;t3/&gt;</ph>”</seg>
-      </tuv>
-      <tuv xml:lang="EN" changeid="Tom" changedate="20190718T032828Z" creationid="Tom" creationdate="20190718T032828Z">
-        <seg>Click<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>“Next<ph x="2">&lt;t2/&gt;</ph> &gt;<ph x="3">&lt;t3/&gt;</ph>”</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="ZH-TW">
-        <seg>點擊<ph x="0">&lt;t0/&gt;</ph>“Download and install this feature”</seg>
-      </tuv>
-      <tuv xml:lang="EN" changeid="Tom" changedate="20190718T032959Z" creationid="Tom" creationdate="20190718T032949Z">
-        <seg>Click<ph x="0">&lt;t0/&gt;</ph>“Download and install this feature”</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="ZH-TW">
-        <seg>點選<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>“<ph x="2">&lt;t2/&gt;</ph>Next<ph x="3">&lt;t3/&gt;</ph> &gt;<ph x="4">&lt;t4/&gt;</ph>”</seg>
-      </tuv>
-      <tuv xml:lang="EN" changeid="Tom" changedate="20190718T032455Z" creationid="Tom" creationdate="20190718T032455Z">
-        <seg>Select<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>“<ph x="2">&lt;t2/&gt;</ph>Next<ph x="3">&lt;t3/&gt;</ph> &gt; <ph x="4">&lt;t4/&gt;</ph>”</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="ZH-TW">
-        <seg>點選<ph x="0">&lt;t0/&gt;</ph>「<ph x="1">&lt;t1/&gt;</ph>Blueprint<ph x="2">&lt;t2/&gt;</ph>:<ph x="3">&lt;t3/&gt;</ph>」旁的選擇儲存<ph x="4">&lt;t4/&gt;</ph>路徑<ph x="5">&lt;t5/&gt;</ph>，<ph x="6">&lt;t6/&gt;</ph>點擊<ph x="7">&lt;t7/&gt;</ph>「<ph x="8">&lt;t8/&gt;</ph>Generate <ph x="9">&lt;t9/&gt;</ph>H/W Blueprint<ph x="10">&lt;t10/&gt;</ph>」<ph x="11">&lt;t11/&gt;</ph>：</seg>
-      </tuv>
-      <tuv xml:lang="EN" changeid="Tom" changedate="20190718T035853Z" creationid="Tom" creationdate="20190718T035853Z">
-        <seg>Click button beside <ph x="0">&lt;t0/&gt;</ph>”<ph x="1">&lt;t1/&gt;</ph>Blueprint<ph x="2">&lt;t2/&gt;</ph>:<ph x="3">&lt;t3/&gt;</ph>” to select <ph x="5">&lt;t5/&gt;</ph>path<ph x="6">&lt;t6/&gt;</ph>, then click<ph x="7">&lt;t7/&gt;</ph>“<ph x="8">&lt;t8/&gt;</ph>Generate <ph x="9">&lt;t9/&gt;</ph>H/W Blueprint<ph x="10">&lt;t10/&gt;</ph>”<ph x="11">&lt;t11/&gt;</ph>: </seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->

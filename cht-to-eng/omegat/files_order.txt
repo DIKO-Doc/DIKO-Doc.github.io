@@ -1,23 +1,24 @@
-DIKO/DIKO Admin Guide v1.0.docx
-DIKO/DIKO Backup & Restore Procedures.docx
-DIKO/DIKO DropZone Installation and User Guide.docx
-DIKO/DIKO Installation Guide v3-Merged1-20190515.docx
-DIKO/DIKO Tutorial.docx
-DIKO/DIKO User Guide v1.0.docx
-DIKO/Email Capture Pro User Guide.docx
-DIKO/Email Capture User Guide.docx
-DocTracker/DocTracker 3Plus User Guide v1.0 - Mag.docx
-DocTracker/DocTracker 3Plus User Guide.docx
-DocTracker/DocTracker Frequently Encountered Problems Solution.docx
-DocTracker/DocTracker v3 Install SSL.docx
-DocTracker/DocTracker V3P installation guide 2012R2_v3.2.0.3(English verison).docx
-message.en-US.properties
-po/CommentPress.po
-po/Exhibit-Building.po
-po/git.po
+DIKO/DIKO 使用者導覽 20190715.pdf
+DIKO/DIKO 使用者導覽 20190716.docx
+DIKO/DIKO 使用者導覽 20190716.pdf
+DIKO/DIKO 備份與復原程式 20190715.pdf
+DIKO/DIKO 備份與復原程式 20190716.docx
+DIKO/DIKO 備份與復原程式 20190716.pdf
+DIKO/DIKO 安裝導覽 v3.0 20190716.docx
+DIKO/DIKO 安裝導覽 v3.0 20190716.pdf
+DIKO/DIKO 管理者導覽 20190715.pdf
+DIKO/DIKO 管理者導覽 20190716.docx
+DIKO/DIKO 管理者導覽 20190716.pdf
+DIKO/Email Capture PRO 使用手冊 20190715.docx
+DIKO/Email Capture PRO 使用手冊 20190715.pdf
+DIKO/Email Capture 使用手冊 20190715.docx
+DIKO/Email Capture 使用手冊 20190715.pdf
+DIKO/OmegaT-GitHub-Collaboration.docx
+DocTracker/DocTracker 3Plus User Guide Chinese_20180601.docx
+DocTracker/DocTracker v3 安装 SSL (TC).docx
+DocTracker/DocTracker V3P installation guide 2012R2_v3.2.0.3(Chinese version).docx
+DocTracker/Doctracker常見問題及處理.docx
+po/gcc.po
+po/meld.po
 po/NetworkManager.po
 po/poedit.po
-po/WordPress.po
-udms.en-US.properties
-Wikipedia/Audit_trail.UTF8
-Wikipedia/SQL_Server_Management_Studio.UTF8

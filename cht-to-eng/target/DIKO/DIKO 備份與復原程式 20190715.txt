@@ -18,7 +18,7 @@
 
 
 
-DIKO 備份與復原程式  
+Diko Backup & Restore Procedures  
 
 
 
@@ -26,23 +26,23 @@ V1.1
 
 
 
-DIKO 備份及復原程式  
+DIKO Backup & Restore Procedures  
 
 版權聲明  ©2018-2019 版權所有。 所有本文中提及的概念、意念及教材均由適時科技有限公 司所擁有。 Any reference to partial or all materials in this document without written authorization is strictly prohibited.  
 
-如有疑問，請發送電子郵件至 info@si-taiwan.com。  
+For inquiries, please send your email to info@speechnact.asia.  
 
 
 
-第 2 / 9  
+Page 2 / 9  
 
-DIKO 備份及復原程式  
+DIKO Backup & Restore Procedures  
 
-檔案修訂追蹤  版本 日期 章節 備註  1.0 2018年 10 所有 發佈新檔  月 10日  1.1 2019年 5 第 2章 備份與復原 加入了備份與復原過程中的 月 30日 抓圖，再修訂了部分用字和 標點符號。  
+Change History Version Date Sections Remarks  1.0 10th Oct 2018 All New document released 1.1 30th May 2019 Chapter 2 Backup  Restore Updated with details steps of backup and restore, with screen captures  
 
-第 3 / 9  
+Page 3 / 9  
 
-DIKO 備份及復原程式  
+DIKO Backup & Restore Procedures  
 
 Table of Contents  
 
@@ -52,31 +52,31 @@ Table of Contents
 
 第 4 / 9  
 
-DIKO 備份及復原程式  
+DIKO Backup & Restore Procedures  
 
-1. DIKO概述  DIKO是一個網路應用架構、並且支援 UNICODE的檔案管理系統。 使用Web瀏覽 器，使用者可以管理和保護組織內的檔案。  DIKO提供多語言的使用者介面，為國 際使用者提供服務。 It can display and accept multi-lingual inputs.  在 DIKO中，可使用 PDF格式預覽多於 40種檔案類型，每張預覽內容都有用戶名 稱、IP位址和日期的浮水印，以避免有任何的檔案內容透過畫面捕捉而被竊取的 潛在風險。 All document activities are stored in audit trail for future review. 對於檔案的任何更新都 可以通過電郵提示來通知相關使用者。 此外，DIKO保留每個檔案的版本以確保其 完整性。 基於角色的許可權確保只有授權的群組和使用者才能訪問這些檔案。 存儲 在 DIKO中的檔案均已加密，因此只能在 DIKO中查看。 支援 SSL傳輸，因此 DIKO 和Web瀏覽器之間的資料傳輸是安全的。  檔案可以分為不同的類別，每個類別都包含一組欄位，用來支援元資料的搜尋。  DIKO支援元資料和內容搜索。 DIKO允許使用者將多個檔案在進行列印時合併為單 一個 PDF檔案。 使用者可以通過其共用連結來分享檔案，以確保訴訟共用。    使用 DIKO，所有檔案都得到很好的保護和管理，因此企業能在這動蘯的商業世界 中處於安全的一面。   
+1. DIKO Overview DIKO is a web-based, UNICODE-supported Document Management System. With a web browser, the user can manage and protect the documents within the organization.  DIKO offers multi-lingual user interface to serve international users. It can display and accept multi-lingual inputs.  In DIKO, you can preview more than 40 file types in PDF format. Each preview has a watermark of user name, IP address and date to avoid the potential risk of any file content being stolen through screen capture.  All document activities are stored in audit trail for future review. Any update on the documents can notify the relevant users via email alert. In addition, DIKO keeps the versions of each document to protect its integrity. Role-based permissions ensure only authorized groups and users can access the documents. Documents stored in DIKO are encrypted so documents can only be viewed within DIKO. SSL is also supported so the data transmission between DIKO and web browser is safe.  Documents can be classified in different categories. Each category consists a group of fields which hold the metadata for searching.  DIKO supports both metadata and content search. DIKO allows the users to merge multiple documents to a PDF for printing. Users can share the documents via its share-link to ensure litigate sharing.    Within DIKO, all documents are well protected and managed so the corporation is on the safe side in the dynamic business world.   
 
-第 5 / 9  
+Page 5 / 9  
 
-DIKO 備份及復原程式  
+DIKO Backup & Restore Procedures  
 
-2. 備份與復原  DIKO每天均須備份，以確保其完整性，這一點非常重要。即使有意外發生，復原 備份了的數據可使操作上的損失減低。  2.1 備份  DIKO由兩個儲存媒體組成，即資料庫和檔案系統。資料庫存儲所有檔案記錄、稽 核軌跡、使用者群組等。檔案系統存儲所有加密檔、PDF格式、全文索引等。應同 時備份兩個存儲媒體，以確保資料同步。    2.1.1 資料庫備份  您可以使用一些資料庫備份軟體來備份 DIKO資料庫。當然，您也可以使用 SQL  Server Management Studio進行備份。以下過程說明如何去透過 SQL Server  Management Studio將安裝於預設位置的 DIKO資料庫備份。  1. 在 Object Explorer 中，連接到 SQL  Server資料庫引擎 的物件，然後展開 該物件。展開 Databases，於 DIKO 按右鍵，然後指向 Tasks，按一下 Back  Up....。  
-
-
+2. Backup and Restore It is very important to backup DIKO on a daily basis to ensure its integrity. In case of disaster happens, the backup can be restored and the operation loss can be minimized.  2.1 Backup DIKO consists of two storage media namely Database and File System. Database stores all document records, audit trails, user groups, etc. File System stores all encrypted files, PDF renditions, full text index, etc. Both storage media should be backed at the same time to ensure data synchronization.    2.1 Database backup You may use some database backup software to backup the DIKO database. Certainly, you may use the SQL Server Management Studio to conduct the backup. The following procedures show you how to use the SQL Server Management Studio to backup the DIKO database installed to its default location.  In Object Explorer, connect to an instance of the SQL Server Database Engine and then expand that instance. 展開 Databases，於 DIKO 按右鍵，然後指向 Tasks，按一下 Back  Up....。  
 
 
 
-第 6 / 9  
 
-DIKO 備份及復原程式  
 
-2. 然後你會看到以下的對話框：  
+Page 6 / 9  
 
-3. 按一下 OK接納預設的備份參數；要不，您可以將備份的預設位置設置為網 路附加儲存（NAS），以進行近線儲存。這時，對話匣的左下角會出現備份 進程的圖案。當備份完成，系統會出現如下圖般提示備份已完成的訊息：  
+DIKO Backup & Restore Procedures  
 
-第 7 / 9  
+Then you will see the dialog box below:  
 
-DIKO 備份及復原程式  
+Click OK to accept the default parameters; Otherwise, you may set the default location for backup to a Network Attached Storage (NAS) for nearline storage. At this point, the pattern of the backup process will appear in the lower left corner of the dialog. When the backup is completed, the system will prompt the backup to complete the message as shown below:  
+
+Page 6 / 9  
+
+DIKO Backup & Restore Procedures  
 
 You may use the task scheduler to automate the database backup task.  
 
@@ -86,7 +86,7 @@ You may use the task scheduler to automate the database backup task.
 
 2.2.1 資料庫復原  以下過程說明如何使用MS SQL Server Management Studio復原資料庫備份。  1. 在 Object Explorer中，連接到 SQL Server資料庫引擎的物件，然後展開該物件。  2. 於 Databases按右鍵，然後點選 Restore Database...  3. 在 General頁面上，使用 Source部分指定要復原的備份組的來源和位置。選擇 以下選項之一：  4. 從下拉清單中選擇要復原的資料庫。該清單僅包含根據 msdb備份歷史記錄作 過備份的資料庫。  5. 在 Destination部分中，Database框將自動填充要復原的資料庫名稱。要更改資 料庫名稱，請在 Database框中輸入新名稱。  第 8 / 9  
 
-DIKO 備份及復原程式  
+DIKO Backup & Restore Procedures  
 
 6. 在 Restore to框中，保留預設設置為 To the last backup taken或按一下 Timeline 以訪問 Backup Timeline對話方塊，以手動選擇停止恢復操作的時間點。 有關指 定特定時間點的詳細資訊，請參閱備份時間表。  7. 在 Backup sets to restore網格中，選擇要復原的備份。 此網格顯示指定位置的可 用備份。 By default, a recovery plan is suggested. 要覆蓋建議的恢復計畫，您可以更 改網格中的選擇。 當取消選擇早期備份時，將自動取消選擇依賴於恢復早期備 份的備份。   8. 復原操作可能會失敗若與資料庫的活動連接仍然存在。 選擇 Close existing  connections option選項以確保所有在Management Studio與資料庫之間的活動 連接均已關閉。 此核取方塊在執行還原操作之前將資料庫設置為單使用者模 式，並在完成時資料庫設置為多使用者模式。  9. 如果希望在每個復原操作之間出現提示，請選擇 Prompt before restoring each  backup。 除非資料庫很大並且您希望監視還原操作的狀態，否則通常不需要這 樣做。  10. 按一下 OK。  
 
@@ -96,5 +96,5 @@ DIKO 備份及復原程式
 
 
 
-第 9 / 9  
+Page 3 / 9  
 

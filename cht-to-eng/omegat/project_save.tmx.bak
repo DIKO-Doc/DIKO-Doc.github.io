@@ -5432,6 +5432,22 @@ X-Generator: Poedit 2.2.3</seg>
     </tu>
     <tu>
       <tuv lang="ZH-TW">
+        <seg>1  &lt;t0/&gt;介紹</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Tom" changedate="20190722T095348Z" creationid="Tom" creationdate="20190722T095348Z">
+        <seg>1  &lt;t0/&gt;Introduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-TW">
+        <seg>1  &lt;t0/&gt;系統功能</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Tom" changedate="20190722T060303Z" creationid="Tom" creationdate="20190722T060242Z">
+        <seg>1&lt;t0/&gt;  &lt;t1/&gt;System Functions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-TW">
         <seg>1 (Default)</seg>
       </tuv>
       <tuv lang="EN">
@@ -5488,6 +5504,14 @@ X-Generator: Poedit 2.2.3</seg>
     </tu>
     <tu>
       <tuv lang="ZH-TW">
+        <seg>1.1  &lt;t0/&gt;系統管理</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Tom" changedate="20190722T060245Z" creationid="Tom" creationdate="20190722T060245Z">
+        <seg>System Configurations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-TW">
         <seg>1.1 &lt;t0/&gt;系&lt;t1/&gt;統需求</seg>
       </tuv>
       <tuv lang="EN">
@@ -5504,10 +5528,34 @@ X-Generator: Poedit 2.2.3</seg>
     </tu>
     <tu>
       <tuv lang="ZH-TW">
+        <seg>1.1.1  &lt;t0/&gt;系統外送郵件設定</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Tom" changedate="20190722T060557Z" creationid="Tom" creationdate="20190722T060557Z">
+        <seg>1.1.1&lt;t0/&gt;  &lt;t1/&gt;System Email Setting</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-TW">
+        <seg>1.1.10  &lt;t0/&gt;重置密碼</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Tom" changedate="20190722T065329Z" creationid="Tom" creationdate="20190722T065329Z">
+        <seg>1.1.10 &lt;t0/&gt;Reset Password</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-TW">
         <seg>1.1.10&lt;t0/&gt;  &lt;t1/&gt;重置密碼</seg>
       </tuv>
       <tuv lang="EN">
         <seg>1.1.10&lt;t0/&gt;  &lt;t1/&gt;Reset Password</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-TW">
+        <seg>1.1.11  &lt;t0/&gt;新增用戶群組</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Tom" changedate="20190722T081528Z" creationid="Tom" creationdate="20190722T081528Z">
+        <seg>1.1.11 &lt;t0/&gt;Add New Group</seg>
       </tuv>
     </tu>
     <tu>
@@ -5520,10 +5568,26 @@ X-Generator: Poedit 2.2.3</seg>
     </tu>
     <tu>
       <tuv lang="ZH-TW">
+        <seg>1.1.12  &lt;t0/&gt;修改用戶群組</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Tom" changedate="20190722T081539Z" creationid="Tom" creationdate="20190722T081539Z">
+        <seg>1.1.12 &lt;t0/&gt;Modify Group</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-TW">
         <seg>1.1.12&lt;t0/&gt;  &lt;t1/&gt;修改用戶群組</seg>
       </tuv>
       <tuv lang="EN">
         <seg>1.1.12&lt;t0/&gt;  &lt;t1/&gt;Modify Group</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-TW">
+        <seg>1.1.13  &lt;t0/&gt;刪除用戶群組</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Tom" changedate="20190722T081548Z" creationid="Tom" creationdate="20190722T081548Z">
+        <seg>1.1.13 &lt;t0/&gt;Delete Group</seg>
       </tuv>
     </tu>
     <tu>
@@ -5536,10 +5600,34 @@ X-Generator: Poedit 2.2.3</seg>
     </tu>
     <tu>
       <tuv lang="ZH-TW">
+        <seg>1.1.14  &lt;t0/&gt;新增用戶到群組中</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Tom" changedate="20190722T081555Z" creationid="Tom" creationdate="20190722T081555Z">
+        <seg>1.1.14 &lt;t0/&gt;Add User into Group</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-TW">
+        <seg>1.1.14.1  &lt;t0/&gt;拖放用戶</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Tom" changedate="20190722T081606Z" creationid="Tom" creationdate="20190722T081606Z">
+        <seg>1.1.14.1 &lt;t0/&gt;Drag and drop user</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-TW">
         <seg>1.1.14.1&lt;t0/&gt;  &lt;t1/&gt;拖放用戶</seg>
       </tuv>
       <tuv lang="EN">
         <seg>1.1.14.1&lt;t0/&gt;  &lt;t1/&gt;Drag and drop user</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-TW">
+        <seg>1.1.14.2  &lt;t0/&gt;從別的群組新增用戶</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Tom" changedate="20190722T081614Z" creationid="Tom" creationdate="20190722T081614Z">
+        <seg>1.1.14.2 &lt;t0/&gt;Add User from another groups</seg>
       </tuv>
     </tu>
     <tu>
@@ -5564,6 +5652,14 @@ X-Generator: Poedit 2.2.3</seg>
       </tuv>
       <tuv lang="EN">
         <seg>1.1.14&lt;t0/&gt;  &lt;t1/&gt;Add User into Group</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-TW">
+        <seg>1.1.15  &lt;t0/&gt;轉移擁有者</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Tom" changedate="20190722T081622Z" creationid="Tom" creationdate="20190722T081622Z">
+        <seg>1.1.15 &lt;t0/&gt;Transfer Ownership</seg>
       </tuv>
     </tu>
     <tu>
@@ -5600,6 +5696,14 @@ X-Generator: Poedit 2.2.3</seg>
     </tu>
     <tu>
       <tuv lang="ZH-TW">
+        <seg>1.1.2  &lt;t0/&gt;系統預設郵件內容</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Tom" changedate="20190722T071853Z" creationid="Tom" creationdate="20190722T062738Z">
+        <seg>1.1.2 &lt;t0/&gt;System Email Message</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-TW">
         <seg>1.1.2&lt;t0/&gt;  &lt;t1/&gt;系統預設郵件&lt;t2/&gt;內容</seg>
       </tuv>
       <tuv lang="EN">
@@ -5624,6 +5728,14 @@ X-Generator: Poedit 2.2.3</seg>
     </tu>
     <tu>
       <tuv lang="ZH-TW">
+        <seg>1.1.3  &lt;t0/&gt;一般設定</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Tom" changedate="20190722T063447Z" creationid="Tom" creationdate="20190722T063447Z">
+        <seg>1.1.3 &lt;t0/&gt;General Setting</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-TW">
         <seg>1.1.3&lt;t0/&gt;  &lt;t1/&gt;一般設定</seg>
       </tuv>
       <tuv lang="EN">
@@ -5636,6 +5748,14 @@ X-Generator: Poedit 2.2.3</seg>
       </tuv>
       <tuv lang="EN">
         <seg>1.1.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-TW">
+        <seg>1.1.4  &lt;t0/&gt;浮水印設置</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Tom" changedate="20190722T063502Z" creationid="Tom" creationdate="20190722T063502Z">
+        <seg>1.1.4 &lt;t0/&gt;Watermark Setting</seg>
       </tuv>
     </tu>
     <tu>
@@ -5656,6 +5776,14 @@ X-Generator: Poedit 2.2.3</seg>
     </tu>
     <tu>
       <tuv lang="ZH-TW">
+        <seg>1.1.5  &lt;t0/&gt;檢視電子郵件設定</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Tom" changedate="20190722T063550Z" creationid="Tom" creationdate="20190722T063550Z">
+        <seg>1.1.5 &lt;t0/&gt;Capture Email Setting</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-TW">
         <seg>1.1.5 &lt;t0/&gt;產生安裝軟體的認證</seg>
       </tuv>
       <tuv lang="EN">
@@ -5672,10 +5800,26 @@ X-Generator: Poedit 2.2.3</seg>
     </tu>
     <tu>
       <tuv lang="ZH-TW">
+        <seg>1.1.6  &lt;t0/&gt;用戶群組管理</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Tom" changedate="20190722T063629Z" creationid="Tom" creationdate="20190722T063629Z">
+        <seg>1.1.6 &lt;t0/&gt;User Group Management</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-TW">
         <seg>1.1.6&lt;t0/&gt;  &lt;t1/&gt;用戶群組管理</seg>
       </tuv>
       <tuv lang="EN">
         <seg>1.1.6&lt;t0/&gt;  &lt;t1/&gt;User Group Management</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-TW">
+        <seg>1.1.7  &lt;t0/&gt;新增用戶</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Tom" changedate="20190722T064558Z" creationid="Tom" creationdate="20190722T064558Z">
+        <seg>1.1.7 &lt;t0/&gt;Add New User</seg>
       </tuv>
     </tu>
     <tu>
@@ -5688,10 +5832,26 @@ X-Generator: Poedit 2.2.3</seg>
     </tu>
     <tu>
       <tuv lang="ZH-TW">
+        <seg>1.1.8  &lt;t0/&gt;修改用戶</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Tom" changedate="20190722T065245Z" creationid="Tom" creationdate="20190722T065245Z">
+        <seg>1.1.8 &lt;t0/&gt;Modify User</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-TW">
         <seg>1.1.8&lt;t0/&gt;  &lt;t1/&gt;修改用戶</seg>
       </tuv>
       <tuv lang="EN">
         <seg>1.1.8&lt;t0/&gt;  &lt;t1/&gt;Modify User</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-TW">
+        <seg>1.1.9  &lt;t0/&gt;刪除用戶</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Tom" changedate="20190722T065255Z" creationid="Tom" creationdate="20190722T065255Z">
+        <seg>1.1.9 &lt;t0/&gt;Delete User</seg>
       </tuv>
     </tu>
     <tu>
@@ -5748,6 +5908,14 @@ X-Generator: Poedit 2.2.3</seg>
       </tuv>
       <tuv lang="EN">
         <seg>1.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-TW">
+        <seg>1.2  &lt;t0/&gt;定義類別和屬性</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Tom" changedate="20190722T081807Z" creationid="Tom" creationdate="20190722T081807Z">
+        <seg>1.2  &lt;t0/&gt;定義類別和屬性</seg>
       </tuv>
     </tu>
     <tu>
@@ -6264,6 +6432,14 @@ X-Generator: Poedit 2.2.3</seg>
     </tu>
     <tu>
       <tuv lang="ZH-TW">
+        <seg>2  &lt;t0/&gt;入門</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Tom" changedate="20190722T095407Z" creationid="Tom" creationdate="20190722T095407Z">
+        <seg>2  &lt;t0/&gt;Getting Started</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-TW">
         <seg>2-gè</seg>
       </tuv>
       <tuv lang="EN">
@@ -6624,10 +6800,34 @@ X-Generator: Poedit 2.2.3</seg>
     </tu>
     <tu>
       <tuv lang="ZH-TW">
+        <seg>2&lt;t0/&gt;.&lt;t1/&gt;5</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Tom" changedate="20190722T054428Z" creationid="Tom" creationdate="20190722T054428Z">
+        <seg>2&lt;t0/&gt;.&lt;t1/&gt;5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-TW">
+        <seg>2&lt;t0/&gt;.&lt;t1/&gt;6</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Tom" changedate="20190722T054451Z" creationid="Tom" creationdate="20190722T054451Z">
+        <seg>2&lt;t0/&gt;.&lt;t1/&gt;6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-TW">
         <seg>2&lt;t0/&gt;0190716</seg>
       </tuv>
       <tuv lang="EN" changeid="Tom" changedate="20190718T072903Z" creationid="Tom" creationdate="20190718T072903Z">
         <seg>2&lt;t0/&gt;0190716</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-TW">
+        <seg>2&lt;t0/&gt;019071&lt;t1/&gt;7</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Tom" changedate="20190722T022049Z" creationid="Tom" creationdate="20190722T022049Z">
+        <seg>2&lt;t0/&gt;019071&lt;t1/&gt;7</seg>
       </tuv>
     </tu>
     <tu>
@@ -6644,6 +6844,14 @@ X-Generator: Poedit 2.2.3</seg>
       </tuv>
       <tuv lang="EN">
         <seg>3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-TW">
+        <seg>3  &lt;t0/&gt;正常功能</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Tom" changedate="20190722T095418Z" creationid="Tom" creationdate="20190722T095418Z">
+        <seg>3  &lt;t0/&gt;Normal Function</seg>
       </tuv>
     </tu>
     <tu>
@@ -6668,6 +6876,14 @@ X-Generator: Poedit 2.2.3</seg>
       </tuv>
       <tuv lang="EN">
         <seg>3.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-TW">
+        <seg>3.1  &lt;t0/&gt;查看資料夾和文件</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Tom" changedate="20190722T095425Z" creationid="Tom" creationdate="20190722T095425Z">
+        <seg>3.1  &lt;t0/&gt;View Folder and Document</seg>
       </tuv>
     </tu>
     <tu>
@@ -7938,8 +8154,8 @@ or use the + button</seg>
       <tuv lang="ZH-TW">
         <seg>&lt;t4/&gt;展開&lt;t5/&gt;Databases&lt;t6/&gt;，於&lt;t7/&gt;DIKO&lt;t8/&gt;按右鍵&lt;t9/&gt;，然後指向&lt;t10/&gt;Tasks&lt;t11/&gt;，按一下&lt;t12/&gt;Back Up....&lt;t13/&gt;。</seg>
       </tuv>
-      <tuv lang="EN" changeid="Tom" changedate="20190718T083718Z" creationid="Tom" creationdate="20190718T083718Z">
-        <seg>&lt;t4/&gt;Expand&lt;t5/&gt;Databases&lt;t6/&gt;,to&lt;t7/&gt;DIKO&lt;t8/&gt;Right click&lt;t9/&gt;And then point&lt;t10/&gt;Tasks&lt;t11/&gt;,click it once&lt;t12/&gt;Back Up....&lt;t13/&gt;.</seg>
+      <tuv lang="EN" changeid="Tom" changedate="20190718T084335Z" creationid="Tom" creationdate="20190718T083718Z">
+        <seg>&lt;t4/&gt;Expand &lt;t5/&gt;Databases&lt;t6/&gt;, to &lt;t7/&gt;DIKO&lt;t8/&gt;Right click&lt;t9/&gt;And then point&lt;t10/&gt;Tasks&lt;t11/&gt;, click it once&lt;t12/&gt;Back Up....&lt;t13/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12761,10 +12977,26 @@ to %s.
     </tu>
     <tu>
       <tuv lang="ZH-TW">
+        <seg>DIKO &lt;t0/&gt;使用者導&lt;t1/&gt;覽</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Tom" changedate="20190722T095303Z" creationid="Tom" creationdate="20190722T095235Z">
+        <seg>DIKO&lt;t0/&gt; User Guide&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-TW">
         <seg>DIKO Drop Zone &lt;t0/&gt;安裝及使用手冊</seg>
       </tuv>
       <tuv lang="EN" changeid="Tom" changedate="20190718T031603Z" creationid="Tom" creationdate="20190718T031603Z">
         <seg>DIKO Drop Zone &lt;t0/&gt;Installation and User Guide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-TW">
+        <seg>DIKO Drop Zone&lt;t0/&gt;系統設置</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Tom" changedate="20190722T033047Z" creationid="Tom" creationdate="20190722T033047Z">
+        <seg>DIKO Drop Zone&lt;t0/&gt;System Settings</seg>
       </tuv>
     </tu>
     <tu>
@@ -12817,6 +13049,14 @@ to %s.
     </tu>
     <tu>
       <tuv lang="ZH-TW">
+        <seg>DIKO&lt;t0/&gt; &lt;t1/&gt;管理者&lt;t2/&gt;導覽</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Tom" changedate="20190722T055810Z" creationid="Tom" creationdate="20190722T055810Z">
+        <seg>Diko&lt;t0/&gt; Admin Guide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-TW">
         <seg>DIKO&lt;t0/&gt; 使用者導覽</seg>
       </tuv>
       <tuv lang="EN">
@@ -12859,8 +13099,8 @@ to %s.
       <tuv lang="ZH-TW">
         <seg>DIKO&lt;t0/&gt;每天均須備份，以確保其完整性，這一點非常重要。</seg>
       </tuv>
-      <tuv lang="EN" changeid="Tom" changedate="20190718T074216Z" creationid="Tom" creationdate="20190718T074216Z">
-        <seg>It is very important to backup &lt;t0/&gt;DIKO&lt;t1/&gt; on a daily basis to ensure its integrity.</seg>
+      <tuv lang="EN" changeid="Tom" changedate="20190718T084354Z" creationid="Tom" creationdate="20190718T074216Z">
+        <seg>It is very important to backup &lt;t0/&gt;DIKO on a daily basis to ensure its integrity.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27094,6 +27334,40 @@ Content-Type: text/plain; charset=UTF-8
 Content-Transfer-Encoding: 8bit
 Plural-Forms: nplurals=1; plural=0;
 X-Generator: Poedit 2.2.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-TW">
+        <seg>Project-Id-Version: meld master
+Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/meld/issues
+POT-Creation-Date: 2018-08-17 21:12+0000
+PO-Revision-Date: 2019-06-10 14:07+0800
+Last-Translator: Hsiu-Ming Chang &lt;cges30901@gmail.com&gt;
+Language-Team: Babycaseny Gavèrnmènt
+Language: zh_TW
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=1; plural=0;
+X-Generator: Poedit 2.2.3
+X-Project-Style: gnome
+X-Source-Language: C</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Tom" changedate="20190722T095253Z" creationid="Tom" creationdate="20190722T095253Z">
+        <seg>Project-Id-Version: meld master
+Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/meld/issues
+POT-Creation-Date: 2018-08-17 21:12+0000
+PO-Revision-Date: 2019-06-10 14:07+0800
+Last-Translator: Hsiu-Ming Chang &lt;cges30901@gmail.com&gt;
+Language-Team: Babycaseny Gavèrnmènt
+Language: zh_TW
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=1; plural=0;
+X-Generator: Poedit 2.2.3
+X-Project-Style: gnome
+X-Source-Language: C</seg>
       </tuv>
     </tu>
     <tu>
@@ -53632,6 +53906,14 @@ Meld 執行時遭遇嚴重錯誤：
     </tu>
     <tu>
       <tuv lang="ZH-TW">
+        <seg>使用&lt;t0/&gt; DIKO Drop zone</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Tom" changedate="20190722T033311Z" creationid="Tom" creationdate="20190722T033311Z">
+        <seg>Using &lt;t0/&gt; DIKO Drop Zone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-TW">
         <seg>使用&lt;t0/&gt;DIKO&lt;t1/&gt;，所有檔案都得到很好的保護和管理，因此企業能在這動蘯的商業世界中處於安全的一面。</seg>
       </tuv>
       <tuv lang="EN" changeid="Tom" changedate="20190718T074234Z" creationid="Tom" creationdate="20190718T074234Z">
@@ -54658,6 +54940,22 @@ Meld 執行時遭遇嚴重錯誤：
     </tu>
     <tu>
       <tuv lang="ZH-TW">
+        <seg>在&lt;t0/&gt; Windows&lt;t1/&gt;安裝&lt;t2/&gt; &lt;t3/&gt;Dropzone</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Tom" changedate="20190722T054544Z" creationid="Tom" creationdate="20190722T054544Z">
+        <seg>&lt;t1/&gt;Installing&lt;t2/&gt; &lt;t3/&gt;DropZone&lt;t0/&gt; in Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-TW">
+        <seg>在&lt;t0/&gt; Windows&lt;t1/&gt;安裝&lt;t2/&gt; Dropzone</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Tom" changedate="20190722T055605Z" creationid="Tom" creationdate="20190722T023938Z">
+        <seg>&lt;t1/&gt;Installing&lt;t2/&gt; DropZone&lt;t0/&gt; in Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-TW">
         <seg>在&lt;t0/&gt;Backup sets to restore&lt;t1/&gt;網格中&lt;t2/&gt;，選擇要復原的備份。</seg>
       </tuv>
       <tuv lang="EN" changeid="Tom" changedate="20190718T082422Z" creationid="Tom" creationdate="20190718T082422Z">
@@ -55187,6 +55485,22 @@ Meld 執行時遭遇嚴重錯誤：
     </tu>
     <tu>
       <tuv lang="ZH-TW">
+        <seg>如有任何疑問，請&lt;t0/&gt;電郵至&lt;t1/&gt; info@si-taiwan.com &lt;t2/&gt;查詢。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Tom" changedate="20190722T095333Z" creationid="Tom" creationdate="20190722T095333Z">
+        <seg>If you have any questions, please &lt;t0/&gt;email to&lt;t1/&gt;Info@si-taiwan.com&lt;t2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-TW">
+        <seg>如有任何疑問，請電郵至&lt;t0/&gt;info@si-taiwan.com&lt;t1/&gt;查詢。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Tom" changedate="20190722T032923Z" creationid="Tom" creationdate="20190722T022040Z">
+        <seg>If you have any questions, please email to&lt;t0/&gt;Info@si-taiwan.com&lt;t1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-TW">
         <seg>如有疑問，請發送電子郵件&lt;t0/&gt;至&lt;t1/&gt;info@&lt;t2/&gt;si-taiwan.com&lt;t3/&gt;。</seg>
       </tuv>
       <tuv lang="EN" changeid="Tom" changedate="20190718T073133Z" creationid="Tom" creationdate="20190718T073133Z">
@@ -55206,6 +55520,14 @@ Meld 執行時遭遇嚴重錯誤：
         <seg>如有疑問，請發送電子郵件至 info@si-taiwan.com。</seg>
       </tuv>
       <tuv lang="EN" changeid="Tom" changedate="20190718T070108Z" creationid="Tom" creationdate="20190718T070108Z">
+        <seg>For inquiries, please send your email to info@speechnact.asia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-TW">
+        <seg>如有疑問，請發送電子郵件至&lt;t0/&gt;info@si-taiwan.com&lt;t1/&gt;。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Tom" changedate="20190722T060201Z" creationid="Tom" creationdate="20190722T060201Z">
         <seg>For inquiries, please send your email to info@speechnact.asia.</seg>
       </tuv>
     </tu>
@@ -55269,8 +55591,8 @@ Meld 執行時遭遇嚴重錯誤：
       <tuv lang="ZH-TW">
         <seg>如沒任何授權，翻印必究。</seg>
       </tuv>
-      <tuv lang="EN" changeid="Tom" changedate="20190718T031911Z" creationid="Tom" creationdate="20190718T031911Z">
-        <seg>如沒任何授權，翻印必究。</seg>
+      <tuv lang="EN" changeid="Tom" changedate="20190722T032503Z" creationid="Tom" creationdate="20190718T031911Z">
+        <seg>Unauthorized reprints are prohibited</seg>
       </tuv>
     </tu>
     <tu>
@@ -55403,6 +55725,14 @@ Meld 執行時遭遇嚴重錯誤：
     </tu>
     <tu>
       <tuv lang="ZH-TW">
+        <seg>安裝&lt;t0/&gt;Microsoft WSE 2.0 SP3</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Tom" changedate="20190722T032434Z" creationid="Tom" creationdate="20190722T032434Z">
+        <seg>Install&lt;t0/&gt; Microsoft WSE 2.0 SP3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-TW">
         <seg>安裝IIS服務器及相關的.net Framework 3.5.1和4.5元件</seg>
       </tuv>
       <tuv lang="EN">
@@ -55463,6 +55793,14 @@ Meld 執行時遭遇嚴重錯誤：
       </tuv>
       <tuv lang="EN" changeid="Tom" changedate="20190718T032638Z" creationid="Tom" creationdate="20190718T032638Z">
         <seg>Upon completion click&lt;t0/&gt; &lt;t1/&gt;“&lt;t2/&gt;Finish&lt;t3/&gt;”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-TW">
+        <seg>安裝完成後點擊&lt;t0/&gt; &lt;t1/&gt;“&lt;t2/&gt;Finish&lt;t3/&gt;”&lt;t4/&gt; &lt;t5/&gt;完成安裝。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Tom" changedate="20190722T054529Z" creationid="Tom" creationdate="20190722T054529Z">
+        <seg>Upon completion click&lt;t0/&gt; &lt;t1/&gt;“&lt;t2/&gt;Finish&lt;t3/&gt;”&lt;t4/&gt;&lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -56827,6 +57165,14 @@ Meld 執行時遭遇嚴重錯誤：
     </tu>
     <tu>
       <tuv lang="ZH-TW">
+        <seg>描述</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Tom" changedate="20190722T081212Z" creationid="Tom" creationdate="20190722T081212Z">
+        <seg>描述</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-TW">
         <seg>提交中...</seg>
       </tuv>
       <tuv lang="EN">
@@ -57563,6 +57909,14 @@ Meld 執行時遭遇嚴重錯誤：
     </tu>
     <tu>
       <tuv lang="ZH-TW">
+        <seg>本&lt;t0/&gt;章&lt;t1/&gt;節介紹&lt;t2/&gt;DIKO&lt;t3/&gt;伺服器&lt;t4/&gt;的系統功能。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Tom" changedate="20190722T080434Z" creationid="Tom" creationdate="20190722T080434Z">
+        <seg>This&lt;t0/&gt; section&lt;t1/&gt; describes system function of the &lt;t2/&gt;DIKO&lt;t3/&gt; Server&lt;t4/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-TW">
         <seg>本巴語 = 61,</seg>
       </tuv>
       <tuv lang="EN">
@@ -57868,6 +58222,14 @@ Meld 執行時遭遇嚴重錯誤：
     </tu>
     <tu>
       <tuv lang="ZH-TW">
+        <seg>欄位名稱</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Tom" changedate="20190722T081142Z" creationid="Tom" creationdate="20190722T081142Z">
+        <seg>Field</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-TW">
         <seg>歐洲葡語 = 10,</seg>
       </tuv>
       <tuv lang="EN">
@@ -57928,6 +58290,14 @@ Meld 執行時遭遇嚴重錯誤：
       </tuv>
       <tuv lang="EN">
         <seg>Tchinese = 50,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-TW">
+        <seg>此&lt;t0/&gt;選項用於自定義電子郵件信息&lt;t1/&gt;。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Tom" changedate="20190722T080251Z" creationid="Tom" creationdate="20190722T080251Z">
+        <seg>This tab is to customize the email message.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58350,8 +58720,8 @@ Meld 執行時遭遇嚴重錯誤：
       <tuv lang="ZH-TW">
         <seg>版權所有&lt;t0/&gt;2019&lt;t1/&gt;。</seg>
       </tuv>
-      <tuv lang="EN" changeid="Tom" changedate="20190718T072956Z" creationid="Tom" creationdate="20190718T072956Z">
-        <seg>Copyright &lt;t0/&gt;2019&lt;t1/&gt;. All rights reserved.</seg>
+      <tuv lang="EN" changeid="Tom" changedate="20190722T055849Z" creationid="Tom" creationdate="20190718T072956Z">
+        <seg>Copyright &lt;t0/&gt;2019&lt;t1/&gt;..</seg>
       </tuv>
     </tu>
     <tu>
@@ -60169,6 +60539,14 @@ COMMAND := { secret | polkit | all }</seg>
     </tu>
     <tu>
       <tuv lang="ZH-TW">
+        <seg>輸入SMTP&lt;t0/&gt;伺服器資訊以透過&lt;t1/&gt;DIKO&lt;t2/&gt;來發送電子郵件&lt;t3/&gt;。</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Tom" changedate="20190722T080336Z" creationid="Tom" creationdate="20190722T080336Z">
+        <seg>Enter the SMTP&lt;t0/&gt; Server information to access send email function&lt;t3/&gt; in &lt;t1/&gt;DIKO&lt;t2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-TW">
         <seg>輸入SMTP伺服器資訊以透過&lt;t0/&gt;DIKO&lt;t1/&gt;來發送電子郵件。
 </seg>
       </tuv>
@@ -60310,6 +60688,14 @@ COMMAND := { secret | polkit | all }</seg>
       </tuv>
       <tuv lang="EN" changeid="Tom" changedate="20190718T032552Z" creationid="Tom" creationdate="20190718T032552Z">
         <seg>Choose&lt;t0/&gt; &lt;t1/&gt;“&lt;t2/&gt;I accept the terms in the license agreement&lt;t3/&gt;”&lt;t4/&gt; &lt;t5/&gt;then &lt;t6/&gt; &lt;t7/&gt;select&lt;t8/&gt; &lt;t9/&gt;“Next”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-TW">
+        <seg>選擇&lt;t0/&gt; &lt;t1/&gt;“Runtime”&lt;t2/&gt; &lt;t3/&gt;然後點擊&lt;t4/&gt; &lt;t5/&gt;“Next&lt;t6/&gt; &gt;&lt;t7/&gt;”</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Tom" changedate="20190722T034733Z" creationid="Tom" creationdate="20190722T034733Z">
+        <seg>Choose&lt;t0/&gt; &lt;t1/&gt;“Runtime”&lt;t2/&gt; &lt;t3/&gt;then click&lt;t4/&gt; &lt;t5/&gt;“Next”</seg>
       </tuv>
     </tu>
     <tu>
@@ -60975,6 +61361,14 @@ COMMAND := { secret | polkit | all }</seg>
       </tuv>
       <tuv lang="EN" changeid="Tom" changedate="20190718T032605Z" creationid="Tom" creationdate="20190718T032605Z">
         <seg>Click&lt;t0/&gt; &lt;t1/&gt;“&lt;t2/&gt;Install&lt;t3/&gt;”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-TW">
+        <seg>點擊&lt;t0/&gt; &lt;t1/&gt;“&lt;t2/&gt;Install&lt;t3/&gt;”&lt;t4/&gt; &lt;t5/&gt;開始安裝</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Tom" changedate="20190722T054448Z" creationid="Tom" creationdate="20190722T054448Z">
+        <seg>Click&lt;t0/&gt; &lt;t1/&gt;“&lt;t2/&gt;Install&lt;t3/&gt;”&lt;t4/&gt; &lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
